@@ -20,17 +20,10 @@ The number of domains in dnsmasq.conf increased from ~ 2,000 to 5,000, and the n
 
 ./etc
 ./etc/dnsmasq.conf # grouped domains and removed from the host list.
-
 ./etc/dnsmasq.whitelist # script remove this domains from the list. 
-
 ./etc/dnsmasq.blacklist #script put this domains into the list.
-
 ./etc/adblock_hosts # list of subdomains hosts.
-
-./etc/adblock_serial # control version of lists of domains and hosts, in unix time.''
-
+./etc/adblock_serial # control version of lists of domains and hosts, in unix time.
 ./bin
-
 ./bin/update_adware.sh #the script what do the job! You only need this, put in crontab and done.
-
 No install program. Only basic instructions in INSTALL file. 
