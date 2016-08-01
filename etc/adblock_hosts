@@ -4391,6 +4391,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-eu.clickdimensions.com
+0.0.0.0 analytics-prod-ingress.bricknet.com
 0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 analytics-v2.anvato.com
 0.0.0.0 analytics.163.com
@@ -8256,7 +8257,6 @@
 0.0.0.0 demande.science
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 demetria-tickle.us
-0.0.0.0 demisoft.altervista.org
 0.0.0.0 demo.idg.com.au
 0.0.0.0 demo.vertexinfo.in
 0.0.0.0 demoq.use-trade.com
@@ -13385,6 +13385,7 @@
 0.0.0.0 omtrdc.net
 0.0.0.0 on-js.herokuapp.com
 0.0.0.0 on-mobi.com
+0.0.0.0 onceux.unicornmedia.com
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
 0.0.0.0 onclickads2.net
@@ -15426,7 +15427,6 @@
 0.0.0.0 schumacher.adtech.fr
 0.0.0.0 scie.ovh
 0.0.0.0 science.mlive.com
-0.0.0.0 scimmiablu.altervista.org
 0.0.0.0 sclick.baidu.com
 0.0.0.0 scnt.rambler.ru
 0.0.0.0 scootloor.com
