@@ -1,1 +1,46 @@
+Connect into your router using a ssh session.(putty or ssh program)
+
+ssh root@192.168.1.1
+root@192.168.1.1's password: 
+
+BusyBox v1.23.2 (2015-07-25 15:09:46 CEST) built-in shell (ash)
+
+  _______                     ________        __
+ |       |.-----.-----.-----.|  |  |  |.----.|  |_
+ |   -   ||  _  |  -__|     ||  |  |  ||   _||   _|
+ |_______||   __|_____|__|__||________||__|  |____|
+          |__| W I R E L E S S   F R E E D O M
+ -----------------------------------------------------
+ CHAOS CALMER (15.05, r46767)
+ -----------------------------------------------------
+  * 1 1/2 oz Gin            Shake with a glassful
+  * 1/4 oz Triple Sec       of broken ice and pour
+  * 3/4 oz Lime Juice       unstrained into a goblet.
+  * 1 1/2 oz Orange Juice
+  * 1 tsp. Grenadine Syrup
+ -----------------------------------------------------
+root@OpenWrt:~# cd /tmp
+root@OpenWrt:/tmp# curl -k https://raw.githubusercontent.com/jmhenrique/adblock/master/install_adware.sh -o /tmp/install_adware.sh 
+curl -k https://raw.githubusercontent.com/jmhenrique/adblock/master/install_adware.sh -o /tmp/install_adware.sh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    15  100    15    0     0     13      0  0:00:01  0:00:01 --:--:--    17
+root@OpenWrt:/tmp# sh ./install.sh 
+.
+.
+.
+.
+done
+Remember to add a line in your crontab (/etc/crontabs/root) : 
+
+0 5     * * * /usr/bin/logger -t ROOT update-adware && /usr/bin/update_adware.sh
+
+root@OpenWrt:/tmp# Connection to 192.168.1.1 closed.
+
+
+Note: The install script NOT DOES a crontab entry. Do it yourself, or only in router reboot it runs.
+
+Method 1: using a vi.  
+Method 2: using a echo. 
+Method 3: using a crontab -e command. (Recommended)
 
