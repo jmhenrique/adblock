@@ -21,10 +21,9 @@ BusyBox v1.23.2 (2015-07-25 15:09:46 CEST) built-in shell (ash)
  -----------------------------------------------------
 root@OpenWrt:~# cd /tmp
 root@OpenWrt:/tmp# curl -k https://raw.githubusercontent.com/jmhenrique/adblock/master/install_adware.sh -o /tmp/install_adware.sh 
-curl -k https://raw.githubusercontent.com/jmhenrique/adblock/master/install_adware.sh -o /tmp/install_adware.sh
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-100    15  100    15    0     0     13      0  0:00:01  0:00:01 --:--:--    17
+100  1331  100  1331    0     0   1227      0  0:00:01  0:00:01 --:--:--  1728
 root@OpenWrt:/tmp# sh ./install.sh 
 .
 .
