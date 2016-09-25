@@ -283,6 +283,7 @@
 0.0.0.0 a.cbc.ca
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 a.centrum.cz
+0.0.0.0 a.clicksor.cn
 0.0.0.0 a.clickyab.com
 0.0.0.0 a.clookie.net
 0.0.0.0 a.collective-media.net
@@ -1961,6 +1962,7 @@
 0.0.0.0 ads.d-msquared.com
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.dai.org
+0.0.0.0 ads.dailyclicks.net
 0.0.0.0 ads.dailyjolt.com
 0.0.0.0 ads.dailystar.com.lb
 0.0.0.0 ads.databrainz.com
@@ -3416,16 +3418,25 @@
 0.0.0.0 adservicedomain.info
 0.0.0.0 adserving.ads.ec
 0.0.0.0 adserving.adswisher.com
+0.0.0.0 adserving.ariesads.com
 0.0.0.0 adserving.autotrader.com
 0.0.0.0 adserving.bizcrank.com
 0.0.0.0 adserving.claxon.com
+0.0.0.0 adserving.clicknety.com
+0.0.0.0 adserving.cpmgo.com
 0.0.0.0 adserving.cpminventory.com
 0.0.0.0 adserving.favorit-network.com
 0.0.0.0 adserving.flagcpc.com
 0.0.0.0 adserving.fyi-marketing.com
+0.0.0.0 adserving.greenadvertizing.com
+0.0.0.0 adserving.hugecpm.com
 0.0.0.0 adserving.liveuniversenetwork.com
+0.0.0.0 adserving.localpages.com
+0.0.0.0 adserving.mediatrafficreports.com
 0.0.0.0 adserving.muppetism.com
+0.0.0.0 adserving.trafficsupplier.net
 0.0.0.0 adserving.unibet.com
+0.0.0.0 adserving.uniquetrafficgroup.com
 0.0.0.0 adserving03.epi.es
 0.0.0.0 adservinginternational.com
 0.0.0.0 adservingnetwork.com
@@ -3816,6 +3827,7 @@
 0.0.0.0 advertisement.bg
 0.0.0.0 advertisementbanners.com
 0.0.0.0 advertiser.ads.ec
+0.0.0.0 advertiser.clicknety.com
 0.0.0.0 advertiser.cyberghostvpn.com
 0.0.0.0 advertiser.lifestyleadnetwork.com
 0.0.0.0 advertiser.microad.jp
@@ -4267,6 +4279,7 @@
 0.0.0.0 akaads-espn.starwave.com
 0.0.0.0 akamaitools.com.edgesuite.net
 0.0.0.0 akatracking.esearchvision.com
+0.0.0.0 akillimeyveler.reklamagaci.com
 0.0.0.0 akirkpatrick.com
 0.0.0.0 akmnetwork.com
 0.0.0.0 aksb-a.akamaihd.net
@@ -7610,6 +7623,7 @@
 0.0.0.0 cpv2tracking.com
 0.0.0.0 cpvads.com
 0.0.0.0 cpvadvertise.com
+0.0.0.0 cpx.acloudweb.com
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxcenter.com
 0.0.0.0 cpxinteractive.com
@@ -7631,6 +7645,7 @@
 0.0.0.0 createsend4.com
 0.0.0.0 createsend5.com
 0.0.0.0 creative-mobile.com
+0.0.0.0 creative.abestservers.com
 0.0.0.0 creative.ad120m.com
 0.0.0.0 creative.ad121m.com
 0.0.0.0 creative.ad122m.com
@@ -8351,6 +8366,7 @@
 0.0.0.0 display.provenpixel.com
 0.0.0.0 display.ugc.bazaarvoice.com
 0.0.0.0 displayads.liveuniversenetwork.com
+0.0.0.0 displayadserv.adsimilate.com
 0.0.0.0 displayadsmedia.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
