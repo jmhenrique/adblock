@@ -4657,7 +4657,6 @@
 0.0.0.0 api.optimizely.com
 0.0.0.0 api.optinmonster.com
 0.0.0.0 api.otherlevels.com
-0.0.0.0 api.parsely.com
 0.0.0.0 api.perun.s5labs.io
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.proofpositivemedia.com
@@ -7256,7 +7255,6 @@
 0.0.0.0 conduit-banners.com
 0.0.0.0 config.broadcastpc.tv
 0.0.0.0 config.mobile.wxbug.com
-0.0.0.0 config.parsely.com
 0.0.0.0 config1.veinteractive.com
 0.0.0.0 configusa.veinteractive.com
 0.0.0.0 confirm-referer.glrsales.com
@@ -14107,7 +14105,6 @@
 0.0.0.0 pixel.netster.com
 0.0.0.0 pixel.newscred.com
 0.0.0.0 pixel.newsdata.com.au
-0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.pcworld.com
 0.0.0.0 pixel.prfct.co
 0.0.0.0 pixel.prosieben.de
@@ -16418,7 +16415,6 @@
 0.0.0.0 static.nirror.com
 0.0.0.0 static.nrelate.com
 0.0.0.0 static.parkingpanel.com
-0.0.0.0 static.parsely.com
 0.0.0.0 static.pochta.ru
 0.0.0.0 static.proximic.com
 0.0.0.0 static.pxlad.io
