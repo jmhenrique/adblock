@@ -2921,6 +2921,7 @@
 0.0.0.0 ads.videohub.tv
 0.0.0.0 ads.videomega.tv
 0.0.0.0 ads.videoslots.com
+0.0.0.0 ads.videostrip.com-prizes-giveaway.online
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.vidsense.com
 0.0.0.0 ads.vimg.net
@@ -4665,6 +4666,7 @@
 0.0.0.0 api.sharedcount.com
 0.0.0.0 api.statdns.com
 0.0.0.0 api.taps.io
+0.0.0.0 api.testrequest.info
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.trak.io
 0.0.0.0 api.tweetmeme.com
@@ -4689,7 +4691,11 @@
 0.0.0.0 api.yp.com
 0.0.0.0 api.zanox.ws
 0.0.0.0 api15.cmdragracing.com
+0.0.0.0 api2.testrequest.info
 0.0.0.0 api28.webovernet.com
+0.0.0.0 api3.testrequest.info
+0.0.0.0 api4.testrequest.info
+0.0.0.0 api5.testrequest.info
 0.0.0.0 apiae.hopscore.com
 0.0.0.0 apibeta.zeti.com
 0.0.0.0 apicit.net
@@ -7596,6 +7602,7 @@
 0.0.0.0 cpatrackkee.com
 0.0.0.0 cpatrackr.com
 0.0.0.0 cpatraffictracker.com
+0.0.0.0 cpayard.com
 0.0.0.0 cpays.com
 0.0.0.0 cpcadnet.com
 0.0.0.0 cpd8.net
@@ -7849,7 +7856,6 @@
 0.0.0.0 d.rapsio.com
 0.0.0.0 d.recomendedsite.com
 0.0.0.0 d.rmgserving.com
-0.0.0.0 d.skimresources.com
 0.0.0.0 d.tds.adlabs.ru
 0.0.0.0 d.thanksearch.com
 0.0.0.0 d.thelocal.com
@@ -8730,6 +8736,7 @@
 0.0.0.0 ella-mcgrail.us
 0.0.0.0 ellie-mayle.us
 0.0.0.0 ellis-sandy.us
+0.0.0.0 elmissouri.fr
 0.0.0.0 elmo.crsspxl.com
 0.0.0.0 elocumjobs.com
 0.0.0.0 eloqua.com
@@ -9452,6 +9459,7 @@
 0.0.0.0 gateway-banner.eravage.com
 0.0.0.0 gateway.fortunelounge.com
 0.0.0.0 gateways.s3.amazonaws.com
+0.0.0.0 gatewaytracker.com
 0.0.0.0 gather.hankyung.com
 0.0.0.0 gator.com
 0.0.0.0 gayadnetwork.com
@@ -9672,6 +9680,7 @@
 0.0.0.0 go.theadsnet.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 go.trackgold.net
+0.0.0.0 go.tracking222.site
 0.0.0.0 go.voice2page.com
 0.0.0.0 go.vrvm.com
 0.0.0.0 go.wastedpushdevelop.info
@@ -10161,7 +10170,6 @@
 0.0.0.0 i.isohunt.to
 0.0.0.0 i.l.cnn.net
 0.0.0.0 i.linkurysearch.me
-0.0.0.0 i.mol.im
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.plug.it
 0.0.0.0 i.pxlad.io
@@ -11244,6 +11252,7 @@
 0.0.0.0 leadmobi.en.alibaba.com
 0.0.0.0 leads.383media.com
 0.0.0.0 leads.ohecampus.com
+0.0.0.0 leadtrackgo.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leagleconsulting.com
 0.0.0.0 leann-faulk.us
@@ -11391,6 +11400,7 @@
 0.0.0.0 link.sysmail.fr
 0.0.0.0 link.tbtrack.com
 0.0.0.0 link.tonoffre.fr
+0.0.0.0 link.trackscity.com
 0.0.0.0 link.transibase.fr
 0.0.0.0 link.transiblue.fr
 0.0.0.0 link.transibox.fr
@@ -14680,7 +14690,6 @@
 0.0.0.0 r.nexac.com
 0.0.0.0 r.offnews.bg
 0.0.0.0 r.radikal.ru
-0.0.0.0 r.skimresources.com
 0.0.0.0 r.trffrcmrd.com
 0.0.0.0 r.twimg.com
 0.0.0.0 r.uimserv.net
@@ -15305,7 +15314,6 @@
 0.0.0.0 s.sa.aol.com
 0.0.0.0 s.sharethis.com
 0.0.0.0 s.shopify.com
-0.0.0.0 s.skimresources.com
 0.0.0.0 s.speednetwork2.com
 0.0.0.0 s.ssacdn.com
 0.0.0.0 s.svtrd.com
@@ -16943,7 +16951,6 @@
 0.0.0.0 t.searchhelper.com
 0.0.0.0 t.sellpoints.com
 0.0.0.0 t.sf14g.com
-0.0.0.0 t.skimresources.com
 0.0.0.0 t.snowball.com
 0.0.0.0 t.teads.tv
 0.0.0.0 t.tellapart.com
@@ -18043,6 +18050,7 @@
 0.0.0.0 traktum.com
 0.0.0.0 trans20120430.getjar.com
 0.0.0.0 transact-can.cedexis.com
+0.0.0.0 transferhit.com
 0.0.0.0 transfermarkt01.wt-eu02.net
 0.0.0.0 transition.adtrgt.com
 0.0.0.0 travel.netster.com
@@ -18109,6 +18117,7 @@
 0.0.0.0 trk.enecto.com
 0.0.0.0 trk.m.libero.it
 0.0.0.0 trk.mailtoward.com
+0.0.0.0 trk.mobile-setting.com
 0.0.0.0 trk.pswec.com
 0.0.0.0 trk.rrcpm.com
 0.0.0.0 trk.sele.co
@@ -18624,6 +18633,7 @@
 0.0.0.0 vodafone.inq.com
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 voicenetplus.com
+0.0.0.0 voluum.redirecting.site
 0.0.0.0 vom.sitescout.com
 0.0.0.0 vomit.facilitandosonhos.com.br
 0.0.0.0 voodooparking.com
@@ -19020,7 +19030,6 @@
 0.0.0.0 widget.siteheart.com
 0.0.0.0 widget.stagram.com
 0.0.0.0 widget.supercounters.com
-0.0.0.0 widget.uservoice.com
 0.0.0.0 widget.weibo.com
 0.0.0.0 widget.yavli.com
 0.0.0.0 widgetadvertising.biz
@@ -19200,7 +19209,6 @@
 0.0.0.0 x.imwx.com
 0.0.0.0 x.myspace.com
 0.0.0.0 x.myspace.edgesuite.net
-0.0.0.0 x.skimresources.com
 0.0.0.0 x.vindicosuite.com
 0.0.0.0 x.weather.com
 0.0.0.0 x.zeroredirect2.com
