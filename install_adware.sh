@@ -10,8 +10,11 @@ a=$(grep -v 'exit ' /etc/rc.local)
 b=$(grep 'exit' /etc/rc.local) 
 echo "$a" >/etc/rc.local 
 echo "$b" >>/etc/rc.local 
+uci set dhcp.@dnsmasq[0].addnhosts='/tmp/adblock_hosts'
+uci  commit dhcp
 
 /etc/init.d/dnsmasq restart 
+
 echo done 
 echo "Remember to add a line in your crontab (/etc/crontabs/root) : 
 
