@@ -1,3 +1,4 @@
+0.0.0.0 #[server
 0.0.0.0 006.free-adult-counters.x-xtra.com
 0.0.0.0 0075-7112-e7eb-f9b9.reporo.net
 0.0.0.0 00fun.com
@@ -854,7 +855,6 @@
 0.0.0.0 ad-host.com
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 ad-indicator.com
-0.0.0.0 ad-js.chip.de
 0.0.0.0 ad-lister.co.uk
 0.0.0.0 ad-listings.com
 0.0.0.0 ad-lite.com
@@ -3786,7 +3786,6 @@
 0.0.0.0 ads.sol.no
 0.0.0.0 ads.somd.com
 0.0.0.0 ads.sonital.com
-0.0.0.0 ads.sonobi.com
 0.0.0.0 ads.sourceforge.net
 0.0.0.0 ads.southbendtribune.com
 0.0.0.0 ads.space.com
@@ -4307,7 +4306,6 @@
 0.0.0.0 ads3.blastro.com
 0.0.0.0 ads3.condenet.com
 0.0.0.0 ads3.hpg.com.br
-0.0.0.0 ads3.ipon.lt
 0.0.0.0 ads3.moitepari.bg
 0.0.0.0 ads3.searchmiracle.com
 0.0.0.0 ads3.speedbit.com
@@ -6423,6 +6421,7 @@
 0.0.0.0 atrack.art.com
 0.0.0.0 atrk.alexametrics.com
 0.0.0.0 atsfi.de
+0.0.0.0 attawala.com.sa
 0.0.0.0 atticwicket.com
 0.0.0.0 attirer.science
 0.0.0.0 attribution.webmarketing123.com
@@ -6634,7 +6633,6 @@
 0.0.0.0 bam-4.nr-data.net
 0.0.0.0 bam-5.nr-data.net
 0.0.0.0 bam.nr-data.net
-0.0.0.0 bambergerkennanchitinous.com.abbp2.pw
 0.0.0.0 ban.krooncasino.com
 0.0.0.0 ban.promotools.biz
 0.0.0.0 bandoc.d-group.co.il
@@ -8545,7 +8543,6 @@
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnstats-a.akamaihd.net
 0.0.0.0 cdnt.meteorsolutions.com
-0.0.0.0 cdntest.gand.de
 0.0.0.0 cdnus.alcoholsoftcdn.com
 0.0.0.0 cdnus.filefactscdn.com
 0.0.0.0 cdr0b.voluumtrk.com
@@ -8682,6 +8679,7 @@
 0.0.0.0 chuckledeliveryhosting.com
 0.0.0.0 chucklefunhead.com
 0.0.0.0 chuknu.sokrati.com
+0.0.0.0 chukskel.ddns.net
 0.0.0.0 ciclismovalenciano.com
 0.0.0.0 cifor.com
 0.0.0.0 ciktv.voluumtrk.com
@@ -10273,7 +10271,6 @@
 0.0.0.0 deepcom.com
 0.0.0.0 deepmetrix.com
 0.0.0.0 default-homepage-network.com
-0.0.0.0 defender-win-status-report.info
 0.0.0.0 definitelyfind.com
 0.0.0.0 dehaj.voluumtrk.com
 0.0.0.0 deirdre-dahl.us
@@ -10414,7 +10411,6 @@
 0.0.0.0 digdug.divxnetworks.com
 0.0.0.0 digi-net.com
 0.0.0.0 digiaquascr.com
-0.0.0.0 digitalriver.com
 0.0.0.0 digits.com
 0.0.0.0 dihgq.voluumtrk.com
 0.0.0.0 dihitt.com
@@ -10459,6 +10455,7 @@
 0.0.0.0 disney.2cnt.net
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 display-c5.bazaarvoice.com
+0.0.0.0 display.digitalriver.com
 0.0.0.0 display.online-adnetwork.com
 0.0.0.0 display.provenpixel.com
 0.0.0.0 display.ugc.bazaarvoice.com
@@ -10597,7 +10594,6 @@
 0.0.0.0 down1oads.com
 0.0.0.0 download-archiver.ru
 0.0.0.0 download.56.com
-0.0.0.0 download.cdn.downloadquick.net
 0.0.0.0 download.cdn.sharelive.net
 0.0.0.0 download.cdn.torchbrowser.com
 0.0.0.0 download.downloadquick.net
@@ -11279,6 +11275,7 @@
 0.0.0.0 ezcybersearch.com
 0.0.0.0 ezdirectory.com
 0.0.0.0 ezec.co.uk
+0.0.0.0 ezpa.ga
 0.0.0.0 ezrsd.voluumtrk.com
 0.0.0.0 eztexting.com
 0.0.0.0 ezthemes.com
@@ -11439,9 +11436,7 @@
 0.0.0.0 files.dsnetwb.com
 0.0.0.0 files.goodadvert.ru
 0.0.0.0 files.native.ad
-0.0.0.0 files4.downloadnet1188.com
 0.0.0.0 files4.securedownload01.com
-0.0.0.0 files5.downloadnet1188.com
 0.0.0.0 files5.securedownload01.com
 0.0.0.0 filestorage52.xyz
 0.0.0.0 filetarget.net
@@ -11565,6 +11560,7 @@
 0.0.0.0 focusin.com
 0.0.0.0 focusworks.com
 0.0.0.0 foi8q.voluumtrk.com
+0.0.0.0 fojasoftwareaudio.ignorelist.com
 0.0.0.0 folkd.put.omnimon.de
 0.0.0.0 folloyu.com
 0.0.0.0 fondazioneciampi.org
@@ -11724,7 +11720,6 @@
 0.0.0.0 fun-hits.de
 0.0.0.0 fun-town.com
 0.0.0.0 fun.searchwho.com
-0.0.0.0 funbuddyicons.com
 0.0.0.0 funchill.com
 0.0.0.0 fundownloads102.com
 0.0.0.0 fungamesmobile.com
@@ -11734,7 +11729,6 @@
 0.0.0.0 funnygreetings.com
 0.0.0.0 funstun.com
 0.0.0.0 funtopliste.de
-0.0.0.0 funwebproducts.com
 0.0.0.0 fus.walla.co.il
 0.0.0.0 fusdc.voluumtrk.com
 0.0.0.0 fusespot.com
@@ -12073,7 +12067,6 @@
 0.0.0.0 go.realvu.net
 0.0.0.0 go.searchlock.com
 0.0.0.0 go.securelinktrack.com
-0.0.0.0 go.sonobi.com
 0.0.0.0 go.tendatta.com
 0.0.0.0 go.theadsnet.com
 0.0.0.0 go.toutapp.com
@@ -12483,6 +12476,7 @@
 0.0.0.0 hkik.ru
 0.0.0.0 hlamedia.adk2x.com
 0.0.0.0 hlok.qertewrt.com
+0.0.0.0 hlookehab.top
 0.0.0.0 hlrke.voluumtrk.com
 0.0.0.0 hlserve.com
 0.0.0.0 hlt6o.voluumtrk.com
@@ -14417,6 +14411,7 @@
 0.0.0.0 logw349.ati-host.net
 0.0.0.0 logyd.voluumtrk.com
 0.0.0.0 lokhlp.com
+0.0.0.0 lokpanels.info
 0.0.0.0 lolfun.com
 0.0.0.0 londonprivaterentals.standard.co.uk
 0.0.0.0 lonelycheatingwives.com
@@ -14643,6 +14638,7 @@
 0.0.0.0 madsuk.aol.com
 0.0.0.0 maeas.voluumtrk.com
 0.0.0.0 maedge.com
+0.0.0.0 mafian222.myftp.org
 0.0.0.0 magames4.com
 0.0.0.0 magdalena-pollak.us
 0.0.0.0 magentanews.com
@@ -16141,8 +16137,6 @@
 0.0.0.0 oas.deejay.it
 0.0.0.0 oas.five.tv
 0.0.0.0 oas.foxnews.com
-0.0.0.0 oas.guardian.co.uk
-0.0.0.0 oas.guardiannews.com
 0.0.0.0 oas.ilsecoloxix.it
 0.0.0.0 oas.maktoobblog.com
 0.0.0.0 oas.monster.com
@@ -16156,7 +16150,6 @@
 0.0.0.0 oas.roanoke.com
 0.0.0.0 oas.salon.com
 0.0.0.0 oas.stv.tv
-0.0.0.0 oas.theguardian.com
 0.0.0.0 oas.tidningsnatet.se
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.trustnet.com
@@ -16303,7 +16296,6 @@
 0.0.0.0 oascentral.trentonian.com
 0.0.0.0 oascentral.tvnewscheck.com
 0.0.0.0 oascentral.upi.com
-0.0.0.0 oascentral.urbanspoon.com
 0.0.0.0 oascentral.villagevoice.com
 0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.walmartwom.com
@@ -18131,6 +18123,7 @@
 0.0.0.0 realtimeads.com
 0.0.0.0 realtouchbannerwidget.aebn.net
 0.0.0.0 realtracker.com
+0.0.0.0 realwire123.ddns.net
 0.0.0.0 rebecca-smythe.us
 0.0.0.0 rebeccacella.com
 0.0.0.0 reboot.sitescout.com
@@ -20852,7 +20845,6 @@
 0.0.0.0 thebighits.com
 0.0.0.0 thebugs.ws
 0.0.0.0 thecounter.com
-0.0.0.0 thedownloadpremiumfree36.com
 0.0.0.0 thefreepremiummy15.com
 0.0.0.0 thefxarchive.com
 0.0.0.0 thehitsusa.com
@@ -21184,6 +21176,7 @@
 0.0.0.0 track.cracked.com
 0.0.0.0 track.customer.io
 0.0.0.0 track.dalenetwork.com
+0.0.0.0 track.digitalriver.com
 0.0.0.0 track.divx.com
 0.0.0.0 track.dmipartners.com
 0.0.0.0 track.double.net
@@ -22184,6 +22177,7 @@
 0.0.0.0 v.zeroredirect2.com
 0.0.0.0 v1.iad1.bitgravity.com
 0.0.0.0 v10.xmlsearch.miva.com
+0.0.0.0 v2.ads3.ipon.lt
 0.0.0.0 v2.ipopup.ir
 0.0.0.0 v2.popupsky.ir
 0.0.0.0 v2.urlads.net
@@ -22293,7 +22287,6 @@
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-ads.s3.amazonaws.com
-0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 victor.connectcloud.ch
 0.0.0.0 vidego.multicastmedia.com
 0.0.0.0 video-loader.com
