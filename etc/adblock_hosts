@@ -659,7 +659,6 @@
 0.0.0.0 a19.g.akamai.net
 0.0.0.0 a1fax.com
 0.0.0.0 a1shd.realshieldlinked.com
-0.0.0.0 a2.adform.net
 0.0.0.0 a2.cdnpark.com
 0.0.0.0 a2.fetchback.com
 0.0.0.0 a2.suntimes.com
@@ -1297,6 +1296,7 @@
 0.0.0.0 ad.www.net.cn
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.xe.gr
+0.0.0.0 ad.xrea.com
 0.0.0.0 ad.yahoo.com
 0.0.0.0 ad.yam.com.tw
 0.0.0.0 ad.yashi.com
@@ -5345,7 +5345,6 @@
 0.0.0.0 adworks.rediff.com
 0.0.0.0 adworld.com.tr
 0.0.0.0 adworldmedia.com
-0.0.0.0 adx.adform.net
 0.0.0.0 adx.adosx.com
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.arip.co.th
@@ -7991,7 +7990,6 @@
 0.0.0.0 c03.adsummos.net
 0.0.0.0 c04.adsummos.net
 0.0.0.0 c0u8w.voluumtrk.com
-0.0.0.0 c1.adform.net
 0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1.onedmp.com
@@ -9799,6 +9797,7 @@
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.sddan.com
 0.0.0.0 ct.thegear-box.com
+0.0.0.0 ct1.xrea.com
 0.0.0.0 ctix8.cheaptickets.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctologger01.analytics.go.com
@@ -10530,7 +10529,6 @@
 0.0.0.0 dmeserv.newsinc.com
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dmle1chique.space
-0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.gravity4.com
 0.0.0.0 dmp.springserve.com
 0.0.0.0 dmp.theadex.com
@@ -18693,7 +18691,6 @@
 0.0.0.0 s02.optimix.asia
 0.0.0.0 s0kdl.castup.net
 0.0.0.0 s0s5e.voluumtrk.com
-0.0.0.0 s1.adform.net
 0.0.0.0 s1.freehostedscripts.net
 0.0.0.0 s1.inviziads.com
 0.0.0.0 s1.ipicture.ru
@@ -19160,8 +19157,6 @@
 0.0.0.0 servedby.reviveservers.com
 0.0.0.0 servedby.studads.com
 0.0.0.0 servedbyadbutler.com
-0.0.0.0 server.adform.net
-0.0.0.0 server.adformdsp.net
 0.0.0.0 server.freegamesall.com
 0.0.0.0 server.siteamplifier.net
 0.0.0.0 server01.2cnt.net
@@ -21179,7 +21174,6 @@
 0.0.0.0 track.ad4mmo.com
 0.0.0.0 track.adcocktail.com
 0.0.0.0 track.addedmonetize.info
-0.0.0.0 track.adform.net
 0.0.0.0 track.adintend.com
 0.0.0.0 track.adnetwork.vn
 0.0.0.0 track.adrpanel.es
@@ -22501,6 +22495,7 @@
 0.0.0.0 w.visualdna.com
 0.0.0.0 w.zeroredirect2.com
 0.0.0.0 w00tpublishers.wootmedia.net
+0.0.0.0 w1.ax.xrea.com
 0.0.0.0 w1.mozzi.com
 0.0.0.0 w10.localadbuy.com
 0.0.0.0 w20.iit.guru
