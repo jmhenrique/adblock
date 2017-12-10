@@ -5979,7 +5979,6 @@
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.citygridmedia.com
 0.0.0.0 api.conduit.com
-0.0.0.0 api.connatix.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.contentclick.co.uk
 0.0.0.0 api.contextly.com
@@ -7842,7 +7841,6 @@
 0.0.0.0 c.thestat.net
 0.0.0.0 c.tracking.gamigoads.com
 0.0.0.0 c.trffrcmrd.com
-0.0.0.0 c.us1.dyntrk.com
 0.0.0.0 c.velaro.com
 0.0.0.0 c.vindicosuite.com
 0.0.0.0 c.vrvm.com
@@ -8190,7 +8188,6 @@
 0.0.0.0 cdn.cms.neatcontent.com
 0.0.0.0 cdn.comparemetrics.com
 0.0.0.0 cdn.complexmedianetwork.com
-0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.contentadserver.com
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cpiera.com
@@ -8317,7 +8314,6 @@
 0.0.0.0 cdn.vipboxoc.co
 0.0.0.0 cdn.vipleague.se
 0.0.0.0 cdn.viralmint.com
-0.0.0.0 cdn.visiblemeasures.com
 0.0.0.0 cdn.voscast.com
 0.0.0.0 cdn.widgets.webengage.com
 0.0.0.0 cdn.wigetmedia.com
@@ -20284,13 +20280,11 @@
 0.0.0.0 taggstar.com
 0.0.0.0 tagjunction.com
 0.0.0.0 tagline.bidsystem.com
-0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.1001spiele.de
 0.0.0.0 tags.adonly.com
 0.0.0.0 tags.bannercde.com
 0.0.0.0 tags.compuhot.com
-0.0.0.0 tags.deployads.com
 0.0.0.0 tags.extole.com
 0.0.0.0 tags.grajteraz.pl
 0.0.0.0 tags.h12-media.com
@@ -21953,7 +21947,6 @@
 0.0.0.0 video-pomp.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.digidip.net
-0.0.0.0 video.od.visiblemeasures.com
 0.0.0.0 video.oms.eu
 0.0.0.0 video.on.nytimes.com
 0.0.0.0 video.sina.com.cn
