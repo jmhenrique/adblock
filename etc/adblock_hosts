@@ -1115,6 +1115,7 @@
 0.0.0.0 ad.mangareader.net
 0.0.0.0 ad.marsmediachannels.com
 0.0.0.0 ad.mbn.bb.ru
+0.0.0.0 ad.mediaadserver.com
 0.0.0.0 ad.mediaprecision.net
 0.0.0.0 ad.mediaprostor.cz
 0.0.0.0 ad.mediastorm.hu
@@ -3881,7 +3882,6 @@
 0.0.0.0 ads.vegas.com
 0.0.0.0 ads.veloxia.com
 0.0.0.0 ads.verticalscope.com
-0.0.0.0 ads.videoadex.com
 0.0.0.0 ads.videoaxs.com
 0.0.0.0 ads.videobash.com
 0.0.0.0 ads.videofen.com
@@ -8262,7 +8262,6 @@
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 cdn.orbengine.com
-0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.polmontventures.com
 0.0.0.0 cdn.popwin.net
@@ -10560,6 +10559,7 @@
 0.0.0.0 dynamic.aol.com
 0.0.0.0 dynamic.cannedbanners.com
 0.0.0.0 dynamic.exaccess.ru
+0.0.0.0 dynamic.mediaadserver.com
 0.0.0.0 dynamic.woolik.com
 0.0.0.0 dynamic1.anandtech.com
 0.0.0.0 dynamic1.dailytech.com
@@ -19454,6 +19454,7 @@
 0.0.0.0 ssltracking.esearchvision.com
 0.0.0.0 sso.conduit.com
 0.0.0.0 ssp.anyclip-media.com
+0.0.0.0 ssp.sellads.me
 0.0.0.0 ssp.videostat.com
 0.0.0.0 ssp.virool.com
 0.0.0.0 sstats.adobe.com
@@ -19635,6 +19636,7 @@
 0.0.0.0 static.goaheadtours.netdna-cdn.com
 0.0.0.0 static.groupon.co.uk
 0.0.0.0 static.hatid.com
+0.0.0.0 static.htmlhubing.xyz
 0.0.0.0 static.httpool.com.mk
 0.0.0.0 static.hubspot.com
 0.0.0.0 static.hupso.com
