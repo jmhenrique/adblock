@@ -8385,6 +8385,7 @@
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 content.complex.com
 0.0.0.0 content.exoticads.com
+0.0.0.0 content.jwplatform.com
 0.0.0.0 content.linkoffers.net
 0.0.0.0 content.livesportmedia.eu
 0.0.0.0 content.liveuniverse.com
@@ -18320,6 +18321,7 @@
 0.0.0.0 ssl.cf2.rackcdn.com
 0.0.0.0 ssl.cf3.rackcdn.com
 0.0.0.0 ssl.linksynergy.com
+0.0.0.0 ssl.p.jwpcdn.com
 0.0.0.0 ssl.safepoollink.com
 0.0.0.0 ssl.siteimprove.com
 0.0.0.0 ssl.webserviceaward.com
