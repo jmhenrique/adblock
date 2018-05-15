@@ -2127,7 +2127,6 @@
 0.0.0.0 addelivery.thestreet.com
 0.0.0.0 addeppo.com
 0.0.0.0 addfreestats.com
-0.0.0.0 addiliate.com
 0.0.0.0 addinto.com
 0.0.0.0 addirector.vindicosuite.com
 0.0.0.0 addjump.com
@@ -3135,6 +3134,7 @@
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobiteasy.com
 0.0.0.0 ads.mobvertising.net
+0.0.0.0 ads.mocean.mobi
 0.0.0.0 ads.mofos.com
 0.0.0.0 ads.mondogames.com
 0.0.0.0 ads.monetize-me.com
@@ -3649,6 +3649,7 @@
 0.0.0.0 ads1.hpg.com.br
 0.0.0.0 ads1.legalworld.bg
 0.0.0.0 ads1.mediacapital.pt
+0.0.0.0 ads1.mocean.mobi
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.nexdra.com
@@ -3790,6 +3791,7 @@
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.mediaarmor.com
 0.0.0.0 ads2.medianord.de
+0.0.0.0 ads2.mocean.mobi
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.mynet.com
@@ -3878,6 +3880,7 @@
 0.0.0.0 ads3.blastro.com
 0.0.0.0 ads3.condenet.com
 0.0.0.0 ads3.hpg.com.br
+0.0.0.0 ads3.mocean.mobi
 0.0.0.0 ads3.moitepari.bg
 0.0.0.0 ads3.searchmiracle.com
 0.0.0.0 ads3.speedbit.com
@@ -3895,6 +3898,7 @@
 0.0.0.0 ads4.clearchannel.com
 0.0.0.0 ads4.condenet.com
 0.0.0.0 ads4.hpg.com.br
+0.0.0.0 ads4.mocean.mobi
 0.0.0.0 ads4.speedbit.com
 0.0.0.0 ads40.hpg.com.br
 0.0.0.0 ads41.hpg.com.br
@@ -3913,6 +3917,7 @@
 0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.fxdepo.com
 0.0.0.0 ads5.hpg.com.br
+0.0.0.0 ads5.mocean.mobi
 0.0.0.0 ads5.speedbit.com
 0.0.0.0 ads50.hpg.com.br
 0.0.0.0 ads51.hpg.com.br
@@ -3925,6 +3930,7 @@
 0.0.0.0 ads58.hpg.com.br
 0.0.0.0 ads59.hpg.com.br
 0.0.0.0 ads6.hpg.com.br
+0.0.0.0 ads6.mocean.mobi
 0.0.0.0 ads6.speedbit.com
 0.0.0.0 ads60.hpg.com.br
 0.0.0.0 ads61.hpg.com.br
@@ -3939,6 +3945,7 @@
 0.0.0.0 ads69.hpg.com.br
 0.0.0.0 ads7.hpg.com.br
 0.0.0.0 ads7.inet1.com
+0.0.0.0 ads7.mocean.mobi
 0.0.0.0 ads7.speedbit.com
 0.0.0.0 ads70.hpg.com.br
 0.0.0.0 ads71.hpg.com.br
@@ -3952,6 +3959,7 @@
 0.0.0.0 ads79.hpg.com.br
 0.0.0.0 ads8.com
 0.0.0.0 ads8.hpg.com.br
+0.0.0.0 ads8.mocean.mobi
 0.0.0.0 ads8.speedbit.com
 0.0.0.0 ads80.com
 0.0.0.0 ads80.hpg.com.br
@@ -3965,6 +3973,7 @@
 0.0.0.0 ads88.hpg.com.br
 0.0.0.0 ads89.hpg.com.br
 0.0.0.0 ads9.hpg.com.br
+0.0.0.0 ads9.mocean.mobi
 0.0.0.0 ads9.speedbit.com
 0.0.0.0 ads90.hpg.com.br
 0.0.0.0 ads91.hpg.com.br
@@ -4486,6 +4495,7 @@
 0.0.0.0 adv.blogupp.com
 0.0.0.0 adv.bol.bg
 0.0.0.0 adv.calciomercato.com
+0.0.0.0 adv.casinopays.com
 0.0.0.0 adv.co.il
 0.0.0.0 adv.consadbg.com
 0.0.0.0 adv.deltanews.bg
@@ -5708,7 +5718,6 @@
 0.0.0.0 austria1.adverserve.net
 0.0.0.0 auth20120430.getjar.com
 0.0.0.0 auto-ping.com
-0.0.0.0 autoappassionati.it
 0.0.0.0 autohits.dk
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 automaticsystem.com
@@ -7538,10 +7547,12 @@
 0.0.0.0 cdn3-ref.landing.comcontent.net
 0.0.0.0 cdn3.kovla.com
 0.0.0.0 cdn3.mobile.contentdef.com
+0.0.0.0 cdn3.userzoom.com
 0.0.0.0 cdn4-ref.landing.comcontent.net
 0.0.0.0 cdn4.bad-credit-cdn.com
 0.0.0.0 cdn4.deals-discounts-codes.com
 0.0.0.0 cdn4.psdvault.com
+0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5-ref.landing.comcontent.net
 0.0.0.0 cdn5.bad-credit-cdn.com
 0.0.0.0 cdn5.deals-discounts-codes.com
@@ -8298,7 +8309,6 @@
 0.0.0.0 coretalk.co
 0.0.0.0 coriolis.accuweather.com
 0.0.0.0 cornhuskerypyvjzplr.download
-0.0.0.0 corolate.win
 0.0.0.0 correctiongnarfj.download
 0.0.0.0 corroshield.estb.com.sg
 0.0.0.0 cortesidesign.com
@@ -11099,7 +11109,6 @@
 0.0.0.0 highcpms.com
 0.0.0.0 higher.dwebsi.tk
 0.0.0.0 higheurest.com
-0.0.0.0 highflyingfood.com
 0.0.0.0 highpro1.com
 0.0.0.0 highspeedtesting.com
 0.0.0.0 hightrafficads.com
@@ -11601,7 +11610,6 @@
 0.0.0.0 imagecache2.allposters.com
 0.0.0.0 imageers.com
 0.0.0.0 imagenes.de
-0.0.0.0 imagerieduroc.com
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 images-aud.sourceforge.net
@@ -11906,7 +11914,6 @@
 0.0.0.0 internetcount.com
 0.0.0.0 internetmedia.com.au
 0.0.0.0 internetsecurity.com
-0.0.0.0 internetsshopweb.info
 0.0.0.0 internettrafficreport.com
 0.0.0.0 internetworks.org
 0.0.0.0 interreklame.de
@@ -12058,7 +12065,6 @@
 0.0.0.0 j5g2b.voluumtrk.com
 0.0.0.0 j5sjr.voluumtrk.com
 0.0.0.0 j8r2b.voluumtrk.com
-0.0.0.0 j94kp2o.com
 0.0.0.0 ja.revolvermaps.com
 0.0.0.0 jaapt.voluumtrk.com
 0.0.0.0 jackpotgambling.net
@@ -13913,7 +13919,6 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 myap.liveperson.com
 0.0.0.0 myapp.com
-0.0.0.0 myapplicatioandwebssubonline.info
 0.0.0.0 mycams.com
 0.0.0.0 mychannelvip2.netscape.com
 0.0.0.0 mycleanerpc.com
@@ -13943,7 +13948,6 @@
 0.0.0.0 myiframe.com
 0.0.0.0 myimagetracking.com
 0.0.0.0 mylabsrl.com
-0.0.0.0 mylikemine.info
 0.0.0.0 mylondon.hc0.me
 0.0.0.0 mylottoadserv.com
 0.0.0.0 mymobcn.com
@@ -16056,7 +16060,6 @@
 0.0.0.0 r.af-share.jp
 0.0.0.0 r.aol.com
 0.0.0.0 r.apina.biz
-0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.best-rated-apps.com
 0.0.0.0 r.bid4keywords.com
 0.0.0.0 r.chip.de
@@ -16331,7 +16334,6 @@
 0.0.0.0 registryfix.com
 0.0.0.0 registrysweeper.com
 0.0.0.0 rehungekmar.download
-0.0.0.0 reifen-simon.com
 0.0.0.0 reishus.de
 0.0.0.0 rejectclick.com
 0.0.0.0 rek.mobi
@@ -16728,6 +16730,7 @@
 0.0.0.0 s.tctm.co
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 s.tyxo.com
+0.0.0.0 s.userzoom.com
 0.0.0.0 s.vgsgaming-ads.com
 0.0.0.0 s.wnd.com
 0.0.0.0 s.xpanama.net
@@ -17502,7 +17505,6 @@
 0.0.0.0 smartdevicemedia.com
 0.0.0.0 smartdirect.com
 0.0.0.0 smarticon.geotrust.com
-0.0.0.0 smartify.org
 0.0.0.0 smartlog.ru
 0.0.0.0 smartoffer.site
 0.0.0.0 smartredirect.de
@@ -18309,6 +18311,7 @@
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.atomex.net
 0.0.0.0 sync.monarchads.com
+0.0.0.0 sync.mookie1.cn
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 sync.richmetrics.com
 0.0.0.0 syndicate.payloadz.com
@@ -19466,6 +19469,7 @@
 0.0.0.0 tray-e-ex.tekblue.net
 0.0.0.0 tray-w-ex.tekblue.net
 0.0.0.0 trc.smtrcplatform.it
+0.0.0.0 trck.addiliate.com
 0.0.0.0 trck.destidyll.com
 0.0.0.0 trck.illimeet.com
 0.0.0.0 trck.meexy.com
@@ -20725,6 +20729,7 @@
 0.0.0.0 wutlar.fortumo.com
 0.0.0.0 wuvac.agwebdigital.com
 0.0.0.0 wv-law.com
+0.0.0.0 ww1.contaprime.com
 0.0.0.0 ww1.searchhelper.com
 0.0.0.0 ww1.tongji123.com
 0.0.0.0 ww2.instafinder.com
@@ -20828,7 +20833,6 @@
 0.0.0.0 xenec.stol.it
 0.0.0.0 xeontopa.com
 0.0.0.0 xg4ken.com
-0.0.0.0 xhbzz.8vfufnqsd0z1ak1.forax.xyz
 0.0.0.0 xhr.avalhukof.com
 0.0.0.0 xhr.bahaimlo.com
 0.0.0.0 xhr.botiviga.com
