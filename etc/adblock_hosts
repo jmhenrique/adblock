@@ -588,7 +588,6 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.vartoken.com
 0.0.0.0 a.visadd.com
-0.0.0.0 a.volvelle.tech
 0.0.0.0 a.vonage.com
 0.0.0.0 a.walla.co.il
 0.0.0.0 a.wikia-beacon.com
@@ -974,7 +973,6 @@
 0.0.0.0 ad.internetradioinc.com
 0.0.0.0 ad.intsig.net
 0.0.0.0 ad.investor.bg
-0.0.0.0 ad.ipredictive.com
 0.0.0.0 ad.ir.ru
 0.0.0.0 ad.it.chilinext.com
 0.0.0.0 ad.ittoolbox.com
@@ -6743,6 +6741,7 @@
 0.0.0.0 capture.trackjs.com
 0.0.0.0 carambo.la
 0.0.0.0 carbonads.com
+0.0.0.0 carbontraffic.com
 0.0.0.0 carhopyewiqzlmz.download
 0.0.0.0 carleton.com
 0.0.0.0 carmunity.de
@@ -7751,7 +7750,6 @@
 0.0.0.0 content.tucows.com
 0.0.0.0 content.womensforum.com
 0.0.0.0 content.yieldmanager.edgesuite.net
-0.0.0.0 content.zemanta.com
 0.0.0.0 contentcache-a.akamaihd.net
 0.0.0.0 contentclick.akamaized.net
 0.0.0.0 contentlockingnetworks.com
@@ -8261,7 +8259,6 @@
 0.0.0.0 d.adx.io
 0.0.0.0 d.adxcore.com
 0.0.0.0 d.afftrx.com
-0.0.0.0 d.agkn.com
 0.0.0.0 d.annarbor.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d.audienceiq.com
@@ -8863,6 +8860,7 @@
 0.0.0.0 doktester.orgfree.com
 0.0.0.0 dolanadserver.com
 0.0.0.0 doldrumspijyzkdx.download
+0.0.0.0 dollarcreative.com
 0.0.0.0 dolphinsfootball.com
 0.0.0.0 domainoptions.engine.adglare.net
 0.0.0.0 domainpark.sitelutions.com
@@ -9439,7 +9437,6 @@
 0.0.0.0 eventi.co.il
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlogger.soundcloud.com
-0.0.0.0 events-us-east-1.ipredictive.com
 0.0.0.0 events.boomtrain.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kalooga.com
@@ -9547,6 +9544,7 @@
 0.0.0.0 eyeblaster.com
 0.0.0.0 eyeglassesmlldb.download
 0.0.0.0 eyescream-com-tw.b.appier.net
+0.0.0.0 ezanmedia.com
 0.0.0.0 ezbng.voluumtrk.com
 0.0.0.0 ezcybersearch.com
 0.0.0.0 ezdirectory.com
@@ -10421,7 +10419,6 @@
 0.0.0.0 greatcarrates.com
 0.0.0.0 greatcpm.com
 0.0.0.0 gredinatib.org
-0.0.0.0 green.erne.co
 0.0.0.0 green.virtual-nights.com
 0.0.0.0 greensmoke.com
 0.0.0.0 greenthinkday.com
@@ -11680,7 +11677,6 @@
 0.0.0.0 jrtux.com
 0.0.0.0 js-at.goldbach.com
 0.0.0.0 js-webt-lol.9cache.com
-0.0.0.0 js.ad-score.com
 0.0.0.0 js.ad.dotandad.com
 0.0.0.0 js.ad.mediamond.it
 0.0.0.0 js.adpremium.org
@@ -13727,7 +13723,6 @@
 0.0.0.0 nkyrh.voluumtrk.com
 0.0.0.0 nl-moneyou.netmining.com
 0.0.0.0 nl-saab.netmining.com
-0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 nl.count.worldstats.com
 0.0.0.0 nl.nedstatpro.com
 0.0.0.0 nlbanner.nl
@@ -14887,7 +14882,6 @@
 0.0.0.0 pixazza.com
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel-a.sitescout.com
-0.0.0.0 pixel-user-1039.everesttech.net
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.alephd.com
@@ -14899,7 +14893,6 @@
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.crosspixel.net
 0.0.0.0 pixel.despegar.com
-0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.eversttech.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.fanbridge.com
@@ -14931,13 +14924,6 @@
 0.0.0.0 pixel.wp.tv
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
-0.0.0.0 pixel1041.everesttech.net
-0.0.0.0 pixel1097.everesttech.net
-0.0.0.0 pixel1324.everesttech.net
-0.0.0.0 pixel1350.everesttech.net
-0.0.0.0 pixel1370.everesttech.net
-0.0.0.0 pixel1553.everesttech.net
-0.0.0.0 pixel1739.everesttech.net
 0.0.0.0 pixelbox.uimserv.net
 0.0.0.0 pixelcounter.elmundo.es
 0.0.0.0 pixelcounter.expansion.com
@@ -16078,7 +16064,6 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb-ads.avazu.net
 0.0.0.0 rtb-pclick.secure.yahoo.com
-0.0.0.0 rtb-pixel-ams1.everesttech.net
 0.0.0.0 rtb.metrigo.com
 0.0.0.0 rtb.watchmedia.biz
 0.0.0.0 rtb3.doubleverify.com
@@ -17768,7 +17753,6 @@
 0.0.0.0 synad.nuffnang.com.my
 0.0.0.0 synad2.nuffnang.com.my
 0.0.0.0 synad2.nuffnang.com.ph
-0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.atomex.net
 0.0.0.0 sync.monarchads.com
@@ -18707,7 +18691,6 @@
 0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.inuvo.com
 0.0.0.0 tracking.jotform.com
-0.0.0.0 tracking.justpremium.com
 0.0.0.0 tracking.klickthru.com
 0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.ladies.de
@@ -19299,7 +19282,6 @@
 0.0.0.0 us-tracker.inside-graph.com
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 us.a2.yimg.com
-0.0.0.0 us.ads.justpremium.com
 0.0.0.0 us.cam4ads.com
 0.0.0.0 us.i1.yimg.com
 0.0.0.0 us.js.yimg.com
