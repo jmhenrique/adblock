@@ -24,7 +24,7 @@ root@OpenWrt:/tmp# curl -k https://raw.githubusercontent.com/jmhenrique/adblock/
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  1331  100  1331    0     0   1227      0  0:00:01  0:00:01 --:--:--  1728
-root@OpenWrt:/tmp# sh ./install.sh 
+root@OpenWrt:/tmp# sh ./install_adware.sh 
 .
 .
 .
