@@ -7643,6 +7643,7 @@
 0.0.0.0 geoip.taskforce.is
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geoloc.appscion.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geolocation.t-online.de
 0.0.0.0 geoplugin.net
@@ -11194,7 +11195,6 @@
 0.0.0.0 outsolesevkcifol.download
 0.0.0.0 outspeaksisfjto.download
 0.0.0.0 outtalkedxtypmjjbh.download
-0.0.0.0 outwar.com
 0.0.0.0 ov.yahoo.co.jp
 0.0.0.0 over50datingservices.com
 0.0.0.0 overawingksapsofy.download
@@ -15710,6 +15710,10 @@
 0.0.0.0 vice-ads.s3.amazonaws.com
 0.0.0.0 viciosityptktpdyq.download
 0.0.0.0 victor.connectcloud.ch
+0.0.0.0 vid-io-dub.springserve.com
+0.0.0.0 vid-io.springserve.net
+0.0.0.0 vid.springserve.com
+0.0.0.0 videe.tv
 0.0.0.0 vidego.multicastmedia.com
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-loader.com
