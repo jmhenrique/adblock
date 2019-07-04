@@ -3189,7 +3189,6 @@
 0.0.0.0 apiae.hopscore.com
 0.0.0.0 apibeta.zeti.com
 0.0.0.0 apicit.net
-0.0.0.0 apiservices.krxd.net
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 apkquery.ksmobile.net
 0.0.0.0 apmebf.com
@@ -3919,7 +3918,6 @@
 0.0.0.0 beacon.jump-time.net
 0.0.0.0 beacon.jumptime.com
 0.0.0.0 beacon.kmi-us.com
-0.0.0.0 beacon.krxd.net
 0.0.0.0 beacon.livefyre.com
 0.0.0.0 beacon.lycos.com
 0.0.0.0 beacon.mtgx.tv
@@ -4573,7 +4571,6 @@
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.ip.inpwrd.com
 0.0.0.0 cdn.justonecookbook.com
-0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.libraries.inpwrd.com
 0.0.0.0 cdn.listrakbi.com
 0.0.0.0 cdn.livechatinc.com
@@ -7377,7 +7374,6 @@
 0.0.0.0 goodtraffic.net
 0.0.0.0 google.tucows.com
 0.0.0.0 googletagmanager.com
-0.0.0.0 googletagservices.com
 0.0.0.0 googlus.com
 0.0.0.0 gooool.com
 0.0.0.0 gopacket.goforandroid.com
@@ -7540,6 +7536,7 @@
 0.0.0.0 heals.msgfocus.com
 0.0.0.0 health.searchwho.com
 0.0.0.0 healthybloodpressure.info
+0.0.0.0 heapanalytics.com
 0.0.0.0 heartbeat.pmc.com
 0.0.0.0 hebadu.com
 0.0.0.0 hebdotop.com
@@ -12402,7 +12399,6 @@
 0.0.0.0 service00x.adtech.fr
 0.0.0.0 serviceo.comcast.net
 0.0.0.0 services.adtech.fr
-0.0.0.0 services.krxd.net
 0.0.0.0 services.mailermailer.com
 0.0.0.0 services.webestools.com
 0.0.0.0 services1.adtech.fr
