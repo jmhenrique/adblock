@@ -102,6 +102,7 @@
 0.0.0.0 1adult.com
 0.0.0.0 1bg.net
 0.0.0.0 1cash.net
+0.0.0.0 1cef.playfabapi.com
 0.0.0.0 1clickdownloader.com
 0.0.0.0 1dbxc.voluumtrk.com
 0.0.0.0 1de5g.voluumtrk.com
@@ -707,7 +708,6 @@
 0.0.0.0 acbacb9c.ipt.aol.com
 0.0.0.0 acc.magixite.com
 0.0.0.0 accelerator-media.com
-0.0.0.0 accelifyhelp.zendesk.com
 0.0.0.0 access.adblox.net
 0.0.0.0 access.amberathome.com
 0.0.0.0 accesstrade.com
@@ -3009,6 +3009,7 @@
 0.0.0.0 ads.seattletimes.com
 0.0.0.0 ads.seccionamarilla.com.mx
 0.0.0.0 ads.seniorfriendfinder.com
+0.0.0.0 ads.sessiongames.com
 0.0.0.0 ads.sex.com
 0.0.0.0 ads.sexandsubmission.com
 0.0.0.0 ads.sexier.com
@@ -8034,6 +8035,7 @@
 0.0.0.0 cdnus.alcoholsoftcdn.com
 0.0.0.0 cdnus.filefactscdn.com
 0.0.0.0 cdnwidget.com
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdr0b.voluumtrk.com
 0.0.0.0 cds.g8j8b9g6.hwcdn.net
 0.0.0.0 cds2.freenet.de
@@ -9991,7 +9993,6 @@
 0.0.0.0 dev-self-service-pay.adnow.com
 0.0.0.0 dev.accengage.com
 0.0.0.0 dev.ajc.cimedia.com
-0.0.0.0 dev.leanplum.com
 0.0.0.0 dev.mundomediainc.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dev.wrathofshadows.net
@@ -10721,7 +10722,6 @@
 0.0.0.0 engageiq.pushcrew.com
 0.0.0.0 engagement-collector.mobify.net
 0.0.0.0 engagement.inmarket.com
-0.0.0.0 engagenysupport.zendesk.com
 0.0.0.0 engageya.com
 0.0.0.0 engine.4chan-ads.org
 0.0.0.0 engine.a.redditmedia.com
@@ -11464,6 +11464,7 @@
 0.0.0.0 freedownloadzone.com
 0.0.0.0 freeezinebucks.com
 0.0.0.0 freefblikes.phpnet.us
+0.0.0.0 freegeoip.com
 0.0.0.0 freegeoip.net
 0.0.0.0 freehitwebcounters.com
 0.0.0.0 freehomepages.com
@@ -14049,6 +14050,7 @@
 0.0.0.0 leaflet.cloudmade.com
 0.0.0.0 lean.com
 0.0.0.0 leanmobi.fusetracking.com
+0.0.0.0 leanplum.com
 0.0.0.0 leapfind.com
 0.0.0.0 leastsuuhyh.download
 0.0.0.0 lecternxqlgvbl.download
@@ -15062,6 +15064,7 @@
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metopesjdsrau.download
 0.0.0.0 metric-agent.i10c.net
+0.0.0.0 metric-android-am.road404.com
 0.0.0.0 metric.allrecipes.com
 0.0.0.0 metric.angieslist.com
 0.0.0.0 metric.bizjournals.com
@@ -17377,7 +17380,6 @@
 0.0.0.0 pgpl.g5e.com
 0.0.0.0 pgssl.com
 0.0.0.0 ph.affinity.com
-0.0.0.0 phabricator.leanplum.com
 0.0.0.0 pharmacyrxone.com
 0.0.0.0 pharmadeal.gr
 0.0.0.0 phenomcrm.com
@@ -18621,7 +18623,6 @@
 0.0.0.0 reporting.wilkinsonplus.com
 0.0.0.0 reports.amonetize.com
 0.0.0.0 reports.crashlytics.com
-0.0.0.0 reports.leanplum.com
 0.0.0.0 reports.pagesuite-professional.co.uk
 0.0.0.0 reports.ubimo.com
 0.0.0.0 repricebkbakkrxq.download
