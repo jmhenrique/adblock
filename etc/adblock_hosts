@@ -182,9 +182,7 @@
 0.0.0.0 302br.net
 0.0.0.0 303net.net
 0.0.0.0 30klc.voluumtrk.com
-0.0.0.0 3100-app.mobilgov.com
 0.0.0.0 32d1d3b9c.se
-0.0.0.0 3300-app.mobilgov.com
 0.0.0.0 33video.33universal.com
 0.0.0.0 350media.com
 0.0.0.0 360.yahoo.com
@@ -269,7 +267,6 @@
 0.0.0.0 5482fc58904b613aee952d23cac4db91.adsk2.co
 0.0.0.0 5623.web-stats.org
 0.0.0.0 56mfv.voluumtrk.com
-0.0.0.0 5900-app.mobilgov.com
 0.0.0.0 599.stats.misstrends.com
 0.0.0.0 5ab3o.voluumtrk.com
 0.0.0.0 5avxd.voluumtrk.com
@@ -373,7 +370,6 @@
 0.0.0.0 824le.voluumtrk.com
 0.0.0.0 82d914.se
 0.0.0.0 82sn9.voluumtrk.com
-0.0.0.0 8443-app.mobilgov.com
 0.0.0.0 859-events.olark.com
 0.0.0.0 863c4c0c521.se
 0.0.0.0 879.stats.misstrends.com
@@ -5316,13 +5312,11 @@
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api-grpc.lightstep.com
-0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-logsink-prod.zedge.io
 0.0.0.0 api-master.netsparkmobile.com
 0.0.0.0 api-owr-bootstrap.metaps.net
-0.0.0.0 api-ping.intercom.io
 0.0.0.0 api-product.kameleoon.com
 0.0.0.0 api-production.dwell.com
 0.0.0.0 api-scsdk.appcloudbox.net
@@ -5390,7 +5384,6 @@
 0.0.0.0 api.bufferapp.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 api.bugsee.com
-0.0.0.0 api.bugsnag.com
 0.0.0.0 api.championat.com
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 api.circularhub.com
@@ -5447,7 +5440,6 @@
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 api.intentiq.com
-0.0.0.0 api.intercom.io
 0.0.0.0 api.ipinfodb.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.itv.letv.com
@@ -5487,7 +5479,6 @@
 0.0.0.0 api.optinmonster.com
 0.0.0.0 api.optnmnstr.com
 0.0.0.0 api.parse.com
-0.0.0.0 api.particle.io
 0.0.0.0 api.personali.com
 0.0.0.0 api.perzonalization.com
 0.0.0.0 api.petametrics.com
@@ -5614,7 +5605,6 @@
 0.0.0.0 app.bronto.com
 0.0.0.0 app.bugfender.com
 0.0.0.0 app.bugreplay.com
-0.0.0.0 app.bugsnag.com
 0.0.0.0 app.clickdimensions.com
 0.0.0.0 app.clickyab.com
 0.0.0.0 app.cobrowser.com
@@ -5877,7 +5867,6 @@
 0.0.0.0 assets.dwell.com
 0.0.0.0 assets.fortumo.com
 0.0.0.0 assets.foxmetrics.com
-0.0.0.0 assets.groovehq.com
 0.0.0.0 assets.infinity-tracking.net
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
@@ -7452,7 +7441,6 @@
 0.0.0.0 c.flx1.com
 0.0.0.0 c.gdt.qq.com
 0.0.0.0 c.gmtrack.com
-0.0.0.0 c.groovehq.com
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 c.jp.msn.com
 0.0.0.0 c.kakaku.com
@@ -10427,7 +10415,6 @@
 0.0.0.0 e.digitalnectar.co.uk
 0.0.0.0 e.dtscout.com
 0.0.0.0 e.freewebhostingarea.com
-0.0.0.0 e.glbimg.com
 0.0.0.0 e.imguol.com
 0.0.0.0 e.invodo.com
 0.0.0.0 e.logrocket.com
@@ -12058,7 +12045,6 @@
 0.0.0.0 graphics.streamray.com
 0.0.0.0 graphics7.nytimes.com
 0.0.0.0 graphics8.nytimes.m7z.net
-0.0.0.0 graphql.groovehq.com
 0.0.0.0 graptolitezcmxrfe.download
 0.0.0.0 gratis-counter-gratis.de
 0.0.0.0 gratis-toplist.de
@@ -12634,9 +12620,7 @@
 0.0.0.0 i.connectad.io
 0.0.0.0 i.ctnsnet.com
 0.0.0.0 i.exclusivegiftcards.com
-0.0.0.0 i.glbimg.com
 0.0.0.0 i.gridsumdissector.com
-0.0.0.0 i.groovehq.com
 0.0.0.0 i.icomoon.io
 0.0.0.0 i.idio.co
 0.0.0.0 i.idownloadgalore.com
@@ -16255,7 +16239,6 @@
 0.0.0.0 notification.lionmobi.com
 0.0.0.0 notification.webengage.com
 0.0.0.0 notify.adleadevent.com
-0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.nuviad.com
 0.0.0.0 notify1.brucelead.com
 0.0.0.0 notifyback-va.isnssdk.com
@@ -17062,7 +17045,6 @@
 0.0.0.0 p.de
 0.0.0.0 p.delivery.net
 0.0.0.0 p.f.qz3.net
-0.0.0.0 p.glbimg.com
 0.0.0.0 p.hiimps.com
 0.0.0.0 p.imgur.com
 0.0.0.0 p.kuaidi100.com
@@ -19688,7 +19670,6 @@
 0.0.0.0 seselisgqpobnny.download
 0.0.0.0 session-tracker.badcreditloans.com
 0.0.0.0 sessionm.com
-0.0.0.0 sessions.bugsnag.com
 0.0.0.0 sessions.mobileroadie.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 setihome.com
@@ -22675,7 +22656,6 @@
 0.0.0.0 uk.activeshopper.com
 0.0.0.0 uk.ads.hexus.net
 0.0.0.0 uk.nedstatpro.net
-0.0.0.0 uk1.aconex.co.uk
 0.0.0.0 uk1.siteimprove.com
 0.0.0.0 ukaffiliates2.com
 0.0.0.0 ukatoe.com
@@ -22959,7 +22939,6 @@
 0.0.0.0 v.emedia.cn
 0.0.0.0 v.gdt.qq.com
 0.0.0.0 v.gfhdkse.com
-0.0.0.0 v.glbimg.com
 0.0.0.0 v.inigsplan.ru
 0.0.0.0 v.landingzone.se
 0.0.0.0 v.lvlt.crcdn.net
