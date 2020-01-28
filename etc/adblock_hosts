@@ -5222,7 +5222,6 @@
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-data.kameleoon.com
-0.0.0.0 api-de-v3.conductrics.com
 0.0.0.0 api-device.mocaplatform.com
 0.0.0.0 api-dot-mwm-ab-testing.appspot.com
 0.0.0.0 api-dot-mwm-ad-mediation.appspot.com
@@ -7612,7 +7611,6 @@
 0.0.0.0 cdn-analytics.ladmedia.fr
 0.0.0.0 cdn-api.appadhoc.com
 0.0.0.0 cdn-assets.prfct.cc
-0.0.0.0 cdn-cbc-v3.conductrics.com
 0.0.0.0 cdn-cf-hc-banners.hgonline.net
 0.0.0.0 cdn-cf-hc-production.hgonline.net
 0.0.0.0 cdn-engagement.inmarket.com
@@ -7630,7 +7628,6 @@
 0.0.0.0 cdn-static.formisimo.com
 0.0.0.0 cdn-tags.mmondi.com
 0.0.0.0 cdn-usent.kampyle.com
-0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn-wx.rainbowtgx.com
 0.0.0.0 cdn.2app.lk
 0.0.0.0 cdn.2xbpub.com
@@ -10473,7 +10470,6 @@
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 embarkingsztwot.download
 0.0.0.0 embed-stats.rbl.ms
-0.0.0.0 embed.insticator.com
 0.0.0.0 embed.spokenlayer.com
 0.0.0.0 embloomedobjqwpc.download
 0.0.0.0 emd10.medianext.com
@@ -10756,7 +10752,6 @@
 0.0.0.0 eurocounter.com
 0.0.0.0 europacash.com
 0.0.0.0 europe-academy.net
-0.0.0.0 europe.bidtellect.com
 0.0.0.0 european-toplist.de
 0.0.0.0 europerank.com
 0.0.0.0 euros4click.de
@@ -13201,8 +13196,6 @@
 0.0.0.0 iusfpiadefunction.review
 0.0.0.0 iut4u.voluumtrk.com
 0.0.0.0 ivi.traflab.ru
-0.0.0.0 ivid-cdn.adhigh.net
-0.0.0.0 ivid-f5-us-va.adhigh.net
 0.0.0.0 ivitrine.buscape.com
 0.0.0.0 ivjca.voluumtrk.com
 0.0.0.0 ivoriessrjwoctu.download
@@ -17724,7 +17717,6 @@
 0.0.0.0 pwu0e.voluumtrk.com
 0.0.0.0 pwvita.pl
 0.0.0.0 px-conf.perimeterx.net
-0.0.0.0 px.adhigh.net
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.onespot.com
 0.0.0.0 px.ozonemedia.com
@@ -23115,7 +23107,6 @@
 0.0.0.0 weownthetraffic.com
 0.0.0.0 werbung.xfind.de
 0.0.0.0 wesell.co.il
-0.0.0.0 west.bidtellect.com
 0.0.0.0 westeins.2cnt.net
 0.0.0.0 westernereoednyj.download
 0.0.0.0 wetjane.x10.mx
