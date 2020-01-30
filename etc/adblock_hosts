@@ -5316,7 +5316,6 @@
 0.0.0.0 api.elasticemail.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.factual.com
-0.0.0.0 api.finanzen.immobilienscout24.de
 0.0.0.0 api.flicktweets.com
 0.0.0.0 api.flyertown.ca
 0.0.0.0 api.fortumo.com
@@ -5371,7 +5370,6 @@
 0.0.0.0 api.mobadvent.com
 0.0.0.0 api.mobcells.com
 0.0.0.0 api.mobeacon.mobisky.pl
-0.0.0.0 api.mobile.immobilienscout24.de
 0.0.0.0 api.mobileanjian.com
 0.0.0.0 api.mobilearts.io
 0.0.0.0 api.mobilebridge.com
@@ -5404,7 +5402,6 @@
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.queryly.com
 0.0.0.0 api.radar.io
-0.0.0.0 api.recommendation.immobilienscout24.de
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rvuzov.ru
 0.0.0.0 api.safedk.com
