@@ -7374,6 +7374,7 @@
 0.0.0.0 c.woopic.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c.xbox.com
+0.0.0.0 c00162-dl.urbanairship.com
 0.0.0.0 c01.brickoffers.com
 0.0.0.0 c02qds.2cnt.net
 0.0.0.0 c03.adsummos.net
@@ -8013,7 +8014,6 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 chokoladsrv.net
-0.0.0.0 chrome-devtools-frontend.appspot.com
 0.0.0.0 chronicads.com
 0.0.0.0 chronicleddxsilskp.download
 0.0.0.0 chrumedia.com
@@ -9257,7 +9257,6 @@
 0.0.0.0 csma95349.analytics.edgesuite.net
 0.0.0.0 csmail.iggcn.com
 0.0.0.0 cso6i.voluumtrk.com
-0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csstatic.com
 0.0.0.0 cstrk.net
 0.0.0.0 cswilliamsburg.com
@@ -20974,6 +20973,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 template.aebn.net
 0.0.0.0 tenantrymishdg.download
+0.0.0.0 tend.io
 0.0.0.0 tendersource.com
 0.0.0.0 tenlokif.com
 0.0.0.0 tenzero.com
