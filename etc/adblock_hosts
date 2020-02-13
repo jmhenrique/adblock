@@ -4935,7 +4935,6 @@
 0.0.0.0 analytics-ext-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 analytics-gb-nfl.yinzcam.com
 0.0.0.0 analytics-gcp.tout.com
-0.0.0.0 analytics-ingest.anypoint.mulesoft.com
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
 0.0.0.0 analytics-league-lfp.yinzcam.com
@@ -5319,7 +5318,6 @@
 0.0.0.0 api.flicktweets.com
 0.0.0.0 api.flyertown.ca
 0.0.0.0 api.fortumo.com
-0.0.0.0 api.foursquare.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.fyreball.com
 0.0.0.0 api.gameofwhales.com
@@ -5354,7 +5352,6 @@
 0.0.0.0 api.iris.tv
 0.0.0.0 api.itv.letv.com
 0.0.0.0 api.ivymobile.com
-0.0.0.0 api.kurioapps.com
 0.0.0.0 api.lazyswipe.com
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.life.lovetapmobile.com
@@ -5765,7 +5762,6 @@
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.devx.com
 0.0.0.0 assets.dwell.com
-0.0.0.0 assets.fortumo.com
 0.0.0.0 assets.foxmetrics.com
 0.0.0.0 assets.infinity-tracking.net
 0.0.0.0 assets.iterable.com
@@ -7445,7 +7441,6 @@
 0.0.0.0 cache.gfrevenge.com
 0.0.0.0 cache.imagehost123.com
 0.0.0.0 cache.izearanks.com
-0.0.0.0 cache.kuaidi100.com
 0.0.0.0 cache.osttirol-online.at
 0.0.0.0 cache.realitykings.com
 0.0.0.0 cache.scbih.com
@@ -7658,7 +7653,6 @@
 0.0.0.0 cdn.allegedmedia.com
 0.0.0.0 cdn.alleliteads.com
 0.0.0.0 cdn.amgdgt.com
-0.0.0.0 cdn.anypoint.mulesoft.com
 0.0.0.0 cdn.ap.bittorrent.com
 0.0.0.0 cdn.api.fotoable.com
 0.0.0.0 cdn.app.exitmonitor.com
@@ -7741,7 +7735,6 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.justonecookbook.com
-0.0.0.0 cdn.kuaidi100.com
 0.0.0.0 cdn.libraries.inpwrd.com
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.linksmart.com
@@ -11112,7 +11105,6 @@
 0.0.0.0 finickingzepkzyw.download
 0.0.0.0 finlogs.joyeggs.com
 0.0.0.0 finnhair.co.uk
-0.0.0.0 fira-api.kurioapps.com
 0.0.0.0 firebanner.com
 0.0.0.0 firecash.org
 0.0.0.0 firecpa.com
@@ -13688,7 +13680,6 @@
 0.0.0.0 kulxc.voluumtrk.com
 0.0.0.0 kundenserver.de
 0.0.0.0 kurierat.cleverpush.com
-0.0.0.0 kurio-img.kurioapps.com
 0.0.0.0 kurlichan.com
 0.0.0.0 kvjwu.voluumtrk.com
 0.0.0.0 kvors.com
@@ -15242,9 +15233,7 @@
 0.0.0.0 mobile.biz.daum.net
 0.0.0.0 mobile.cmtelematics.com
 0.0.0.0 mobile.eum-appdynamics.com
-0.0.0.0 mobile.foundationsoft.com
 0.0.0.0 mobile.game-insight.com
-0.0.0.0 mobile.impacttestonline.com
 0.0.0.0 mobile.itsbetter.com
 0.0.0.0 mobile.mofowl.com
 0.0.0.0 mobile.panjiachun.com
@@ -15499,6 +15488,7 @@
 0.0.0.0 mueller-holz-bau.com
 0.0.0.0 muesq.voluumtrk.com
 0.0.0.0 mujilora.com
+0.0.0.0 muliphein.iad-01.braze.com
 0.0.0.0 multi.xnxx.com
 0.0.0.0 multicounter.de
 0.0.0.0 multimania.com
@@ -16690,7 +16680,6 @@
 0.0.0.0 p.f.qz3.net
 0.0.0.0 p.hiimps.com
 0.0.0.0 p.imgur.com
-0.0.0.0 p.kuaidi100.com
 0.0.0.0 p.pagesjaunes.fr
 0.0.0.0 p.placemypixel.com
 0.0.0.0 p.predictvideo.com
@@ -18939,7 +18928,6 @@
 0.0.0.0 sdk.fevo.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 sdk.follow-apps.com
-0.0.0.0 sdk.foursquare.com
 0.0.0.0 sdk.fra-01.braze.eu
 0.0.0.0 sdk.g.uc.cn
 0.0.0.0 sdk.gplayspace.com
@@ -22018,7 +22006,6 @@
 0.0.0.0 trustgauge.com
 0.0.0.0 trustsoft.com
 0.0.0.0 trw12.com
-0.0.0.0 trx.kurioapps.com
 0.0.0.0 trx.mxmfb.com
 0.0.0.0 ts-krone.2cnt.net
 0.0.0.0 ts-oewa.2cnt.net
