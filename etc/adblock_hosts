@@ -737,7 +737,6 @@
 0.0.0.0 acs.xpanama.net
 0.0.0.0 acs3.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 acsseo.com
 0.0.0.0 actiagroup.com
 0.0.0.0 actionads.ru
@@ -4737,7 +4736,12 @@
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 aim-charts.pf.aol.com
+0.0.0.0 aim1.adsoftware.com
+0.0.0.0 aim2.adsoftware.com
+0.0.0.0 aim3.adsoftware.com
+0.0.0.0 aim4.adsoftware.com
 0.0.0.0 aim4media.com
+0.0.0.0 aim5.adsoftware.com
 0.0.0.0 aimadigital.com
 0.0.0.0 aimatch.com
 0.0.0.0 aimg.fc2.com
@@ -5173,6 +5177,10 @@
 0.0.0.0 anquan.baidu.com
 0.0.0.0 anquan.org
 0.0.0.0 anrdoezrs.net
+0.0.0.0 ans1.adsoftware.com
+0.0.0.0 ans2.adsoftware.com
+0.0.0.0 ans3.adsoftware.com
+0.0.0.0 ans4.adsoftware.com
 0.0.0.0 anshrit.com
 0.0.0.0 answermedia.com
 0.0.0.0 answers.nielsen.com
@@ -5283,7 +5291,6 @@
 0.0.0.0 api.avantmobile.com
 0.0.0.0 api.backtrace.io
 0.0.0.0 api.badgeville.com
-0.0.0.0 api.band.us
 0.0.0.0 api.batch.com
 0.0.0.0 api.beaconforstore.com
 0.0.0.0 api.beaconsinspace.com
@@ -14695,6 +14702,7 @@
 0.0.0.0 media.ym0.net
 0.0.0.0 media01.adservinghost.com
 0.0.0.0 media1.admicro.vn
+0.0.0.0 media1.adsoftware.com
 0.0.0.0 media10.admicro.vn
 0.0.0.0 media2.admicro.vn
 0.0.0.0 media2.carpediem.fr
@@ -15045,8 +15053,6 @@
 0.0.0.0 mg.dt07.net
 0.0.0.0 mgage.com
 0.0.0.0 mgbhr.voluumtrk.com
-0.0.0.0 mgbsdknaeast.matrix.easebar.com
-0.0.0.0 mgbsdksgtest.matrix.easebar.com
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
 0.0.0.0 mgd-adengine.elasticbeanstalk.com
@@ -16219,6 +16225,7 @@
 0.0.0.0 offerx.co.uk
 0.0.0.0 officeon.ch.ma
 0.0.0.0 officialrdr.com
+0.0.0.0 offline.adsoftware.com
 0.0.0.0 offline.sanomaservices.nl
 0.0.0.0 ofloc.map.baidu.com
 0.0.0.0 og1rc.voluumtrk.com
@@ -16499,7 +16506,6 @@
 0.0.0.0 optin.mobiniti.com
 0.0.0.0 optmd.com
 0.0.0.0 optout.2cnt.net
-0.0.0.0 optsdk.gameyw.easebar.com
 0.0.0.0 oqhdujtcharrier.review
 0.0.0.0 oqw9b.voluumtrk.com
 0.0.0.0 oqzwmbeliefs.review
@@ -17797,7 +17803,6 @@
 0.0.0.0 qqc.co
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qqvj6.voluumtrk.com
-0.0.0.0 qr.mpsdk.easebar.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qservz.com
@@ -18889,7 +18894,6 @@
 0.0.0.0 sdk-h5-cdn.rayjoy.com
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-key.ulsee.com
-0.0.0.0 sdk-os.mpsdk.easebar.com
 0.0.0.0 sdk-traffic.apptimize.com
 0.0.0.0 sdk-vidmatic.streamrail.net
 0.0.0.0 sdk-vmh.prod-univision.com
@@ -20070,6 +20074,7 @@
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 static.groupon.co.uk
 0.0.0.0 static.hatid.com
+0.0.0.0 static.htmlhubing.xyz
 0.0.0.0 static.httpool.com.mk
 0.0.0.0 static.hubspot.com
 0.0.0.0 static.hupso.com
@@ -20603,7 +20608,6 @@
 0.0.0.0 synergetic.de
 0.0.0.0 synovite-scripts.com
 0.0.0.0 synthes.vo.llnwd.net
-0.0.0.0 sypi.gpshopper.com
 0.0.0.0 sys.osttirol-online.at
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
@@ -22247,7 +22251,6 @@
 0.0.0.0 union2.50bang.org
 0.0.0.0 uniqueleads.com
 0.0.0.0 uniquesurf.com
-0.0.0.0 unisdk.update.easebar.com
 0.0.0.0 unisonsas.bravejournal.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unitex.home.pl
@@ -22294,7 +22297,6 @@
 0.0.0.0 update.pan.baidu.com
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 update.sdkbox.com
-0.0.0.0 update.unisdk.easebar.com
 0.0.0.0 updated.com
 0.0.0.0 updatepage.kuwo.cn
 0.0.0.0 updater.crowdtangle.com
@@ -22928,6 +22930,7 @@
 0.0.0.0 web7.voodoo.com
 0.0.0.0 web8.voodoo.com
 0.0.0.0 web9.voodoo.com
+0.0.0.0 webad1.adsoftware.com
 0.0.0.0 webads.co.nz
 0.0.0.0 webads.com
 0.0.0.0 webads.nl
