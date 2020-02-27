@@ -237,6 +237,7 @@
 0.0.0.0 4a6xw.voluumtrk.com
 0.0.0.0 4affiliate.net
 0.0.0.0 4d5.net
+0.0.0.0 4d83.playfabapi.com
 0.0.0.0 4dexports.com
 0.0.0.0 4dle.info
 0.0.0.0 4dsply.com
@@ -399,6 +400,7 @@
 0.0.0.0 92x.tumblr.com
 0.0.0.0 94982c5b634975e50103ce96082d2827.adsk2.co
 0.0.0.0 959cad30.api.splkmobile.com
+0.0.0.0 96b6.playfabapi.com
 0.0.0.0 97a7e.voluumtrk.com
 0.0.0.0 980media.com
 0.0.0.0 986.stats.misstrends.com
@@ -4138,6 +4140,7 @@
 0.0.0.0 adv.gpm-digital.com
 0.0.0.0 adv.gratuito.st
 0.0.0.0 adv.h2porn.com
+0.0.0.0 adv.herocraft.com
 0.0.0.0 adv.hwupgrade.it
 0.0.0.0 adv.ilsole24ore.it
 0.0.0.0 adv.imadrep.co.kr
@@ -4949,6 +4952,7 @@
 0.0.0.0 analytics-pit-nhl.yinzcam.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
 0.0.0.0 analytics-production.hapyak.com
+0.0.0.0 analytics-sdk.jamcity.com
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-staging.tactilews.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -5356,6 +5360,7 @@
 0.0.0.0 api.instartlogic.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 api.intentiq.com
+0.0.0.0 api.ipify.org
 0.0.0.0 api.ipinfodb.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.itv.letv.com
@@ -6721,6 +6726,7 @@
 0.0.0.0 bc2.fivecdm.com
 0.0.0.0 bcanalytics.bigcommerce.com
 0.0.0.0 bcast.pw
+0.0.0.0 bcdn-god.we-stats.com
 0.0.0.0 bce.baidu.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcmediagroup.com
@@ -7626,6 +7632,7 @@
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-o7.outfit7.com
 0.0.0.0 cdn-otf-cas.prfct.cc
+0.0.0.0 cdn-prod-defaulting-gamedev-ads.gismart.xyz
 0.0.0.0 cdn-prod.kampyle.com
 0.0.0.0 cdn-pwa-engagement.inmarket.com
 0.0.0.0 cdn-qc.coccoc.com
@@ -8614,6 +8621,7 @@
 0.0.0.0 collector-195.tvsquared.com
 0.0.0.0 collector-2398.tvsquared.com
 0.0.0.0 collector-428.tvsquared.com
+0.0.0.0 collector-6271.tvsquared.com
 0.0.0.0 collector-a.perimeterx.net
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-grpc.lightstep.com
@@ -8621,6 +8629,7 @@
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
+0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 collector-test.staging.mb-internal.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bughd.com
@@ -9199,6 +9208,7 @@
 0.0.0.0 crittercism.com
 0.0.0.0 crkld.voluumtrk.com
 0.0.0.0 crm.ants.vn
+0.0.0.0 crm.sgn.com
 0.0.0.0 croondezztg.download
 0.0.0.0 crops.dunight.eu
 0.0.0.0 crossbeamstnmjmmh.download
@@ -10770,6 +10780,7 @@
 0.0.0.0 eventi.co.il
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events-api.outfit7.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.apester.com
 0.0.0.0 events.attentivemobile.com
@@ -10788,6 +10799,7 @@
 0.0.0.0 events.personali.com
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.split.io
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.uber.com
@@ -10895,6 +10907,7 @@
 0.0.0.0 extranet.ilius.net
 0.0.0.0 extreembilisim.com
 0.0.0.0 extreme-dm.com
+0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 extremetracking.com
 0.0.0.0 extremetracking.net
 0.0.0.0 extzbxocracknels.review
@@ -11472,6 +11485,7 @@
 0.0.0.0 gamescpc.com
 0.0.0.0 gamesiteads.com
 0.0.0.0 gamesitestop100.com
+0.0.0.0 gamestats.herocraft.com
 0.0.0.0 gamevance.com
 0.0.0.0 gamingblast.com
 0.0.0.0 gamingclub.com
@@ -12122,6 +12136,7 @@
 0.0.0.0 highpro1.com
 0.0.0.0 highspeedtesting.com
 0.0.0.0 hightrafficads.com
+0.0.0.0 highway2.soom.la
 0.0.0.0 hijackedzdupdb.download
 0.0.0.0 hilltopads.net
 0.0.0.0 himbrecha.iad-02.braze.com
@@ -13081,6 +13096,7 @@
 0.0.0.0 intredomedia.com
 0.0.0.0 inuvi.com
 0.0.0.0 invariancewnbfwwro.download
+0.0.0.0 invenio.sgn.com
 0.0.0.0 invention.festinolente.cl
 0.0.0.0 investingapp.net
 0.0.0.0 invitation.opinionbar.com
@@ -16016,6 +16032,7 @@
 0.0.0.0 nrsadrefects.review
 0.0.0.0 nry5r.voluumtrk.com
 0.0.0.0 ns.2cnt.net
+0.0.0.0 ns.exitgames.com
 0.0.0.0 ns.rvmkitt.com
 0.0.0.0 ns1.123go.net
 0.0.0.0 ns1.datapipe.net
@@ -17457,10 +17474,12 @@
 0.0.0.0 probux.com
 0.0.0.0 procinema.2cnt.net
 0.0.0.0 proctoriostatus.apphb.com
+0.0.0.0 prod-defaulting-subscriptiontool.gismart.xyz
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod-services.interactiveone.com
 0.0.0.0 prod.apptimize.com
 0.0.0.0 prod.cloud.ogury.io
+0.0.0.0 prod.linkitox.com
 0.0.0.0 prodlb.backstopsolutions.com
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-api.areametrics.com
@@ -18470,6 +18489,7 @@
 0.0.0.0 rta.pubocean.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb-ads.avazu.net
+0.0.0.0 rtb-east-wins.crossinstall.com
 0.0.0.0 rtb-pclick.secure.yahoo.com
 0.0.0.0 rtb-seller.com
 0.0.0.0 rtb-useast.adexchangemedia.xyz
@@ -19636,6 +19656,7 @@
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smetrics.yellowbook.com
+0.0.0.0 smetrics1.experian.com
 0.0.0.0 smfgroup.cjb.net
 0.0.0.0 smilepop.com
 0.0.0.0 smilered.com
@@ -20325,6 +20346,7 @@
 0.0.0.0 stats.slideshare.net
 0.0.0.0 stats.smartbucks.com
 0.0.0.0 stats.snacktools.net
+0.0.0.0 stats.snowtrial.co
 0.0.0.0 stats.ssl-services.com
 0.0.0.0 stats.storify.com
 0.0.0.0 stats.style.com
@@ -21180,6 +21202,7 @@
 0.0.0.0 toneitup.pushwoosh.com
 0.0.0.0 tongji.appscomeon.com
 0.0.0.0 tongqing2015.com
+0.0.0.0 tongue.jamcity.com
 0.0.0.0 toochattoo.com
 0.0.0.0 tool.cleverads.vn
 0.0.0.0 toolbar.aol.com
@@ -22369,6 +22392,7 @@
 0.0.0.0 us.p.xpanama.net
 0.0.0.0 us.pixel.newscgp.com
 0.0.0.0 us.rewardearners.com
+0.0.0.0 us.v2.we-stats.com
 0.0.0.0 us.wa.ui-portal.com
 0.0.0.0 us.webprodcdn.com
 0.0.0.0 us.winninganswers.net
@@ -22398,7 +22422,6 @@
 0.0.0.0 usbanners.com
 0.0.0.0 usd.bravo-dog.com
 0.0.0.0 usdtop.58.com
-0.0.0.0 use-application-dns.net
 0.0.0.0 use-tr01.fuse-ad.com
 0.0.0.0 use.convertglobal.com
 0.0.0.0 use1.prod.vidible.tv
