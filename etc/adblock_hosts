@@ -2727,14 +2727,6 @@
 0.0.0.0 apsalar.com
 0.0.0.0 aptrafficnetwork.com
 0.0.0.0 aptrk5.com
-0.0.0.0 apx.avazutracking.net
-0.0.0.0 apx.internal-redirect.avazutracking.net
-0.0.0.0 apx.irck.avazutracking.net
-0.0.0.0 apx.matk.avazutracking.net
-0.0.0.0 apx.pixel.avazutracking.net
-0.0.0.0 apx.rdkt.avazutracking.net
-0.0.0.0 apx.trck.avazutracking.net
-0.0.0.0 apx.ui.avazutracking.net
 0.0.0.0 ar.mytrack.pro
 0.0.0.0 ar.umeng.com
 0.0.0.0 araman.kameleoon.com
@@ -2903,7 +2895,6 @@
 0.0.0.0 babe.ants.vn
 0.0.0.0 babel.innertrends.com
 0.0.0.0 babos.scrapping.cc
-0.0.0.0 backend.avazutracking.net
 0.0.0.0 backend.passivemonetizer.com
 0.0.0.0 backfill.ph.affinity.com
 0.0.0.0 backup.aatkit.com
@@ -3582,7 +3573,6 @@
 0.0.0.0 cdn.assets.craveonline.com
 0.0.0.0 cdn.atomex.net
 0.0.0.0 cdn.avantisvideo.com
-0.0.0.0 cdn.avazutracking.net
 0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.ayads.co
 0.0.0.0 cdn.banner.thumbplay.com
@@ -3821,7 +3811,6 @@
 0.0.0.0 clevernt.com
 0.0.0.0 cli.linksynergy.com
 0.0.0.0 clic.grenads.com
-0.0.0.0 click-mdsp.avazutracking.net
 0.0.0.0 click.a-ads.com
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.appservinc.com
@@ -6159,7 +6148,6 @@
 0.0.0.0 immob.cn
 0.0.0.0 immobi.com
 0.0.0.0 immonetlive.cleverpush.com
-0.0.0.0 imp-mdsp.avazutracking.net
 0.0.0.0 imp.ad-plus.cn
 0.0.0.0 imp.double.net
 0.0.0.0 imp.sdkclick.com
@@ -7030,7 +7018,6 @@
 0.0.0.0 mdn3origin.phluantmobile.net
 0.0.0.0 mdnhinc.com
 0.0.0.0 mdotm.com
-0.0.0.0 mdsp.avazutracking.net
 0.0.0.0 measuread.com
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 measurementapi.com
@@ -7455,7 +7442,6 @@
 0.0.0.0 mobile.activeshopper.com
 0.0.0.0 mobile.api.hmageo.com
 0.0.0.0 mobile.appchina.com
-0.0.0.0 mobile.avazutracking.net
 0.0.0.0 mobile.bitterstrawberry.org
 0.0.0.0 mobile.cmtelematics.com
 0.0.0.0 mobile.eum-appdynamics.com
@@ -9662,7 +9648,6 @@
 0.0.0.0 sessionm.com
 0.0.0.0 sessions.mobileroadie.com
 0.0.0.0 sestat.baidu.com
-0.0.0.0 seth.avazutracking.net
 0.0.0.0 setting.adzcore.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
