@@ -1,9 +1,3 @@
-0.0.0.0 0.r.msn.com
-0.0.0.0 005.free-counter.co.uk
-0.0.0.0 006.free-counter.co.uk
-0.0.0.0 007.free-counter.co.uk
-0.0.0.0 008.free-counter.co.uk
-0.0.0.0 008.free-counters.co.uk
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -328,7 +322,9 @@
 0.0.0.0 a9.com
 0.0.0.0 aa.oasfile.aftenposten.no
 0.0.0.0 aajtak.pushwoosh.com
+0.0.0.0 aan.amazon.com
 0.0.0.0 aarki.com
+0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 ab.batmobi.net
 0.0.0.0 ab.usageload32.com
 0.0.0.0 ab.vendemore.com
@@ -2143,6 +2139,7 @@
 0.0.0.0 analytics-gb-nfl.yinzcam.com
 0.0.0.0 analytics-gcp.tout.com
 0.0.0.0 analytics-ingest.creative-mobile.com
+0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 analytics-iwtg-ten.yinzcam.com
 0.0.0.0 analytics-league-lfp.yinzcam.com
@@ -2199,6 +2196,7 @@
 0.0.0.0 analytics.in-tend.co.uk
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jumboprivacy.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kingoapp.com
 0.0.0.0 analytics.kongregate.io
@@ -2233,7 +2231,6 @@
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 analytics.r.msn.com
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.s3.amazonaws.com
@@ -2554,6 +2551,7 @@
 0.0.0.0 api.yieldmagic.com
 0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 api2.batmobi.net
+0.0.0.0 api2.okanjo.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api5.batmobi.net
@@ -2803,6 +2801,7 @@
 0.0.0.0 atousoft.com
 0.0.0.0 atr.adsmovil.com
 0.0.0.0 att.com.edgekey.net
+0.0.0.0 att.productmadness.com
 0.0.0.0 atti.com
 0.0.0.0 atyss.barginginfrance.net
 0.0.0.0 au.res.keymedia.com
@@ -3568,6 +3567,7 @@
 0.0.0.0 cdn.coinad.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.contentspread.net
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 cdn.curalate.com
@@ -3623,6 +3623,7 @@
 0.0.0.0 cdn.natpal.com
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.o333o.com
+0.0.0.0 cdn.okanjo.com
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 cdn.orbengine.com
 0.0.0.0 cdn.outfit7.com
@@ -5250,6 +5251,7 @@
 0.0.0.0 feyads.com
 0.0.0.0 ffcdn3.featureforward.com
 0.0.0.0 ffcdn4.featureforward.com
+0.0.0.0 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0 fgawegwr.chez.com
 0.0.0.0 fgtkmcby02.eu
 0.0.0.0 fhg.digitaldesire.com
@@ -5283,6 +5285,7 @@
 0.0.0.0 finnhair.co.uk
 0.0.0.0 fiona.ai.net
 0.0.0.0 firebanner.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firehouse651.com
 0.0.0.0 first.iovation.com
 0.0.0.0 firstimpression.io
@@ -5545,6 +5548,7 @@
 0.0.0.0 glassboxdigital.com
 0.0.0.0 glean.pop6.com
 0.0.0.0 gliamicidellunicef.it
+0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 glispa.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 globadmedia.com
@@ -5715,6 +5719,7 @@
 0.0.0.0 hackerrank.com.edgekey.net
 0.0.0.0 hadarone.com
 0.0.0.0 hades.getsocial.im
+0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 halc.iadvize.com
 0.0.0.0 handbagcom.skimlinks.com
 0.0.0.0 handelsblatt.met.vgwort.de
@@ -5906,6 +5911,7 @@
 0.0.0.0 i.bigmir.net
 0.0.0.0 i.cdn.openx.com
 0.0.0.0 i.cdnpark.com
+0.0.0.0 i.clean.gg
 0.0.0.0 i.clickagy.com
 0.0.0.0 i.connectad.io
 0.0.0.0 i.ctnsnet.com
@@ -6152,6 +6158,7 @@
 0.0.0.0 inevo.co.il
 0.0.0.0 inferna.iad-03.braze.com
 0.0.0.0 infinite-mobility.g2afse.com
+0.0.0.0 infinity-c4.youboranqs01.com
 0.0.0.0 infinityads.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 info.adacado.com
@@ -6449,6 +6456,8 @@
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
+0.0.0.0 king-candycrush-prod.secure2.footprint.net
+0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 kingskillz.ru
 0.0.0.0 kiosked.com
 0.0.0.0 kipasdenim.com
@@ -7036,6 +7045,7 @@
 0.0.0.0 mediaserver.bwinpartypartners.com
 0.0.0.0 mediashakers.com
 0.0.0.0 mediatailor.eu-west-1.amazonaws.com
+0.0.0.0 mediatailor.us-west-2.amazonaws.com
 0.0.0.0 mediation.adpushup.com
 0.0.0.0 mediation.fyber.com
 0.0.0.0 mediatrade.h19.ru
@@ -7096,6 +7106,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-collector.s-onetag.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.aarp.org
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.acehardware.com
@@ -7389,6 +7400,7 @@
 0.0.0.0 mobile.eum-appdynamics.com
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.itsbetter.com
+0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.mofowl.com
 0.0.0.0 mobile.panjiachun.com
 0.0.0.0 mobile333.com
@@ -7975,6 +7987,7 @@
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
+0.0.0.0 onetrust.mgr.consensu.org
 0.0.0.0 oneund.ru
 0.0.0.0 onewaylinkexchange.net
 0.0.0.0 onlgc.voluumtrk.com
@@ -8296,6 +8309,7 @@
 0.0.0.0 pgathailand.com
 0.0.0.0 pgpl.g5e.com
 0.0.0.0 pgssl.com
+0.0.0.0 phar.gu-web.net
 0.0.0.0 pharmacyrxone.com
 0.0.0.0 pharmadeal.gr
 0.0.0.0 phillateemis.iad-03.braze.com
@@ -8802,6 +8816,7 @@
 0.0.0.0 rastaban.iad-03.braze.com
 0.0.0.0 rat-on-subway.mhwang.com
 0.0.0.0 rawoo.barginginfrance.net
+0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 rayjump.com
 0.0.0.0 rb-net.com
 0.0.0.0 rb.revolvermaps.com
@@ -9814,6 +9829,7 @@
 0.0.0.0 smartxads.com
 0.0.0.0 smetrics.aa.com
 0.0.0.0 smetrics.aetn.com
+0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.boston.com
 0.0.0.0 smetrics.chrysler.com
@@ -10477,6 +10493,7 @@
 0.0.0.0 tagmans2.adsolutions.com
 0.0.0.0 tagmans3.adsolutions.com
 0.0.0.0 tags-prod.vrvm.com
+0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adsafety.net
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.clickintext.net
@@ -10729,6 +10746,7 @@
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top20.com
 0.0.0.0 topads.rrstar.com
+0.0.0.0 topapps-func.pinsightmedia.com
 0.0.0.0 topblogarea.se
 0.0.0.0 topblogging.com
 0.0.0.0 topblogs.com.ph
