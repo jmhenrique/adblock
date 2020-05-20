@@ -378,7 +378,6 @@
 0.0.0.0 actionads.ru
 0.0.0.0 actionpay.ru
 0.0.0.0 actionteaser.ru
-0.0.0.0 activate.boostmobile.com
 0.0.0.0 active.cache.el-mundo.net
 0.0.0.0 activity.tuifish.com
 0.0.0.0 actvtrack.com
@@ -2023,7 +2022,6 @@
 0.0.0.0 ak.sailthru.com
 0.0.0.0 ak1.abmr.net
 0.0.0.0 ak1s.abmr.net
-0.0.0.0 aka-apiservices.boostmobile.com
 0.0.0.0 aka-root.com
 0.0.0.0 aka.accortech.com
 0.0.0.0 akamai.t.axf8.net
@@ -2315,7 +2313,6 @@
 0.0.0.0 anticlown.com
 0.0.0.0 antivirus.baidu.com
 0.0.0.0 antventure.com
-0.0.0.0 anx.mindspark.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 ap-southeast-1.log.aliyuncs.com
 0.0.0.0 ap.immomo.com
@@ -2341,7 +2338,6 @@
 0.0.0.0 api-dot-mwm-ad-mediation.appspot.com
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
-0.0.0.0 api-grpc.lightstep.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-logsink-prod.zedge.io
@@ -2472,7 +2468,6 @@
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobilearts.io
 0.0.0.0 api.mobilebridge.com
-0.0.0.0 api.mobileday.com
 0.0.0.0 api.mobilewareinc.com
 0.0.0.0 api.mobitech-content.xyz
 0.0.0.0 api.moengage.com
@@ -2540,7 +2535,6 @@
 0.0.0.0 api.vineapp.com
 0.0.0.0 api.visicom.ua
 0.0.0.0 api.voiceads.cn
-0.0.0.0 api.vsee.com
 0.0.0.0 api.vungle.akadns.net
 0.0.0.0 api.webengage.com
 0.0.0.0 api.wipmania.com
@@ -2606,7 +2600,6 @@
 0.0.0.0 app.mashero.com
 0.0.0.0 app.masoffer.net
 0.0.0.0 app.meltwater.com
-0.0.0.0 app.mobilecause.com
 0.0.0.0 app.netpark.us
 0.0.0.0 app.networkad.net
 0.0.0.0 app.openstreamapp.com
@@ -2637,7 +2630,6 @@
 0.0.0.0 appclick.net
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 appconfig.cmgdigital.com
-0.0.0.0 appcontent.boostmobile.com
 0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 appdiscovery.apptap.com
 0.0.0.0 appdog.com
@@ -2715,7 +2707,6 @@
 0.0.0.0 araman.kameleoon.com
 0.0.0.0 arank.com
 0.0.0.0 arc-native-apps.s3.amazonaws.com
-0.0.0.0 arcgis.mobile311.com
 0.0.0.0 archigate.it
 0.0.0.0 archive.coolerads.com
 0.0.0.0 ard.sexplaycam.com
@@ -2732,7 +2723,6 @@
 0.0.0.0 art-archiv.ru
 0.0.0.0 artcomix.com
 0.0.0.0 artsconsortium.org
-0.0.0.0 as-p-e.jitterbit.com
 0.0.0.0 as.ad-brix.com
 0.0.0.0 as.autoforums.com
 0.0.0.0 as.eu.angsrvr.com
@@ -3269,7 +3259,6 @@
 0.0.0.0 bp.specificclick.net
 0.0.0.0 br.fling.com
 0.0.0.0 br.meetlocals.com
-0.0.0.0 br.mobilelifeconnect.com
 0.0.0.0 br.naked.com
 0.0.0.0 br.newrelic.com
 0.0.0.0 br.realitykings.com
@@ -3667,7 +3656,6 @@
 0.0.0.0 cdn.trafficstars.com
 0.0.0.0 cdn.triggertag.gorillanation.com
 0.0.0.0 cdn.userreport.com
-0.0.0.0 cdn.wootric.com
 0.0.0.0 cdn.yb0t.com
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1.adcdnx.com
@@ -4070,8 +4058,6 @@
 0.0.0.0 collector-428.tvsquared.com
 0.0.0.0 collector-6271.tvsquared.com
 0.0.0.0 collector-a.perimeterx.net
-0.0.0.0 collector-grpc.lightstep.com
-0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
@@ -4084,7 +4070,6 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.insight-stats.com
 0.0.0.0 collector.leaddyno.com
-0.0.0.0 collector.lightstep.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector.placelocal.com
 0.0.0.0 collector.pyze.com
@@ -4479,9 +4464,6 @@
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
-0.0.0.0 d365portal-prod-sdk.akstd.azureedge.net
-0.0.0.0 d365portal-prod-sdk.azureedge.net
-0.0.0.0 d365prod-sdk.azureedge.net
 0.0.0.0 d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3fd89.r.axf8.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
@@ -4940,7 +4922,6 @@
 0.0.0.0 em.subiz.com
 0.0.0.0 email-login-support.com
 0.0.0.0 email-reflex.com
-0.0.0.0 emea-west.jitterbit.com
 0.0.0.0 emediate.se
 0.0.0.0 emits.iptvdeals.com
 0.0.0.0 emjcd.com
@@ -5067,7 +5048,6 @@
 0.0.0.0 espdesign.com.au
 0.0.0.0 espn-ak.starwave.com
 0.0.0.0 espresso-reklam.eu
-0.0.0.0 esri.mobile311.com
 0.0.0.0 estat.com
 0.0.0.0 estoa.frost-electric-supply.com
 0.0.0.0 et-code.ru
@@ -5089,7 +5069,6 @@
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euapi.ibm.xtify.com
 0.0.0.0 eue.collect-opnet.com
-0.0.0.0 eula.mindspark.com
 0.0.0.0 euro-vertrieb.com
 0.0.0.0 euroad1.advantage.as
 0.0.0.0 europacash.com
@@ -6055,8 +6034,6 @@
 0.0.0.0 images1.cliqueclack.com
 0.0.0.0 images2.advanstar.com
 0.0.0.0 imagescroll.detik.com
-0.0.0.0 imapi-mu.isnssdk.com
-0.0.0.0 imapi-sg.isnssdk.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imb-offerwall-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 img-cloudflare-2.haizap.com
@@ -6732,7 +6709,6 @@
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.which.co.uk
 0.0.0.0 logsdk.qq.com
-0.0.0.0 logservices.ipass.com
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 lonelycheatingwives.com
 0.0.0.0 longtraffic.com
@@ -7293,7 +7269,6 @@
 0.0.0.0 milleniumpapelaria.com.br
 0.0.0.0 millennialmedia.com
 0.0.0.0 millicom.pushwoosh.com
-0.0.0.0 milliyetreklam-p.mncdn.com
 0.0.0.0 min.admicro.vn
 0.0.0.0 mindmemobile.com
 0.0.0.0 mindstormstudio.ro
@@ -7629,7 +7604,6 @@
 0.0.0.0 n214adserv.com
 0.0.0.0 n339.asp-cc.com
 0.0.0.0 na-api.mobile.inrix.com
-0.0.0.0 na-east.jitterbit.com
 0.0.0.0 nabina.iad-03.braze.com
 0.0.0.0 nadegda-95.ru
 0.0.0.0 naiadsystems.com
@@ -7923,7 +7897,6 @@
 0.0.0.0 oknarai.ru
 0.0.0.0 oktrk.com
 0.0.0.0 olb.pns.kt.com
-0.0.0.0 om-datacollector.ipass.com
 0.0.0.0 om.blockbuster.com
 0.0.0.0 om.businessweek.com
 0.0.0.0 om.cbsi.com
@@ -8960,7 +8933,6 @@
 0.0.0.0 responsys.net
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
-0.0.0.0 rest.mobilerealtyapps.com
 0.0.0.0 rest.segmentify.com
 0.0.0.0 rest.sharethis.com
 0.0.0.0 restartad.com
@@ -9379,7 +9351,6 @@
 0.0.0.0 sdk.inlocoengage.com
 0.0.0.0 sdk.inlocomedia.com
 0.0.0.0 sdk.jeeng.com
-0.0.0.0 sdk.kamcord.com
 0.0.0.0 sdk.kingoapp.com
 0.0.0.0 sdk.loveota.net
 0.0.0.0 sdk.markable.ai
@@ -9590,7 +9561,6 @@
 0.0.0.0 serving.pixsense.net
 0.0.0.0 servs.adblox.net
 0.0.0.0 sessionm.com
-0.0.0.0 sessions.mobileroadie.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 settings.crashlytics.com
@@ -9697,7 +9667,6 @@
 0.0.0.0 skidki-yuga.ru
 0.0.0.0 skiholidays4beginners.com
 0.0.0.0 skimlinkscom.skimlinks.com
-0.0.0.0 skin.mobilesentrix.com
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 slate-ad-scripts.s3.amazonaws.com
 0.0.0.0 slc.stats.paypal.com
