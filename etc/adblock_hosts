@@ -1,4 +1,4 @@
-172.217.30.168 ssl.google-analytics.com
+172.217.162.104 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3669,8 +3669,11 @@
 0.0.0.0 cdn3-analytics.ladmedia.fr
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.doubleverify.com
+0.0.0.0 cdn3.emediate.eu
 0.0.0.0 cdn4.buysellads.net
+0.0.0.0 cdn6.emediate.eu
 0.0.0.0 cdn7.rocks
+0.0.0.0 cdn8.emediate.eu
 0.0.0.0 cdna.runadtag.com
 0.0.0.0 cdnads.cam4.com
 0.0.0.0 cdnimg.izooto.com
@@ -4842,6 +4845,12 @@
 0.0.0.0 earth-111.com
 0.0.0.0 earthcontrolsys.com
 0.0.0.0 eas.almamedia.fi
+0.0.0.0 eas1.emediate.eu
+0.0.0.0 eas2.emediate.eu
+0.0.0.0 eas3.emediate.eu
+0.0.0.0 eas4.emediate.eu
+0.0.0.0 eas5.emediate.eu
+0.0.0.0 eas8.emediate.eu
 0.0.0.0 east5.mobileadtrading.com
 0.0.0.0 eastmoney.allyes.com
 0.0.0.0 easy-dating.org
@@ -6263,6 +6272,7 @@
 0.0.0.0 is2.websearch.com
 0.0.0.0 isl.punchh.com
 0.0.0.0 ism2trk.com
+0.0.0.0 ism6.emediate.eu
 0.0.0.0 isnssdk.com.edgekey.net
 0.0.0.0 isonomia.com.ar
 0.0.0.0 isralink.net
@@ -9605,7 +9615,6 @@
 0.0.0.0 show.adzpower.com
 0.0.0.0 show.onenetworkdirect.net
 0.0.0.0 siads.sv.publicus.com
-0.0.0.0 sidecar.gitter.im
 0.0.0.0 sieltre.it
 0.0.0.0 sift-campaign-creatives.s3.amazonaws.com
 0.0.0.0 sightings.gimbal.com
