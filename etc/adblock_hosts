@@ -1,4 +1,4 @@
-172.217.162.104 ssl.google-analytics.com
+172.217.28.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3246,10 +3246,6 @@
 0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 botd.wordpress.com
 0.0.0.0 botd2.wordpress.com
-0.0.0.0 bounce-mx.exacttarget.com
-0.0.0.0 bounce.exacttarget.com
-0.0.0.0 bounce.s10.exacttarget.com
-0.0.0.0 bounce.s7.exacttarget.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 box.bg
@@ -3269,7 +3265,6 @@
 0.0.0.0 brainfox.com
 0.0.0.0 brainient.com
 0.0.0.0 branch.io
-0.0.0.0 brandcdn.exacttarget.com
 0.0.0.0 brands.datahc.com
 0.0.0.0 branovate.com
 0.0.0.0 braverymob.fusetracking.com
@@ -4291,11 +4286,6 @@
 0.0.0.0 cqji.artidentalkurs.com
 0.0.0.0 cqlupb.com
 0.0.0.0 cr.appsee.com
-0.0.0.0 cr114.mta.exacttarget.com
-0.0.0.0 cr144.mta.exacttarget.com
-0.0.0.0 cr171.mta.exacttarget.com
-0.0.0.0 cr71.mta.exacttarget.com
-0.0.0.0 cr91.mta.exacttarget.com
 0.0.0.0 crab.baidu.com
 0.0.0.0 cracks.vg
 0.0.0.0 crackserver.com
@@ -4393,8 +4383,6 @@
 0.0.0.0 cv.bsvideos.com
 0.0.0.0 cvr.ad-brix.com
 0.0.0.0 cvshealth.com.edgekey.net
-0.0.0.0 cw23.mta.exacttarget.com
-0.0.0.0 cw230.mta.exacttarget.com
 0.0.0.0 cwmgaming.com
 0.0.0.0 cws-cctv.conviva.com
 0.0.0.0 cws-eu-west-1.conviva.com
@@ -4609,14 +4597,9 @@
 0.0.0.0 deviceslogger.netsparkmobile.com
 0.0.0.0 devs.data.mob.com
 0.0.0.0 dezuiderwaard.nl
-0.0.0.0 df12.mta.exacttarget.com
-0.0.0.0 df140.mta.exacttarget.com
-0.0.0.0 df177.mta.exacttarget.com
-0.0.0.0 df57.mta.exacttarget.com
 0.0.0.0 dfs.digitalaccess.ru
 0.0.0.0 dft.cl.dynad.net
 0.0.0.0 dg.specificclick.net
-0.0.0.0 dg7.mta.exacttarget.com
 0.0.0.0 dh16.prod.glu-wa.com
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 dia-traffic.com
@@ -6012,7 +5995,6 @@
 0.0.0.0 image.mediabong.com
 0.0.0.0 image.moengage.com
 0.0.0.0 image.richrelevance.com
-0.0.0.0 image.s7.exacttarget.com
 0.0.0.0 imageplus.baidu.com
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
@@ -6119,15 +6101,6 @@
 0.0.0.0 inapi.posst.co
 0.0.0.0 inapps.moengage.com
 0.0.0.0 inari.iad-03.braze.com
-0.0.0.0 inbound-reply.s1.exacttarget.com
-0.0.0.0 inbound-reply.s4.exacttarget.com
-0.0.0.0 inbound-reply.s6.exacttarget.com
-0.0.0.0 inbound-reply.s7.exacttarget.com
-0.0.0.0 inbound.s1.exacttarget.com
-0.0.0.0 inbound.s4.exacttarget.com
-0.0.0.0 inbound.s5.exacttarget.com
-0.0.0.0 inbound.s6.exacttarget.com
-0.0.0.0 inbound.s7.exacttarget.com
 0.0.0.0 incentaclick.com
 0.0.0.0 incentivenetworks2.com
 0.0.0.0 inceptionads.go2cloud.org
@@ -6928,8 +6901,6 @@
 0.0.0.0 mbox.offermatica.intuit.com
 0.0.0.0 mc.exacttarget.com
 0.0.0.0 mc.s10.exacttarget.com
-0.0.0.0 mc.s4.exacttarget.com
-0.0.0.0 mc.s6.exacttarget.com
 0.0.0.0 mc.s7.exacttarget.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcafee-home.7eer.net
@@ -8168,11 +8139,6 @@
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank.jklir.net
 0.0.0.0 pagerank10.co.uk
-0.0.0.0 pages.exacttarget.com
-0.0.0.0 pages.s4.exacttarget.com
-0.0.0.0 pages.s6.exacttarget.com
-0.0.0.0 pages.s7.exacttarget.com
-0.0.0.0 pages.virt.exacttarget.com
 0.0.0.0 pagestat.mmi.bemobile.ua
 0.0.0.0 paidstats.com
 0.0.0.0 paime.com
@@ -8908,10 +8874,6 @@
 0.0.0.0 rentfromart.com
 0.0.0.0 rep.logentries.com
 0.0.0.0 replay.foreseeresults.com
-0.0.0.0 reply-mx.s6.exacttarget.com
-0.0.0.0 reply-mx.s7.exacttarget.com
-0.0.0.0 reply.exacttarget.com
-0.0.0.0 reply.s10.exacttarget.com
 0.0.0.0 reporo.net
 0.0.0.0 report.adview.cn
 0.0.0.0 report.appmetrica.yandex.net
@@ -11455,8 +11417,6 @@
 0.0.0.0 vietbuzzad.com
 0.0.0.0 view.admission.net
 0.0.0.0 view.binlayer.com
-0.0.0.0 view.exacttarget.com
-0.0.0.0 view.virt.exacttarget.com
 0.0.0.0 viewclc.com
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
@@ -11468,10 +11428,6 @@
 0.0.0.0 vip2.clickzzs.nl
 0.0.0.0 vipcpms.com
 0.0.0.0 vipdn123.blackapplehost.com
-0.0.0.0 virt.s10.exacttarget.com
-0.0.0.0 virt.s4.exacttarget.com
-0.0.0.0 virt.s6.exacttarget.com
-0.0.0.0 virt.s7.exacttarget.com
 0.0.0.0 virtualsurfer.com
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visit.theglobeandmail.com
