@@ -1,4 +1,4 @@
-216.58.202.8 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3549,7 +3549,6 @@
 0.0.0.0 cdn.coinad.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.contentspread.net
-0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn.crowdtwist.com
 0.0.0.0 cdn.curalate.com
@@ -8466,7 +8465,6 @@
 0.0.0.0 preprod.accengage.com
 0.0.0.0 preroll.a4.tl
 0.0.0.0 presage.io
-0.0.0.0 presence-grpc-noneu.truecaller.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 prexyone.appspot.com
 0.0.0.0 pride-u-bike.com
