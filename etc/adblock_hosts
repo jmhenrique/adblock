@@ -1,4 +1,4 @@
-216.58.202.200 ssl.google-analytics.com
+172.217.29.136 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -4620,7 +4620,6 @@
 0.0.0.0 dynamic1.dailytech.com
 0.0.0.0 dynamic2.anandtech.com
 0.0.0.0 dynamicyield.com
-0.0.0.0 dynatrace.com
 0.0.0.0 dyntrk.com
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0 dzl.baidu.com
@@ -6122,6 +6121,7 @@
 0.0.0.0 jrs.a4.tl
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-at.goldbach.com
+0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 js-sdk.atom-data.io
 0.0.0.0 js.adlink.net
 0.0.0.0 js.admedia.io
