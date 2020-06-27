@@ -1,4 +1,4 @@
-172.217.173.104 ssl.google-analytics.com
+172.217.172.136 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2305,7 +2305,6 @@
 0.0.0.0 api.connecto.io
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.crashlytics.com
-0.0.0.0 api.crowdin.com
 0.0.0.0 api.crowdtangle.com
 0.0.0.0 api.crowdtwist.com
 0.0.0.0 api.datadoghq.com
@@ -3731,7 +3730,6 @@
 0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud.appcelerator.com
-0.0.0.0 cloud.datapipe.com
 0.0.0.0 cloud.datasphere.com
 0.0.0.0 cloud.internetstores.com
 0.0.0.0 cloudads-a.akamaihd.net
@@ -4170,7 +4168,6 @@
 0.0.0.0 crimg.sv.publicus.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 crispmedia.com
-0.0.0.0 crispwireless.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 criticalmass-content.getmetrical.com
@@ -4186,7 +4183,6 @@
 0.0.0.0 crosspromo.zeptolab.com
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 crosspromotion.weplayer.cc
-0.0.0.0 crossrider.com
 0.0.0.0 crow.mezzobit.com
 0.0.0.0 crowd.fyber.com
 0.0.0.0 crs.baidu.com
@@ -5098,7 +5094,6 @@
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
 0.0.0.0 flyingcroc.com
-0.0.0.0 fm.cnbc.com
 0.0.0.0 fm.duokanbox.com
 0.0.0.0 fmpub.net
 0.0.0.0 fms2.eyewonder.speedera.net
@@ -7250,7 +7245,6 @@
 0.0.0.0 mpp.specificclick.net
 0.0.0.0 mprezchc.com
 0.0.0.0 mprptrk.com
-0.0.0.0 mps.cnbc.com
 0.0.0.0 mpxxtrk.com
 0.0.0.0 ms-mvp.org
 0.0.0.0 ms.adpremium.org
@@ -7696,7 +7690,6 @@
 0.0.0.0 ondemand.tf-cdn.net
 0.0.0.0 one-door.com
 0.0.0.0 one.cam4ads.com
-0.0.0.0 one.datapipe.com
 0.0.0.0 one.pushwoosh.com
 0.0.0.0 onedmp.com
 0.0.0.0 onedrive.su
