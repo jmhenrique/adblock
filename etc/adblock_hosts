@@ -1,4 +1,4 @@
-172.217.30.168 ssl.google-analytics.com
+216.58.202.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2309,6 +2309,7 @@
 0.0.0.0 api.crowdtwist.com
 0.0.0.0 api.datadoghq.com
 0.0.0.0 api.destinationrewards.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.doumob.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.factual.com
@@ -2399,6 +2400,7 @@
 0.0.0.0 api.sdk.fmobi.cn
 0.0.0.0 api.sdk.wiman.io
 0.0.0.0 api.sdkbox.com
+0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.sentiance.com
 0.0.0.0 api.siftscience.com
