@@ -1,4 +1,4 @@
-172.217.30.168 ssl.google-analytics.com
+172.217.29.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -290,7 +290,6 @@
 0.0.0.0 a.shop.com
 0.0.0.0 a.spicetv.com
 0.0.0.0 a.steepto.com
-0.0.0.0 a.stun.kaptcha.com
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 a.tiscali.co.uk
 0.0.0.0 a.trkme.net
@@ -2721,12 +2720,6 @@
 0.0.0.0 axonix.com
 0.0.0.0 ay.eastmoney.com
 0.0.0.0 ayboll.sgsrv.com
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az413505.vo.msecnd.net
-0.0.0.0 az416426.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 az598575.vo.msecnd.net
-0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 azoos.csheaven.com
 0.0.0.0 b.6sc.co
 0.0.0.0 b.adexchangemachine.com
@@ -9639,7 +9632,6 @@
 0.0.0.0 ssl.clickbank.net
 0.0.0.0 ssl.gft2.de
 0.0.0.0 ssl.gridsumdissector.com
-0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.linksynergy.com
 0.0.0.0 ssl.lomadee.com
 0.0.0.0 ssl.siteimprove.com
@@ -10748,7 +10740,6 @@
 0.0.0.0 tscl.com.bd
 0.0.0.0 tsgonline.com
 0.0.0.0 tsmtrk.com
-0.0.0.0 tst.kaptcha.com
 0.0.0.0 tt.adcocktail.com
 0.0.0.0 tt11.adobe.com
 0.0.0.0 ttb.tbddlw.com
