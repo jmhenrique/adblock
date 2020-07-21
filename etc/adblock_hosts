@@ -1,4 +1,4 @@
-172.217.29.168 ssl.google-analytics.com
+172.217.173.72 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -4734,7 +4734,6 @@
 0.0.0.0 emrlogistics.com
 0.0.0.0 ems2bmen.com
 0.0.0.0 emxdgt.com
-0.0.0.0 emxdigital.com
 0.0.0.0 enchantier.com
 0.0.0.0 eng.trkcnv.com
 0.0.0.0 engage-network.influencemobile.com
@@ -4795,7 +4794,6 @@
 0.0.0.0 engage8829thscr.deltadna.net
 0.0.0.0 engage9306klmvt.deltadna.net
 0.0.0.0 engage9822snprs.deltadna.net
-0.0.0.0 engagebdr.com
 0.0.0.0 engageiq.pushcrew.com
 0.0.0.0 engagement-collector.mobify.net
 0.0.0.0 engagement.inmarket.com
@@ -4827,7 +4825,6 @@
 0.0.0.0 eps-analyzer.de
 0.0.0.0 epsilon.iad-03.braze.com
 0.0.0.0 eqs-redserver.appspot.com
-0.0.0.0 eqworks.com
 0.0.0.0 erodynamics.nl
 0.0.0.0 eroov.iptvdeals.com
 0.0.0.0 err.000webhost.com
@@ -4846,7 +4843,6 @@
 0.0.0.0 ertya.com
 0.0.0.0 erulus.iad-03.braze.com
 0.0.0.0 erupt.fernetmoretti.com.ar
-0.0.0.0 esellerate.net
 0.0.0.0 esoad.frost-electric-supply.com
 0.0.0.0 espdesign.com.au
 0.0.0.0 espn-ak.starwave.com
@@ -9019,7 +9015,6 @@
 0.0.0.0 sdk.dofunapps.com
 0.0.0.0 sdk.dotui.cn
 0.0.0.0 sdk.dreamflyuu.com
-0.0.0.0 sdk.engage.co
 0.0.0.0 sdk.fevo.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 sdk.follow-apps.com
@@ -9921,7 +9916,6 @@
 0.0.0.0 statto.plus8.net
 0.0.0.0 status.appsee.com
 0.0.0.0 status.batch.com
-0.0.0.0 status.engage.co
 0.0.0.0 status.pushwoosh.com
 0.0.0.0 status.taplytics.com
 0.0.0.0 status.urbanairship.com
@@ -11016,7 +11010,6 @@
 0.0.0.0 v.w-x.co
 0.0.0.0 v1.iad1.bitgravity.com
 0.0.0.0 v2.urlads.net
-0.0.0.0 v3dev.estream.com
 0.0.0.0 v5.chinoc.net
 0.0.0.0 v8-collector-live.us-west-2.elasticbeanstalk.com
 0.0.0.0 v8-qa.analytics.pinsightmedia.com
@@ -11199,7 +11192,6 @@
 0.0.0.0 wallet-api.urbanairship.com
 0.0.0.0 wallpapers91.com
 0.0.0.0 wap-click.com
-0.0.0.0 wapi.engage.co
 0.0.0.0 waps.cn
 0.0.0.0 wapstart.ru
 0.0.0.0 warco.pl
@@ -11442,7 +11434,6 @@
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 xclicks.net
 0.0.0.0 xdcs-collector.ximalaya.com
-0.0.0.0 xdomain.engage.co
 0.0.0.0 xdrig.com
 0.0.0.0 xed.pl
 0.0.0.0 xenon.iad-03.braze.com
