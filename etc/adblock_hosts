@@ -1,4 +1,4 @@
-172.217.173.104 ssl.google-analytics.com
+172.217.29.136 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3511,6 +3511,7 @@
 0.0.0.0 cdn.triggertag.gorillanation.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn.yb0t.com
+0.0.0.0 cdn.yldbt.com
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1.adcdnx.com
 0.0.0.0 cdn1.adspace.4tube.com
@@ -5685,6 +5686,7 @@
 0.0.0.0 i.psa-ads.openx.com
 0.0.0.0 i.trkjmp.com
 0.0.0.0 i.xx.openx.com
+0.0.0.0 i.yldbt.com
 0.0.0.0 i16-tb.isnssdk.com
 0.0.0.0 i2.myapkcdn.in
 0.0.0.0 i2ad.jp
