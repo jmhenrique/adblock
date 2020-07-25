@@ -1,4 +1,4 @@
-172.217.29.136 ssl.google-analytics.com
+172.217.30.104 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2240,7 +2240,6 @@
 0.0.0.0 api-production.dwell.com
 0.0.0.0 api-rewarded-video.fyber.com
 0.0.0.0 api-scsdk.appcloudbox.net
-0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api-vip.immomo.com
 0.0.0.0 api.1mobile.com
 0.0.0.0 api.247-inc.net
@@ -2410,7 +2409,6 @@
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.taps.io
 0.0.0.0 api.tapstream.com
-0.0.0.0 api.tinypass.com
 0.0.0.0 api.toboads.com
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.tusdk.com
@@ -3181,7 +3179,6 @@
 0.0.0.0 burstly.com
 0.0.0.0 burstnet.com
 0.0.0.0 buscamundo.com
-0.0.0.0 buy.tinypass.com
 0.0.0.0 buy404s.com
 0.0.0.0 buycheapadvertising.com
 0.0.0.0 buyhitscheap.com
@@ -3504,7 +3501,6 @@
 0.0.0.0 cdn.tapstream.com
 0.0.0.0 cdn.targetfuel.com
 0.0.0.0 cdn.teamskeetimages.com
-0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.total-media.net
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.trafficstars.com
@@ -5098,7 +5094,6 @@
 0.0.0.0 fodder.tc.qq.com
 0.0.0.0 folkd.put.omnimon.de
 0.0.0.0 fondazioneciampi.org
-0.0.0.0 fonts.tinypass.com
 0.0.0.0 foreign.nearme.com.cn
 0.0.0.0 forexadv.eu
 0.0.0.0 formessengers.com
@@ -5726,7 +5721,6 @@
 0.0.0.0 iconpeak.com
 0.0.0.0 icybrand.eu
 0.0.0.0 id.get35.com
-0.0.0.0 id.tinypass.com
 0.0.0.0 id1.cn
 0.0.0.0 id1.cn.com
 0.0.0.0 id3103.com
@@ -8010,7 +8004,6 @@
 0.0.0.0 phpadsnew.wn.com
 0.0.0.0 phunware.com
 0.0.0.0 pi.pardot.com
-0.0.0.0 piano.io
 0.0.0.0 pic.starsarabian.com
 0.0.0.0 piccdn.igetget.com
 0.0.0.0 pics.kolmic.com
@@ -9017,7 +9010,6 @@
 0.0.0.0 sdk.dofunapps.com
 0.0.0.0 sdk.dotui.cn
 0.0.0.0 sdk.dreamflyuu.com
-0.0.0.0 sdk.fevo.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 sdk.follow-apps.com
 0.0.0.0 sdk.fra-01.braze.eu
