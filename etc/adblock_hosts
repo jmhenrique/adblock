@@ -1,4 +1,4 @@
-172.217.28.232 ssl.google-analytics.com
+172.217.28.72 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3781,7 +3781,6 @@
 0.0.0.0 code.adsales.snidigital.com
 0.0.0.0 code.adtlgc.com
 0.0.0.0 code.d-agency.net
-0.0.0.0 code.etracker.com
 0.0.0.0 code.metalocator.com
 0.0.0.0 code.rtbsystem.com
 0.0.0.0 code.theads.me
@@ -9738,7 +9737,6 @@
 0.0.0.0 static.dynad.net
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.emporis.com
-0.0.0.0 static.etracker.com
 0.0.0.0 static.fleshlight.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.gridsumdissector.com
