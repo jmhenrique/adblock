@@ -1,4 +1,4 @@
-172.217.162.200 ssl.google-analytics.com
+172.217.30.40 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2409,7 +2409,6 @@
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-c.net
 0.0.0.0 app-config.enhance.co
-0.0.0.0 app-eu.clickdimensions.com
 0.0.0.0 app-icons.apptentive.com
 0.0.0.0 app-log.immomo.com
 0.0.0.0 app-measurement.com
@@ -2423,7 +2422,6 @@
 0.0.0.0 app.bm23.com
 0.0.0.0 app.bugfender.com
 0.0.0.0 app.bugreplay.com
-0.0.0.0 app.clickdimensions.com
 0.0.0.0 app.clickyab.com
 0.0.0.0 app.cobrowser.com
 0.0.0.0 app.datorama.com
@@ -3438,7 +3436,6 @@
 0.0.0.0 cdn.triggertag.gorillanation.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn.yb0t.com
-0.0.0.0 cdn.yldbt.com
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1.adcdnx.com
 0.0.0.0 cdn1.adspace.4tube.com
@@ -4627,8 +4624,6 @@
 0.0.0.0 elew72isst.rr.nu
 0.0.0.0 eliehabib.com
 0.0.0.0 eligibility.wootric.com
-0.0.0.0 elink.clickdimensions.com
-0.0.0.0 elinkeu.clickdimensions.com
 0.0.0.0 elisaart.it
 0.0.0.0 eliteconcepts.com
 0.0.0.0 ellads.com
@@ -4942,10 +4937,8 @@
 0.0.0.0 fiksu.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fileconvertertab.com
-0.0.0.0 files-eu.clickdimensions.com
 0.0.0.0 files.adspdbl.com
 0.0.0.0 files.appsgeyser.com
-0.0.0.0 files.clickdimensions.com
 0.0.0.0 files.dsnetwb.com
 0.0.0.0 files.native.ad
 0.0.0.0 filev4.subiz.com
@@ -5587,7 +5580,6 @@
 0.0.0.0 i.po.st
 0.0.0.0 i.psa-ads.openx.com
 0.0.0.0 i.trkjmp.com
-0.0.0.0 i.yldbt.com
 0.0.0.0 i16-tb.isnssdk.com
 0.0.0.0 i2.myapkcdn.in
 0.0.0.0 i2ad.jp
