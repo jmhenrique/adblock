@@ -1,4 +1,4 @@
-172.217.30.104 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3145,6 +3145,7 @@
 0.0.0.0 c.bing.com
 0.0.0.0 c.cfjump.com
 0.0.0.0 c.channeltraffic.net
+0.0.0.0 c.cintnetworks.com
 0.0.0.0 c.codeonclick.com
 0.0.0.0 c.data.mob.com
 0.0.0.0 c.ecliks.com
@@ -3528,8 +3529,6 @@
 0.0.0.0 cibleclick.com
 0.0.0.0 ciclismovalenciano.com
 0.0.0.0 cifor.com
-0.0.0.0 cint.com
-0.0.0.0 cintnetworks.com
 0.0.0.0 ciq-st.nielsen.com
 0.0.0.0 ciq.dmpxs.com
 0.0.0.0 cityads.ru
@@ -3832,6 +3831,7 @@
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
+0.0.0.0 collector.cint.com
 0.0.0.0 collector.doordash.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.insight-stats.com
@@ -8252,6 +8252,7 @@
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
 0.0.0.0 qlink.fusion.pinsightmedia.com
+0.0.0.0 qps.cint.com
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
