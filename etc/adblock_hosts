@@ -3498,7 +3498,6 @@
 0.0.0.0 cg-global.maxymiser.com
 0.0.0.0 cgi.honesty.com
 0.0.0.0 chanalytics.merchantadvantage.com
-0.0.0.0 changelog.taplytics.com
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
 0.0.0.0 chappel.videogamer.com
@@ -4052,6 +4051,7 @@
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
+0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 craveandlamb.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
@@ -6128,7 +6128,6 @@
 0.0.0.0 lab.admicro.vn
 0.0.0.0 labs.comscore.com
 0.0.0.0 labs.natpal.com
-0.0.0.0 labs.taplytics.com
 0.0.0.0 ladycash.ru
 0.0.0.0 lalande.iad-03.braze.com
 0.0.0.0 lampenwelttracksdk.optimove.net
@@ -6613,7 +6612,6 @@
 0.0.0.0 media2.admicro.vn
 0.0.0.0 media2.netrefer.com
 0.0.0.0 media2.travelzoo.com
-0.0.0.0 media24.pushwoosh.com
 0.0.0.0 media3.admicro.vn
 0.0.0.0 media4.admicro.vn
 0.0.0.0 media5.admicro.vn
@@ -6881,7 +6879,6 @@
 0.0.0.0 millenialmedia.com
 0.0.0.0 milleniumpapelaria.com.br
 0.0.0.0 millennialmedia.com
-0.0.0.0 millicom.pushwoosh.com
 0.0.0.0 min.admicro.vn
 0.0.0.0 mindmemobile.com
 0.0.0.0 mindstormstudio.ro
@@ -7022,7 +7019,6 @@
 0.0.0.0 mobisla.com
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
-0.0.0.0 moblin.pushwoosh.com
 0.0.0.0 moblink.mob.com
 0.0.0.0 mobobeat.com
 0.0.0.0 mobojs.baidu.com
@@ -7545,7 +7541,6 @@
 0.0.0.0 ondemand.tf-cdn.net
 0.0.0.0 one-door.com
 0.0.0.0 one.cam4ads.com
-0.0.0.0 one.pushwoosh.com
 0.0.0.0 onedmp.com
 0.0.0.0 onedrive.su
 0.0.0.0 onepush.query.yahoo.com
@@ -7693,7 +7688,6 @@
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 oxybe.com
 0.0.0.0 ozertesa.com
-0.0.0.0 ozon.pushwoosh.com
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p-jp-cci-dps.cinarra.com
 0.0.0.0 p-jp-elb-inmobi.cinarra.com
@@ -9722,10 +9716,6 @@
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 statto.plus8.net
 0.0.0.0 status.appsee.com
-0.0.0.0 status.batch.com
-0.0.0.0 status.pushwoosh.com
-0.0.0.0 status.taplytics.com
-0.0.0.0 status.urbanairship.com
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 std.o.webmd.com
@@ -11156,7 +11146,6 @@
 0.0.0.0 wp1.cor-natty.com
 0.0.0.0 wp9.ru
 0.0.0.0 wpcdn1.herokuapp.com
-0.0.0.0 wpengine.taplytics.com
 0.0.0.0 wpm.neustar.biz
 0.0.0.0 wpsconfig4svr.elasticbeanstalk.com
 0.0.0.0 wqmobile.com
