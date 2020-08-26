@@ -1,4 +1,4 @@
-216.58.202.200 ssl.google-analytics.com
+216.58.202.136 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -900,6 +900,7 @@
 0.0.0.0 ads.kontextua.com
 0.0.0.0 ads.kozmetika-bg.com
 0.0.0.0 ads.kyalon.net
+0.0.0.0 ads.latinongroup.com
 0.0.0.0 ads.lesbianpersonals.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
@@ -1243,6 +1244,7 @@
 0.0.0.0 adservice.aliexpress.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.tr
+0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.ie
@@ -5924,7 +5926,6 @@
 0.0.0.0 naughtyadserve.com
 0.0.0.0 navdmp.com
 0.0.0.0 nb.myspace.com
-0.0.0.0 nba.com.edgekey.net
 0.0.0.0 nbc.interpolls.com
 0.0.0.0 nbimg.dt00.net
 0.0.0.0 nbjmp.com
