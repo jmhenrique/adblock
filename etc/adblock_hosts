@@ -1,4 +1,4 @@
-172.217.30.40 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -451,7 +451,6 @@
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adashxgc.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -1581,7 +1580,6 @@
 0.0.0.0 amazon.vrvm.com
 0.0.0.0 ambient-platform.com
 0.0.0.0 ambulanciaslazaro.com
-0.0.0.0 amdc.m.taobao.com
 0.0.0.0 americancareconcept.com
 0.0.0.0 aminev.com
 0.0.0.0 amoad.com
@@ -7099,7 +7097,6 @@
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.btstatic.com
 0.0.0.0 s.click.aliexpress.com
-0.0.0.0 s.click.taobao.com
 0.0.0.0 s.d.adup-tech.com
 0.0.0.0 s.idio.co
 0.0.0.0 s.infogram.com
@@ -9196,7 +9193,6 @@
 0.0.0.0 womsy.bobbutcher.net
 0.0.0.0 wonchangvacuum.com.my
 0.0.0.0 wonderlandads.com
-0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 wootric.com.herokudns.com
 0.0.0.0 wopper.bioblitzgaming.ca
