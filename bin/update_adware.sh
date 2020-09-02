@@ -1,4 +1,5 @@
 #!/bin/sh
+export local 
 touch /etc/dnsmasq.whitelist
 touch /etc/dnsmasq.blacklist
 down_hosts() { 
@@ -24,7 +25,7 @@ remove() {
 while read a
 do
 grep "=/$a/" /etc/dnsmasq.conf >/dev/null && sed -i "/=\/$a\//d" /etc/dnsmasq.conf 
-grep "/ $a$/" /tmp/adblock_hosts && sed -i "/ $a$/d" /tmp/adblock_hosts 
+grep " $a$" /tmp/adblock_hosts >/dev/null && sed -i "/ $a$/d" /tmp/adblock_hosts
 done </etc/dnsmasq.whitelist
 }
 
@@ -45,9 +46,24 @@ logger -t logger -t "Adblock" -s "Already Update"
 }
 
 
-test -f "/etc/adblock_serial" && local=$(head -n1 "/etc/adblock_serial" | awk '{ print $1}') || $(echo 0 >/etc/adblock_serial; local=$(head -n1 "/etc/adblock_serial" | awk '{ print $1}')) 
+test -f "/etc/adblock_serial" && local=$(head -n1 "/etc/adblock_serial" | awk '{ print $1}') || (echo 0 >/etc/adblock_serial
+local=$(head -n1 "/etc/adblock_serial" | awk '{ print $1}') ) 
 remoto=$(curl -k 'https://raw.githubusercontent.com/jmhenrique/adblock/master/etc/adblock_serial'  2>/null )
-test $local -lt $remoto && $(echo "$remoto" >/etc/adblock_serial ; down_hosts ; down_dnsmasq_conf ; log1 ; alter_blacklists ;conf_dnsmasq ; alter_whitelists ; restart ; log2) || log3
-test -f "/tmp/adblock_hosts" ||$(down_hosts ; remove ; restart ; log2 )
+test $local -lt $remoto && (echo "$remoto" >/etc/adblock_serial
+down_hosts
+down_dnsmasq_conf
+log1
+alter_blacklists 
+conf_dnsmasq 
+alter_whitelists
+restart 
+log2 ) || log3
 
-exit 0
+test -f "/tmp/adblock_hosts" || (down_hosts 
+remove
+restart
+log2 )
+
+cat /etc/dnsmasq.fixos >>/etc/dnsmasq.conf 
+grep ^$   /etc/dnsmasq.conf >/dev/null && sed -i '/^$/d' /etc/dnsmasq.conf
+exit 0 
