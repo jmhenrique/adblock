@@ -1,4 +1,4 @@
-216.58.202.168 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -313,7 +313,6 @@
 0.0.0.0 ad-stir.com
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.9tv.co.il
-0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.ad-arata.com
 0.0.0.0 ad.ad-srv.net
@@ -2961,7 +2960,6 @@
 0.0.0.0 cleardexchange.com
 0.0.0.0 clevernt.com
 0.0.0.0 cli.linksynergy.com
-0.0.0.0 click.a-ads.com
 0.0.0.0 click.adpremium.org
 0.0.0.0 click.bes.baidu.com
 0.0.0.0 click.cheapstuff.com
@@ -7812,7 +7810,6 @@
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-uk.addynamo.net
 0.0.0.0 static.4chan-ads.org
-0.0.0.0 static.a-ads.com
 0.0.0.0 static.adacado.com
 0.0.0.0 static.adbutter.net
 0.0.0.0 static.addynamo.net
