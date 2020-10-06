@@ -1,4 +1,4 @@
-172.217.30.104 ssl.google-analytics.com
+172.217.28.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2373,6 +2373,7 @@
 0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.rum.dynapis.info
+0.0.0.0 beacon.s-onetag.com
 0.0.0.0 beacon.searchlinks.com
 0.0.0.0 beacon.securestudies.com
 0.0.0.0 beacon.shazam.com
@@ -3211,6 +3212,7 @@
 0.0.0.0 configuration.ttpsdk.info
 0.0.0.0 configusa.veinteractive.com
 0.0.0.0 connatix.com
+0.0.0.0 connect-metrics-collector.s-onetag.com
 0.0.0.0 connect.scroll.com
 0.0.0.0 connect5364.com
 0.0.0.0 connectionzone.com
@@ -4255,6 +4257,7 @@
 0.0.0.0 generalchemicalsupply.com
 0.0.0.0 genieessp.com
 0.0.0.0 gennaroespositomilano.it
+0.0.0.0 geo-location.s-onetag.com
 0.0.0.0 geo-tracker.smadex.com
 0.0.0.0 geo.connexionsecure.com
 0.0.0.0 geo.crtracklink.com
@@ -4295,6 +4298,7 @@
 0.0.0.0 geoworker.ayads.co
 0.0.0.0 gernewt.info
 0.0.0.0 get.mycounter.com.ua
+0.0.0.0 get.s-onetag.com
 0.0.0.0 getclicky.com
 0.0.0.0 getdatanetukscan.info
 0.0.0.0 getiton.com
@@ -6170,6 +6174,8 @@
 0.0.0.0 onesignal.com
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
+0.0.0.0 onetag-geo-grouping.s-onetag.com
+0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetrust.mgr.consensu.org
 0.0.0.0 onlgc.voluumtrk.com
 0.0.0.0 onlinadverts.com
@@ -7457,6 +7463,7 @@
 0.0.0.0 siads.sv.publicus.com
 0.0.0.0 sieltre.it
 0.0.0.0 sightings.gimbal.com
+0.0.0.0 signal-metrics-collector-beta.s-onetag.com
 0.0.0.0 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0 signals.ampiri.com
 0.0.0.0 silurian.cn
