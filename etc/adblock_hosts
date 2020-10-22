@@ -1,4 +1,4 @@
-172.217.173.72 ssl.google-analytics.com
+216.58.202.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2636,7 +2636,6 @@
 0.0.0.0 cdn.destinilocators.com
 0.0.0.0 cdn.dimml.io
 0.0.0.0 cdn.dmpcounter.com
-0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.easy-ads.com
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.exactag.com
@@ -2723,7 +2722,6 @@
 0.0.0.0 cdn2.adsdk.com
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 cdn3.appnext.com
-0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdna.runadtag.com
@@ -6610,9 +6608,6 @@
 0.0.0.0 rtb.nativeads.com
 0.0.0.0 rtb.ninthdecimal.com
 0.0.0.0 rtb.voiceads.cn
-0.0.0.0 rtb0.doubleverify.com
-0.0.0.0 rtb3.doubleverify.com
-0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 rtbidder.net
 0.0.0.0 rtrgt2.com
 0.0.0.0 rts.dxsvr.com
@@ -7878,10 +7873,6 @@
 0.0.0.0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 0.0.0.0 tpads.sv.publicus.com
 0.0.0.0 tpbid.com
-0.0.0.0 tps.doubleverify.com
-0.0.0.0 tps11031.doubleverify.com
-0.0.0.0 tps30.doubleverify.com
-0.0.0.0 tps711.doubleverify.com
 0.0.0.0 tpt.edu.in
 0.0.0.0 tq.adventurefeeds.com
 0.0.0.0 tqlkg.com
@@ -8791,7 +8782,6 @@
 0.0.0.0 ypmadserver.com
 0.0.0.0 yrals.com
 0.0.0.0 ysdk.qq.com
-0.0.0.0 yt.srs.doubleverify.com
 0.0.0.0 ytdownloader.com
 0.0.0.0 yume.com
 0.0.0.0 yumekin.com
