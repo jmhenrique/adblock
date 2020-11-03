@@ -1,4 +1,4 @@
-172.217.29.136 ssl.google-analytics.com
+172.217.30.104 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3308,7 +3308,6 @@
 0.0.0.0 cudacorp.com
 0.0.0.0 cursor.kvada.globescale.com
 0.0.0.0 custom.yieldify.com
-0.0.0.0 customers.kameleoon.com
 0.0.0.0 customsboysint.com
 0.0.0.0 customtraffic.impactradius.com
 0.0.0.0 cv.bsvideos.com
@@ -3713,10 +3712,6 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 eivamos.com
 0.0.0.0 ekmas.com
-0.0.0.0 eldamar01-loadbalanced.kameleoon.com
-0.0.0.0 eldamar02-loadbalanced.kameleoon.com
-0.0.0.0 eldamar03-loadbalanced.kameleoon.com
-0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 electosake.com
 0.0.0.0 elephantdata.net
 0.0.0.0 elew72isst.rr.nu
@@ -7560,7 +7555,6 @@
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 static-analytics.nativeads.com
 0.0.0.0 static-assets.qualtrics.com
-0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static-content-1.smadex.com
 0.0.0.0 static-rtb.adkernel.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
@@ -7594,7 +7588,6 @@
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.inviziads.com
 0.0.0.0 static.iterable.com
-0.0.0.0 static.kameleoon.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.leaddyno.com
 0.0.0.0 static.locallogic.co
@@ -8058,10 +8051,6 @@
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tlog.hiido.com
-0.0.0.0 tlp-01.kameleoon.com
-0.0.0.0 tlp-02.kameleoon.com
-0.0.0.0 tlp-03.kameleoon.com
-0.0.0.0 tlp-04.kameleoon.com
 0.0.0.0 tls.dxsvr.com
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tmgr.ccmbg.com
@@ -8284,7 +8273,6 @@
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.vacationsmadeeasy.com
-0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.websitealive.com
 0.0.0.0 tracking.whattoexpect.com
 0.0.0.0 tracking.yieldlove-ad-serving.net
