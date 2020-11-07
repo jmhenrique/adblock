@@ -1,4 +1,4 @@
-172.217.29.232 ssl.google-analytics.com
+172.217.28.72 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1733,7 +1733,6 @@
 0.0.0.0 api.destinationrewards.com
 0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.doumob.com
-0.0.0.0 api.espn.com
 0.0.0.0 api.factual.com
 0.0.0.0 api.fyber.com
 0.0.0.0 api.gameofwhales.com
@@ -1782,7 +1781,6 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 api.muneris.io
 0.0.0.0 api.native.ai
-0.0.0.0 api.newrelic.com
 0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
@@ -2407,7 +2405,6 @@
 0.0.0.0 bp.adkmob.com
 0.0.0.0 bp.specificclick.net
 0.0.0.0 br.fling.com
-0.0.0.0 br.ifunny.co
 0.0.0.0 br.meetlocals.com
 0.0.0.0 br.naked.com
 0.0.0.0 br.realitykings.com
@@ -3827,7 +3824,6 @@
 0.0.0.0 events.browsiprod.com
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.foreseeresults.com
-0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.kumulos.com
@@ -4166,7 +4162,6 @@
 0.0.0.0 geoip.edagames.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.goforandroid.com
-0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.securitetotale.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.performgroup.com
@@ -4563,7 +4558,6 @@
 0.0.0.0 image.moengage.com
 0.0.0.0 image.richrelevance.com
 0.0.0.0 imageplus.baidu.com
-0.0.0.0 imageproxy.ifunny.co
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 images-aud.sourceforge.net
@@ -4600,7 +4594,6 @@
 0.0.0.0 img.crossinstall.com
 0.0.0.0 img.discovery.com
 0.0.0.0 img.dt00.net
-0.0.0.0 img.ifunny.co
 0.0.0.0 img.linkstorm.net
 0.0.0.0 img.maropost.com
 0.0.0.0 img.netwrix.com
@@ -5025,7 +5018,6 @@
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.appchina.com
-0.0.0.0 log.espn.com
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go.com
@@ -5059,14 +5051,12 @@
 0.0.0.0 loggerx.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.fishsticksgames.com
-0.0.0.0 login.newrelic.com
 0.0.0.0 lognormal.net
 0.0.0.0 logo.onlinewebstat.com
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logos.libstat.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.81plug.com
-0.0.0.0 logs.ifunny.co
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.starbolt.io
@@ -7135,7 +7125,6 @@
 0.0.0.0 server1.opentracker.net
 0.0.0.0 server10.opentracker.net
 0.0.0.0 serverc.shoofle.tv
-0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 service.clicksvenue.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
