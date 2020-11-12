@@ -1,4 +1,4 @@
-172.217.173.72 ssl.google-analytics.com
+216.58.202.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -5908,7 +5908,6 @@
 0.0.0.0 realtime.deximedia.com
 0.0.0.0 realtimeads.com
 0.0.0.0 realtouchbannerwidget.aebn.net
-0.0.0.0 rebtelsdk.pubnub.com
 0.0.0.0 recommendation-collector-v1.us-east-1.elasticbeanstalk.com
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 record.affiliatelounge.com
@@ -6404,6 +6403,7 @@
 0.0.0.0 server1.opentracker.net
 0.0.0.0 server10.opentracker.net
 0.0.0.0 serverc.shoofle.tv
+0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 service.clicksvenue.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
