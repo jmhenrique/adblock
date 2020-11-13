@@ -1,4 +1,4 @@
-216.58.202.168 ssl.google-analytics.com
+172.217.162.136 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2249,7 +2249,6 @@
 0.0.0.0 bkt.clouddn.com
 0.0.0.0 blekko.com
 0.0.0.0 blizzard.blueoxtech.com
-0.0.0.0 blob.core.windows.net
 0.0.0.0 blobar.org
 0.0.0.0 block.scroll.com
 0.0.0.0 block.sw1block.com
@@ -2288,7 +2287,6 @@
 0.0.0.0 boloz.com
 0.0.0.0 bootstrap.livefyre.com
 0.0.0.0 bororango.com
-0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 botd.wordpress.com
 0.0.0.0 botd2.wordpress.com
 0.0.0.0 bounceexchange.com
@@ -3085,8 +3083,6 @@
 0.0.0.0 crakmedia.com
 0.0.0.0 crash.163.com
 0.0.0.0 crasheye.cn
-0.0.0.0 crashlogs.whatsapp.net
-0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crazyegg.com
@@ -3338,7 +3334,6 @@
 0.0.0.0 domainsponsor.com
 0.0.0.0 domob.cn
 0.0.0.0 dopemobi.offerstrack.net
-0.0.0.0 doppler.hulu.com
 0.0.0.0 dotandad.com
 0.0.0.0 dotnet.endai.com
 0.0.0.0 dotomi.com
@@ -3583,7 +3578,6 @@
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.uber.com
 0.0.0.0 events.webflowmetrics.com
-0.0.0.0 events.whisk.com
 0.0.0.0 events.zaloapp.com
 0.0.0.0 everestads.net
 0.0.0.0 everestjs.net
@@ -3809,7 +3803,6 @@
 0.0.0.0 gammaplatform.com
 0.0.0.0 gannett.gcion.com
 0.0.0.0 ganon.yahoo.com
-0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gateway.answerscloud.com
 0.0.0.0 gateway.ttpsdk.info
 0.0.0.0 gateway.yieldify-production.com
@@ -4585,7 +4578,6 @@
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.appchina.com
 0.0.0.0 log.fotoable.com
-0.0.0.0 log.getdropbox.com
 0.0.0.0 log.go.com
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.intellimize.co
@@ -4628,7 +4620,6 @@
 0.0.0.0 logs.starbolt.io
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.thebloggernetwork.com
-0.0.0.0 logs.which.co.uk
 0.0.0.0 logsdk.qq.com
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 lonelycheatingwives.com
@@ -5105,7 +5096,6 @@
 0.0.0.0 mouads.com
 0.0.0.0 mouseflow.com
 0.0.0.0 movad.de
-0.0.0.0 movip.wps.com
 0.0.0.0 mozbar.moz.com
 0.0.0.0 mp3downloadhq.com
 0.0.0.0 mp3helpdesk.com
@@ -5582,7 +5572,6 @@
 0.0.0.0 pings.conviva.com
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 pinion.gg
-0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piq.cr-nielsen.com
@@ -5707,7 +5696,6 @@
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 predictad.com
 0.0.0.0 preferences.trustarc.com
-0.0.0.0 preitem.wshareit.com
 0.0.0.0 premieropinion.com
 0.0.0.0 presage.io
 0.0.0.0 presentationtracking.netflix.com
@@ -5880,7 +5868,6 @@
 0.0.0.0 rapidcounter.com
 0.0.0.0 raskrutka.ucoz.com
 0.0.0.0 rasmas.inmar.com
-0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 rayjump.com
 0.0.0.0 rb-net.com
 0.0.0.0 rb.revolvermaps.com
@@ -6250,7 +6237,6 @@
 0.0.0.0 sdk.gplayspace.com
 0.0.0.0 sdk.gpowers.net
 0.0.0.0 sdk.hansel.io
-0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.hostyour.video
 0.0.0.0 sdk.iad-02.braze.com
 0.0.0.0 sdk.iappgame.com
@@ -6590,7 +6576,6 @@
 0.0.0.0 spywarebegone.com
 0.0.0.0 spywareit.com
 0.0.0.0 sq2trk2.com
-0.0.0.0 sqm.woniu.com
 0.0.0.0 sr2.liveperson.net
 0.0.0.0 srd.simba.taobao.com
 0.0.0.0 srepdata.usatoday.com
@@ -6952,7 +6937,6 @@
 0.0.0.0 t.wayfair.com
 0.0.0.0 t01.proximic.com
 0.0.0.0 t2.beanstalkdata.com
-0.0.0.0 t2.hulu.com
 0.0.0.0 t2lgo.com
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tackthisclick.com
@@ -7624,8 +7608,6 @@
 0.0.0.0 vnumedia01.webtrekk.net
 0.0.0.0 voicefive.com
 0.0.0.0 voicefive.com.edgekey.net
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex.hulu.com
 0.0.0.0 vote.sparklit.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vq918450.com
