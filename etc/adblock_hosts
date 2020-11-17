@@ -1,4 +1,4 @@
-172.217.172.136 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1331,7 +1331,6 @@
 0.0.0.0 adzmedia.com
 0.0.0.0 adzmobi.com
 0.0.0.0 adztec.com
-0.0.0.0 adzuna.co.uk
 0.0.0.0 ae.amgdgt.com
 0.0.0.0 afcyhf.com
 0.0.0.0 afd.baidu.com
@@ -3403,7 +3402,6 @@
 0.0.0.0 e.dtscout.com
 0.0.0.0 e.freewebhostingarea.com
 0.0.0.0 e.imguol.com
-0.0.0.0 e.infogram.com
 0.0.0.0 e.invodo.com
 0.0.0.0 e.logrocket.com
 0.0.0.0 e.maxtraffic.com
@@ -6098,7 +6096,6 @@
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.d.adup-tech.com
 0.0.0.0 s.idio.co
-0.0.0.0 s.infogram.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 s.mxmcdn.net
 0.0.0.0 s.po.st
