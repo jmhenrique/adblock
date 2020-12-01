@@ -1,4 +1,4 @@
-172.217.29.168 ssl.google-analytics.com
+172.217.30.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3004,7 +3004,6 @@
 0.0.0.0 cookie.vrtzads.com
 0.0.0.0 cookiea1.veinteractive.com
 0.0.0.0 cookiebot.com-v1.edgekey.net
-0.0.0.0 cookiebot.com.edgekey.net
 0.0.0.0 cookiee1.veinteractive.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cooladata.kampyle.com
@@ -5044,7 +5043,6 @@
 0.0.0.0 mobfloral.offerstrack.net
 0.0.0.0 mobfox-server.thinknearhub.com
 0.0.0.0 mobfox.com
-0.0.0.0 mobi.edgekey.net
 0.0.0.0 mobicow.com
 0.0.0.0 mobidea.com
 0.0.0.0 mobile-collector.newrelic.com
