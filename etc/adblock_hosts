@@ -1,4 +1,4 @@
-172.217.172.136 ssl.google-analytics.com
+172.217.172.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1716,7 +1716,6 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 api.muneris.io
 0.0.0.0 api.native.ai
-0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
 0.0.0.0 api.oneaudience.com
