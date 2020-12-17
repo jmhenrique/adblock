@@ -1,4 +1,4 @@
-172.217.162.136 ssl.google-analytics.com
+172.217.28.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -292,7 +292,6 @@
 0.0.0.0 ad.smaclick.com
 0.0.0.0 ad.tom.com
 0.0.0.0 ad.track.us.org
-0.0.0.0 ad.trafficshop.com
 0.0.0.0 ad.traffique.net
 0.0.0.0 ad.trident.net
 0.0.0.0 ad.triplemind.com
@@ -5648,7 +5647,6 @@
 0.0.0.0 pt.ispot.tv
 0.0.0.0 pt.peerius.com
 0.0.0.0 ptads.sv.publicus.com
-0.0.0.0 pu.trafficshop.com
 0.0.0.0 pub.funshion.com
 0.0.0.0 pub.network
 0.0.0.0 pub.sv2.biz
@@ -7568,7 +7566,6 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.realo.be
 0.0.0.0 widget.supercounters.com
-0.0.0.0 widgets.pinterest.com
 0.0.0.0 wifi-test.mobidia.com
 0.0.0.0 wigetmedia.com
 0.0.0.0 wikia-ads.wikia.com
