@@ -1,4 +1,4 @@
-172.217.28.8 ssl.google-analytics.com
+172.217.29.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2439,7 +2439,6 @@
 0.0.0.0 cdn-usent.kampyle.com
 0.0.0.0 cdn.88-f.net
 0.0.0.0 cdn.accengage.com
-0.0.0.0 cdn.adbooth.net
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adligature.com
 0.0.0.0 cdn.adpacks.com
@@ -7000,7 +6999,6 @@
 0.0.0.0 track-core.bncnt.com
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track.acclaimnetwork.com
-0.0.0.0 track.adbooth.net
 0.0.0.0 track.adclear.net
 0.0.0.0 track.addict-mobile.net
 0.0.0.0 track.adsfast.com
