@@ -1,4 +1,4 @@
-172.217.173.72 ssl.google-analytics.com
+216.58.202.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3053,6 +3053,7 @@
 0.0.0.0 cttracking08.com
 0.0.0.0 ctv.adelement.com
 0.0.0.0 cursor.kvada.globescale.com
+0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 custom.yieldify.com
 0.0.0.0 customtraffic.impactradius.com
 0.0.0.0 cv.bsvideos.com
@@ -5833,7 +5834,6 @@
 0.0.0.0 resizer.mantisadnetwork.com
 0.0.0.0 resources-us.yinzcam.com
 0.0.0.0 resources.crowdtwist.com
-0.0.0.0 responsys.net
 0.0.0.0 rest.sharethis.com
 0.0.0.0 restartad.com
 0.0.0.0 restore-pc.com
