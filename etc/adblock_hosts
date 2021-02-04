@@ -1,4 +1,4 @@
-172.217.30.104 ssl.google-analytics.com
+172.217.28.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -6031,7 +6031,6 @@
 0.0.0.0 scratch-telemetry-s.us-east-1.elasticbeanstalk.com
 0.0.0.0 screencaptue-cdn.kampyle.com
 0.0.0.0 screencapture.kampyle.com
-0.0.0.0 script.dotmetrics.net
 0.0.0.0 script.leadboxer.com
 0.0.0.0 script.opentracker.net
 0.0.0.0 scripts.agilone.com
@@ -6879,7 +6878,6 @@
 0.0.0.0 tend.io
 0.0.0.0 terraclicks.com
 0.0.0.0 terrapops.com
-0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 tex-sync.rockyou.net
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.eroticmatch.com
