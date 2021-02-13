@@ -1,4 +1,4 @@
-172.217.162.104 ssl.google-analytics.com
+172.217.28.72 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3785,7 +3785,6 @@
 0.0.0.0 geobanner.passion.com
 0.0.0.0 geobanner.seniorfriendfinder.com
 0.0.0.0 geobeacon.ign.com
-0.0.0.0 geoip-api.cleverpush.com
 0.0.0.0 geoip-db.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.businessinsider.com
@@ -4624,7 +4623,6 @@
 0.0.0.0 maxonclick.com
 0.0.0.0 maxtracker.net
 0.0.0.0 maxxxhits.com
-0.0.0.0 mazu.3g.qq.com
 0.0.0.0 mb-cdn.stocard.de
 0.0.0.0 mb.zam.com
 0.0.0.0 mb01.com
@@ -6578,7 +6576,6 @@
 0.0.0.0 static.vilynx.com
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 static.ziftsolutions.com
-0.0.0.0 statistacomdev.cleverpush.com
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistiq.com
 0.0.0.0 stats-newyork1.bloxcms.com
