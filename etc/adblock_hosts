@@ -1,4 +1,4 @@
-172.217.162.136 ssl.google-analytics.com
+172.217.162.104 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2898,6 +2898,7 @@
 0.0.0.0 connexity.net
 0.0.0.0 connperf.immomo.com
 0.0.0.0 consent-manager-events.ogury.io
+0.0.0.0 consent.adincube.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 console.aws.a2z.com
 0.0.0.0 consoliads-api.us-west-2.elasticbeanstalk.com
@@ -6088,6 +6089,7 @@
 0.0.0.0 sdk-key.ulsee.com
 0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk-traffic.apptimize.com
+0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adsongo.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.api.qgraph.io
@@ -6795,6 +6797,7 @@
 0.0.0.0 tacoda.net
 0.0.0.0 tads.mobadvent.com
 0.0.0.0 taffr.com
+0.0.0.0 tag.adincube.com
 0.0.0.0 tag.adkernel.com
 0.0.0.0 tag.adtrendmedia.net
 0.0.0.0 tag.apxlv.com
