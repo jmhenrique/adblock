@@ -1,4 +1,4 @@
-172.217.162.104 ssl.google-analytics.com
+172.217.29.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -3577,7 +3577,6 @@
 0.0.0.0 fam-ad.com
 0.0.0.0 famobi-01.firebaseio.com
 0.0.0.0 fashion-tube.be
-0.0.0.0 fast.wistia.com
 0.0.0.0 fastapi.net
 0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastdownload10.com
@@ -4830,7 +4829,6 @@
 0.0.0.0 metrics.lawyers.com
 0.0.0.0 metrics.lehighvalleylive.com
 0.0.0.0 metrics.lexus.com
-0.0.0.0 metrics.lfanalytics.io
 0.0.0.0 metrics.lhj.com
 0.0.0.0 metrics.macys.net
 0.0.0.0 metrics.mcafee.com
