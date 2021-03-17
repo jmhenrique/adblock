@@ -1,4 +1,4 @@
-172.217.173.72 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2513,7 +2513,6 @@
 0.0.0.0 cdn.spoutable.com
 0.0.0.0 cdn.springboard.gorillanation.com
 0.0.0.0 cdn.steepto.com
-0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.tapstream.com
 0.0.0.0 cdn.targetfuel.com
 0.0.0.0 cdn.teamskeetimages.com
@@ -6121,7 +6120,6 @@
 0.0.0.0 server1.opentracker.net
 0.0.0.0 server10.opentracker.net
 0.0.0.0 serverc.shoofle.tv
-0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 service.clicksvenue.com
 0.0.0.0 service.cmp.oath.com
