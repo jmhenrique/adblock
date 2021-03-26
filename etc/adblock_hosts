@@ -1,4 +1,4 @@
-216.58.202.168 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1153,6 +1153,7 @@
 0.0.0.0 adtrack.king.com
 0.0.0.0 adtrack.ucweb.com
 0.0.0.0 adtrack.voicestar.com
+0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 adtrade.net
 0.0.0.0 adtradradservices.com
 0.0.0.0 adtrue.com
@@ -1751,7 +1752,6 @@
 0.0.0.0 app.datorama.com
 0.0.0.0 app.games-to-run123.com
 0.0.0.0 app.iappgame.com
-0.0.0.0 app.link
 0.0.0.0 app.mashero.com
 0.0.0.0 app.meltwater.com
 0.0.0.0 app.networkad.net
@@ -4800,7 +4800,6 @@
 0.0.0.0 mic.mob.com
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
-0.0.0.0 midasplayer.com
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midoweb.offerstrack.net
 0.0.0.0 min.admicro.vn
@@ -5137,7 +5136,6 @@
 0.0.0.0 omniture.shopstyle.com
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omnituretrack.local.com
-0.0.0.0 omsdk.vidible.tv
 0.0.0.0 omt.honda.com
 0.0.0.0 omtrdc.net
 0.0.0.0 on2url.com
@@ -5149,7 +5147,6 @@
 0.0.0.0 one.cam4ads.com
 0.0.0.0 onepush.query.yahoo.com
 0.0.0.0 onesafe-software.com
-0.0.0.0 onesignal.com
 0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
 0.0.0.0 onetag-geo-grouping.s-onetag.com
@@ -5355,7 +5352,6 @@
 0.0.0.0 pingomatic.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pingtcss.qq.com
-0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piq.cr-nielsen.com
@@ -6368,6 +6364,7 @@
 0.0.0.0 statgw.devtodev.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 static-analytics.nativeads.com
+0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static-content-1.smadex.com
 0.0.0.0 static-rtb.adkernel.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
@@ -6401,6 +6398,7 @@
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.inviziads.com
 0.0.0.0 static.iterable.com
+0.0.0.0 static.kameleoon.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.leaddyno.com
 0.0.0.0 static.locallogic.co
@@ -7063,7 +7061,6 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.serving-technology003.com
 0.0.0.0 trk.superads.cn
-0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk.wrinkads.com
 0.0.0.0 trkmydomain.com
@@ -7179,7 +7176,6 @@
 0.0.0.0 usadserver.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 use.convertglobal.com
-0.0.0.0 use1.prod.vidible.tv
 0.0.0.0 usekahuna.com
 0.0.0.0 usenetjunction.com
 0.0.0.0 user-event-tracker-prod.us-east-1.elasticbeanstalk.com
