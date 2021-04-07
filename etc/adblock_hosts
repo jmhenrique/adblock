@@ -1,4 +1,4 @@
-172.217.28.8 ssl.google-analytics.com
+172.217.29.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2149,6 +2149,7 @@
 0.0.0.0 bgtop100.com
 0.0.0.0 bi-analytics.cloudapp.net
 0.0.0.0 bi.medscape.com
+0.0.0.0 bi.yeshen.com
 0.0.0.0 bid-east.intentiq.com
 0.0.0.0 bid.adview.cn
 0.0.0.0 bid.intentiq.com
@@ -2762,7 +2763,6 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 collection.decibelinsight.net
-0.0.0.0 collection.sumologic.com
 0.0.0.0 collector-001.newrelic.com
 0.0.0.0 collector-002.newrelic.com
 0.0.0.0 collector-003.newrelic.com
@@ -2803,7 +2803,6 @@
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.stats.socialquantum.ru
-0.0.0.0 collectors.sumologic.com
 0.0.0.0 com.com
 0.0.0.0 com.s3.amazonaws.com
 0.0.0.0 com.tech.akadns.net
@@ -4495,7 +4494,6 @@
 0.0.0.0 lynx.cognitivlabs.com
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 m-metrics.capitalone.com
-0.0.0.0 m-motu.doglobal.net
 0.0.0.0 m.adtiming.com
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 m.exactag.com
@@ -5583,6 +5581,7 @@
 0.0.0.0 pubnative.net
 0.0.0.0 pubs.hiddennetwork.com
 0.0.0.0 pubs.mgn.net
+0.0.0.0 pubstatus.sinaapp.com
 0.0.0.0 pubted.com
 0.0.0.0 puds.ucweb.com
 0.0.0.0 puhtml.com
@@ -6991,6 +6990,7 @@
 0.0.0.0 tracker.wordstream.com
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracki112.com
+0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.1betternetwork.com
 0.0.0.0 tracking.aatkit.com
@@ -6999,6 +6999,7 @@
 0.0.0.0 tracking.adultsense.com
 0.0.0.0 tracking.aimediagroup.com
 0.0.0.0 tracking.applift.com
+0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 tracking.badgeville.com
 0.0.0.0 tracking.bannerflow.com
 0.0.0.0 tracking.batanga.com
@@ -7074,6 +7075,7 @@
 0.0.0.0 trans.globalnetworkad.com
 0.0.0.0 trans.hiido.com
 0.0.0.0 trax.prostrax.com
+0.0.0.0 trcakingapp.trnox.com
 0.0.0.0 treasuredata.com
 0.0.0.0 tremorhub.com
 0.0.0.0 tremormedia.com
@@ -7212,7 +7214,6 @@
 0.0.0.0 us.v2.we-stats.com
 0.0.0.0 us1.siteimprove.com
 0.0.0.0 us2.siteimprove.com
-0.0.0.0 us2.sumologic.com
 0.0.0.0 usachoice.net
 0.0.0.0 usadserver.com
 0.0.0.0 usage.trackjs.com
