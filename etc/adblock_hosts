@@ -1,4 +1,4 @@
-172.217.30.72 ssl.google-analytics.com
+142.250.218.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1203,6 +1203,7 @@
 0.0.0.0 advert.funimation.com
 0.0.0.0 advert.leo.org
 0.0.0.0 advert.livesportmedia.eu
+0.0.0.0 advert.ru.redtram.com
 0.0.0.0 advert.runescape.com
 0.0.0.0 advert.travlang.com
 0.0.0.0 advert2.ananzi.co.za
@@ -4121,6 +4122,7 @@
 0.0.0.0 img1.ijinshan.com
 0.0.0.0 img100-321.xvideos.com
 0.0.0.0 img2.autoimg.cn
+0.0.0.0 img2.ru.redtram.com
 0.0.0.0 imgc.psychcentral.com
 0.0.0.0 imgg.dt07.net
 0.0.0.0 imgn.dt00.net
@@ -4286,8 +4288,11 @@
 0.0.0.0 js.livehelper.com
 0.0.0.0 js.logentries.com
 0.0.0.0 js.octopuspop.com
+0.0.0.0 js.redtram.com
+0.0.0.0 js.ru.redtram.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 js.taplytics.com
+0.0.0.0 js.ua.redtram.com
 0.0.0.0 js11.clickzzs.nl
 0.0.0.0 js4.ringrevenue.com
 0.0.0.0 js7.clickzzs.nl
@@ -5020,6 +5025,8 @@
 0.0.0.0 n1275adserv.xyz
 0.0.0.0 n176adserv.com
 0.0.0.0 n339.asp-cc.com
+0.0.0.0 n4p.ru.redtram.com
+0.0.0.0 n4p.ua.redtram.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 nanigans.com
 0.0.0.0 nanoadexchange.com
@@ -5722,7 +5729,6 @@
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectpopads.com
 0.0.0.0 redroomnetwork.com
-0.0.0.0 redtram.com
 0.0.0.0 reduxmediia.com
 0.0.0.0 reelcentric.com
 0.0.0.0 ref.ad-brix.com
@@ -5735,10 +5741,8 @@
 0.0.0.0 refer85.outster.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 regdefense.com
-0.0.0.0 registeridm.com
 0.0.0.0 registration.gimbal.com
 0.0.0.0 registration.tiltingpoint.io
-0.0.0.0 regmedia.co.uk
 0.0.0.0 reklama.botevgrad.com
 0.0.0.0 reklamanet.net
 0.0.0.0 relap.io
@@ -7309,8 +7313,6 @@
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vid-io.springserve.net
 0.0.0.0 videe.tv
-0.0.0.0 video-dfw5-1.xx.fbcdn.net
-0.0.0.0 video-dfw5-2.xx.fbcdn.net
 0.0.0.0 video-pomp.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.fyber.com
