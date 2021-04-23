@@ -1,4 +1,4 @@
-172.217.172.136 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2529,7 +2529,6 @@
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.smartnews-ads.com
-0.0.0.0 cdn.smassets.net
 0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.socialbakers.com
 0.0.0.0 cdn.spectate.com
@@ -2612,7 +2611,6 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 chrumedia.com
-0.0.0.0 chtbl.com
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 ci-first.iovation.com
 0.0.0.0 ci-mpsnare.iovation.com
@@ -5542,7 +5540,6 @@
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod.linkitox.com
 0.0.0.0 prod.sift.co
-0.0.0.0 prod.smassets.net
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-public.tubi.io
 0.0.0.0 production.wootric.com
