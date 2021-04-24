@@ -1,4 +1,4 @@
-172.217.28.232 ssl.google-analytics.com
+142.250.219.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -5881,7 +5881,6 @@
 0.0.0.0 s.206solutions.com
 0.0.0.0 s.adframesrc.com
 0.0.0.0 s.admathhd.com
-0.0.0.0 s.adrise.tv
 0.0.0.0 s.adtelligent.com
 0.0.0.0 s.adx.io
 0.0.0.0 s.arclk.net
@@ -7468,7 +7467,6 @@
 0.0.0.0 widebanner.com
 0.0.0.0 widespace.com
 0.0.0.0 widget-cdn.rpxnow.com
-0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 widget.crowdignite.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.realo.be
