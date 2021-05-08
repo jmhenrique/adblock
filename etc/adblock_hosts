@@ -1,4 +1,4 @@
-216.58.202.136 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1610,7 +1610,6 @@
 0.0.0.0 api.connecto.io
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.coralogix.com
-0.0.0.0 api.crashlytics.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.destinationrewards.com
 0.0.0.0 api.doumob.com
@@ -2708,7 +2707,6 @@
 0.0.0.0 cm-udmp.gridsumdissector.com
 0.0.0.0 cm.adkmob.com
 0.0.0.0 cm.adsafety.net
-0.0.0.0 cm.crashlytics.com
 0.0.0.0 cm.myway.com
 0.0.0.0 cm.need2find.com
 0.0.0.0 cm.pinsightmedia.com
@@ -3290,7 +3288,6 @@
 0.0.0.0 e-zshopper.activeshopper.com
 0.0.0.0 e.abnad.net
 0.0.0.0 e.baidu.com
-0.0.0.0 e.crashlytics.com
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 e.dtscout.com
 0.0.0.0 e.freewebhostingarea.com
@@ -3573,7 +3570,6 @@
 0.0.0.0 findfavour.com
 0.0.0.0 fiona.ai.net
 0.0.0.0 firebanner.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 first.iovation.com
 0.0.0.0 firstimpression.io
 0.0.0.0 fishadz.pressflex.net
@@ -5764,7 +5760,6 @@
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reporting.tutelatechnologies.com
-0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 republer.com
 0.0.0.0 res.levexis.com
@@ -6186,7 +6181,6 @@
 0.0.0.0 sessionm.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 setting.adzcore.com
-0.0.0.0 settings.crashlytics.com
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexmoney.com
 0.0.0.0 sextracker.com
@@ -7211,7 +7205,6 @@
 0.0.0.0 upalytics.com
 0.0.0.0 update-java.kit.net
 0.0.0.0 update.aubemobile.com
-0.0.0.0 update.crashlytics.com
 0.0.0.0 update.hiconversion.com
 0.0.0.0 update.kingoapp.com
 0.0.0.0 update.kmpmedia.net
