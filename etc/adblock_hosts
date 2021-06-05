@@ -1,4 +1,4 @@
-142.250.218.8 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -127,6 +127,7 @@
 0.0.0.0 a.independent.co.uk
 0.0.0.0 a.itpro.co.uk
 0.0.0.0 a.kickassunblock.net
+0.0.0.0 a.klaviyo.com
 0.0.0.0 a.law.com
 0.0.0.0 a.livesportmedia.eu
 0.0.0.0 a.macuser.co.uk
@@ -6468,6 +6469,7 @@
 0.0.0.0 static.inviziads.com
 0.0.0.0 static.iterable.com
 0.0.0.0 static.kameleoon.com
+0.0.0.0 static.klaviyo.com
 0.0.0.0 static.leaddyno.com
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.masoffer.net
@@ -6804,6 +6806,7 @@
 0.0.0.0 techspotcom.skimlinks.com
 0.0.0.0 teens24h.com
 0.0.0.0 telegraphcouk.skimlinks.com
+0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.malwarebytes.com
