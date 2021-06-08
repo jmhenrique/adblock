@@ -1,4 +1,4 @@
-142.250.219.40 ssl.google-analytics.com
+172.217.173.72 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -72,7 +72,6 @@
 0.0.0.0 604.stats.misstrends.com
 0.0.0.0 606.stats.misstrends.com
 0.0.0.0 654.stats.misstrends.com
-0.0.0.0 65c6.playfabapi.com
 0.0.0.0 671.stats.misstrends.com
 0.0.0.0 680.stats.misstrends.com
 0.0.0.0 687-ct.c3tag.com
@@ -91,7 +90,6 @@
 0.0.0.0 8d6274.r.axf8.net
 0.0.0.0 8d6274.t.axf8.net
 0.0.0.0 8live.com
-0.0.0.0 92ab.playfabapi.com
 0.0.0.0 986.stats.misstrends.com
 0.0.0.0 994119.r.axf8.net
 0.0.0.0 9d060c.r.axf8.net
@@ -1958,11 +1956,9 @@
 0.0.0.0 b.zog.link
 0.0.0.0 b1.perfb.com
 0.0.0.0 b2c.com
-0.0.0.0 b343.playfabapi.com
 0.0.0.0 b3a70b.t.axf8.net
 0.0.0.0 b3d.com
 0.0.0.0 b5057c.r.axf8.net
-0.0.0.0 b77ad.playfabapi.com
 0.0.0.0 babel.innertrends.com
 0.0.0.0 backfill.ph.affinity.com
 0.0.0.0 badassjv.com
@@ -2345,7 +2341,6 @@
 0.0.0.0 c7.adforgeinc.com
 0.0.0.0 c8.net.ua
 0.0.0.0 ca-as-1.agilone.com
-0.0.0.0 ca87.playfabapi.com
 0.0.0.0 cache-06.pushwoosh.com
 0.0.0.0 cache-07.pushwoosh.com
 0.0.0.0 cache-ha.pushwoosh.com
@@ -3834,7 +3829,6 @@
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.gigya.com
 0.0.0.0 gscounters.us1.gigya.com
-0.0.0.0 gsdk.proximabeta.com
 0.0.0.0 gsf-cf.softonic.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gtag.yieldoptimizer.com
@@ -5478,7 +5472,6 @@
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 playhaven.com
 0.0.0.0 playtest-api.topaz-analytics.com
-0.0.0.0 playtomic.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 plug.plugerr.com
