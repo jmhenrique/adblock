@@ -1,4 +1,4 @@
-172.217.162.136 ssl.google-analytics.com
+216.58.202.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2281,7 +2281,6 @@
 0.0.0.0 by.uservoice.com
 0.0.0.0 byet.org
 0.0.0.0 bypass.jp
-0.0.0.0 byteoversea.com.edgekey.net
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 c.abnad.net
@@ -3976,7 +3975,6 @@
 0.0.0.0 i.gridsumdissector.com
 0.0.0.0 i.idio.co
 0.0.0.0 i.ipromote.com
-0.0.0.0 i.isnssdk.com
 0.0.0.0 i.l.cnn.net
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.po.st
@@ -4885,7 +4883,6 @@
 0.0.0.0 mobile-crash-origin.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 mobile-global.baidu.com
-0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-stats.socialquantum.com
@@ -5593,7 +5590,6 @@
 0.0.0.0 pub1.co
 0.0.0.0 pub2srv.com
 0.0.0.0 pubdirecte.com
-0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 publicidad.entelchile.net
 0.0.0.0 publisher-east.mobileadtrading.com
@@ -5863,7 +5859,6 @@
 0.0.0.0 rules3.aatkit.com
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum-collector.pingdom.net
-0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rumds.wpdigital.net
