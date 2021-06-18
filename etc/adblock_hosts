@@ -1,4 +1,4 @@
-172.217.173.72 ssl.google-analytics.com
+172.217.30.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -721,6 +721,7 @@
 0.0.0.0 ads.iawsnetwork.com
 0.0.0.0 ads.ibtracking.com
 0.0.0.0 ads.icloseli.com
+0.0.0.0 ads.identads.com
 0.0.0.0 ads.idgworldexpo.com
 0.0.0.0 ads.ign.com
 0.0.0.0 ads.iknowthatgirl.com
@@ -2487,7 +2488,6 @@
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.investingchannel.com
 0.0.0.0 cdn.ip.inpwrd.com
-0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.jivox.com
 0.0.0.0 cdn.keywee.co
@@ -3901,7 +3901,6 @@
 0.0.0.0 hitmaster.de
 0.0.0.0 hitmodel.net
 0.0.0.0 hitpro.us
-0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hits.convergetrack.com
 0.0.0.0 hits.epochstats.com
 0.0.0.0 hits.europuls.eu
@@ -6281,7 +6280,6 @@
 0.0.0.0 snapabug.appspot.com
 0.0.0.0 snapads.com
 0.0.0.0 snapmobile.asia
-0.0.0.0 snappytvpoc-vh.akamaihd.net
 0.0.0.0 snippet.minute.ly
 0.0.0.0 snippet.omm.crownpeak.com
 0.0.0.0 snowplow.ownlocal.com
