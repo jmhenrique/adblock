@@ -1,4 +1,4 @@
-216.58.202.136 ssl.google-analytics.com
+216.58.202.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1504,6 +1504,7 @@
 0.0.0.0 android-com-tfgco-games-sports-free-tennis-clash.topaz-analytics.com
 0.0.0.0 android-com-wildlife-games-battle-royale-free-zooba.topaz-analytics.com
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 andyhoppe.com
 0.0.0.0 aniview.com.edgekey.net
 0.0.0.0 anon.doubleclick.speedera.net
