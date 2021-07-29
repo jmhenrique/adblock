@@ -1,4 +1,4 @@
-142.250.79.200 ssl.google-analytics.com
+142.250.218.8 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -6281,7 +6281,6 @@
 0.0.0.0 static.audienceinsights.net
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clevertap.com
-0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.crakbanner.com
 0.0.0.0 static.dynad.net
 0.0.0.0 static.ecorebates.com
@@ -6556,6 +6555,7 @@
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagmanager.toast.com
 0.0.0.0 tagmans3.adsolutions.com
+0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adsafety.net
