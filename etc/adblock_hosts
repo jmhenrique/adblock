@@ -1,4 +1,4 @@
-172.217.173.104 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1364,7 +1364,6 @@
 0.0.0.0 amobee.com
 0.0.0.0 amp-cdn.rqmob.com
 0.0.0.0 amp-error-reporting.appspot.com
-0.0.0.0 amp.adpushup.com
 0.0.0.0 amp.rd.linksynergy.com
 0.0.0.0 ampcid.google.com
 0.0.0.0 amplify-com-mktg.imgix.net
@@ -1535,7 +1534,6 @@
 0.0.0.0 ap.smardroid.com
 0.0.0.0 ap101.curves.com
 0.0.0.0 apacrtb.adtiming.com
-0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
@@ -1728,7 +1726,6 @@
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-icons.apptentive.com
-0.0.0.0 app-log.adpushup.com
 0.0.0.0 app-log.immomo.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.activetrail.com
@@ -2391,7 +2388,6 @@
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adligature.com
 0.0.0.0 cdn.adpacks.com
-0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adquantix.com
 0.0.0.0 cdn.adrtx.net
 0.0.0.0 cdn.adsrvmedia.net
@@ -3249,7 +3245,6 @@
 0.0.0.0 e.zg-api.com
 0.0.0.0 e1.static.hoptopboy.com
 0.0.0.0 e2.molbuk.ua
-0.0.0.0 e3.adpushup.com
 0.0.0.0 e3f364.r.axf8.net
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 e89.friendfinder.com
@@ -3656,7 +3651,6 @@
 0.0.0.0 geo-location.s-onetag.com
 0.0.0.0 geo-tracker.smadex.com
 0.0.0.0 geo.adobe.com
-0.0.0.0 geo.adpushup.com
 0.0.0.0 geo.connexionsecure.com
 0.0.0.0 geo.crtracklink.com
 0.0.0.0 geo.digitalpoint.com
@@ -4406,7 +4400,6 @@
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logconfig.polarisoffice.com
-0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 loggerx.com
 0.0.0.0 logging.admicro.vn
@@ -4555,7 +4548,6 @@
 0.0.0.0 mediamgr.ugo.com
 0.0.0.0 mediareps.com
 0.0.0.0 mediaserver.bwinpartypartners.com
-0.0.0.0 mediation.adpushup.com
 0.0.0.0 mediation.fyber.com
 0.0.0.0 mediatraffic.com
 0.0.0.0 mediav.com
@@ -5511,7 +5503,6 @@
 0.0.0.0 pub1.co
 0.0.0.0 pub2srv.com
 0.0.0.0 pubdirecte.com
-0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 publicidad.entelchile.net
 0.0.0.0 publisher-east.mobileadtrading.com
 0.0.0.0 publishers.domainadvertising.com
@@ -7127,7 +7118,6 @@
 0.0.0.0 us.rewardearners.com
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 us.v2.we-stats.com
-0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1.siteimprove.com
 0.0.0.0 us2.siteimprove.com
 0.0.0.0 usachoice.net
@@ -7168,7 +7158,6 @@
 0.0.0.0 van.redlightcenter.com
 0.0.0.0 vast.extremereach.io
 0.0.0.0 vast.optimatic.com
-0.0.0.0 vastdump-staging.adpushup.com
 0.0.0.0 vc.hotjar.io
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vcs-va.byteoversea.com
