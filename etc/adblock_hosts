@@ -1,4 +1,4 @@
-142.250.218.72 ssl.google-analytics.com
+142.250.219.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -2591,7 +2591,11 @@
 0.0.0.0 clickmeter.com
 0.0.0.0 clicks.about.com
 0.0.0.0 clicks.equantum.com
+0.0.0.0 clicks.eutopia.traffictrader.net
 0.0.0.0 clicks.izea.com
+0.0.0.0 clicks.traffictrader.net
+0.0.0.0 clicks2.traffictrader.net
+0.0.0.0 clicks3.traffictrader.net
 0.0.0.0 clicksagent.com
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clickserve.dartsearch.net
@@ -2659,7 +2663,6 @@
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmedia.s3.amazonaws.com
 0.0.0.0 cmgfeeds.cmgdigital.com
-0.0.0.0 cmp.osano.com
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cms.springboard.gorillanation.com
 0.0.0.0 cn-hangzhou.log.aliyuncs.com
@@ -2773,7 +2776,6 @@
 0.0.0.0 connexity.net
 0.0.0.0 connperf.immomo.com
 0.0.0.0 consent-manager-events.ogury.io
-0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 console.aws.a2z.com
 0.0.0.0 containertags.belboon.de
@@ -6255,7 +6257,6 @@
 0.0.0.0 static.narrativ.com
 0.0.0.0 static.nectarads.com
 0.0.0.0 static.onecms.io
-0.0.0.0 static.ordergroove.com
 0.0.0.0 static.parkingpanel.com
 0.0.0.0 static.polarcdn.com
 0.0.0.0 static.privacytrck.com
