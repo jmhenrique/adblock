@@ -1,4 +1,4 @@
-142.250.219.168 ssl.google-analytics.com
+142.251.129.200 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -196,6 +196,7 @@
 0.0.0.0 acmexxx.com
 0.0.0.0 acookie.alimama.com
 0.0.0.0 active.cache.el-mundo.net
+0.0.0.0 activemetering.com
 0.0.0.0 activity.tuifish.com
 0.0.0.0 actvtrack.com
 0.0.0.0 ad-cdn.technoratimedia.com
@@ -440,6 +441,7 @@
 0.0.0.0 adloader.com
 0.0.0.0 adlockscreen.goforandroid.com
 0.0.0.0 adlog.foxitcloud.com
+0.0.0.0 adlog.ifood.tv
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adlogs.ad2iction.com
 0.0.0.0 adloox-blocks.deliverimp.com
@@ -1379,6 +1381,7 @@
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-phi-nfl.yinzcam.com
 0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
@@ -2069,12 +2072,8 @@
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
 0.0.0.0 beacons.extremereach.io
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacons2.extremereach.io
-0.0.0.0 beacons2.gvt2.com
-0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacontest.cardlytics.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beap-bc.yahoo.com
@@ -2813,6 +2812,7 @@
 0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 conversionruler.com
 0.0.0.0 convertexperiments.com.edgekey.net
+0.0.0.0 conviva.com
 0.0.0.0 cookie-jam.sgn.com
 0.0.0.0 cookie.monster.com
 0.0.0.0 cookie.vrtzads.com
@@ -2936,15 +2936,6 @@
 0.0.0.0 cv.bsvideos.com
 0.0.0.0 cvr.ad-brix.com
 0.0.0.0 cw.addthis.com
-0.0.0.0 cws-cctv.conviva.com
-0.0.0.0 cws-eu.conviva.com
-0.0.0.0 cws-hulu.conviva.com
-0.0.0.0 cws-iad1.conviva.com
-0.0.0.0 cws-iad4.conviva.com
-0.0.0.0 cws-sjc2.conviva.com
-0.0.0.0 cws-us-east.conviva.com
-0.0.0.0 cws-usw2.conviva.com
-0.0.0.0 cws.conviva.com
 0.0.0.0 cx.ssacdn.com
 0.0.0.0 cxense.com.edgekey.net
 0.0.0.0 cybereps.com
@@ -3107,7 +3098,6 @@
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dk1.siteimprove.com
 0.0.0.0 dl.cm.ksmobile.com
-0.0.0.0 dl.conviva.com
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.keywordstrategy.org
@@ -3821,6 +3811,7 @@
 0.0.0.0 hotranks.com
 0.0.0.0 howdoesin.net
 0.0.0.0 hr-engine.xclaimwords.net
+0.0.0.0 hrzn-nxt.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hs.interpolls.com
 0.0.0.0 hstpnetwork.com
@@ -3996,6 +3987,7 @@
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 impressions.crossinstall.io
 0.0.0.0 imstore.bet365affiliates.com
+0.0.0.0 imtwjwoasak.com
 0.0.0.0 imwx.com
 0.0.0.0 in-appadvertising.com
 0.0.0.0 in.admicro.vn
@@ -4044,6 +4036,7 @@
 0.0.0.0 insightexpressai.com.edgekey.net
 0.0.0.0 insights.dice.com
 0.0.0.0 insights.samsung.com
+0.0.0.0 insights.vip.aetnd.com
 0.0.0.0 insights.zeustechnology.com
 0.0.0.0 inskinad.com
 0.0.0.0 integration.richrelevance.com
@@ -4090,6 +4083,7 @@
 0.0.0.0 is2.websearch.com
 0.0.0.0 ism2trk.com
 0.0.0.0 isnssdk.com.edgekey.net
+0.0.0.0 ispot.tv
 0.0.0.0 isralink.net
 0.0.0.0 ist-track.com
 0.0.0.0 it.bannerout.com
@@ -4122,7 +4116,6 @@
 0.0.0.0 jk.revolvermaps.com
 0.0.0.0 joinourwebsite.com
 0.0.0.0 jp.cinarra.com
-0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-at.goldbach.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 js.ad.dotandad.com
@@ -4279,6 +4272,7 @@
 0.0.0.0 linkworth.com
 0.0.0.0 lionstracking.com
 0.0.0.0 liqwid.net
+0.0.0.0 litix.io
 0.0.0.0 little-help.com
 0.0.0.0 live-api.immomo.com
 0.0.0.0 live-cams-0.livejasmin.com
@@ -4311,6 +4305,7 @@
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.go.com
 0.0.0.0 log.hitsteps.com
+0.0.0.0 log.ifood.tv
 0.0.0.0 log.intellimize.co
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.kgrid.co.kr
@@ -4887,6 +4882,7 @@
 0.0.0.0 newclick.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 newopenx.detik.com
+0.0.0.0 newrelic.com
 0.0.0.0 newspush.sinajs.cn
 0.0.0.0 newt1.adultadworld.com
 0.0.0.0 nex8.net
@@ -5104,6 +5100,7 @@
 0.0.0.0 oxybe.com
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p.addthis.com
+0.0.0.0 p.ads.roku.com
 0.0.0.0 p.alcmpn.com
 0.0.0.0 p.bm23.com
 0.0.0.0 p.bokecc.com
@@ -5219,7 +5216,6 @@
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingomatic.com
-0.0.0.0 pings.conviva.com
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
@@ -5360,7 +5356,6 @@
 0.0.0.0 prod.sift.co
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
-0.0.0.0 production-public.tubi.io
 0.0.0.0 production.wootric.com
 0.0.0.0 professionalcash.com
 0.0.0.0 profile.adkmob.com
@@ -5406,7 +5401,6 @@
 0.0.0.0 ps.ns-cdn.com
 0.0.0.0 ps2.interpolls.com
 0.0.0.0 pstats.blogworks.com
-0.0.0.0 pt.ispot.tv
 0.0.0.0 pt.peerius.com
 0.0.0.0 ptads.sv.publicus.com
 0.0.0.0 pub.funshion.com
@@ -5428,6 +5422,7 @@
 0.0.0.0 puds.ucweb.com
 0.0.0.0 puhtml.com
 0.0.0.0 pulse.apester.com
+0.0.0.0 pulse.svod.aetnd.com
 0.0.0.0 pulsix.com
 0.0.0.0 pureadexchange.com
 0.0.0.0 push-api.topaz-analytics.com
@@ -5497,6 +5492,7 @@
 0.0.0.0 rapidcounter.com
 0.0.0.0 raskrutka.ucoz.com
 0.0.0.0 rasmas.inmar.com
+0.0.0.0 ravm.tv
 0.0.0.0 rayjump.com
 0.0.0.0 rb-net.com
 0.0.0.0 rb.revolvermaps.com
@@ -5937,6 +5933,7 @@
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 segment.a3cloud.net
 0.0.0.0 segment.api.useinsider.com
+0.0.0.0 segmentapis.com
 0.0.0.0 sekindo.com
 0.0.0.0 selfsurveys.com
 0.0.0.0 send.microadinc.com
@@ -6121,7 +6118,9 @@
 0.0.0.0 spotscenered.info
 0.0.0.0 spotxcdn.com.edgekey.net
 0.0.0.0 spotxchange-a.akamaihd.net
+0.0.0.0 spotxchange.com
 0.0.0.0 springclick-ads.s3.amazonaws.com
+0.0.0.0 springserve.com
 0.0.0.0 sprint-srs-appopen.asapp.com
 0.0.0.0 sprint.asapp.com
 0.0.0.0 sprout-ad.com
@@ -6618,6 +6617,7 @@
 0.0.0.0 tiads.instyle.com
 0.0.0.0 tiads.people.com
 0.0.0.0 tiads.timeinc.net
+0.0.0.0 tidaltv.com
 0.0.0.0 tidaltv.com.akadns.net
 0.0.0.0 tidbitscom.skimlinks.com
 0.0.0.0 tie.247-inc.net
@@ -6922,6 +6922,7 @@
 0.0.0.0 turbo.engageclick.com
 0.0.0.0 turbo2sdk-push.oupeng.com
 0.0.0.0 turkeyrank.com
+0.0.0.0 turn.com
 0.0.0.0 turn.com.akadns.net
 0.0.0.0 tutoads.tv
 0.0.0.0 tw-api.vpadn.com
@@ -7003,6 +7004,7 @@
 0.0.0.0 us-west-1.elb.amazonaws.com
 0.0.0.0 us-west-2.elb.amazonaws.com
 0.0.0.0 us.bksn.se
+0.0.0.0 us.ibs.lgappstv.com
 0.0.0.0 us.pixel.newscgp.com
 0.0.0.0 us.rewardearners.com
 0.0.0.0 us.tags.newscgp.com
@@ -7075,6 +7077,7 @@
 0.0.0.0 video.upqzfile.com
 0.0.0.0 video1.adprimemedia.com
 0.0.0.0 videoads-cloud.rovio.com
+0.0.0.0 videoamp.com
 0.0.0.0 videoplaza.tv
 0.0.0.0 videorolls.row.aiv-cdn.net
 0.0.0.0 vidora.com
@@ -7111,7 +7114,6 @@
 0.0.0.0 vote.sparklit.com
 0.0.0.0 vpnaffiliates.com
 0.0.0.0 vq918450.com
-0.0.0.0 vrl.m.conviva.com
 0.0.0.0 vs.asianave.com
 0.0.0.0 vs.blackplanet.com
 0.0.0.0 vserv.mobi
