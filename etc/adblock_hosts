@@ -1,4 +1,4 @@
-142.250.218.72 ssl.google-analytics.com
+142.251.129.168 ssl.google-analytics.com
 0.0.0.0 00fun.com
 0.0.0.0 0532a9.r.axf8.net
 0.0.0.0 064bdf.r.axf8.net
@@ -1847,7 +1847,6 @@
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 au.umeng.com
 0.0.0.0 audience.zeustechnology.com
-0.0.0.0 audioboom.com
 0.0.0.0 auditude.com
 0.0.0.0 augur.io
 0.0.0.0 auth.follow-apps.com
@@ -2657,6 +2656,9 @@
 0.0.0.0 cnstats.com
 0.0.0.0 cnt.my
 0.0.0.0 cnt.sup.com
+0.0.0.0 co.akisinn.info
+0.0.0.0 co.dewrain.life
+0.0.0.0 co.vaicore.site
 0.0.0.0 co2stats.com
 0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 code.adsales.snidigital.com
@@ -4034,6 +4036,11 @@
 0.0.0.0 insights.vip.aetnd.com
 0.0.0.0 insights.zeustechnology.com
 0.0.0.0 inskinad.com
+0.0.0.0 int.akisinn.info
+0.0.0.0 int.akisinn.site
+0.0.0.0 int.dewrain.life
+0.0.0.0 int.dewrain.site
+0.0.0.0 int.vaicore.site
 0.0.0.0 integration.richrelevance.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelligence-head.pinsightmedia.com
@@ -5939,7 +5946,6 @@
 0.0.0.0 sense360eng.com.herokudns.com
 0.0.0.0 sensic.net
 0.0.0.0 sensors.yodo1api.com
-0.0.0.0 sentry.io
 0.0.0.0 servad.mynet.com
 0.0.0.0 servads.fansshare.com
 0.0.0.0 serve.ads.chaturbate.com
@@ -6046,6 +6052,7 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smart.hola.com
+0.0.0.0 smart.link
 0.0.0.0 smart.styria-digital.com
 0.0.0.0 smart.synergy-e.com
 0.0.0.0 smartadserver.com
@@ -7044,6 +7051,7 @@
 0.0.0.0 v5.chinoc.net
 0.0.0.0 v8.analytics.pinsightmedia.com
 0.0.0.0 vads.net.vn
+0.0.0.0 vaicore.xyz
 0.0.0.0 validate.onecount.net
 0.0.0.0 validator.lomadee.com
 0.0.0.0 validview.com
