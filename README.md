@@ -1,6 +1,10 @@
 #Adblock by Jm
 I created this project as a way to optimize adware protection of my router TPLINK 1043 with Openwrt. 
 
+Update** 08/12/2021
+
+After the attacks on the CEO of the human rights organization SaferNet Brazil, Thiago Tavares, which involved the software of the NSO company (Pegasus), I decided to merge here the domain lists kindly provided by Amnesty International https://github.com/AmnestyTech/
+
 He is an excellent router, but has very little available memory (8MB) and a median processor (400mhz).
 I noticed that the articles and tutorials on ad-blocking does not take into account the optimization of hosts and domains.
 There are some tutorials that explore only the grouping and unification of lists of hosts. But these lists are variations of websites that create random subdomains, interfering with the blocking efficiency. Only one domain, 302br.net has +17,000 registered subdomains in lists.
