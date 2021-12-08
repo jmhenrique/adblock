@@ -15,7 +15,7 @@ The four lists that customarily see in the forums add about 62,000 entries, dupl
 This takes ~ 2mb on the router.
 After grouping, my list has about 27,000 domains / hosts. It is ~ 60% lower, and occupy only only 750kb. 
 but too efficient.
-The number of domains in dnsmasq.conf increased from ~ 2,000 to 5,000, and the number of hosts in adblock_hosts down from 62,000 to 21,000.
+The number of domains in dnsmasq.conf increased from ~ 2,000 to 5,000, and the number of hosts in adblock_hosts down from 62,000 to ~7,000.
 
   ./etc/dnsmasq.conf # grouped domains and removed from the host list.
  
@@ -29,4 +29,8 @@ The number of domains in dnsmasq.conf increased from ~ 2,000 to 5,000, and the n
  
  ./bin/update_adware.sh #the script what do the job! You only need this, put in crontab and done.
  
- No install program. Only basic instructions in INSTALL file. 
+./install_adware.sh #copy first time the scripts and put then in right place.
+
+curl -k https://raw.githubusercontent.com/jmhenrique/adblock/master/install_adware.sh -o /tmp && sh /tmp/install_adware.sh 
+
+All is done =D
