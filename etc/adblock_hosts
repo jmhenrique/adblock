@@ -1,4 +1,4 @@
-142.251.128.104 ssl.google-analytics.com
+142.251.128.72 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -222,7 +222,6 @@
 0.0.0.0 a.binpartner.com
 0.0.0.0 a.bitmango.com
 0.0.0.0 a.cbc.ca
-0.0.0.0 a.consumer.net
 0.0.0.0 a.custompc.co.uk
 0.0.0.0 a.ddli.jp
 0.0.0.0 a.dirtyasmr.com
@@ -1568,7 +1567,6 @@
 0.0.0.0 ads.radialserver.com
 0.0.0.0 ads.radio1.lv
 0.0.0.0 ads.rcgroups.com
-0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.recoletos.es
@@ -5922,7 +5920,6 @@
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 0.0.0.0 dzupi9b81okew.cloudfront.net
 0.0.0.0 dzv1ekshu2vbs.cloudfront.net
-0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-click.jp
 0.0.0.0 e-contenta.com
 0.0.0.0 e-demx.com
@@ -11180,7 +11177,6 @@
 0.0.0.0 start-page.org
 0.0.0.0 start-xyz.com
 0.0.0.0 start.fotostrana.ru
-0.0.0.0 start.freeze.com
 0.0.0.0 start.outster.com
 0.0.0.0 start.parimatch.com
 0.0.0.0 starting-from0.com
@@ -13247,7 +13243,6 @@
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wco.crownpeak.com
 0.0.0.0 wd-edge.sharethis.com
-0.0.0.0 wd-track.de
 0.0.0.0 wd.sharethis.com
 0.0.0.0 wdcs.trendmicro.com
 0.0.0.0 wdig.vo.llnwd.net
