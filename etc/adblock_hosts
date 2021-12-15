@@ -1,4 +1,4 @@
-172.217.29.8 ssl.google-analytics.com
+142.250.219.8 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -880,6 +880,7 @@
 0.0.0.0 adf.hdkinoshka.net
 0.0.0.0 adf.kino-go.co
 0.0.0.0 adf.shinobi.jp
+0.0.0.0 adfeed.marchex.com
 0.0.0.0 adflash.affairsclub.com
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfs.senacrs.com.br
@@ -2965,7 +2966,6 @@
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api.soclminer.com.br
 0.0.0.0 api.splkmobile.com
-0.0.0.0 api.statsig.com
 0.0.0.0 api.tllms.com
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.unthem.com
@@ -3057,6 +3057,7 @@
 0.0.0.0 appollo-plus.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 apps.crowdtangle.com
+0.0.0.0 apps.media-lab.ai
 0.0.0.0 apps.mobilityware.com
 0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 apps.nielsen.com
@@ -3202,6 +3203,7 @@
 0.0.0.0 auto-ping.com
 0.0.0.0 autobedo.com.cn
 0.0.0.0 autoline-top.com
+0.0.0.0 autotrading.com.cn
 0.0.0.0 auxmoney-partnerprogramm.de
 0.0.0.0 av-by.ru
 0.0.0.0 av-scanner.com
@@ -3266,6 +3268,7 @@
 0.0.0.0 b1.b2b168.net
 0.0.0.0 b1.baomihua.com
 0.0.0.0 b1.c1km4.com
+0.0.0.0 b1.puxuewang.cn
 0.0.0.0 b1.qqjay.com
 0.0.0.0 b1.xiao84.com
 0.0.0.0 b13.penzainform.ru
@@ -3981,6 +3984,7 @@
 0.0.0.0 cafe-latte.myshoplus.com
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 cahf4eed.mooo.com
+0.0.0.0 call-ad-network-api.marchex.com
 0.0.0.0 call-tracking.by
 0.0.0.0 call-tracking.co.uk
 0.0.0.0 camel.headfarming.com
@@ -5028,6 +5032,7 @@
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
 0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1izuvv2qy7hel.cloudfront.net
+0.0.0.0 d1jcj9gy98l90g.cloudfront.net
 0.0.0.0 d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1jl096lp4cce0.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
@@ -5215,6 +5220,7 @@
 0.0.0.0 d2pxbld8wrqyrk.cloudfront.net
 0.0.0.0 d2q52i8yx3j68p.cloudfront.net
 0.0.0.0 d2q7mvwub8tmwf.cloudfront.net
+0.0.0.0 d2q9y3krdwohfj.cloudfront.net
 0.0.0.0 d2qhg50jab93jy.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2qz7ofajpstv5.cloudfront.net
@@ -6068,6 +6074,8 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ekmpinpoint.co.uk
 0.0.0.0 ela-3-tnk.com
+0.0.0.0 elb.eu-west-1.amazonaws.com
+0.0.0.0 elb.us-west-1.amazonaws.com
 0.0.0.0 elephant.fotostrana.ru
 0.0.0.0 elink.nhanlucnganhluat.vn
 0.0.0.0 elite-s001.com
@@ -6607,6 +6615,7 @@
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.clearbit.com
+0.0.0.0 ga.giuem.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.webdigi.co.uk
 0.0.0.0 ga1.3dmgame.com
@@ -7974,6 +7983,7 @@
 0.0.0.0 log1.24liveplus.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log2.musical.ly
+0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
 0.0.0.0 log22.makeshop.co.kr
 0.0.0.0 log4x.nixcdn.com
@@ -8240,6 +8250,7 @@
 0.0.0.0 maxy-tax.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb-cdn.stocard.de
+0.0.0.0 mb-npltfpro.com
 0.0.0.0 mb-srv.com
 0.0.0.0 mb.gulongbbs.com
 0.0.0.0 mb.zam.com
@@ -8687,6 +8698,7 @@
 0.0.0.0 mobile.appchina.com
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 mobile.measurelib.com
 0.0.0.0 mobile.yahoo.co.jp
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 mobileads.indiatimes.com
@@ -8698,12 +8710,14 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobileoffers-7-q-download.com
 0.0.0.0 mobileoffers-a-download.com
+0.0.0.0 mobileoffers-ac-download.com
 0.0.0.0 mobileoffers-al-download.com
 0.0.0.0 mobileoffers-bn-download.com
 0.0.0.0 mobileoffers-cb-download.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 moblink.mob.com
 0.0.0.0 mobnerve.offerstrack.net
+0.0.0.0 mobondhrd.appspot.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 moh-followup.com
@@ -8715,6 +8729,7 @@
 0.0.0.0 mon.snssdk.com
 0.0.0.0 monad-rtb.com
 0.0.0.0 mondoads.s3.amazonaws.com
+0.0.0.0 monedata.iomericreceiver.cellrebel.com
 0.0.0.0 monero-miner.com
 0.0.0.0 monetize-api.coronalabs.com
 0.0.0.0 money-domen.com
@@ -8885,6 +8900,7 @@
 0.0.0.0 nats4.fetishbucks.com
 0.0.0.0 natural-ice.com
 0.0.0.0 naughty-traffic.com
+0.0.0.0 nav.telematicsdirect.com
 0.0.0.0 nave.foone.com.br
 0.0.0.0 nb.myspace.com
 0.0.0.0 nbsdk-baichuan.taobao.com
@@ -9726,6 +9742,7 @@
 0.0.0.0 pp-serve.newsinc.com
 0.0.0.0 pp.awmplus.com
 0.0.0.0 pp.muzofon-online.com
+0.0.0.0 ppc.adhere.marchex.com
 0.0.0.0 ppco.trwba.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 ppsdk.yhmapi.com
@@ -10557,6 +10574,7 @@
 0.0.0.0 sdk-configuration.gimbal.com
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-log-inter.youdao.com
+0.0.0.0 sdk-monitoring.ogury.io
 0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adsongo.com
@@ -11169,7 +11187,6 @@
 0.0.0.0 star-advertising.com
 0.0.0.0 star-cntr-5.com
 0.0.0.0 star.manystars.ru
-0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 starlizard.com.cn
 0.0.0.0 start-page.org
 0.0.0.0 start-xyz.com
@@ -11272,6 +11289,7 @@
 0.0.0.0 static-sb.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
 0.0.0.0 static-ssp.yidianzixun.com
+0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static.4chan-ads.org
 0.0.0.0 static.accesstrade.vn
 0.0.0.0 static.adbutter.net
@@ -11759,6 +11777,7 @@
 0.0.0.0 t.hypers.com.cn
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
+0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.karte.io
 0.0.0.0 t.kck.st
@@ -13063,7 +13082,6 @@
 0.0.0.0 vax-now.com
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vch.voyage-prive.ch
-0.0.0.0 vcs-va.byteoversea.com
 0.0.0.0 vdc.zoomph.com
 0.0.0.0 vde1.voyage-prive.de
 0.0.0.0 vdn.apps.cntv.cn
@@ -13081,7 +13099,6 @@
 0.0.0.0 vercel-analytics.com
 0.0.0.0 vercel-insights.com
 0.0.0.0 veremund-hon.com
-0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verified-extensions.com
 0.0.0.0 verify-app.online
