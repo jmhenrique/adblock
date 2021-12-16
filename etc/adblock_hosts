@@ -1,4 +1,4 @@
-142.250.219.8 ssl.google-analytics.com
+142.251.132.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2919,6 +2919,7 @@
 0.0.0.0 api.mobcells.com
 0.0.0.0 api.mobileanjian.com
 0.0.0.0 api.mobitech-content.xyz
+0.0.0.0 api.monedata.io
 0.0.0.0 api.muneris.io
 0.0.0.0 api.myendpoint.io
 0.0.0.0 api.myhappyads.com
@@ -8390,6 +8391,7 @@
 0.0.0.0 metric.worldcat.org
 0.0.0.0 metric.yellowpages.com
 0.0.0.0 metrica-yandex.com
+0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-dra.dt.hicloud.com
@@ -10574,6 +10576,7 @@
 0.0.0.0 sdk-configuration.gimbal.com
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-log-inter.youdao.com
+0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-monitoring.ogury.io
 0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk.adincube.com
@@ -11304,6 +11307,7 @@
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.clevertap.com
+0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.fleshlight.com
