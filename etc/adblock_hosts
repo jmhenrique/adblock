@@ -1,4 +1,4 @@
-142.251.132.232 ssl.google-analytics.com
+172.217.162.104 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -7319,6 +7319,7 @@
 0.0.0.0 include.canale.live
 0.0.0.0 income-tax.online
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
+0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 index-markets.digital
 0.0.0.0 india-zed.com
