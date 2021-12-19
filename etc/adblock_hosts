@@ -1,4 +1,4 @@
-142.250.219.200 ssl.google-analytics.com
+142.251.128.104 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2997,6 +2997,7 @@
 0.0.0.0 apollointeractive.ringrevenue.com
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-analytics-ru.huami.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-department.report
@@ -4402,6 +4403,7 @@
 0.0.0.0 cloud.setupad.com
 0.0.0.0 cloudapp-s.store
 0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 cloudflare-dacdn.visualwebsiteoptimizer.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 cloudservice24.kingsoft-office-service.com
@@ -6455,6 +6457,7 @@
 0.0.0.0 file-subiz.com
 0.0.0.0 files-downloads.com
 0.0.0.0 files.appsgeyser.com
+0.0.0.0 files.bbci.co.uk
 0.0.0.0 files.pbgiris.com
 0.0.0.0 filter.adsparkmedia.net
 0.0.0.0 filter.adxfactory.com
@@ -8213,6 +8216,7 @@
 0.0.0.0 marketing.modalife.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marketing.net.home24.de
+0.0.0.0 marketing.net.occhiali24.it
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketing.tllms.com
@@ -8932,6 +8936,7 @@
 0.0.0.0 netdeal.com.br
 0.0.0.0 netdebit-counter.de
 0.0.0.0 netinsight.co.kr
+0.0.0.0 netmera-web.com
 0.0.0.0 netpoint-media.de
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 network-bots.com
@@ -10631,7 +10636,6 @@
 0.0.0.0 sdk6.ibm.xtify.com
 0.0.0.0 sdk8.ibm.xtify.com
 0.0.0.0 sdkapi.kookong.com
-0.0.0.0 sdkapi.netmera.com
 0.0.0.0 sdkapicdn.applanga.com
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkcdn.videojj.com
@@ -11789,6 +11793,7 @@
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.karte.io
 0.0.0.0 t.kck.st
+0.0.0.0 t.leady.com
 0.0.0.0 t.leady.cz
 0.0.0.0 t.lidyana.com
 0.0.0.0 t.ltmse.com
@@ -12330,6 +12335,7 @@
 0.0.0.0 track.list-finder.jp
 0.0.0.0 track.lobi.co
 0.0.0.0 track.mads.ph
+0.0.0.0 track.mailalert.io
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.make-a-site.net
 0.0.0.0 track.mdrctr.com
