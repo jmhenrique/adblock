@@ -1,4 +1,4 @@
-142.251.132.40 ssl.google-analytics.com
+172.217.173.72 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -3136,7 +3136,6 @@
 0.0.0.0 assets-secure.applicaster.com
 0.0.0.0 assets-v2.yieldify-production.com
 0.0.0.0 assets.abbi.io
-0.0.0.0 assets.dwell.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.locuslabs.com
 0.0.0.0 assets.mantisadnetwork.com
@@ -6819,6 +6818,7 @@
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.goroost.com
 0.0.0.0 go.hangzhou.com.cn
+0.0.0.0 go.icann.org
 0.0.0.0 go.jetswap.com
 0.0.0.0 go.loadingnow.me
 0.0.0.0 go.media-x.ru
@@ -7229,7 +7229,6 @@
 0.0.0.0 images.cardlytics.com
 0.0.0.0 images.ddc.com
 0.0.0.0 images.dreamhost.com
-0.0.0.0 images.dwell.com
 0.0.0.0 images.hitwise.co.uk
 0.0.0.0 images.informatm.com
 0.0.0.0 images.kolmic.com
