@@ -1,4 +1,4 @@
-172.217.173.72 ssl.google-analytics.com
+142.250.218.72 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -401,6 +401,7 @@
 0.0.0.0 abc.hkepc.net
 0.0.0.0 abc.pema.cl
 0.0.0.0 abc.rwpt.top
+0.0.0.0 abc.yebaike.com
 0.0.0.0 abcd.mdc.akamaized.net
 0.0.0.0 abcdcfasda.gushiwen.cn
 0.0.0.0 abcj.dooccn.com
@@ -2367,6 +2368,7 @@
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 amradmin.5173.com
+0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 ams.fx678.com
 0.0.0.0 ams.toxity.biz
 0.0.0.0 ams3.cdn.digitaloceanspaces.com
@@ -2429,6 +2431,7 @@
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-rhwg.rhcloud.com
 0.0.0.0 analytics-scripts.cablelabs.com
+0.0.0.0 analytics-sdk.yle.fi
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-sprint.qoqa.com
@@ -2787,6 +2790,7 @@
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 anormal-tracker.de
+0.0.0.0 anti-adblock.herokuapp.com
 0.0.0.0 anti-cheat.info
 0.0.0.0 anti.allcryptoz.net
 0.0.0.0 anti.yodo1api.com
@@ -3622,6 +3626,8 @@
 0.0.0.0 beagle.prod.tda.link
 0.0.0.0 beak.bd.313.nl
 0.0.0.0 beak.bigdata.dpgmmservices.nl
+0.0.0.0 beam-ws.giraffe360.com
+0.0.0.0 beam.giraffe360.com
 0.0.0.0 beam.mjhlifesciences.com
 0.0.0.0 beam.remp.impresa.pt
 0.0.0.0 beap-bc.yahoo.com
@@ -4711,6 +4717,7 @@
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.24h.com.vn
 0.0.0.0 counter.adguard.com
+0.0.0.0 counter.ajansspor.com
 0.0.0.0 counter.all.biz
 0.0.0.0 counter.bizland.com
 0.0.0.0 counter.blogoscoop.net
@@ -4880,6 +4887,7 @@
 0.0.0.0 cst.cstwpush.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 ct.needlive.com
@@ -4974,6 +4982,7 @@
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
 0.0.0.0 d15gt9gwxw5wu0.cloudfront.net
 0.0.0.0 d15jg7068qz6nm.cloudfront.net
+0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d15nyyrvgr35tv.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
@@ -5344,6 +5353,7 @@
 0.0.0.0 d3hj4iyx6t1waz.cloudfront.net
 0.0.0.0 d3hr5gm0wlxm5h.cloudfront.net
 0.0.0.0 d3hs51abvkuanv.cloudfront.net
+0.0.0.0 d3hyoy1d16gfg0.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
 0.0.0.0 d3iih5w7xp5hdg.cloudfront.net
 0.0.0.0 d3in1te4fdays6.cloudfront.net
@@ -5641,6 +5651,7 @@
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 dhrhzii89gpwo.cloudfront.net
 0.0.0.0 di-capt.com
+0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 di9qu.com.cn
 0.0.0.0 dia-traffic.com
 0.0.0.0 diagnose.igstatic.com
@@ -5752,6 +5763,7 @@
 0.0.0.0 dm7gsepi27zsx.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dmeq7blex6x1u.cloudfront.net
+0.0.0.0 dmg0877nfcvqj.cloudfront.net
 0.0.0.0 dmkdtkad2jyb9.cloudfront.net
 0.0.0.0 dmm.aizhan.com
 0.0.0.0 dmmzkfd82wayn.cloudfront.net
@@ -5819,6 +5831,7 @@
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 download-alert.com
 0.0.0.0 download-file.ml
+0.0.0.0 download-readynow.com
 0.0.0.0 download.350.com
 0.0.0.0 download.cdn.sharelive.net
 0.0.0.0 download.cdn.torchbrowser.com
@@ -6292,6 +6305,7 @@
 0.0.0.0 events.reclamefolder.nl
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.release.narrativ.com
 0.0.0.0 events.sd-nbb.de
 0.0.0.0 events.shareably.net
 0.0.0.0 events.sk.ht
@@ -6315,6 +6329,7 @@
 0.0.0.0 evhj9.52av.tv
 0.0.0.0 evidon.com.edgekey.net
 0.0.0.0 evnt.iol.it
+0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 ew.politros.com
 0.0.0.0 ew.srp.navigacloud.com
@@ -6712,6 +6727,7 @@
 0.0.0.0 geoip.herewetest.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.inquirer.net
+0.0.0.0 geoip.instiengage.com
 0.0.0.0 geoip.lehighvalleylive.com
 0.0.0.0 geoip.masslive.com
 0.0.0.0 geoip.mlive.com
@@ -6857,6 +6873,7 @@
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-rank.org
 0.0.0.0 google-shopping.sapoapps.vn
+0.0.0.0 googleads.github.io
 0.0.0.0 googleplay-store.com
 0.0.0.0 googleshopping.sapoapps.vn
 0.0.0.0 gorod.tunt.lv
@@ -6957,6 +6974,7 @@
 0.0.0.0 hay-borsa.ru
 0.0.0.0 hb-247.com
 0.0.0.0 hb.mynativeplatform.com
+0.0.0.0 hb.vhsrv.com
 0.0.0.0 hbi-ingest.net
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 hdapp1003-a.akamaihd.net
@@ -7552,6 +7570,7 @@
 0.0.0.0 js.xiao7cdn.com
 0.0.0.0 js.yanyue.cn
 0.0.0.0 js.yanyue.net
+0.0.0.0 js.yjbys.com
 0.0.0.0 js1.haoge500.com
 0.0.0.0 js4.ringrevenue.com
 0.0.0.0 js862.anreson.net
@@ -9013,6 +9032,7 @@
 0.0.0.0 ninja.onap.io
 0.0.0.0 niuguwang.net.cn
 0.0.0.0 njs.manhuahome.com
+0.0.0.0 njupt-sacc.com
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nlog.nethru.io
@@ -9562,6 +9582,7 @@
 0.0.0.0 ping-traffic.info
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.dozuki.com
+0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.smyte.com
@@ -9811,6 +9832,7 @@
 0.0.0.0 prod-collector.bigbasket.com
 0.0.0.0 prod-dcs-eventlog.decagames.com
 0.0.0.0 prod-defaulting-subscriptiontool.gismart.xyz
+0.0.0.0 prod-plague-bacon.miniclippt.com
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.aws.ecnext.net
@@ -11692,6 +11714,7 @@
 0.0.0.0 sunior.loftlm.ru
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 sunrise-brink.net
+0.0.0.0 super-ladies-now.life
 0.0.0.0 super-links.net
 0.0.0.0 super-promo.cyme.info
 0.0.0.0 super-sxema.ru
