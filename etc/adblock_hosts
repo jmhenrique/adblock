@@ -1,4 +1,4 @@
-142.251.132.232 ssl.google-analytics.com
+142.251.128.104 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -130,7 +130,6 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 3pt.placelocal.com
-0.0.0.0 3xy1.dvv9dkv.site
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.fuckyoucash.com
 0.0.0.0 404.hqhost.net
@@ -2697,6 +2696,7 @@
 0.0.0.0 analytics.tactilews.com
 0.0.0.0 analytics.tbs.com
 0.0.0.0 analytics.tdameritrade.com
+0.0.0.0 analytics.tebilisim.com
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.teko.vn
 0.0.0.0 analytics.teleclal.com
@@ -2785,6 +2785,7 @@
 0.0.0.0 android-stat.acestream.net
 0.0.0.0 android-updates.net
 0.0.0.0 anews7.nvwu.com
+0.0.0.0 anfw.com.cn
 0.0.0.0 angorch-cdr7.com
 0.0.0.0 aniview.com.edgekey.net
 0.0.0.0 annonser.dagbladet.no
@@ -3352,7 +3353,6 @@
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
-0.0.0.0 banner.interich.com
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.kanald.com.tr
 0.0.0.0 banner.kiev.ua
@@ -5921,6 +5921,7 @@
 0.0.0.0 dwf6crl4raal7.cloudfront.net
 0.0.0.0 dwnm2295blvjq.cloudfront.net
 0.0.0.0 dwtracking.sdo.com
+0.0.0.0 dx.mountain.com
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dxkkb5tytkivf.cloudfront.net
 0.0.0.0 dxprljqoay4rt.cloudfront.net
@@ -6026,6 +6027,7 @@
 0.0.0.0 easy.au.ru
 0.0.0.0 easy.mmoney.services
 0.0.0.0 easyflirt-partners.biz
+0.0.0.0 easyjz.com.cn
 0.0.0.0 easylist-to.xyz
 0.0.0.0 eatp.evztib.xyz
 0.0.0.0 eb500d5e2b.cf031d45b5.com
@@ -6477,7 +6479,6 @@
 0.0.0.0 filter.adxfactory.com
 0.0.0.0 filter.eclickz.com
 0.0.0.0 filteradkernel.adsimilate.com
-0.0.0.0 fimg-resp.seznam.cz
 0.0.0.0 fimserve.askmen.com
 0.0.0.0 fimserve.ign.com
 0.0.0.0 fimserve.myspace.com
@@ -6586,6 +6587,7 @@
 0.0.0.0 frrtrr.banggirls.ru
 0.0.0.0 fruitice.realnetwrk.com
 0.0.0.0 fs-client-logger.herokuapp.com
+0.0.0.0 fshanys-vip.top
 0.0.0.0 fspark-ap.com
 0.0.0.0 fstatic.iadvize.com
 0.0.0.0 ftv-publicite.fr
@@ -7662,6 +7664,7 @@
 0.0.0.0 kunner.wiesentbote.de
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 kwserver.adhispanic.com
+0.0.0.0 l-kingmall.com
 0.0.0.0 l.da-te.jp
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ffsagami.com
@@ -8377,6 +8380,7 @@
 0.0.0.0 megogo.1ru.tv
 0.0.0.0 mein.monster.de
 0.0.0.0 meituan.xn--io0a7i
+0.0.0.0 member-garena.vn
 0.0.0.0 member.javtvnow.xyz
 0.0.0.0 members.sexroulette.com
 0.0.0.0 meng.360zuowen.com
@@ -9447,7 +9451,6 @@
 0.0.0.0 partner.eviton.ru
 0.0.0.0 partner.gde.ru
 0.0.0.0 partner.join.com.ua
-0.0.0.0 partner.linkfire.com
 0.0.0.0 partner.mediametrics.ru
 0.0.0.0 partner.pelikan.cz
 0.0.0.0 partner.pladform.ru
@@ -12731,6 +12734,7 @@
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.viewster.com
 0.0.0.0 tracking.vitringez.com
+0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.waterfrontmedia.com
 0.0.0.0 tracking.websitealive.com
