@@ -1,4 +1,4 @@
-142.250.218.232 ssl.google-analytics.com
+142.251.128.8 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2790,6 +2790,7 @@
 0.0.0.0 angorch-cdr7.com
 0.0.0.0 aniview.com.edgekey.net
 0.0.0.0 annonser.dagbladet.no
+0.0.0.0 anon-stats.eff.org
 0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anti-adblock.herokuapp.com
@@ -2954,6 +2955,7 @@
 0.0.0.0 api.pythonexample.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.radar.io
+0.0.0.0 api.red.wemesh.ca
 0.0.0.0 api.reftagger.com
 0.0.0.0 api.reon.club
 0.0.0.0 api.reproio.com
@@ -4285,7 +4287,6 @@
 0.0.0.0 ck-cdn.com
 0.0.0.0 ck.ncclick.co.kr
 0.0.0.0 ckg.vipyl.com
-0.0.0.0 ckjyck.qxs.la
 0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 cl-xny.cn
 0.0.0.0 cl.canva.com
@@ -5716,6 +5717,7 @@
 0.0.0.0 djz9es32qen64.cloudfront.net
 0.0.0.0 dk2mvwe4uw0z3.cloudfront.net
 0.0.0.0 dk45agakx3yfl.cloudfront.net
+0.0.0.0 dk57sacpbi4by.cloudfront.net
 0.0.0.0 dk7rftbivnkgr.cloudfront.net
 0.0.0.0 dkhywqapojyk7.cloudfront.net
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
@@ -7329,6 +7331,7 @@
 0.0.0.0 impress.vcita.com
 0.0.0.0 impressions.crossinstall.io
 0.0.0.0 impressionz.co.uk
+0.0.0.0 improving.wuzhuiso.com
 0.0.0.0 in-appadvertising.com
 0.0.0.0 in-page-push.com
 0.0.0.0 in-page-push.net
@@ -9175,6 +9178,7 @@
 0.0.0.0 oilpainting.colorbynumber.veraxen.com
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oix.phorm.com
+0.0.0.0 ok-app.online
 0.0.0.0 ok-group.org
 0.0.0.0 ok.432kkk.com
 0.0.0.0 olc.yodo1api.com
@@ -12828,6 +12832,7 @@
 0.0.0.0 trk.absuite.com.br
 0.0.0.0 trk.adbutter.net
 0.0.0.0 trk.apperol.com
+0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.clinch.co
@@ -13722,6 +13727,7 @@
 0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 yktj.yzz.cn
 0.0.0.0 yl-zipper.com
+0.0.0.0 ylbb-vipjs.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ylog.nimo.tv
 0.0.0.0 ylx-1.com
