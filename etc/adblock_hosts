@@ -1,8 +1,7 @@
-142.251.129.104 ssl.google-analytics.com
+142.250.219.136 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
-0.0.0.0 1-1ads.com
 0.0.0.0 1-cl0ud.com
 0.0.0.0 1-xredbet93636.top
 0.0.0.0 1.01fy.cn
@@ -761,6 +760,7 @@
 0.0.0.0 ad1.adtitan.net
 0.0.0.0 ad1.bigmir.net
 0.0.0.0 ad1.emule-project.org
+0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad1.speedbit.com
@@ -2950,6 +2950,7 @@
 0.0.0.0 api.postscript.io
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.proba.ai
+0.0.0.0 api.pubfinity.com
 0.0.0.0 api.pushspring.com
 0.0.0.0 api.pxlad.io
 0.0.0.0 api.pythonexample.com
@@ -3109,6 +3110,7 @@
 0.0.0.0 around-theglobe.co
 0.0.0.0 arrows-hitech.com
 0.0.0.0 arsconsole.global-intermedia.com
+0.0.0.0 artisan-digital.cn
 0.0.0.0 arts-cloud.net
 0.0.0.0 as-farm.com
 0.0.0.0 as.adfonic.net
@@ -5537,6 +5539,7 @@
 0.0.0.0 dating-cart.com
 0.0.0.0 dating-exchange.com
 0.0.0.0 dating-service.net
+0.0.0.0 db-ip.com
 0.0.0.0 db.riskwaters.com
 0.0.0.0 dbcdqp72lzmvj.cloudfront.net
 0.0.0.0 dbex-tracker-v2.driveback.ru
@@ -6405,6 +6408,7 @@
 0.0.0.0 fabric-shops.com
 0.0.0.0 face-image.com
 0.0.0.0 facebook-accounts.com.mx
+0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 facil-iti.com
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 fam-8.net
@@ -6967,6 +6971,7 @@
 0.0.0.0 hapic1.zhuangxiu22.com
 0.0.0.0 happen.spkt.io
 0.0.0.0 happyunicorns.gutefrage.net
+0.0.0.0 harpocrates.ethyca.com
 0.0.0.0 hartsfieldrowesville.salleyoklaunion.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
@@ -7148,6 +7153,7 @@
 0.0.0.0 i-sol-geo.ru
 0.0.0.0 i-stats.com
 0.0.0.0 i-vengo.com
+0.0.0.0 i.bigin.io
 0.0.0.0 i.bigmir.net
 0.0.0.0 i.btg360.com.br
 0.0.0.0 i.cdnpark.com
@@ -7476,6 +7482,7 @@
 0.0.0.0 ist-track.com
 0.0.0.0 istana-impian.com
 0.0.0.0 istana-impian2.com
+0.0.0.0 istatistik.trthaber.com
 0.0.0.0 istgr-foto.com
 0.0.0.0 it-pearl.com
 0.0.0.0 it.erosadv.com
@@ -8026,6 +8033,7 @@
 0.0.0.0 logdev.openload.co
 0.0.0.0 logen.vietnamplus.vn
 0.0.0.0 logend.cookpad.com
+0.0.0.0 logevt.pubfinity.com
 0.0.0.0 logg4u.cnnd.vn
 0.0.0.0 logger.applovefrom.com
 0.0.0.0 logger.bzu.kr
@@ -8816,7 +8824,7 @@
 0.0.0.0 mpb1.iteye.com
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 mps-gba.de
-0.0.0.0 mps.yuwenba.cn
+0.0.0.0 mps.wenkuzu.com
 0.0.0.0 mq.d6s3mov.cn
 0.0.0.0 mqmh.uihdlx.xyz
 0.0.0.0 mqqad.html5.qq.com
@@ -9223,6 +9231,7 @@
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 on-line.lv
 0.0.0.0 on-push.com
+0.0.0.0 onapp.haravan.com
 0.0.0.0 one-arts.com
 0.0.0.0 one-door.com
 0.0.0.0 one-isnot-enough.com
@@ -9887,6 +9896,7 @@
 0.0.0.0 promote.pair.com
 0.0.0.0 promoted.sndcdn.com
 0.0.0.0 promoted.soundcloud.com
+0.0.0.0 promotion.haravan.com
 0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 promotionpopup.sapoapps.vn
 0.0.0.0 promotions-884485.c.cdn77.org
@@ -10048,6 +10058,7 @@
 0.0.0.0 quota-reader.net
 0.0.0.0 quran-quote.com
 0.0.0.0 qwe.qrrgv.space
+0.0.0.0 qzi-ggjsyuming.com
 0.0.0.0 r-ad.linkshare.jp
 0.0.0.0 r-ad.ne.jp
 0.0.0.0 r-tb.com
@@ -10130,7 +10141,6 @@
 0.0.0.0 rd.yahoo.co.jp
 0.0.0.0 rdbd.xsread.com
 0.0.0.0 rdr.wargaming.net
-0.0.0.0 re-directme.com
 0.0.0.0 re.taotaosou.com
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 readcube.com.herokudns.com
@@ -10157,6 +10167,7 @@
 0.0.0.0 recreativ.com.ua
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 recs.richrelevance.com
+0.0.0.0 red.asp.appirits.com
 0.0.0.0 redirect-ads.com
 0.0.0.0 redirect-connection.com
 0.0.0.0 redirect-link.com
@@ -10983,6 +10994,7 @@
 0.0.0.0 social-sb.com
 0.0.0.0 socialbars-web1.com
 0.0.0.0 socialbars-web4.com
+0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 sockjs-goguardian.pusher.com
 0.0.0.0 soft-com.biz
 0.0.0.0 softclick.com.br
@@ -11297,6 +11309,7 @@
 0.0.0.0 stat.stars.ru
 0.0.0.0 stat.teleport.media
 0.0.0.0 stat.thestartmagazine.com
+0.0.0.0 stat.tiara.kakao.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 stat.tvigle.ru
@@ -11900,6 +11913,7 @@
 0.0.0.0 tag.search.sensefuel.live
 0.0.0.0 tag.shopping-feed.com
 0.0.0.0 tag.sonymusic.com
+0.0.0.0 tag.surpha.jp
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 tag.userreport.com
 0.0.0.0 tagboard.com.herokudns.com
@@ -12815,6 +12829,7 @@
 0.0.0.0 trckr.nordiskemedier.dk
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 tredir.go.com
+0.0.0.0 trendads.reactivebetting.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 tribalfusion.speedera.net
 0.0.0.0 tribez.game-insight.com
@@ -12836,7 +12851,6 @@
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.clinch.co
-0.0.0.0 trk.enemy-adult-scared-there.xyz
 0.0.0.0 trk.fensi.plus
 0.0.0.0 trk.games-to-run123.com
 0.0.0.0 trk.i0.cz
@@ -12899,6 +12913,7 @@
 0.0.0.0 turismo-aqui.com
 0.0.0.0 turkish-ru.ru
 0.0.0.0 turn.com.akadns.net
+0.0.0.0 turnipsoft.pubfinity.com
 0.0.0.0 turtlemobile.com.tw
 0.0.0.0 tut-64.com
 0.0.0.0 tut.prosmotrov.net
@@ -13205,6 +13220,7 @@
 0.0.0.0 vik-analytics-gke.moonactive.net
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 viokan.xvhod.ru
+0.0.0.0 vip-datings.life
 0.0.0.0 vip-p0rtal.services
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 vip-websc.org
@@ -13521,6 +13537,7 @@
 0.0.0.0 wrapper.fileplanet.com
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 wren.condenastdigital.com
+0.0.0.0 ws-expo.cn
 0.0.0.0 ws-gateway.com
 0.0.0.0 ws-goguardian.pusher.com
 0.0.0.0 ws.audioeye.com
