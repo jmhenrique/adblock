@@ -1,4 +1,4 @@
-142.250.219.200 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -4952,7 +4952,6 @@
 0.0.0.0 d.adx.io
 0.0.0.0 d.dgzj.com
 0.0.0.0 d.haberler.com
-0.0.0.0 d.ifengimg.com
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
 0.0.0.0 d.mob.com
 0.0.0.0 d.omsnative.de
@@ -9789,7 +9788,6 @@
 0.0.0.0 post1.voiceads.cn
 0.0.0.0 poster.weather.com.cn
 0.0.0.0 postrelease.com.akadns.net
-0.0.0.0 postsign.docusign.com
 0.0.0.0 power.adhacker.online
 0.0.0.0 poweradvertising.co.uk
 0.0.0.0 powr-counter.herokuapp.com
@@ -11366,7 +11364,6 @@
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.clevertap.com
-0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.fleshlight.com
@@ -12034,7 +12031,6 @@
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.art19.com
-0.0.0.0 telemetry.docusign.net
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
@@ -12632,6 +12628,7 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.everydayhealth.com
+0.0.0.0 tracking.exipure.com
 0.0.0.0 tracking.fado.vn
 0.0.0.0 tracking.fanbridge.com
 0.0.0.0 tracking.fff.com.vn
