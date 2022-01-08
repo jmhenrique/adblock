@@ -1,7 +1,8 @@
-172.217.162.200 ssl.google-analytics.com
+172.217.28.8 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
+0.0.0.0 1-1ads.com
 0.0.0.0 1-cl0ud.com
 0.0.0.0 1-xredbet93636.top
 0.0.0.0 1.01fy.cn
@@ -1050,7 +1051,6 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-union.jd.com
 0.0.0.0 ads-v-darwin.hulu.com
-0.0.0.0 ads-website.ytsservice.com
 0.0.0.0 ads-wordego.azureedge.net
 0.0.0.0 ads.123net.jp
 0.0.0.0 ads.1mobile.com
@@ -1882,6 +1882,7 @@
 0.0.0.0 adserver.eyeonx.ch
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
+0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.goforandroid.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
@@ -4231,6 +4232,7 @@
 0.0.0.0 cellular-updates.online
 0.0.0.0 centent.slreamplay.cc
 0.0.0.0 centent.steanplay.cc
+0.0.0.0 centent.stemplay.cc
 0.0.0.0 centent.streanplay.cc
 0.0.0.0 centrasia-news.com
 0.0.0.0 certified-apps.com
@@ -5542,7 +5544,6 @@
 0.0.0.0 dating-cart.com
 0.0.0.0 dating-exchange.com
 0.0.0.0 dating-service.net
-0.0.0.0 db-ip.com
 0.0.0.0 db.riskwaters.com
 0.0.0.0 dbcdqp72lzmvj.cloudfront.net
 0.0.0.0 dbex-tracker-v2.driveback.ru
@@ -7851,6 +7852,7 @@
 0.0.0.0 lm.ijq.tv
 0.0.0.0 lm1.tuliu.com
 0.0.0.0 lm1.wkpcw.cn
+0.0.0.0 lmht-membership.com
 0.0.0.0 lmn-pou-win.com
 0.0.0.0 lnews.riafan.ru
 0.0.0.0 lntyjjh.org.cn
@@ -8242,6 +8244,7 @@
 0.0.0.0 mao1.jsnovel.com
 0.0.0.0 mapstats.blogflux.com
 0.0.0.0 marbil24.co.za
+0.0.0.0 market-buster.com
 0.0.0.0 market.178.com
 0.0.0.0 market.21cn.com
 0.0.0.0 market.duowan.com
@@ -9606,7 +9609,6 @@
 0.0.0.0 ping-traffic.info
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.dozuki.com
-0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.smyte.com
@@ -10406,6 +10408,7 @@
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 rtrk.co.nz
 0.0.0.0 rts.dxsvr.com
+0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 ru-novocti.com
 0.0.0.0 ru.p.pstl.live
 0.0.0.0 rubicon.wellsfargo.com
@@ -11187,6 +11190,7 @@
 0.0.0.0 sq.requestads.com
 0.0.0.0 squalid-linen.fun
 0.0.0.0 squirrels.getsquirrel.co
+0.0.0.0 sr.studiostack.com
 0.0.0.0 sr2.liveperson.net
 0.0.0.0 sra.moresophy.net
 0.0.0.0 srepdata.usatoday.com
