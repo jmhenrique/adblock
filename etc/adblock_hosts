@@ -1,4 +1,4 @@
-172.217.162.200 ssl.google-analytics.com
+142.250.219.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -3032,6 +3032,7 @@
 0.0.0.0 app.mashero.com
 0.0.0.0 app.meltwater.com
 0.0.0.0 app.monetrack.com
+0.0.0.0 app.pendo.io
 0.0.0.0 app.pulsatehq.com
 0.0.0.0 app.reflectivedata.com
 0.0.0.0 app.roximity.com
@@ -4552,6 +4553,7 @@
 0.0.0.0 collector.kstptv5.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.mediator.media
+0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.ozeex.com
 0.0.0.0 collector.pabs.comcast.com
 0.0.0.0 collector.placelocal.com
@@ -5066,6 +5068,7 @@
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
 0.0.0.0 d1mbihpm2gncx7.cloudfront.net
+0.0.0.0 d1mdhw23tj9j17.cloudfront.net
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
 0.0.0.0 d1miwkthq39xj8.cloudfront.net
 0.0.0.0 d1mroptkfdxko5.cloudfront.net
@@ -5152,6 +5155,7 @@
 0.0.0.0 d240937yockcdo.cloudfront.net
 0.0.0.0 d24afgsm39csxt.cloudfront.net
 0.0.0.0 d24cze5sab2jwg.cloudfront.net
+0.0.0.0 d24g87zbxr4yiz.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d25dfknw9ghxs6.cloudfront.net
@@ -5729,6 +5733,7 @@
 0.0.0.0 dkhywqapojyk7.cloudfront.net
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkre4lyk6a9bt.cloudfront.net
+0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dkus30wj6f84p.cloudfront.net
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 dl-rms.com
@@ -6194,6 +6199,7 @@
 0.0.0.0 esc-team.com
 0.0.0.0 escape.insites.eu
 0.0.0.0 eset-affiliate.de
+0.0.0.0 esp-12f.xyz
 0.0.0.0 espn-ak.starwave.com
 0.0.0.0 espresso-reklam.eu
 0.0.0.0 estat.zum.com
@@ -6462,6 +6468,8 @@
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 fer-ta.com
+0.0.0.0 ff-members-garena.vn
+0.0.0.0 ff-membership-garena.com
 0.0.0.0 ff.astv.ru
 0.0.0.0 ff.guidaye.com
 0.0.0.0 ff.imacdn.com
@@ -6670,6 +6678,7 @@
 0.0.0.0 ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
 0.0.0.0 ganon.yahoo.com
+0.0.0.0 garena-members.com
 0.0.0.0 gate-sync.net
 0.0.0.0 gateway.fortunelounge.com
 0.0.0.0 gateway.ttpsdk.info
@@ -6813,6 +6822,7 @@
 0.0.0.0 ggw.watertu.com
 0.0.0.0 ghghgf.51dongshi.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
+0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 giga-abs.de
 0.0.0.0 gim.co.il
 0.0.0.0 girl-ceases.info
@@ -7203,6 +7213,7 @@
 0.0.0.0 id.tinypass.com
 0.0.0.0 id1.cn.com
 0.0.0.0 id5-sync.com
+0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0 ideas-telcel.com.mx
 0.0.0.0 idp.clogin.att.com
 0.0.0.0 ids-dmp.vpadn.com
@@ -7616,6 +7627,7 @@
 0.0.0.0 jvs.price.ru
 0.0.0.0 jvyigg.biqugeq.com
 0.0.0.0 jvyigg.zbzw.la
+0.0.0.0 jwl.hk.cn
 0.0.0.0 jx.renrensousuo.com
 0.0.0.0 jxad.jx163.com
 0.0.0.0 jy.zhongxues.com
@@ -9768,6 +9780,8 @@
 0.0.0.0 politiques-infos.info
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pool.ads.netlog.com
+0.0.0.0 pool.nimiq.watch
+0.0.0.0 pool.nimiqchain.info
 0.0.0.0 pop-road47.info
 0.0.0.0 pop.dojo.cc
 0.0.0.0 pop.mrstiff.com
@@ -10823,6 +10837,7 @@
 0.0.0.0 services.bionika-digital.ru
 0.0.0.0 services.brightline.tv
 0.0.0.0 services.hearstmags.com
+0.0.0.0 services.sdiapi.com
 0.0.0.0 services.wetek.com
 0.0.0.0 services.zam.com
 0.0.0.0 serving-ad.tv24.vn
@@ -12999,7 +13014,7 @@
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 un-limitededitions.com
 0.0.0.0 un.ubaike.cn
-0.0.0.0 un1.wayoulegal.com
+0.0.0.0 un1.lawyernet.cn
 0.0.0.0 unanimis.co.uk
 0.0.0.0 undm.qibulo.com
 0.0.0.0 unid.go.com
