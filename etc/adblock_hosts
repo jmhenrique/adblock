@@ -1,4 +1,4 @@
-142.251.129.168 ssl.google-analytics.com
+142.250.218.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -47,6 +47,7 @@
 0.0.0.0 1.pncdn.cn
 0.0.0.0 1.qjhm.net
 0.0.0.0 1.rr95.com
+0.0.0.0 1.shopit.cn
 0.0.0.0 1.sj33.net
 0.0.0.0 1.soufy.cn
 0.0.0.0 1.tecbbs.com
@@ -81,6 +82,7 @@
 0.0.0.0 123-tracker.com
 0.0.0.0 1278725189.pub.ezanga.com
 0.0.0.0 14713804a.l2m.net
+0.0.0.0 1486050000.rsc.cdn77.org
 0.0.0.0 1559.stats.misstrends.com
 0.0.0.0 1571627030.rsc.cdn77.org
 0.0.0.0 1675450967.rsc.cdn77.org
@@ -566,6 +568,7 @@
 0.0.0.0 ad.bestsportstream.com
 0.0.0.0 ad.bilgin.pro
 0.0.0.0 ad.bitbay.net
+0.0.0.0 ad.bluepartner.eu
 0.0.0.0 ad.bobi.tw
 0.0.0.0 ad.bondage.com
 0.0.0.0 ad.byfuh.com
@@ -2786,6 +2789,8 @@
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
 0.0.0.0 android-stat.acestream.net
 0.0.0.0 android-updates.net
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 anews7.nvwu.com
 0.0.0.0 anfw.com.cn
 0.0.0.0 angorch-cdr7.com
@@ -2834,6 +2839,7 @@
 0.0.0.0 api-n.outgrow.co
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api-scsdk.appcloudbox.net
+0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api.140proof.com
@@ -4107,6 +4113,7 @@
 0.0.0.0 cdn.accengage.com
 0.0.0.0 cdn.adbert.info
 0.0.0.0 cdn.adsquirrel.ai
+0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.adtradr.com
 0.0.0.0 cdn.adual.net
 0.0.0.0 cdn.advsmedia.net
@@ -4489,6 +4496,7 @@
 0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 cod.bitrec.com
 0.0.0.0 cod.southmoney.com
+0.0.0.0 code-garena-vn.com
 0.0.0.0 code-lienquan-vn.com
 0.0.0.0 code.adsales.snidigital.com
 0.0.0.0 code.ainsyndication.com
@@ -4512,6 +4520,7 @@
 0.0.0.0 collect-test.arabam.com
 0.0.0.0 collect.adsorb.com
 0.0.0.0 collect.albacross.com
+0.0.0.0 collect.babybus.com
 0.0.0.0 collect.blishtech.co
 0.0.0.0 collect.data.tm-awx.com
 0.0.0.0 collect.feefo.com
@@ -4538,6 +4547,7 @@
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector.apester.com
 0.0.0.0 collector.appconsent.io
 0.0.0.0 collector.automote.co.nz
@@ -6822,6 +6832,7 @@
 0.0.0.0 ggw.watertu.com
 0.0.0.0 ghghgf.51dongshi.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
+0.0.0.0 giftcode-lienquanmobile-vn.com
 0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 giga-abs.de
 0.0.0.0 gim.co.il
@@ -6946,6 +6957,7 @@
 0.0.0.0 guard.mob.com
 0.0.0.0 guardianapps.co.uk
 0.0.0.0 guardiandigitalcomparison.co.uk
+0.0.0.0 guerrilla-links.com
 0.0.0.0 guess.h.qhimg.com
 0.0.0.0 guirui-clothes.com
 0.0.0.0 gulf-financials.com
@@ -7907,6 +7919,8 @@
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
+0.0.0.0 log.apkomega.com
+0.0.0.0 log.appbundledownload.com
 0.0.0.0 log.appdriver.jp
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.avlyun.com
@@ -7930,7 +7944,9 @@
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
 0.0.0.0 log.doanhnhan.vn
+0.0.0.0 log.down61.com
 0.0.0.0 log.droid4x.cn
+0.0.0.0 log.easy39.com
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.enuri.com
 0.0.0.0 log.f-tra.com
@@ -7958,6 +7974,7 @@
 0.0.0.0 log.lemonpi.io
 0.0.0.0 log.lon22.com
 0.0.0.0 log.ma-jin.jp
+0.0.0.0 log.make50.com
 0.0.0.0 log.mappy.net
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
@@ -8030,6 +8047,7 @@
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 log.wtlogin.qq.com
+0.0.0.0 log.yougameover.com
 0.0.0.0 log.zamba.vn
 0.0.0.0 log.zdnet.co.kr
 0.0.0.0 log.zepeto.io
@@ -8297,6 +8315,7 @@
 0.0.0.0 materiel.baizhan.net
 0.0.0.0 materiel.junshidao.com
 0.0.0.0 mathtag.com.edgekey.net
+0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
@@ -8308,6 +8327,7 @@
 0.0.0.0 max.i12.de
 0.0.0.0 maxi-ad.de
 0.0.0.0 maxy-tax.com
+0.0.0.0 maymooth-stopic.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb-cdn.stocard.de
 0.0.0.0 mb-npltfpro.com
@@ -8639,6 +8659,7 @@
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 metrigo.zalan.do
 0.0.0.0 metrika-informer.com
+0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.lookmovie.io
 0.0.0.0 metrika.myseldon.com
 0.0.0.0 metrika.traff.space
@@ -10008,7 +10029,6 @@
 0.0.0.0 pvp-pro.space
 0.0.0.0 pw.gigazine.net
 0.0.0.0 pw.lpsxssm.com
-0.0.0.0 px-cloud.net
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.effirst.com
@@ -11732,6 +11752,7 @@
 0.0.0.0 stsdk.vivo.com.cn
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 stsodds.sts.pl
+0.0.0.0 stt.nimbusweb.me
 0.0.0.0 style.onvz.nl
 0.0.0.0 stylesheet-js.ru
 0.0.0.0 su.addthis.com
@@ -13797,6 +13818,7 @@
 0.0.0.0 yun-pdm2000.cn
 0.0.0.0 yun-pdm5000.cn
 0.0.0.0 yun.tuitiger.com
+0.0.0.0 ywak.com.cn
 0.0.0.0 yx-ads6.com
 0.0.0.0 yx1.managershare.com
 0.0.0.0 yybx.oss-cn-hangzhou.aliyuncs.com
