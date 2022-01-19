@@ -1,4 +1,4 @@
-142.251.129.232 ssl.google-analytics.com
+172.217.28.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -4143,7 +4143,6 @@
 0.0.0.0 cdn.doke.app
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.dynamicyield.com
-0.0.0.0 cdn.fedsy.xyz
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.fotoable.com
 0.0.0.0 cdn.freefarcy.com
@@ -4692,7 +4691,6 @@
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie.monster.com
 0.0.0.0 cookie.sync.usonar.jp
-0.0.0.0 cookiebot.com-v1.edgekey.net
 0.0.0.0 cookieless-data.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookies.livepartners.com
@@ -4890,7 +4888,6 @@
 0.0.0.0 crypto-pool.fr
 0.0.0.0 crypto-webminer.com
 0.0.0.0 crystal-ad.ge
-0.0.0.0 cs.liiift.io
 0.0.0.0 cs.montrealplus.ca
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 csf.uzone.id
@@ -5161,9 +5158,7 @@
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
 0.0.0.0 d23xhr62nxa8qo.cloudfront.net
-0.0.0.0 d2405b0jymm2dk.cloudfront.net
 0.0.0.0 d240937yockcdo.cloudfront.net
-0.0.0.0 d24afgsm39csxt.cloudfront.net
 0.0.0.0 d24cze5sab2jwg.cloudfront.net
 0.0.0.0 d24g87zbxr4yiz.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
@@ -5221,7 +5216,6 @@
 0.0.0.0 d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
 0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
-0.0.0.0 d2jn12r3o7an7z.cloudfront.net
 0.0.0.0 d2k487jakgs1mb.cloudfront.net
 0.0.0.0 d2k7b1tjy36ro0.cloudfront.net
 0.0.0.0 d2kadvyeq051an.cloudfront.net
@@ -5497,7 +5491,6 @@
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 dal9hkyfi0m0n.cloudfront.net
 0.0.0.0 daliantong.com.cn
-0.0.0.0 dalj98ktasppa.cloudfront.net
 0.0.0.0 dangrancha.com.cn
 0.0.0.0 dap.dmm.co.jp
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
@@ -5685,6 +5678,7 @@
 0.0.0.0 did.ijinshan.com
 0.0.0.0 die-rankliste.com
 0.0.0.0 diffusion-tracker.com
+0.0.0.0 dig.bdurl.net
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 digiads.co.id
 0.0.0.0 digianalytics.airtel.in
@@ -5969,7 +5963,6 @@
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0 dz5bomaog2c5t.cloudfront.net
 0.0.0.0 dzbrr144kh0m6.cloudfront.net
-0.0.0.0 dzbx8qv1at614.cloudfront.net
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 0.0.0.0 dzupi9b81okew.cloudfront.net
@@ -6478,12 +6471,15 @@
 0.0.0.0 feeds.wise-click.com
 0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 fer-ta.com
+0.0.0.0 ff-member-ganena.com
 0.0.0.0 ff-members-garena.vn
 0.0.0.0 ff-membership-garena.com
 0.0.0.0 ff.astv.ru
+0.0.0.0 ff.garena.memmbershipp.com
 0.0.0.0 ff.guidaye.com
 0.0.0.0 ff.imacdn.com
 0.0.0.0 ff.meikanguo.com
+0.0.0.0 ff.member.garenae.vn
 0.0.0.0 ff.qichetansuo.com
 0.0.0.0 ff.xue163.net
 0.0.0.0 ffconf.ecbsn.com
@@ -6582,6 +6578,7 @@
 0.0.0.0 fp.nanrenwo.net
 0.0.0.0 fpb.sohu.com
 0.0.0.0 fpb1.apple886.com
+0.0.0.0 fpb1.qicaixianhua.com
 0.0.0.0 fpb1.tabuzhe.com
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 frame.appsgeyser.com
@@ -9873,7 +9870,6 @@
 0.0.0.0 prisma-tr.prismamedia.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacy.outdoorsg.com
-0.0.0.0 privacyportal-de.onetrust.com
 0.0.0.0 private-show.live
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 prm-native.com
@@ -11476,6 +11472,7 @@
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-factory.digitregroup.io
+0.0.0.0 stats-iobit-com.us-east-1.elasticbeanstalk.com
 0.0.0.0 stats-messages.gifs.com
 0.0.0.0 stats-newyork1.bloxcms.com
 0.0.0.0 stats-proto.pandora.com
@@ -12922,6 +12919,7 @@
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustclick.ne.jp
 0.0.0.0 trusted-click-host.com
+0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 trv.upperbooking.com
 0.0.0.0 trx-hub.com
@@ -13653,7 +13651,6 @@
 0.0.0.0 x.weather.com
 0.0.0.0 x1.52aoteman.com
 0.0.0.0 x1.kantu.com
-0.0.0.0 x2sfa.javgg.eu
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
 0.0.0.0 x5.jougennotuki.com
@@ -13665,7 +13662,6 @@
 0.0.0.0 xc.mydrivers.com
 0.0.0.0 xcf-bd-js.chuimg.com
 0.0.0.0 xclk-integracion.com
-0.0.0.0 xd3r.javgg.eu
 0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xel-xel-fie.com
 0.0.0.0 xfeedback.scloud.lfengmobile.com
