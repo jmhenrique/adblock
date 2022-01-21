@@ -1,4 +1,4 @@
-216.58.222.8 ssl.google-analytics.com
+142.250.218.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -3238,7 +3238,6 @@
 0.0.0.0 awesome.section.io
 0.0.0.0 aws-ajax.com
 0.0.0.0 aws-api.sail-personalize.com
-0.0.0.0 aws.oath.cloud
 0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 ax.ifeng.com
@@ -4645,7 +4644,6 @@
 0.0.0.0 connecting-to.com
 0.0.0.0 connperf.immomo.com
 0.0.0.0 consent-manager-events.ogury.io
-0.0.0.0 consent.cmp.oath.com
 0.0.0.0 console.aws.a2z.com
 0.0.0.0 contacting-customer.com
 0.0.0.0 contadores.miarroba.com
@@ -6865,6 +6863,7 @@
 0.0.0.0 go-trip.online
 0.0.0.0 go.ad2upapp.com
 0.0.0.0 go.bestmobiworld.com
+0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.goroost.com
 0.0.0.0 go.hangzhou.com.cn
 0.0.0.0 go.icann.org
@@ -10842,7 +10841,6 @@
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 service-stat.tbn.ru
 0.0.0.0 service-update.online
-0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.kingoapp.com
 0.0.0.0 service.multi-pops.com
 0.0.0.0 service.urchin.com
