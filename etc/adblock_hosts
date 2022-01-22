@@ -1,4 +1,4 @@
-142.250.218.232 ssl.google-analytics.com
+142.250.219.136 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2555,6 +2555,7 @@
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.hayneedle.com
 0.0.0.0 analytics.hgcdn.net
+0.0.0.0 analytics.histmag.org
 0.0.0.0 analytics.hostyour.video
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.hub-js.com
@@ -3913,6 +3914,7 @@
 0.0.0.0 c.8l8l.com
 0.0.0.0 c.ad-srv.co
 0.0.0.0 c.adxfactory.com
+0.0.0.0 c.amazinglybrilliant.com.au
 0.0.0.0 c.bannerflow.net
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.bing.com
@@ -6130,6 +6132,7 @@
 0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tonews.org
+0.0.0.0 embed.usersmagic.com
 0.0.0.0 embraceable-venom.eu
 0.0.0.0 emdcadvertise.eastmoney.com
 0.0.0.0 emediate.apmmedia.net
@@ -7531,6 +7534,7 @@
 0.0.0.0 j.baminw.cn
 0.0.0.0 j.diangon.com
 0.0.0.0 j.imdb.cn
+0.0.0.0 j.northbeam.io
 0.0.0.0 j.uralweb.ru
 0.0.0.0 j.zlszw.com
 0.0.0.0 j1.piaobing.com
@@ -8043,6 +8047,7 @@
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 log.wtlogin.qq.com
+0.0.0.0 log.yapaytech.com
 0.0.0.0 log.yougameover.com
 0.0.0.0 log.zamba.vn
 0.0.0.0 log.zdnet.co.kr
@@ -10011,6 +10016,7 @@
 0.0.0.0 push77-sdk.com
 0.0.0.0 pushad.metajoy.services
 0.0.0.0 pushid-noneu.truecaller.com
+0.0.0.0 pushmaster-cdn.xyz
 0.0.0.0 pushpin.pinsightmedia.com
 0.0.0.0 pushwoosh.g5e.com
 0.0.0.0 put.qostore.daumkakao.io
@@ -12571,6 +12577,7 @@
 0.0.0.0 tracker.redditmedia.com
 0.0.0.0 tracker.relaido.jp
 0.0.0.0 tracker.remp.impresa.pt
+0.0.0.0 tracker.remp.sme.sk
 0.0.0.0 tracker.revip.info
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
@@ -13137,6 +13144,7 @@
 0.0.0.0 v-links.net
 0.0.0.0 v-vlog.cn
 0.0.0.0 v.bsvideos.com
+0.0.0.0 v.cdn4.life
 0.0.0.0 v.ckpvz.space
 0.0.0.0 v.cqpsf.cn
 0.0.0.0 v.cuioj.com
