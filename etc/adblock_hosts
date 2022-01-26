@@ -1,4 +1,4 @@
-142.251.129.104 ssl.google-analytics.com
+172.217.30.168 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2394,6 +2394,7 @@
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
+0.0.0.0 analytics-api.statvoo.com
 0.0.0.0 analytics-au.clickdimensions.com
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-chi-nfl.yinzcam.com
@@ -4837,6 +4838,7 @@
 0.0.0.0 csr.onet.pl
 0.0.0.0 css.huvmi.com
 0.0.0.0 css.juqingba.cn
+0.0.0.0 css.zmjm.com
 0.0.0.0 cst.cstwpush.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 ct.buzzfeed.com
@@ -5392,6 +5394,7 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d899.webazilla.com
+0.0.0.0 d95d1c685a.6c142df43a.com
 0.0.0.0 d985a9d2clzq5.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
 0.0.0.0 d9rj2sdxjer5v.cloudfront.net
@@ -6592,6 +6595,7 @@
 0.0.0.0 g3.letv.com
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
+0.0.0.0 ga-bq-py-1.appspot.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga.giuem.com
 0.0.0.0 ga.kvideo.io
@@ -7021,6 +7025,7 @@
 0.0.0.0 hnpxsm.com.cn
 0.0.0.0 hobbes.blueoxtech.com
 0.0.0.0 hochu-deneg.ru
+0.0.0.0 hodor-collect.arabam.com
 0.0.0.0 holder.com.ua
 0.0.0.0 home-prize-winner-ma2d.live
 0.0.0.0 home.about.com
@@ -7435,6 +7440,7 @@
 0.0.0.0 ist-track.com
 0.0.0.0 istana-impian.com
 0.0.0.0 istana-impian2.com
+0.0.0.0 istatistik.arabam.com
 0.0.0.0 istatistik.trthaber.com
 0.0.0.0 istgr-foto.com
 0.0.0.0 it-pearl.com
@@ -7558,6 +7564,7 @@
 0.0.0.0 jun01.oss-cn-beijing.aliyuncs.com
 0.0.0.0 junbi-tracker.com
 0.0.0.0 junior.apk.net
+0.0.0.0 just-cnc.com
 0.0.0.0 just-one-left.com
 0.0.0.0 justmi4.co.in
 0.0.0.0 juyiqiche.com.cn
@@ -10091,6 +10098,7 @@
 0.0.0.0 re.taotaosou.com
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 readly-renterval.icu
+0.0.0.0 ready-to-download.com
 0.0.0.0 realaudio.cimedia.net
 0.0.0.0 realclick.co.kr
 0.0.0.0 realist.gen.tr
@@ -12794,6 +12802,7 @@
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.wdacashtrk.com
+0.0.0.0 trk2-wtb.swaven.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 trovus.co.uk
@@ -13714,6 +13723,7 @@
 0.0.0.0 z1.pclady.com.cn
 0.0.0.0 z1hihu.xmcimg.com
 0.0.0.0 za-ads.de
+0.0.0.0 za.zdn.vn
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zakladka.org.ua
 0.0.0.0 zalo-ads-240-td.zadn.vn
