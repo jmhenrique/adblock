@@ -1,4 +1,4 @@
-172.217.30.168 ssl.google-analytics.com
+142.251.128.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2979,7 +2979,6 @@
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-department.report
 0.0.0.0 app-icons.apptentive.com
-0.0.0.0 app-measurement.com
 0.0.0.0 app-trackings.com
 0.0.0.0 app.activetrail.com
 0.0.0.0 app.adjust.io
@@ -6363,7 +6362,6 @@
 0.0.0.0 fam-8.net
 0.0.0.0 fam-ad.com
 0.0.0.0 family-joy.com
-0.0.0.0 famobi-01.firebaseio.com
 0.0.0.0 fantastic-gardens.com
 0.0.0.0 fanyi100.com.cn
 0.0.0.0 fanzhuang.net.cn
@@ -8718,6 +8716,7 @@
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileapi.motus.com
 0.0.0.0 mobileapi.usebutton.com
+0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobileoffers-7-q-download.com
