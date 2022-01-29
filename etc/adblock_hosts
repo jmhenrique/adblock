@@ -1,4 +1,4 @@
-142.250.218.168 ssl.google-analytics.com
+142.251.132.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2465,6 +2465,7 @@
 0.0.0.0 analytics.cervellio.com
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.chegg.com
+0.0.0.0 analytics.churnzero.net
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.cinematoday.jp
 0.0.0.0 analytics.clic2buy.com
@@ -2876,6 +2877,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.intl.miui.com
+0.0.0.0 api.ipdata.co
 0.0.0.0 api.iterable.com
 0.0.0.0 api.iterative.ly
 0.0.0.0 api.itv.letv.com
@@ -3042,6 +3044,7 @@
 0.0.0.0 appsanalytics.appideas.it
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
+0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 appsflyer.com.akamaized.net
 0.0.0.0 appsgratis.com.mx
 0.0.0.0 appshelf.ttpsdk.info
@@ -4089,6 +4092,7 @@
 0.0.0.0 cdn.doke.app
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 cdn.eecd.xyz
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.g5e.com
@@ -4158,6 +4162,7 @@
 0.0.0.0 cdn1.zopiny.com
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 cdnads.cam4.com
+0.0.0.0 cdnjs.mopair-erm.net
 0.0.0.0 cdnjs.z-face.cn
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdns.sdkconfig.site
@@ -5480,7 +5485,6 @@
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
 0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 datadog-service.mvfglobal.com
-0.0.0.0 datalytics.utair.io
 0.0.0.0 datamaster.com.cn
 0.0.0.0 datanoticias.prisasd.com
 0.0.0.0 datas.tianqistatic.com
@@ -5873,6 +5877,7 @@
 0.0.0.0 dvs.china.com
 0.0.0.0 dvser.china.com
 0.0.0.0 dvt4pepo9om3r.cloudfront.net
+0.0.0.0 dw55pg05c2rl5.cloudfront.net
 0.0.0.0 dw9uc6c6b8nwx.cloudfront.net
 0.0.0.0 dwf6crl4raal7.cloudfront.net
 0.0.0.0 dwnm2295blvjq.cloudfront.net
@@ -6076,6 +6081,7 @@
 0.0.0.0 emonitoring-paczki.pl
 0.0.0.0 ems.youku.com
 0.0.0.0 emu.ilovemp3.top
+0.0.0.0 ena-native-ads9.com
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
 0.0.0.0 enennsa.gushiwen.cn
 0.0.0.0 energy-dispatch.net
@@ -6376,7 +6382,6 @@
 0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 faster-trk.com
 0.0.0.0 fastg8.pool.iponweb.net
-0.0.0.0 fastly-analytics.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fate-xy.com
 0.0.0.0 fb-accounts.com
@@ -6635,6 +6640,7 @@
 0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 gemini.yahoo.com
+0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 geo-idm.fr
 0.0.0.0 geo-targetly.com
 0.0.0.0 geo.adobe.com
@@ -6875,6 +6881,7 @@
 0.0.0.0 gt.lazyengines.com
 0.0.0.0 gt.yy.com
 0.0.0.0 gtcslt-di2.com
+0.0.0.0 gtm.beiersdorf.com
 0.0.0.0 gtm.udemy.com
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gts-ads.twistbox.com
@@ -7085,6 +7092,7 @@
 0.0.0.0 hummingbird.mavencoalition.io
 0.0.0.0 hunt-leads.com
 0.0.0.0 hunter-hub.com
+0.0.0.0 hwa.his.huawei.com
 0.0.0.0 hwmonitor-ru.ru
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hx.hexun.com
@@ -8631,6 +8639,7 @@
 0.0.0.0 mirror.smi.fm
 0.0.0.0 mirrorcoukcelebs.skimlinks.com
 0.0.0.0 mirrorsearch.speedbit.com
+0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mistat.india.xiaomi.com
 0.0.0.0 mistat.intl.xiaomi.com
 0.0.0.0 mistat.rus.xiaomi.com
@@ -8962,6 +8971,7 @@
 0.0.0.0 newopenx.detik.com
 0.0.0.0 news-alert.org
 0.0.0.0 news-back.org
+0.0.0.0 news-bitivu.cc
 0.0.0.0 news-central.me
 0.0.0.0 news-code.com
 0.0.0.0 news-easy.org
@@ -9377,6 +9387,7 @@
 0.0.0.0 pa.wme.catchmedia.com
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
+0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pac.thetimes.co.uk
 0.0.0.0 pacontainer.s3.amazonaws.com
 0.0.0.0 padma-fed.com
@@ -10489,7 +10500,7 @@
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sandbox.tinypass.com
 0.0.0.0 sanity-dataplane.rudderstack.com
-0.0.0.0 sanme2.lanzoui.com
+0.0.0.0 sanme2.taisantech.com
 0.0.0.0 sapere.seed4.me
 0.0.0.0 sas.nsm-corp.com
 0.0.0.0 sas816.ujikdd041o.cn
@@ -10526,6 +10537,7 @@
 0.0.0.0 schemea.prinit.net
 0.0.0.0 schoorsteen.geenstijl.nl
 0.0.0.0 sci.intuit.com
+0.0.0.0 scnd-tr.com
 0.0.0.0 scnt.rambler.ru
 0.0.0.0 scontent.services.tvn.pl
 0.0.0.0 scounter.rambler.ru
@@ -11217,6 +11229,7 @@
 0.0.0.0 stat.ganbox.com
 0.0.0.0 stat.glaze.ai
 0.0.0.0 stat.headlines.pw
+0.0.0.0 stat.i3.dmm.com
 0.0.0.0 stat.ijinshan.com
 0.0.0.0 stat.it168.com
 0.0.0.0 stat.kbs.co.kr
@@ -11322,7 +11335,6 @@
 0.0.0.0 static.rqmob.com
 0.0.0.0 static.scroll.com
 0.0.0.0 static.securedtouch.com
-0.0.0.0 static.sinawap.com
 0.0.0.0 static.skimlinks.com
 0.0.0.0 static.sojern.com
 0.0.0.0 static.ssacdn.com
