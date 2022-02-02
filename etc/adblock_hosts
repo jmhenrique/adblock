@@ -1,4 +1,4 @@
-142.251.129.232 ssl.google-analytics.com
+142.251.129.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -1567,6 +1567,7 @@
 0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
+0.0.0.0 ads.reduxmediagroup.com
 0.0.0.0 ads.referlocal.com
 0.0.0.0 ads.register.com
 0.0.0.0 ads.rekmob.com
@@ -2177,6 +2178,7 @@
 0.0.0.0 aff-online.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
+0.0.0.0 aff-track.net
 0.0.0.0 aff.bstatic.com
 0.0.0.0 aff.camplace.com
 0.0.0.0 aff.indirdik.com
@@ -2326,6 +2328,7 @@
 0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 aloha-news.net
+0.0.0.0 alpha-news.org
 0.0.0.0 alpha.tracedock.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 als.baidu.com
@@ -2862,6 +2865,7 @@
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.gameofwhales.com
+0.0.0.0 api.getadx.com
 0.0.0.0 api.getdrip.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.growthbeat.com
@@ -4693,7 +4697,6 @@
 0.0.0.0 counter.jasmin.hu
 0.0.0.0 counter.jdi5.com
 0.0.0.0 counter.joins.com
-0.0.0.0 counter.kikibobo.top
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.ksm.it
 0.0.0.0 counter.log24.ru
@@ -5122,6 +5125,7 @@
 0.0.0.0 d2as12kgjg8gw5.cloudfront.net
 0.0.0.0 d2axgrpnciinw7.cloudfront.net
 0.0.0.0 d2b7n13v8adl6f.cloudfront.net
+0.0.0.0 d2bbq3twedfo2f.cloudfront.net
 0.0.0.0 d2bj2texxib1qg.cloudfront.net
 0.0.0.0 d2c4ylitp1qu24.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
@@ -7422,7 +7426,6 @@
 0.0.0.0 ios.426g.com
 0.0.0.0 ip-geo.appspot.com
 0.0.0.0 ip-label.net
-0.0.0.0 ip-tracker.org
 0.0.0.0 ip.goguardian.com
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ipada.cafe.naver.com
@@ -8189,6 +8192,7 @@
 0.0.0.0 maik.ff-bt.net
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail.banklife.ru
+0.0.0.0 main-datings.top
 0.0.0.0 main-ti-cod.com
 0.0.0.0 main-ti-hub.com
 0.0.0.0 main.jiukang.org
@@ -9013,7 +9017,6 @@
 0.0.0.0 ngagement-engine.mobify.com
 0.0.0.0 ngc1.nsm-corp.com
 0.0.0.0 ngd.thesun.co.uk
-0.0.0.0 nicanor-the.com
 0.0.0.0 nightswatch-go-collector-y2.yieldify-production.com
 0.0.0.0 nil.naver.com
 0.0.0.0 ninja.akamaized.net
@@ -9273,7 +9276,6 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 oplata-shtraf.info
 0.0.0.0 opt-intelligence.com
-0.0.0.0 opt-n.net
 0.0.0.0 optimierung-der-website.de
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimizely.appspot.com
@@ -9724,6 +9726,7 @@
 0.0.0.0 polit-e-fox.ru
 0.0.0.0 polit-fox.ru
 0.0.0.0 politiques-infos.info
+0.0.0.0 pon-prairie.com
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pool.ads.netlog.com
 0.0.0.0 pool.nimiq.watch
@@ -10710,6 +10713,7 @@
 0.0.0.0 sensible-ads.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 sensor.org.ua
+0.0.0.0 sensors.ibreader.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sentry.arc.io
@@ -10778,6 +10782,7 @@
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 sgsnssdk.com.edgekey.net
+0.0.0.0 sgtm.sefamerve.com
 0.0.0.0 sh-xianghe.com
 0.0.0.0 sh.creativcdn.net
 0.0.0.0 sh996.dftoutiao.com
@@ -11732,6 +11737,7 @@
 0.0.0.0 synthes.vo.llnwd.net
 0.0.0.0 sys.refocus.ru
 0.0.0.0 sysmon.kakaku.com
+0.0.0.0 system-notify.app
 0.0.0.0 systemmonitoring.badgeville.com
 0.0.0.0 szene-traffic.com
 0.0.0.0 t-ak.hulu.com
@@ -12754,6 +12760,7 @@
 0.0.0.0 traffic.tcmagnet.com
 0.0.0.0 trafficclub-nde.netdna-ssl.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
+0.0.0.0 traffick-soul.com
 0.0.0.0 trafic-media.ru
 0.0.0.0 trail-web.com
 0.0.0.0 trakksocial.googlecode.com
@@ -12941,6 +12948,7 @@
 0.0.0.0 un1.lawyernet.cn
 0.0.0.0 unanimis.co.uk
 0.0.0.0 undm.qibulo.com
+0.0.0.0 uni-king.cn
 0.0.0.0 unid.go.com
 0.0.0.0 union.china.com.cn
 0.0.0.0 union.yihaodian.com
@@ -13088,6 +13096,7 @@
 0.0.0.0 vast4.kinogo.by
 0.0.0.0 vast4.kinogo.la
 0.0.0.0 vault-encryption.com
+0.0.0.0 vax-boost.com
 0.0.0.0 vax-now.com
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vch.voyage-prive.ch
