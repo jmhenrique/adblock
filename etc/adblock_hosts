@@ -1,4 +1,4 @@
-142.250.219.8 ssl.google-analytics.com
+142.250.219.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -300,6 +300,7 @@
 0.0.0.0 a.sakh.com
 0.0.0.0 a.sdska.ru
 0.0.0.0 a.shenchuang.com
+0.0.0.0 a.shicigequ.com
 0.0.0.0 a.shop.com
 0.0.0.0 a.streamoupload.com
 0.0.0.0 a.tempurpedic.com
@@ -1422,6 +1423,7 @@
 0.0.0.0 ads.lovercash.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.ma7.tv
+0.0.0.0 ads.macsonuclari.mobi
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.maleflixxx.tv
 0.0.0.0 ads.mariuana.it
@@ -2117,6 +2119,7 @@
 0.0.0.0 adviap.goforandroid.com
 0.0.0.0 advice-ads-cdn.vice.com
 0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 advices-ost.xyz
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 advrts.onelouder.com
 0.0.0.0 advserver.cgv.vn
@@ -2674,6 +2677,7 @@
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
 0.0.0.0 analytics.sutterhealth.org
 0.0.0.0 analytics.swiggy.com
@@ -5163,6 +5167,7 @@
 0.0.0.0 d2k487jakgs1mb.cloudfront.net
 0.0.0.0 d2k7b1tjy36ro0.cloudfront.net
 0.0.0.0 d2kadvyeq051an.cloudfront.net
+0.0.0.0 d2kd9y1bp4zc6.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2kk0o3fr7ed01.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
@@ -6205,6 +6210,7 @@
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.contactatonce.com.au
 0.0.0.0 event-api.rdstation.com.br
+0.0.0.0 event-collector.analytics.onedio.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-reg.info
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
@@ -6722,6 +6728,7 @@
 0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 geras-con.com
 0.0.0.0 get-ads.ru
+0.0.0.0 get-best-prizes.life
 0.0.0.0 get-click.net
 0.0.0.0 get-click.ru
 0.0.0.0 get-me-wow.xyz
@@ -6793,6 +6800,7 @@
 0.0.0.0 gm-it.consulting
 0.0.0.0 gm.mob.com
 0.0.0.0 gma.alicdn.com
+0.0.0.0 gme-trking.com
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go-clicks.de
@@ -8122,6 +8130,7 @@
 0.0.0.0 lz-legal-aid.cn
 0.0.0.0 m-aeti-bocieva.info
 0.0.0.0 m-brain.fi
+0.0.0.0 m-growninppcode.com
 0.0.0.0 m-metrics.capitalone.com
 0.0.0.0 m-pathy.com
 0.0.0.0 m-resume.com
@@ -9321,6 +9330,7 @@
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 owneriq.net.edgekey.net
 0.0.0.0 ox-bio.com
+0.0.0.0 ox.bncounter.com
 0.0.0.0 ox.hoosiertimes.com
 0.0.0.0 ox1.shopcool.com.tw
 0.0.0.0 ox1.vietstock.vn
@@ -10106,6 +10116,7 @@
 0.0.0.0 rd.yahoo.co.jp
 0.0.0.0 rdbd.xsread.com
 0.0.0.0 rdr.wargaming.net
+0.0.0.0 re-directme.com
 0.0.0.0 re.taotaosou.com
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 readly-renterval.icu
@@ -11695,6 +11706,7 @@
 0.0.0.0 supply.upjers.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 supreme-hunter.com
+0.0.0.0 sur.new.gorodkirov.ru
 0.0.0.0 surf-bar-traffic.com
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 surprising-sites.com
@@ -12372,7 +12384,6 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.social.com
-0.0.0.0 track.software-codes.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.spacepush.ru
 0.0.0.0 track.span-smt.jp
@@ -12528,6 +12539,7 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.acekoala.com
 0.0.0.0 tracking.adactioninteractive.com
+0.0.0.0 tracking.adsbot.kr
 0.0.0.0 tracking.adultsense.com
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 tracking.aegpresents.com
@@ -12695,6 +12707,7 @@
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.trovaprezzi.it
 0.0.0.0 tracking.tv.zing.vn
+0.0.0.0 tracking.ucreate.live
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
@@ -13009,6 +13022,7 @@
 0.0.0.0 usa-media.net
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
+0.0.0.0 usageanalytics.coveo.com
 0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 usenet-nl.top
@@ -13203,6 +13217,7 @@
 0.0.0.0 viva-droid.com
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vkan-profile.com
+0.0.0.0 vlogs.deja.media
 0.0.0.0 vm.timeinabottle.pw
 0.0.0.0 vm5.i7akpd1.xyz
 0.0.0.0 vml1.s3.amazonaws.com
