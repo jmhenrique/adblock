@@ -1,4 +1,4 @@
-142.251.128.40 ssl.google-analytics.com
+142.250.218.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2720,6 +2720,7 @@
 0.0.0.0 analytics.valiuz.com
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vast.com
+0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.viblo.asia
 0.0.0.0 analytics.videocloud.top
@@ -4428,6 +4429,7 @@
 0.0.0.0 cnt.ramlife.ru
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt.sup.com
+0.0.0.0 cnt.trvdp.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt.xhamster.com
 0.0.0.0 cnt2.stroeerdp.de
@@ -4982,6 +4984,7 @@
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1cerpgff739r9.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
+0.0.0.0 d1clmik8la8v65.cloudfront.net
 0.0.0.0 d1clufhfw8sswh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1crt12zco2cvf.cloudfront.net
@@ -5291,6 +5294,7 @@
 0.0.0.0 d3a49eam5ump99.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3aiy6aqoa3ykz.cloudfront.net
+0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
 0.0.0.0 d3asksgk2foh5m.cloudfront.net
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
@@ -6246,6 +6250,7 @@
 0.0.0.0 events.artirix.com
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audiate.me
+0.0.0.0 events.audioplace.me
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.bouncex.net
 0.0.0.0 events.brightline.tv
@@ -6418,6 +6423,7 @@
 0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 fer-ta.com
 0.0.0.0 ff-member-ganena.com
+0.0.0.0 ff-member-gazeza.com
 0.0.0.0 ff-members-garena.vn
 0.0.0.0 ff-membership-garena.com
 0.0.0.0 ff.astv.ru
@@ -7513,6 +7519,7 @@
 0.0.0.0 jpg-server.com
 0.0.0.0 jpg1.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jquery-cdn.download
+0.0.0.0 jquery.envi-met.com.cn
 0.0.0.0 jquerycdn.co.il
 0.0.0.0 jquerymin.co.il
 0.0.0.0 js-agent.newrelic.com
@@ -7761,7 +7768,6 @@
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 libs.tvmao.cn
 0.0.0.0 license-updater.com
-0.0.0.0 licensing.blinkreceipt.com
 0.0.0.0 lico-ys.com
 0.0.0.0 liehu.ijinshan.com
 0.0.0.0 lienquan-garena-giftcode.com
@@ -7828,6 +7834,7 @@
 0.0.0.0 load.fomo.com
 0.0.0.0 load.s3.amazonaws.com
 0.0.0.0 loader-tor.ru
+0.0.0.0 loader.zeroform.com
 0.0.0.0 loading-ads.net
 0.0.0.0 loading-delivery2.com
 0.0.0.0 loading-domain.com
@@ -8379,8 +8386,10 @@
 0.0.0.0 megogo.1ru.tv
 0.0.0.0 mein.monster.de
 0.0.0.0 meituan.xn--io0a7i
+0.0.0.0 member-gaarena.com
 0.0.0.0 member-garena.vn
 0.0.0.0 member.javtvnow.xyz
+0.0.0.0 memberr-garenaa.com
 0.0.0.0 members.sexroulette.com
 0.0.0.0 meng.360zuowen.com
 0.0.0.0 mengis-linden.org
@@ -9153,6 +9162,7 @@
 0.0.0.0 oey53uw-1ye.cn
 0.0.0.0 ofd.meng-an.cn
 0.0.0.0 offaces-butional.com
+0.0.0.0 offer.slgnt.eu
 0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 offers.cloackp.com
 0.0.0.0 offers.motime.com.br
@@ -10012,6 +10022,7 @@
 0.0.0.0 qp-nett.cn
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qps.cint.com
+0.0.0.0 qqq-www-987.site
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 quality-channel.de
@@ -10596,7 +10607,6 @@
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdk-monitoring.ogury.co
-0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adsongo.com
 0.0.0.0 sdk.adtiming.com
@@ -11254,6 +11264,7 @@
 0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.moevideo.net
 0.0.0.0 stat.moonwalk.co
+0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.myshows.me
 0.0.0.0 stat.nate.com
 0.0.0.0 stat.novostimira.com
@@ -11901,6 +11912,7 @@
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
+0.0.0.0 tags.remixd.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.spider-mails.com
 0.0.0.0 tags.sprizzy.com
