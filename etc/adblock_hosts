@@ -1,4 +1,4 @@
-142.251.128.136 ssl.google-analytics.com
+142.251.128.104 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -377,7 +377,6 @@
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aa.0755rc.com
 0.0.0.0 aa.gushiwen.org
-0.0.0.0 aa.ninze.com
 0.0.0.0 aa.pornvideotop.com
 0.0.0.0 aa.voice2page.com
 0.0.0.0 aa.wenxue6.com
@@ -857,7 +856,6 @@
 0.0.0.0 adconfigproxy.azurewebsites.net
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcounter.theglobeandmail.com
-0.0.0.0 adcr.naver.com
 0.0.0.0 adcreative.naver.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 add-client.com
@@ -1144,7 +1142,6 @@
 0.0.0.0 ads.blogdrive.com
 0.0.0.0 ads.blogtalkradio.com
 0.0.0.0 ads.bloodhorse.com
-0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 ads.bninews.com
 0.0.0.0 ads.bnmedia.com
@@ -1386,7 +1383,6 @@
 0.0.0.0 ads.jewishfriendfinder.com
 0.0.0.0 ads.jianchiapp.com
 0.0.0.0 ads.jo-games.com
-0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.joemonster.org
 0.0.0.0 ads.jpost.com
@@ -1538,6 +1534,7 @@
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.playboy.com
+0.0.0.0 ads.playground.xyz
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.po-zdravidnes.com
 0.0.0.0 ads.pof.com
@@ -1888,7 +1885,6 @@
 0.0.0.0 adserver.kimia.es
 0.0.0.0 adserver.lag.vn
 0.0.0.0 adserver.lecool.com
-0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.lonuncavisto.com
 0.0.0.0 adserver.millionairemate.com
 0.0.0.0 adserver.mobillex.com
@@ -1968,6 +1964,7 @@
 0.0.0.0 adsnew.gsmarena.com
 0.0.0.0 adsp.ciner.com.tr
 0.0.0.0 adsp.haberturk.com
+0.0.0.0 adsparking.inzhener-info.ru
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspot.tfgapps.com
 0.0.0.0 adsrv.ads.eniro.com
@@ -2405,7 +2402,6 @@
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-chi-nfl.yinzcam.com
 0.0.0.0 analytics-cms.whitebeard.me
-0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
@@ -2439,6 +2435,7 @@
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.algoepico.net
 0.0.0.0 analytics.amakings.com
+0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.apnewsregistry.com
@@ -3307,7 +3304,6 @@
 0.0.0.0 banner-server.winecountry.com
 0.0.0.0 banner.50megs.com
 0.0.0.0 banner.5giay.vn
-0.0.0.0 banner.ad.nu
 0.0.0.0 banner.aismo.ru
 0.0.0.0 banner.ambercoastcasino.com
 0.0.0.0 banner.betfred.com
@@ -4364,10 +4360,12 @@
 0.0.0.0 clktrk.display.io
 0.0.0.0 cllctr.roistat.com
 0.0.0.0 clog.go.com
+0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
+0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cloud.sbs.co.kr
@@ -5759,6 +5757,7 @@
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 0.0.0.0 dnm.scloud.lfengmobile.com
+0.0.0.0 dnn4px252i5wx.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dns-1.co
 0.0.0.0 dns-analytics.com
@@ -6426,6 +6425,8 @@
 0.0.0.0 ff-member-gazeza.com
 0.0.0.0 ff-members-garena.vn
 0.0.0.0 ff-membership-garena.com
+0.0.0.0 ff-membersship-garrena.com
+0.0.0.0 ff-memnber-garena.com
 0.0.0.0 ff.astv.ru
 0.0.0.0 ff.garena.memmbershipp.com
 0.0.0.0 ff.guidaye.com
@@ -8112,6 +8113,7 @@
 0.0.0.0 lp.ncdownloader.com
 0.0.0.0 lps.qantas.com
 0.0.0.0 lptag.liveperson.net
+0.0.0.0 lpx.qantas.com
 0.0.0.0 lr-ingest.io
 0.0.0.0 lraa.xiaoniutui.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -8391,6 +8393,7 @@
 0.0.0.0 member.javtvnow.xyz
 0.0.0.0 memberr-garenaa.com
 0.0.0.0 members.sexroulette.com
+0.0.0.0 membershipsgarenavn-ff.com
 0.0.0.0 meng.360zuowen.com
 0.0.0.0 mengis-linden.org
 0.0.0.0 menu.metu.vn
@@ -11912,7 +11915,6 @@
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
-0.0.0.0 tags.remixd.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.spider-mails.com
 0.0.0.0 tags.sprizzy.com
@@ -12395,6 +12397,7 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.social.com
+0.0.0.0 track.software-codes.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.spacepush.ru
 0.0.0.0 track.span-smt.jp
@@ -13239,6 +13242,7 @@
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 volgograd-info.ru
 0.0.0.0 vologda-info.ru
+0.0.0.0 vongquay-pubgmobilevn-zing.com
 0.0.0.0 voodoo-ads.io
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.data.msn.com
