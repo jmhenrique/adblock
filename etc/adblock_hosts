@@ -1,4 +1,4 @@
-142.251.132.8 ssl.google-analytics.com
+142.250.218.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -525,6 +525,7 @@
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-tizer.net
 0.0.0.0 ad-tool.com
+0.0.0.0 ad-track.jp
 0.0.0.0 ad-up.com
 0.0.0.0 ad-us.24hstatic.com
 0.0.0.0 ad-vice.biz
@@ -694,6 +695,7 @@
 0.0.0.0 ad.pornimg.xyz
 0.0.0.0 ad.pr.ameba.jp
 0.0.0.0 ad.preferances.com
+0.0.0.0 ad.presco.asia
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
@@ -5750,6 +5752,7 @@
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmtw0i4zln92b.cloudfront.net
 0.0.0.0 dmym.aixyy.com
+0.0.0.0 dmz3nd5oywtsw.cloudfront.net
 0.0.0.0 dmzls.safe-installation.com
 0.0.0.0 dn.adzerver.com
 0.0.0.0 dn.msmstatic.com
@@ -6079,6 +6082,7 @@
 0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-plans.com
 0.0.0.0 email-reflex.com
+0.0.0.0 email.m1.bktrksmail.com
 0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tonews.org
@@ -6427,6 +6431,7 @@
 0.0.0.0 ff-membership-garena.com
 0.0.0.0 ff-membersship-garrena.com
 0.0.0.0 ff-memnber-garena.com
+0.0.0.0 ff-menber-garena.vn
 0.0.0.0 ff.astv.ru
 0.0.0.0 ff.garena.memmbershipp.com
 0.0.0.0 ff.guidaye.com
@@ -6763,6 +6768,7 @@
 0.0.0.0 gg.gw032.com
 0.0.0.0 gg.huahaimi.work
 0.0.0.0 gg.kugou.com
+0.0.0.0 gg.miinaa.com
 0.0.0.0 gg.miued.com
 0.0.0.0 gg.sonhoo.com
 0.0.0.0 gg.uuu9.com
@@ -6832,6 +6838,7 @@
 0.0.0.0 go.toutapp.com
 0.0.0.0 go.tracksz.co
 0.0.0.0 go.ukrleads.com
+0.0.0.0 go.usa.gov
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.vnecdn.com
 0.0.0.0 go.vrvm.com
@@ -7635,6 +7642,7 @@
 0.0.0.0 klamm-counter.de
 0.0.0.0 klik.nrc.nl
 0.0.0.0 klipmart.forbes.com
+0.0.0.0 klm-ea.jscrambler.com
 0.0.0.0 klog.hiido.com
 0.0.0.0 km-sea.net
 0.0.0.0 km1.muhoujiemi.com
@@ -8140,6 +8148,7 @@
 0.0.0.0 m-aeti-bocieva.info
 0.0.0.0 m-brain.fi
 0.0.0.0 m-growninppcode.com
+0.0.0.0 m-live.jp
 0.0.0.0 m-metrics.capitalone.com
 0.0.0.0 m-pathy.com
 0.0.0.0 m-resume.com
@@ -8406,6 +8415,7 @@
 0.0.0.0 messenger-notify.digital
 0.0.0.0 met.vgwort.de
 0.0.0.0 metadsp.co.uk
+0.0.0.0 metcon.hulu.com
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 methree-salien.icu
@@ -9992,6 +10002,7 @@
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pxt.daz3d.com
 0.0.0.0 pxx.tnklrs.cn
+0.0.0.0 pylon.micstatic.com
 0.0.0.0 q-counter.com
 0.0.0.0 q-sht-zidjk.co
 0.0.0.0 q-stats.nl
@@ -11824,7 +11835,6 @@
 0.0.0.0 t.njzrxx.xyz
 0.0.0.0 t.nrelate.com
 0.0.0.0 t.ofsys.com
-0.0.0.0 t.paypal.com
 0.0.0.0 t.pointandplace.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.premii.com
@@ -12168,6 +12178,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-games.me
 0.0.0.0 top-js-metrics.top.my.ua
+0.0.0.0 top-muse.com
 0.0.0.0 top-newsrustoria.ru
 0.0.0.0 top-performance.best
 0.0.0.0 top-performance.club
@@ -13246,6 +13257,7 @@
 0.0.0.0 voodoo-ads.io
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.data.msn.com
+0.0.0.0 vortex.hulu.com
 0.0.0.0 vote.sparklit.com
 0.0.0.0 vozer.voffka.com
 0.0.0.0 vp1.zkshfbdg.info
