@@ -1,4 +1,4 @@
-142.250.219.8 ssl.google-analytics.com
+142.250.79.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -313,7 +313,6 @@
 0.0.0.0 a.tuizhuti.com
 0.0.0.0 a.tvsou.com
 0.0.0.0 a.tyncar.com
-0.0.0.0 a.typin.cn
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.vfghd.com
@@ -430,7 +429,6 @@
 0.0.0.0 ac1.pingpingw.com
 0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 acc-hd.de
-0.0.0.0 acc.magixite.com
 0.0.0.0 access-analyze.org
 0.0.0.0 access-mc.com
 0.0.0.0 accesstrade.co.id
@@ -1872,7 +1870,6 @@
 0.0.0.0 adserver.eyeonx.ch
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
-0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.goforandroid.com
 0.0.0.0 adserver.hardsextube.com
 0.0.0.0 adserver.hardwareanalysis.com
@@ -2165,7 +2162,6 @@
 0.0.0.0 adz.rashflash.com
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzmoney.linkyqueen.ga
-0.0.0.0 adzone.temp.co.za
 0.0.0.0 aegis.qq.com
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 af-110.com
@@ -2212,7 +2208,6 @@
 0.0.0.0 affiliate.konibet.com
 0.0.0.0 affiliate.mediatemple.net
 0.0.0.0 affiliate.mercola.com
-0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.productreview.com.au
 0.0.0.0 affiliate.rakuten.co.jp
@@ -2737,6 +2732,7 @@
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.wishabi.ca
 0.0.0.0 analytics.witglobal.net
+0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.worldtable.co
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xyscdn.com
@@ -2937,6 +2933,7 @@
 0.0.0.0 api.reftagger.com
 0.0.0.0 api.reon.club
 0.0.0.0 api.reproio.com
+0.0.0.0 api.rollbar.com
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rubic.com.tr
 0.0.0.0 api.safedk.com
@@ -2951,7 +2948,6 @@
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api.soclminer.com.br
 0.0.0.0 api.splkmobile.com
-0.0.0.0 api.tllms.com
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.unthem.com
 0.0.0.0 api.us-east-1.aiv-delivery.net
@@ -3168,7 +3164,6 @@
 0.0.0.0 atrack.avplayer.com
 0.0.0.0 ats.otto.de
 0.0.0.0 att.com.edgekey.net
-0.0.0.0 att.productmadness.com
 0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 au.umeng.com
@@ -3531,6 +3526,7 @@
 0.0.0.0 bdjj.makepolo.net
 0.0.0.0 bdjs.163lady.com
 0.0.0.0 bdjs.91zhuti.com
+0.0.0.0 bdjs.daziba.cn
 0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjs.gushiju.net
 0.0.0.0 bdjs.kaixin100.com
@@ -4100,7 +4096,6 @@
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn.eecd.xyz
 0.0.0.0 cdn.firstlook.com
-0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
@@ -4331,6 +4326,7 @@
 0.0.0.0 clickserve.uk.dartsearch.net
 0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 clickstream.co.za
+0.0.0.0 clickstream.cresendo.net
 0.0.0.0 clickstream.odysee.com
 0.0.0.0 clicktale.net.edgekey.net
 0.0.0.0 clicktale.pantherssl.com
@@ -4563,7 +4559,6 @@
 0.0.0.0 communications.melitaltd.com
 0.0.0.0 community.service.signalr.net
 0.0.0.0 company-target.com
-0.0.0.0 compare-static.weather-and-climate.com
 0.0.0.0 compass-allbids.deliverimp.com
 0.0.0.0 compass-errors.deliverimp.com
 0.0.0.0 compass-events.deliverimp.com
@@ -4932,6 +4927,7 @@
 0.0.0.0 d10nkw6w2k1o10.cloudfront.net
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
 0.0.0.0 d10wfab8zt419p.cloudfront.net
+0.0.0.0 d119hs7863lat.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11hjbdxxtogg5.cloudfront.net
@@ -5426,6 +5422,7 @@
 0.0.0.0 dacdn.pushcrew.com
 0.0.0.0 dacdn.visualwebsiteoptimizer.com
 0.0.0.0 dacdn.vwo.com
+0.0.0.0 dagd0kz7sipfl.cloudfront.net
 0.0.0.0 dai.siyuetian.net
 0.0.0.0 dai18.mumu01.com
 0.0.0.0 dai18.shangc.net
@@ -5661,7 +5658,6 @@
 0.0.0.0 discoveryplus.popin.cc
 0.0.0.0 disp-x.space
 0.0.0.0 dispatcher.upmc.uc.cn
-0.0.0.0 dispawsusva.inmoment.com
 0.0.0.0 display.apester.com
 0.0.0.0 display.digitalriver.com
 0.0.0.0 displayads-formats.googleusercontent.com
@@ -6788,6 +6784,7 @@
 0.0.0.0 giftcode-lienquanmobile-vn.com
 0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 giga-abs.de
+0.0.0.0 gilgamesh-amu.com
 0.0.0.0 gim.co.il
 0.0.0.0 girl-ceases.info
 0.0.0.0 git.emarketing724.com
@@ -7252,7 +7249,6 @@
 0.0.0.0 images.kolmic.com
 0.0.0.0 images.mylot.com
 0.0.0.0 images.outbrainimg.com
-0.0.0.0 images.scanalert.com
 0.0.0.0 images.webads.co.uk
 0.0.0.0 images1.cliqueclack.com
 0.0.0.0 images2.minutemediacdn.com
@@ -7424,8 +7420,6 @@
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 interactive.tinnhanhchungkhoan.vn
 0.0.0.0 interaktiv-net.de
-0.0.0.0 intercept-client.inmoment.com
-0.0.0.0 intercept.inmoment.com
 0.0.0.0 intermrkts.vo.llnwd.net
 0.0.0.0 internal.fuckyoucash.com
 0.0.0.0 interstitial-07.com
@@ -7945,6 +7939,7 @@
 0.0.0.0 log.mp3.zing.vn
 0.0.0.0 log.musical.ly
 0.0.0.0 log.news.zing.vn
+0.0.0.0 log.newsbreak.jp
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhipcaudautu.vn
@@ -8257,7 +8252,6 @@
 0.0.0.0 marketing.net.occhiali24.it
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
-0.0.0.0 marketing.tllms.com
 0.0.0.0 marketinghub.zoho.eu
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketingweek.imgix.net
@@ -10056,6 +10050,7 @@
 0.0.0.0 quick-counter.net
 0.0.0.0 quiddity.goguardian.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
+0.0.0.0 quintus-mil.com
 0.0.0.0 quite-bag-seed-catch.xyz
 0.0.0.0 quitsnap-blue.com
 0.0.0.0 quota-reader.net
@@ -11369,7 +11364,6 @@
 0.0.0.0 static.narrativ.com
 0.0.0.0 static.nectarads.com
 0.0.0.0 static.omnilocal.ai
-0.0.0.0 static.onecms.io
 0.0.0.0 static.parkingpanel.com
 0.0.0.0 static.polarcdn.com
 0.0.0.0 static.privacytrck.com
@@ -12122,6 +12116,7 @@
 0.0.0.0 tj-yijiajing.com
 0.0.0.0 tj-yyy.cn
 0.0.0.0 tj.ijinshan.com
+0.0.0.0 tj3rql9siwef.www.freecodecamp.org
 0.0.0.0 tk.504pk.com
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tk.mediacategory.com
@@ -12852,6 +12847,7 @@
 0.0.0.0 trk.in25app.com
 0.0.0.0 trk.klclick2.com
 0.0.0.0 trk.klclick3.com
+0.0.0.0 trk.nfl-online-streams.live
 0.0.0.0 trk.olnl.net
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.reclameaqui.com.br
@@ -13368,6 +13364,7 @@
 0.0.0.0 webads.tradeholding.com
 0.0.0.0 webanalyticsnossl.websense.com
 0.0.0.0 webanalyzer.bussion.com
+0.0.0.0 webcare.byside.com
 0.0.0.0 webcentre.lycos.co.uk
 0.0.0.0 webchat.caresoft.vn
 0.0.0.0 webcounter.co.za
