@@ -1,4 +1,4 @@
-142.250.219.8 ssl.google-analytics.com
+142.251.132.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -407,6 +407,8 @@
 0.0.0.0 abid.w38store.ru
 0.0.0.0 ablida-rotation.com
 0.0.0.0 ablink.comms.trainline.com
+0.0.0.0 ablink.news.emails-puregym.com
+0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 abo.prismamediadigital.com
 0.0.0.0 abort-count.smbeat.jp
 0.0.0.0 abp.smartadcheck.de
@@ -10001,6 +10003,7 @@
 0.0.0.0 px.wp.pl
 0.0.0.0 px.za.zalo.me
 0.0.0.0 px.za.zaloapp.com
+0.0.0.0 pxl-mailtracker.com
 0.0.0.0 pxlctl.elpais.com
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pxt.daz3d.com
