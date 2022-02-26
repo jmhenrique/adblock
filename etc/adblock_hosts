@@ -1,4 +1,4 @@
-142.250.218.8 ssl.google-analytics.com
+142.251.128.8 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -1158,7 +1158,6 @@
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 ads.burgasinfo.com
 0.0.0.0 ads.businessstyle.vn
-0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.calgarystampede.com
 0.0.0.0 ads.canalblog.com
 0.0.0.0 ads.captifymedia.com
@@ -3618,6 +3617,7 @@
 0.0.0.0 besc.baidustatic.com
 0.0.0.0 best-cargo.ru
 0.0.0.0 best-eye.cn
+0.0.0.0 best-offer-for-you.com
 0.0.0.0 best-protection4.me
 0.0.0.0 best-sexy-partner1.com
 0.0.0.0 best-top.de
@@ -4082,7 +4082,6 @@
 0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 cdn.bluebillywig.com
 0.0.0.0 cdn.braze.eu
-0.0.0.0 cdn.bskarn.com
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.clerk.io
 0.0.0.0 cdn.clinch.co
@@ -4093,7 +4092,6 @@
 0.0.0.0 cdn.doke.app
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.dynamicyield.com
-0.0.0.0 cdn.eecd.xyz
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gimbal.tech
@@ -4145,6 +4143,7 @@
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.topmind.io
 0.0.0.0 cdn.trafficexchangelist.com
+0.0.0.0 cdn.umh.ua
 0.0.0.0 cdn.upthinking.cn
 0.0.0.0 cdn.usebutton.com
 0.0.0.0 cdn.usefathom.com
@@ -4191,7 +4190,6 @@
 0.0.0.0 centrasia-news.com
 0.0.0.0 certified-apps.com
 0.0.0.0 cf-ads.pinger.com
-0.0.0.0 cf-native.karte.io
 0.0.0.0 cf-us-popular.dash.pv-cdn.net
 0.0.0.0 cf.adxcel.com
 0.0.0.0 cf.overblog.com
@@ -4234,6 +4232,7 @@
 0.0.0.0 choose-a-lady.biz
 0.0.0.0 chuang-yi.com.cn
 0.0.0.0 ci-marketing.de
+0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 cicero-mit.com
 0.0.0.0 cima-club.club
 0.0.0.0 cimage.adobe.com
@@ -5379,6 +5378,7 @@
 0.0.0.0 d3t9nyds4ufoqz.cloudfront.net
 0.0.0.0 d3td6g0k30g56f.cloudfront.net
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
+0.0.0.0 d3tozt7si7bmf7.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
@@ -6479,6 +6479,7 @@
 0.0.0.0 fireworks-advertising.com
 0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 first-rate.com
+0.0.0.0 first.iovation.com
 0.0.0.0 first.nova.cz
 0.0.0.0 fishadz.pressflex.net
 0.0.0.0 fitness-for-ever.com
@@ -6741,7 +6742,6 @@
 0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 geras-con.com
 0.0.0.0 get-ads.ru
-0.0.0.0 get-best-prizes.life
 0.0.0.0 get-click.net
 0.0.0.0 get-click.ru
 0.0.0.0 get-me-wow.xyz
@@ -7520,6 +7520,7 @@
 0.0.0.0 jibn12.jintang114.org
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 jke1.jianke.com
+0.0.0.0 jl-mt.com
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 job-info2015.ru
 0.0.0.0 join.xlgirls.com
@@ -7533,6 +7534,7 @@
 0.0.0.0 jquerymin.co.il
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-cdn.dynatrace.com
+0.0.0.0 js-tianqilm.com
 0.0.0.0 js.133u.com
 0.0.0.0 js.23yy.com
 0.0.0.0 js.263y.com
@@ -7856,7 +7858,6 @@
 0.0.0.0 loading-url.net
 0.0.0.0 lobby-x.eu
 0.0.0.0 lobster.unionpeer.com
-0.0.0.0 loc.bskarn.com
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local-hot-dates.com
 0.0.0.0 local.hniux.cn
@@ -8287,7 +8288,6 @@
 0.0.0.0 matomo.crossiety.app
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
-0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 max-adserv.com
@@ -10590,6 +10590,7 @@
 0.0.0.0 screenshots.goguardian.com
 0.0.0.0 script-ad.mobadme.jp
 0.0.0.0 script-bd.baixing.net
+0.0.0.0 script.anura.io
 0.0.0.0 scripte-monster.de
 0.0.0.0 scripts.mofos.com
 0.0.0.0 scripts.psyma.com
@@ -11364,7 +11365,6 @@
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.iterable.com
 0.0.0.0 static.jiaquyi.com
-0.0.0.0 static.karte.io
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.masoffer.net
@@ -11829,7 +11829,6 @@
 0.0.0.0 t.indeed.com
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
-0.0.0.0 t.karte.io
 0.0.0.0 t.kck.st
 0.0.0.0 t.leady.com
 0.0.0.0 t.leady.cz
@@ -11899,7 +11898,6 @@
 0.0.0.0 tag.goadopt.io
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.hariken.co
-0.0.0.0 tag.karte.io
 0.0.0.0 tag.links-analytics.com
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.nifty.com
@@ -12368,7 +12366,6 @@
 0.0.0.0 track.kyna.vn
 0.0.0.0 track.kyoads.com
 0.0.0.0 track.lapa.pub
-0.0.0.0 track.leadhit.io
 0.0.0.0 track.leady.cz
 0.0.0.0 track.leanlab.co
 0.0.0.0 track.lemonnovel.com
@@ -12691,6 +12688,7 @@
 0.0.0.0 tracking.netzathleten-media.de
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.noen.at
+0.0.0.0 tracking.nw.de
 0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.olx.com
@@ -13190,6 +13188,7 @@
 0.0.0.0 vi1.souid.com
 0.0.0.0 via.batch.com
 0.0.0.0 viam.com.vn
+0.0.0.0 vic-m.co
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-publishers-cdn.vice.com
 0.0.0.0 vid-io.springserve.net
