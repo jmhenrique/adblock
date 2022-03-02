@@ -1,4 +1,4 @@
-142.250.219.232 ssl.google-analytics.com
+142.251.128.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -862,6 +862,7 @@
 0.0.0.0 add.f5haber.com
 0.0.0.0 add.in.ua
 0.0.0.0 add.newmedia.cz
+0.0.0.0 addata.exxen.com
 0.0.0.0 addata.mediacategory.com
 0.0.0.0 additional-costs.com
 0.0.0.0 addlog.thuvienphapluat.vn
@@ -1849,6 +1850,7 @@
 0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.ariase.org
 0.0.0.0 adserver.asiafriendfinder.com
+0.0.0.0 adserver.bafrahaber.com
 0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
@@ -2671,6 +2673,7 @@
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
+0.0.0.0 analytics.superstructure.ai
 0.0.0.0 analytics.sutterhealth.org
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.tactilews.com
@@ -3547,6 +3550,7 @@
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.carfax.com
+0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.cracked.com
 0.0.0.0 beacon.digima.com
 0.0.0.0 beacon.ehow.com
@@ -3568,6 +3572,7 @@
 0.0.0.0 beacon.rallydev.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.rum.dynapis.com
+0.0.0.0 beacon.s.llnwi.net
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacon.searchlinks.com
@@ -3800,6 +3805,7 @@
 0.0.0.0 bridgetrack.com.edgesuite.net
 0.0.0.0 bridgetrack.speedera.r3h.net
 0.0.0.0 british-banners.com
+0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser-onlytv.ru
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.online
@@ -3842,6 +3848,7 @@
 0.0.0.0 business-today.info
 0.0.0.0 business.92wy.com
 0.0.0.0 button-follow.zalo.me
+0.0.0.0 button-share.zalo.me
 0.0.0.0 buttons-config.sharethis.com
 0.0.0.0 buy-banner.com
 0.0.0.0 buy-targeted-traffic.com
@@ -4123,6 +4130,7 @@
 0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.preciso.net
 0.0.0.0 cdn.pushcrew.com
+0.0.0.0 cdn.raekdata.com
 0.0.0.0 cdn.redlightcenter.com
 0.0.0.0 cdn.relaido.jp
 0.0.0.0 cdn.revjet.com
@@ -4996,6 +5004,7 @@
 0.0.0.0 d1ebha2k07asm5.cloudfront.net
 0.0.0.0 d1esebcdm6wx7j.cloudfront.net
 0.0.0.0 d1ev866ubw90c6.cloudfront.net
+0.0.0.0 d1ezlc9vy4yc7g.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
@@ -5702,6 +5711,7 @@
 0.0.0.0 dl5ft52dtazxd.cloudfront.net
 0.0.0.0 dlkfm8bqz0bpx.cloudfront.net
 0.0.0.0 dlne6myudrxi1.cloudfront.net
+0.0.0.0 dlrioxg1637dk.cloudfront.net
 0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dlvds9i67c60j.cloudfront.net
 0.0.0.0 dlx.addthis.com
@@ -6084,6 +6094,7 @@
 0.0.0.0 email-reflex.com
 0.0.0.0 email.m1.bktrksmail.com
 0.0.0.0 emarketing.sina.com.cn
+0.0.0.0 embed.contentverticals.de
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tonews.org
 0.0.0.0 embed.usersmagic.com
@@ -7978,6 +7989,7 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.strm.yandex.ru
 0.0.0.0 log.superweb.ws
+0.0.0.0 log.suumo.jp
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.tapatalk.com
 0.0.0.0 log.tapchimattran.vn
@@ -9600,6 +9612,7 @@
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 pie.wirelessregistry.com
 0.0.0.0 pine-sales.com
+0.0.0.0 ping-admin.ru
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping-fast.com
 0.0.0.0 ping-traffic.info
@@ -10590,6 +10603,7 @@
 0.0.0.0 screenshots.goguardian.com
 0.0.0.0 script-ad.mobadme.jp
 0.0.0.0 script-bd.baixing.net
+0.0.0.0 script-sh.d2cdm.jp
 0.0.0.0 script.anura.io
 0.0.0.0 scripte-monster.de
 0.0.0.0 scripts.mofos.com
@@ -10837,6 +10851,7 @@
 0.0.0.0 shared.65twenty.com
 0.0.0.0 sharefb.cnnd.vn
 0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 shenwupower.com.cn
 0.0.0.0 sher.index.hu
 0.0.0.0 shia-voice.com
 0.0.0.0 shield.sitelock.com
@@ -10861,6 +10876,7 @@
 0.0.0.0 sidebar.incest-porno.tv
 0.0.0.0 sift-campaign-creatives.sift.co
 0.0.0.0 signup-way.com
+0.0.0.0 sikr.chimeratool.com
 0.0.0.0 sin1.geoadnxs.com
 0.0.0.0 sina-img.club
 0.0.0.0 sis.jpush.io
@@ -11706,7 +11722,6 @@
 0.0.0.0 stylesheet-js.ru
 0.0.0.0 su.addthis.com
 0.0.0.0 sub.powerapple.com
-0.0.0.0 sub.superxxxfree.com
 0.0.0.0 sub.viafoura.co
 0.0.0.0 sub.xxx-porn-tube.com
 0.0.0.0 subdo.torrentrapid.com
@@ -13277,6 +13292,7 @@
 0.0.0.0 vote.sparklit.com
 0.0.0.0 vozer.voffka.com
 0.0.0.0 vp1.zkshfbdg.info
+0.0.0.0 vpn-access.site
 0.0.0.0 vpn-offers.com
 0.0.0.0 vpn.baolq666.com
 0.0.0.0 vppst.iltrovatore.it
