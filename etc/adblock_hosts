@@ -1,4 +1,4 @@
-142.251.128.8 ssl.google-analytics.com
+142.250.219.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2208,6 +2208,7 @@
 0.0.0.0 affiliate.konibet.com
 0.0.0.0 affiliate.mediatemple.net
 0.0.0.0 affiliate.mercola.com
+0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.productreview.com.au
 0.0.0.0 affiliate.rakuten.co.jp
@@ -10898,6 +10899,7 @@
 0.0.0.0 sj.ijinshan.com
 0.0.0.0 sjbaiduadv1.redou.com
 0.0.0.0 skimlinkscom.skimlinks.com
+0.0.0.0 skroutza.skroutz.gr
 0.0.0.0 skymedia.co.uk
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 sl-ct5.com
