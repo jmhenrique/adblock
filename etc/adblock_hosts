@@ -1,4 +1,4 @@
-142.250.219.200 ssl.google-analytics.com
+142.251.129.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2748,6 +2748,7 @@
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics00.meride.tv
+0.0.0.0 analytics2.awsli.com.br
 0.0.0.0 analytics2.tvreport.co.kr
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analyticsnew.overwolf.com
@@ -3009,7 +3010,6 @@
 0.0.0.0 app.reflectivedata.com
 0.0.0.0 app.roximity.com
 0.0.0.0 app.sbz.workers.dev
-0.0.0.0 app.shoptarget.com.br
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 app.titsx.com
 0.0.0.0 appad-api-01.perfectcorp.com
@@ -3713,6 +3713,7 @@
 0.0.0.0 blizzard.blueoxtech.com
 0.0.0.0 blob.core.windows.net
 0.0.0.0 block.scroll.com
+0.0.0.0 blockchain-ads.com
 0.0.0.0 blog-o-rama.de
 0.0.0.0 blog-stat.com
 0.0.0.0 blog-webkatalog.de
@@ -4387,7 +4388,6 @@
 0.0.0.0 cls.vrvm.com
 0.0.0.0 clubesaudedeassinatura.com.br
 0.0.0.0 cluster.adultworld.com
-0.0.0.0 cluster.awmdelivery.com
 0.0.0.0 clvk.viki.io
 0.0.0.0 clxxkz.com.cn
 0.0.0.0 cm-exchange.toast.com
@@ -6250,6 +6250,7 @@
 0.0.0.0 eventapi.afreecatv.com
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog.inspsearch.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
@@ -6905,6 +6906,7 @@
 0.0.0.0 green-ads.net
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 green-red.com
+0.0.0.0 grow.powerstep.com
 0.0.0.0 grown-inpp-code.com
 0.0.0.0 grown-t-code.com
 0.0.0.0 grupoemidia.com.br
@@ -7167,7 +7169,6 @@
 0.0.0.0 i.imedia.cz
 0.0.0.0 i.j2j.ru
 0.0.0.0 i.l.cnn.net
-0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.po.st
 0.0.0.0 i.viafoura.co
 0.0.0.0 i.wuhaolin.cn
@@ -7928,6 +7929,7 @@
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.enuri.com
 0.0.0.0 log.espn.com
+0.0.0.0 log.estand.jp
 0.0.0.0 log.f-tra.com
 0.0.0.0 log.g-enews.com
 0.0.0.0 log.giaoduc.net.vn
@@ -10863,6 +10865,7 @@
 0.0.0.0 shop-cdn.coccoc.com
 0.0.0.0 shop.vnay.vn
 0.0.0.0 shopconvert.com.br
+0.0.0.0 shoptarget.com.br
 0.0.0.0 short-address.com
 0.0.0.0 shotarget.co.uk
 0.0.0.0 show.everytell.com
@@ -11813,7 +11816,6 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
 0.0.0.0 t.adlpo.com
-0.0.0.0 t.afftrackr.com
 0.0.0.0 t.ajrkm.link
 0.0.0.0 t.auditedmedia.org.au
 0.0.0.0 t.bawafx.com
@@ -13490,7 +13492,6 @@
 0.0.0.0 widget.tippebannere.no
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.utinet.ru
-0.0.0.0 widget.wickedreports.com
 0.0.0.0 widget.zenback.jp
 0.0.0.0 widgets.business.com
 0.0.0.0 widgets.cryptopicture.com
