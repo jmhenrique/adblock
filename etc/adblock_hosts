@@ -1,4 +1,4 @@
-142.250.219.200 ssl.google-analytics.com
+142.251.129.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -9371,6 +9371,7 @@
 0.0.0.0 ovk.xceler8.io
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 owneriq.net.edgekey.net
+0.0.0.0 owtracking.us-east-1.elasticbeanstalk.com
 0.0.0.0 ox-bio.com
 0.0.0.0 ox.bncounter.com
 0.0.0.0 ox.hoosiertimes.com
@@ -12043,6 +12044,7 @@
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 telemetry.soundcloud.com
@@ -12101,6 +12103,7 @@
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke.opencps.vn
+0.0.0.0 thongke.vui.vn
 0.0.0.0 thongke99.baogiaothong.vn
 0.0.0.0 thor-media.ru
 0.0.0.0 thor-z.com
