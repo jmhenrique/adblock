@@ -1,4 +1,4 @@
-142.250.219.168 ssl.google-analytics.com
+142.251.129.136 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -659,6 +659,7 @@
 0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.mox.tv
+0.0.0.0 ad.mrtnsvr.com
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.muyang888.top
 0.0.0.0 ad.myapple.pl
@@ -2398,6 +2399,7 @@
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-chi-nfl.yinzcam.com
 0.0.0.0 analytics-cms.whitebeard.me
+0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
@@ -2431,7 +2433,6 @@
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.algoepico.net
 0.0.0.0 analytics.amakings.com
-0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.apnewsregistry.com
@@ -2667,6 +2668,7 @@
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.springboardvideo.com
+0.0.0.0 analytics.stanby.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 analytics.strava.com
@@ -2893,7 +2895,6 @@
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.locately.com
 0.0.0.0 api.locuslabs.com
-0.0.0.0 api.madkudu.com
 0.0.0.0 api.magmamobile.com
 0.0.0.0 api.maropost.com
 0.0.0.0 api.media.zapps.vn
@@ -2949,6 +2950,7 @@
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api.soclminer.com.br
 0.0.0.0 api.splkmobile.com
+0.0.0.0 api.trueaudience.io
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.unthem.com
 0.0.0.0 api.us-east-1.aiv-delivery.net
@@ -4079,6 +4081,7 @@
 0.0.0.0 cdn.allsportsflix.best
 0.0.0.0 cdn.amzuu.com
 0.0.0.0 cdn.appdynamics.com
+0.0.0.0 cdn.applixir.com
 0.0.0.0 cdn.apprope.com
 0.0.0.0 cdn.assets.craveonline.com
 0.0.0.0 cdn.avantisvideo.com
@@ -4090,7 +4093,6 @@
 0.0.0.0 cdn.bluebillywig.com
 0.0.0.0 cdn.braze.eu
 0.0.0.0 cdn.c-i.as
-0.0.0.0 cdn.clerk.io
 0.0.0.0 cdn.clinch.co
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.cpiera.com
@@ -4112,7 +4114,6 @@
 0.0.0.0 cdn.klasseo.com
 0.0.0.0 cdn.locallogic.co
 0.0.0.0 cdn.lodeo.io
-0.0.0.0 cdn.madkudu.com
 0.0.0.0 cdn.malokacha.club
 0.0.0.0 cdn.marjmedya.com
 0.0.0.0 cdn.maropost.com
@@ -4366,12 +4367,10 @@
 0.0.0.0 clktrk.display.io
 0.0.0.0 cllctr.roistat.com
 0.0.0.0 clog.go.com
-0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
-0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cloud.sbs.co.kr
@@ -4557,7 +4556,6 @@
 0.0.0.0 comfortclick.co.uk
 0.0.0.0 comilar-efferiff.icu
 0.0.0.0 comm-news.com
-0.0.0.0 commerce.campaignmonitor.com
 0.0.0.0 commercial.daznservices.com
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commission-junction.com
@@ -4621,6 +4619,7 @@
 0.0.0.0 content.printdirect.ru
 0.0.0.0 content.thrixxx.com
 0.0.0.0 content.womensforum.com
+0.0.0.0 content.worldnow.com
 0.0.0.0 content2.nrc.nl
 0.0.0.0 content22.online.citi.com
 0.0.0.0 contentclick.co.uk
@@ -5065,6 +5064,7 @@
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1rsh847opos9y.cloudfront.net
 0.0.0.0 d1rszqblq924lq.cloudfront.net
+0.0.0.0 d1snv67wdds0p2.cloudfront.net
 0.0.0.0 d1t4ekjh9ps4ob.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1tpwjufge3qqa.cloudfront.net
@@ -5513,6 +5513,7 @@
 0.0.0.0 dating-exchange.com
 0.0.0.0 dating-service.net
 0.0.0.0 db.riskwaters.com
+0.0.0.0 dba9ytko5p72r.cloudfront.net
 0.0.0.0 dbcdqp72lzmvj.cloudfront.net
 0.0.0.0 dbex-tracker-v2.driveback.ru
 0.0.0.0 dbjnwpbqx5a6o.cloudfront.net
@@ -5736,6 +5737,7 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm.travelocity.com
 0.0.0.0 dm.wenshenxiu.com
+0.0.0.0 dm.zjut.cc
 0.0.0.0 dm.zuowenku.net
 0.0.0.0 dm0acvguygm9h.cloudfront.net
 0.0.0.0 dm1.ddwk8.cn
@@ -6510,6 +6512,7 @@
 0.0.0.0 flitions-sealteger.com
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 float-l.ru
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flux-g.com
 0.0.0.0 fly-analytics.com
@@ -6587,6 +6590,7 @@
 0.0.0.0 fshanys-vip.top
 0.0.0.0 fspark-ap.com
 0.0.0.0 fstatic.iadvize.com
+0.0.0.0 ftpcontent.worldnow.com
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 fun-hits.com
 0.0.0.0 fun.ynet.com
@@ -7627,6 +7631,7 @@
 0.0.0.0 kaiseki-website.com
 0.0.0.0 kaiu-marketing.com
 0.0.0.0 kak-bit-new.ru
+0.0.0.0 kake.images.worldnow.com
 0.0.0.0 kaliba.alivesex.ru
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 karma.mdpcdn.com
@@ -8854,7 +8859,6 @@
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mr-rank.de
 0.0.0.0 ms-mvp.org
-0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.awqsaged.cn
 0.0.0.0 ms.cmcm.com
 0.0.0.0 ms.cnbanbao.com
@@ -10304,6 +10308,7 @@
 0.0.0.0 resources.crowdtwist.com
 0.0.0.0 response.pure360.com
 0.0.0.0 rest.dynamicyield.com
+0.0.0.0 rest.locuslabs.com
 0.0.0.0 rest.wildstar-online.com
 0.0.0.0 restore-pc.com
 0.0.0.0 resu8.hjfile.cn
@@ -12360,6 +12365,7 @@
 0.0.0.0 track.dmipartners.com
 0.0.0.0 track.dvdbox.com
 0.0.0.0 track.e7r.com.br
+0.0.0.0 track.easeus.com
 0.0.0.0 track.edu-info.jp
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.effitarget.com
@@ -13286,6 +13292,7 @@
 0.0.0.0 vmm-satellite1.com
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmstats.varrando.com
+0.0.0.0 vod-gcs-cedexis.cbsaavideo.com
 0.0.0.0 vodafone-direkt.de
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 volgograd-info.ru
