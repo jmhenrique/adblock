@@ -1,4 +1,4 @@
-142.251.129.40 ssl.google-analytics.com
+142.251.132.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -564,7 +564,6 @@
 0.0.0.0 ad.batanga.net
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 ad.bestsportstream.com
-0.0.0.0 ad.bilgin.pro
 0.0.0.0 ad.bitbay.net
 0.0.0.0 ad.bluepartner.eu
 0.0.0.0 ad.bobi.tw
@@ -2335,6 +2334,7 @@
 0.0.0.0 am-investor.ru
 0.0.0.0 am-schedule.ru
 0.0.0.0 am.szhome.com
+0.0.0.0 am.titsx.com
 0.0.0.0 amare.softwaregarden.com
 0.0.0.0 amata-syb.com
 0.0.0.0 amazon-adsystem.com
@@ -2580,6 +2580,7 @@
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobilegamestats.com
+0.0.0.0 analytics.molistar.com
 0.0.0.0 analytics.monetiza.co
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.move.ru
@@ -3731,7 +3732,6 @@
 0.0.0.0 blyxb.27667.club
 0.0.0.0 bm-rx.atatus.com
 0.0.0.0 bm.annonce.cz
-0.0.0.0 bmedia.justservingfiles.net
 0.0.0.0 bmrg.reflected.net
 0.0.0.0 bms.zeptolab.com
 0.0.0.0 bn.dxlive.com
@@ -3763,6 +3763,7 @@
 0.0.0.0 boomerang.dell.com
 0.0.0.0 boost-my-pr.de
 0.0.0.0 boost-next.co.jp
+0.0.0.0 booster-vax.com
 0.0.0.0 bootstrap-framework.org
 0.0.0.0 bootstrap-js.com
 0.0.0.0 bootstrap.livefyre.com
@@ -4135,7 +4136,6 @@
 0.0.0.0 cdn.redlightcenter.com
 0.0.0.0 cdn.relaido.jp
 0.0.0.0 cdn.revjet.com
-0.0.0.0 cdn.rgrd.xyz
 0.0.0.0 cdn.sanjagh.com
 0.0.0.0 cdn.smartclick.io
 0.0.0.0 cdn.socialannex.com
@@ -4966,7 +4966,6 @@
 0.0.0.0 d18mealirgdbbz.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d18t35yyry2k49.cloudfront.net
-0.0.0.0 d18xeipe1243h6.cloudfront.net
 0.0.0.0 d19182vyfoustz.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 d19uh5b0umbjrr.cloudfront.net
@@ -5085,6 +5084,7 @@
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1xkyo9j4r7vnn.cloudfront.net
 0.0.0.0 d1ybdlg8aoufn.cloudfront.net
+0.0.0.0 d1yt8zt4633tzi.cloudfront.net
 0.0.0.0 d1yu5hbtu8mng9.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
@@ -5151,6 +5151,7 @@
 0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
 0.0.0.0 d2enprlhqqv4jf.cloudfront.net
+0.0.0.0 d2ers4gi7coxau.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
@@ -5297,9 +5298,9 @@
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3a42c7xs4vn3.cloudfront.net
 0.0.0.0 d3a49eam5ump99.cloudfront.net
+0.0.0.0 d3aajkp07o1e4y.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3aiy6aqoa3ykz.cloudfront.net
-0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
 0.0.0.0 d3asksgk2foh5m.cloudfront.net
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
@@ -5617,7 +5618,6 @@
 0.0.0.0 df-srv.de
 0.0.0.0 df.mmo001.info
 0.0.0.0 df.mob.com
-0.0.0.0 df.pmweb.com.br
 0.0.0.0 df.tanx.com
 0.0.0.0 df0pmigc8xs70.cloudfront.net
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
@@ -5915,6 +5915,7 @@
 0.0.0.0 dy-home.cc
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dybxezbel1g44.cloudfront.net
+0.0.0.0 dygassets.dygdigital.com
 0.0.0.0 dyh1wzegu1j6z.cloudfront.net
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
 0.0.0.0 dyn-beacon.akamaized.net
@@ -6139,6 +6140,7 @@
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 entree.igetget.com
+0.0.0.0 enviou.com.br
 0.0.0.0 eo.sdahxz.xyz
 0.0.0.0 ep.xone.com
 0.0.0.0 epiv.cardlytics.com
@@ -6340,6 +6342,7 @@
 0.0.0.0 exchange.xbiz.com
 0.0.0.0 execute-api.us-east-1.amazonaws.com
 0.0.0.0 execution-use.ci360.sas.com
+0.0.0.0 exists-mazard.icu
 0.0.0.0 exit-ad.de
 0.0.0.0 exit-x.net
 0.0.0.0 exit.oxcash2.com
@@ -7635,6 +7638,7 @@
 0.0.0.0 kaliba.alivesex.ru
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 karma.mdpcdn.com
+0.0.0.0 kartikeya-ram.com
 0.0.0.0 kaspi-payment.com
 0.0.0.0 katelinna.m.biqubao.com
 0.0.0.0 katie.v4.byetnc.com
@@ -9768,6 +9772,7 @@
 0.0.0.0 pmssrv.mercadolibre.com.mx
 0.0.0.0 pmssrv.mercadolibre.com.ve
 0.0.0.0 pmssrv.mercadolivre.com.br
+0.0.0.0 pmweb.com.br
 0.0.0.0 pnrt-stsdk.vivo.com.cn
 0.0.0.0 po-cloud.net
 0.0.0.0 po.ponant.com
@@ -12073,7 +12078,6 @@
 0.0.0.0 test-studio.ru
 0.0.0.0 test.besstidniki.ru
 0.0.0.0 test.p.12cpm.com
-0.0.0.0 teutorigos-cat.com
 0.0.0.0 text-ali.ru
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.eroticmatch.com
@@ -13686,6 +13690,7 @@
 0.0.0.0 xml2.nbcsearch.com
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 xmpp-ha-alb.iadvize.com
+0.0.0.0 xn--2hvw21e.online
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2qux23confgml.club
 0.0.0.0 xn--3bs795g.chat
@@ -13872,6 +13877,7 @@
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 zpu.samsungelectronics.com
+0.0.0.0 zq.lansedir.com
 0.0.0.0 zs.dhl.de
 0.0.0.0 zsdexun.com.cn
 0.0.0.0 zsports-info.com
