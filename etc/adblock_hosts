@@ -1,4 +1,4 @@
-142.251.128.136 ssl.google-analytics.com
+172.217.29.8 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2541,7 +2541,6 @@
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.inlinemanual.com
-0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.jodelapis.com
@@ -2886,7 +2885,6 @@
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.intl.miui.com
 0.0.0.0 api.ipdata.co
-0.0.0.0 api.iterable.com
 0.0.0.0 api.iterative.ly
 0.0.0.0 api.itv.letv.com
 0.0.0.0 api.ivymobile.com
@@ -3120,9 +3118,7 @@
 0.0.0.0 assets-secure.applicaster.com
 0.0.0.0 assets-v2.yieldify-production.com
 0.0.0.0 assets.abbi.io
-0.0.0.0 assets.iterable.com
 0.0.0.0 assets.locuslabs.com
-0.0.0.0 assets.mantisadnetwork.com
 0.0.0.0 assets.minutemediacdn.com
 0.0.0.0 assets.newsmaxwidget.com
 0.0.0.0 assets.purch.com
@@ -4315,6 +4311,7 @@
 0.0.0.0 click.zipcodez.com
 0.0.0.0 click.zmctrack.net
 0.0.0.0 click2.cafepress.com
+0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 click4assistance.co.uk
 0.0.0.0 clickcompare.co.uk
 0.0.0.0 clicker.chiaki.vn
@@ -4369,6 +4366,7 @@
 0.0.0.0 clog.go.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
+0.0.0.0 cloud-iq.com.au
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud.ogury.io
@@ -6044,7 +6042,6 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 econda-monitor.de
 0.0.0.0 economic-news.co
-0.0.0.0 ecs.mantisadnetwork.com
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.bredg.com
@@ -8261,7 +8258,6 @@
 0.0.0.0 manage.wdfans.cn
 0.0.0.0 manageadv.cblogs.eu
 0.0.0.0 management-help.com
-0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 manuaisadultos.com.br
 0.0.0.0 mao1.jsnovel.com
 0.0.0.0 mapstats.blogflux.com
@@ -10305,8 +10301,6 @@
 0.0.0.0 researchnow.co.uk
 0.0.0.0 reseau-pub.com
 0.0.0.0 reseller.sexyads.com
-0.0.0.0 resize.mantisadnetwork.com
-0.0.0.0 resizer.mantisadnetwork.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resource.baomihua.com
@@ -10935,6 +10929,7 @@
 0.0.0.0 smac-ssp.com
 0.0.0.0 smart-bdash.com
 0.0.0.0 smart-counter.net
+0.0.0.0 smart-data-systems.com
 0.0.0.0 smart-digital-solutions.com
 0.0.0.0 smart-dmp.com
 0.0.0.0 smart-ip.net
@@ -11171,6 +11166,7 @@
 0.0.0.0 spider-mich.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
+0.0.0.0 spinnaker-js.com
 0.0.0.0 spire.aarki.net
 0.0.0.0 spitter.pauk.ru
 0.0.0.0 spixel.socy.es
@@ -11395,7 +11391,6 @@
 0.0.0.0 static.iadvize.com
 0.0.0.0 static.ichehome.com
 0.0.0.0 static.intentarget.com
-0.0.0.0 static.iterable.com
 0.0.0.0 static.jiaquyi.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.locallogic.co
