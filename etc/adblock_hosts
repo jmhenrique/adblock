@@ -1,4 +1,4 @@
-142.250.218.8 ssl.google-analytics.com
+142.250.219.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2100,6 +2100,7 @@
 0.0.0.0 advert2.ananzi.co.za
 0.0.0.0 advertarium.com.ua
 0.0.0.0 advertica-cdn.com
+0.0.0.0 advertica-cdn2.com
 0.0.0.0 advertisement-nhatanh.com
 0.0.0.0 advertising.bayoubuzz.com
 0.0.0.0 advertising.dclux.com
@@ -2515,6 +2516,7 @@
 0.0.0.0 analytics.femalefirst.co.uk
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.firespring.com
+0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.fosrv.com
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.fs-bdash.com
@@ -3250,6 +3252,7 @@
 0.0.0.0 b1.b2b168.net
 0.0.0.0 b1.baomihua.com
 0.0.0.0 b1.c1km4.com
+0.0.0.0 b1.engdvd.com
 0.0.0.0 b1.puxuewang.cn
 0.0.0.0 b1.qqjay.com
 0.0.0.0 b1.xiao84.com
@@ -4494,6 +4497,7 @@
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
+0.0.0.0 collector-hpn.ghostery.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
@@ -5100,6 +5104,7 @@
 0.0.0.0 d21rudljp9n1rr.cloudfront.net
 0.0.0.0 d21y75miwcfqoq.cloudfront.net
 0.0.0.0 d227cncaprzd7y.cloudfront.net
+0.0.0.0 d22ffr6srkd9zx.cloudfront.net
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
@@ -5813,6 +5818,7 @@
 0.0.0.0 download-alert.com
 0.0.0.0 download-file.ml
 0.0.0.0 download-readynow.com
+0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download.350.com
 0.0.0.0 download.cdn.sharelive.net
 0.0.0.0 download.cdn.torchbrowser.com
@@ -8858,6 +8864,7 @@
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mr-rank.de
 0.0.0.0 ms-mvp.org
+0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.awqsaged.cn
 0.0.0.0 ms.cmcm.com
 0.0.0.0 ms.cnbanbao.com
@@ -10922,6 +10929,7 @@
 0.0.0.0 slot-888.ru
 0.0.0.0 slotscity.g2afse.com
 0.0.0.0 sls2.loisirsencheres.com
+0.0.0.0 slview.psne.jp
 0.0.0.0 sm-epsilon.com
 0.0.0.0 sm-ini.ru
 0.0.0.0 sm-ini2.com
@@ -11396,6 +11404,7 @@
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.masoffer.net
+0.0.0.0 static.meijiacun.com
 0.0.0.0 static.mobilemonkey.com
 0.0.0.0 static.mvot.vn
 0.0.0.0 static.narrativ.com
@@ -11476,6 +11485,7 @@
 0.0.0.0 stats.berkman.harvard.edu
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.binki.es
+0.0.0.0 stats.bitban.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.blogg.se
