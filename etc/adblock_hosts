@@ -1,4 +1,4 @@
-142.250.219.232 ssl.google-analytics.com
+142.251.128.136 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -657,6 +657,7 @@
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mediastorm.hu
+0.0.0.0 ad.megapeer.ru
 0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.mox.tv
@@ -1183,6 +1184,7 @@
 0.0.0.0 ads.clasificadox.com
 0.0.0.0 ads.clovenetwork.com
 0.0.0.0 ads.co.com
+0.0.0.0 ads.code.com.tr
 0.0.0.0 ads.colombiaonline.com
 0.0.0.0 ads.comeon.com
 0.0.0.0 ads.conlatatca.vn
@@ -1532,6 +1534,7 @@
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.pipaffiliates.com
+0.0.0.0 ads.pivol.net
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.playboy.com
@@ -1644,6 +1647,7 @@
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.thestar.com
+0.0.0.0 ads.thetimes.co.uk
 0.0.0.0 ads.thetrainingofo.com
 0.0.0.0 ads.thitruongtaichinhtiente.vn
 0.0.0.0 ads.thrillsaffiliates.com
@@ -2912,7 +2916,6 @@
 0.0.0.0 api.myendpoint.io
 0.0.0.0 api.myhappyads.com
 0.0.0.0 api.nas.nct.vn
-0.0.0.0 api.nine.com.au
 0.0.0.0 api.ning.com
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 api.nrelate.com
@@ -4710,6 +4713,7 @@
 0.0.0.0 counter.maases.com
 0.0.0.0 counter.mediastealer.com
 0.0.0.0 counter.megaindex.ru
+0.0.0.0 counter.mgronline.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
 0.0.0.0 counter.monkeybanana3.com
@@ -4962,6 +4966,7 @@
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
 0.0.0.0 d188elxamt3utn.cloudfront.net
 0.0.0.0 d188m5xxcpvuue.cloudfront.net
+0.0.0.0 d18e74vjvmvza1.cloudfront.net
 0.0.0.0 d18g6t7whf8ejf.cloudfront.net
 0.0.0.0 d18mealirgdbbz.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
@@ -5543,6 +5548,7 @@
 0.0.0.0 dd1.diymianmo.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 dd77535fba.3901da0f4a.com
+0.0.0.0 ddlh1467paih3.cloudfront.net
 0.0.0.0 ddrvjrfwnij7n.cloudfront.net
 0.0.0.0 ddvbjehruuj5y.cloudfront.net
 0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
@@ -6004,6 +6010,7 @@
 0.0.0.0 eardepth-prisists.com
 0.0.0.0 early-birds.fr
 0.0.0.0 early-birds.io
+0.0.0.0 earn-bitcoins.net
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 easy-ads.com
 0.0.0.0 easy-bars.com
@@ -6228,6 +6235,7 @@
 0.0.0.0 evbeacon.networksolutions.com
 0.0.0.0 evbk.gamooga.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
+0.0.0.0 event-action.popinfo.jp
 0.0.0.0 event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.contactatonce.com.au
@@ -7064,6 +7072,7 @@
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.netgeography.net
 0.0.0.0 hits.sys.lv
+0.0.0.0 hits.tf.rs
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hitserver.ibope.com.br
 0.0.0.0 hitweb.chosun.com
@@ -7340,6 +7349,7 @@
 0.0.0.0 imp.dmm.co.jp
 0.0.0.0 imp.dmm.com
 0.0.0.0 imp.go.sohu.com
+0.0.0.0 imp.mgronline.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 imp.voiceads.cn
 0.0.0.0 impactradius-event.com
@@ -7552,6 +7562,7 @@
 0.0.0.0 jquerymin.co.il
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-cdn.dynatrace.com
+0.0.0.0 js-tencent.com
 0.0.0.0 js-tianqilm.com
 0.0.0.0 js.133u.com
 0.0.0.0 js.23yy.com
@@ -7892,6 +7903,7 @@
 0.0.0.0 log-live.direct.ly
 0.0.0.0 log-marketing.jp
 0.0.0.0 log-player.arte.tv
+0.0.0.0 log-stats.weathercn.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload-os.hoyoverse.com
@@ -8720,6 +8732,7 @@
 0.0.0.0 mm.jbzj.com
 0.0.0.0 mm.markandmini.com
 0.0.0.0 mm.nwell.net
+0.0.0.0 mm.paizi.net
 0.0.0.0 mmi-agency.com
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mmm.theweek.co.uk
@@ -9239,6 +9252,7 @@
 0.0.0.0 om.symantec.com
 0.0.0.0 om.truecar.com
 0.0.0.0 om.webcrawler.com
+0.0.0.0 omapi.fangraphs.com
 0.0.0.0 omarketer.viettelpost.vn
 0.0.0.0 omcis-news3.online
 0.0.0.0 ometrics.netapp.com
@@ -9430,6 +9444,7 @@
 0.0.0.0 p01.notifa.info
 0.0.0.0 p02.notifa.info
 0.0.0.0 p03.notifa.info
+0.0.0.0 p03try-c4t3g0ry.xyz
 0.0.0.0 p04.notifa.info
 0.0.0.0 p05.notifa.info
 0.0.0.0 p1.chinakaoyan.com
@@ -9578,6 +9593,7 @@
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf-serving.com
 0.0.0.0 perf.dugout.com
+0.0.0.0 perf.hsforms.com
 0.0.0.0 performance-based.com
 0.0.0.0 performance-netzwerk.de
 0.0.0.0 performance.affiliaxe.com
@@ -9623,7 +9639,6 @@
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 pie.wirelessregistry.com
 0.0.0.0 pine-sales.com
-0.0.0.0 ping-admin.ru
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping-fast.com
 0.0.0.0 ping-traffic.info
@@ -9745,6 +9760,7 @@
 0.0.0.0 pla-tk.flipkart.net
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 planning-analytics.ibmcloud.com
+0.0.0.0 plastic-wood.cn
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform.communicatorcorp.com
@@ -10573,6 +10589,7 @@
 0.0.0.0 sas.nsm-corp.com
 0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 sat.sanoma.fi
+0.0.0.0 saturn-j1407b.com
 0.0.0.0 savoy.cubecdn.net
 0.0.0.0 savoy.storage.cubecdn.net
 0.0.0.0 sax.sina.cn
@@ -11099,6 +11116,7 @@
 0.0.0.0 sp.mansfieldnewsjournal.com
 0.0.0.0 sp.marionstar.com
 0.0.0.0 sp.marshfieldnewsherald.com
+0.0.0.0 sp.minds.com
 0.0.0.0 sp.montgomeryadvertiser.com
 0.0.0.0 sp.mycentraljersey.com
 0.0.0.0 sp.naplesnews.com
@@ -12058,6 +12076,7 @@
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.servers.getgo.com
@@ -13008,6 +13027,7 @@
 0.0.0.0 uca.cloud.unity3d.com
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucretsiz-indirin.online
+0.0.0.0 ucs.betwaygroup.com
 0.0.0.0 udbdf-v2.nimo.tv
 0.0.0.0 udc.msn.com
 0.0.0.0 udiab1.jianshu.com
@@ -13803,7 +13823,6 @@
 0.0.0.0 your-analytics.org
 0.0.0.0 your-counter.be
 0.0.0.0 your-notice.com
-0.0.0.0 youwugong.jobui.com
 0.0.0.0 ypa.focusoftime.com
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 ys.muhoujiemi.com
@@ -13814,6 +13833,7 @@
 0.0.0.0 yun-pdm2000.cn
 0.0.0.0 yun-pdm5000.cn
 0.0.0.0 ywak.com.cn
+0.0.0.0 ywg.jobui.com
 0.0.0.0 yx-ads6.com
 0.0.0.0 yx1.managershare.com
 0.0.0.0 yybx.oss-cn-hangzhou.aliyuncs.com
