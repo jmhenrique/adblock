@@ -1,4 +1,4 @@
-142.251.128.136 ssl.google-analytics.com
+142.251.128.72 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -2921,7 +2921,6 @@
 0.0.0.0 api.nrelate.com
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 api.oneaudience.com
-0.0.0.0 api.onesignal.com
 0.0.0.0 api.ozui.vn
 0.0.0.0 api.parse.com
 0.0.0.0 api.pdbarea.com
