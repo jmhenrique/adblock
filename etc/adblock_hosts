@@ -1,4 +1,4 @@
-172.217.28.8 ssl.google-analytics.com
+142.251.132.8 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -8,6 +8,7 @@
 0.0.0.0 1.01fy.cn
 0.0.0.0 1.07swz.com
 0.0.0.0 1.1010pic.com
+0.0.0.0 1.11130.com.cn
 0.0.0.0 1.11467.com
 0.0.0.0 1.15lu.com
 0.0.0.0 1.201980.com
@@ -4078,7 +4079,6 @@
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.adtradr.com
 0.0.0.0 cdn.adual.net
-0.0.0.0 cdn.advsmedia.net
 0.0.0.0 cdn.alistcloud.com
 0.0.0.0 cdn.allsportsflix.best
 0.0.0.0 cdn.amzuu.com
@@ -4911,7 +4911,6 @@
 0.0.0.0 d.8181zx.com
 0.0.0.0 d.ab126.com
 0.0.0.0 d.adlpo.com
-0.0.0.0 d.adx.io
 0.0.0.0 d.dgzj.com
 0.0.0.0 d.email.forbes.com
 0.0.0.0 d.haberler.com
@@ -5362,6 +5361,7 @@
 0.0.0.0 d3nel6rcmq5lzw.cloudfront.net
 0.0.0.0 d3noqwmgo39at7.cloudfront.net
 0.0.0.0 d3nq5jrakcyw1w.cloudfront.net
+0.0.0.0 d3numuoibysgi8.cloudfront.net
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
@@ -8431,6 +8431,7 @@
 0.0.0.0 mega-stats.com
 0.0.0.0 mega1.yeah1.com
 0.0.0.0 megaban.com.ua
+0.0.0.0 megadata.co.kr
 0.0.0.0 meganz.pushresponse.net
 0.0.0.0 megogo.1ru.tv
 0.0.0.0 mein.monster.de
@@ -10478,7 +10479,6 @@
 0.0.0.0 s-p-o-n-s-o-r.com
 0.0.0.0 s.95105012.com
 0.0.0.0 s.admathhd.com
-0.0.0.0 s.adx.io
 0.0.0.0 s.adx.opera.com
 0.0.0.0 s.agava.ru
 0.0.0.0 s.arclk.net
@@ -12997,6 +12997,7 @@
 0.0.0.0 u.63kc.com
 0.0.0.0 u.dxsvr.com
 0.0.0.0 u.huoying666.com
+0.0.0.0 u.qxen.com
 0.0.0.0 u.superadbox.com
 0.0.0.0 u.xogu.cn
 0.0.0.0 u.zuoyesou.com
