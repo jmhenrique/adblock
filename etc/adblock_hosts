@@ -1,4 +1,4 @@
-142.251.129.168 ssl.google-analytics.com
+172.217.162.104 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -837,6 +837,7 @@
 0.0.0.0 adbutler.costco.com
 0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 adbuzz.com.tr
+0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adc-serv.net
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.flyermobi.com
@@ -1714,6 +1715,7 @@
 0.0.0.0 ads.watson.ch
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.web.de
+0.0.0.0 ads.web.tr
 0.0.0.0 ads.webhosting.info
 0.0.0.0 ads.webinak.sk
 0.0.0.0 ads.webkinz.com
@@ -3162,6 +3164,7 @@
 0.0.0.0 atax.ign.com
 0.0.0.0 atax.teamxbox.com
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atiws.aipai.com
 0.0.0.0 atkins.vo.llnwd.net
 0.0.0.0 atlantisjs.brafton.com
@@ -4108,6 +4111,7 @@
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
+0.0.0.0 cdn.haocaa.com
 0.0.0.0 cdn.hiido.cn
 0.0.0.0 cdn.hiperadverts.com
 0.0.0.0 cdn.hunteryvely.com
@@ -4441,7 +4445,6 @@
 0.0.0.0 cnzz.991yue.com
 0.0.0.0 cnzz.c62v.cn
 0.0.0.0 cnzz.com.so
-0.0.0.0 cnzz.yifenghuyu.com
 0.0.0.0 co.akisinn.info
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
@@ -4597,6 +4600,7 @@
 0.0.0.0 conjeller-chikemon.com
 0.0.0.0 connect.scroll.com
 0.0.0.0 connecting-to.com
+0.0.0.0 connext-cdn.azureedge.net
 0.0.0.0 connperf.immomo.com
 0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 console.aws.a2z.com
@@ -5129,6 +5133,7 @@
 0.0.0.0 d26adrx9c3n0mq.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d26c6kzavi5zwd.cloudfront.net
+0.0.0.0 d26yfyk0ym2k1u.cloudfront.net
 0.0.0.0 d27gtglsu4f4y2.cloudfront.net
 0.0.0.0 d27qffx6rqb3qm.cloudfront.net
 0.0.0.0 d27x580xb9ao1l.cloudfront.net
@@ -5342,6 +5347,7 @@
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3j3yrurxcqogk.cloudfront.net
 0.0.0.0 d3j7esvm4tntxq.cloudfront.net
+0.0.0.0 d3jdulus8lb392.cloudfront.net
 0.0.0.0 d3kblkhdtjv0tf.cloudfront.net
 0.0.0.0 d3kpkrgd3aj4o7.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
@@ -6269,7 +6275,6 @@
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-eu.freshsuccess.com
-0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 events.air.tv
@@ -6321,6 +6326,7 @@
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.tvtime.com
+0.0.0.0 events.virtusize.jp
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
 0.0.0.0 events.zaloapp.com
@@ -6645,6 +6651,7 @@
 0.0.0.0 g2c.cloud-elements.com
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 g3.letv.com
+0.0.0.0 ga-ads.com
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga-bq-py-1.appspot.com
@@ -6996,6 +7003,7 @@
 0.0.0.0 harvester.hnonline.sk
 0.0.0.0 hasan-liebt.de
 0.0.0.0 hash-hash-tag.com
+0.0.0.0 hats-47b.com
 0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hay-borsa.ru
 0.0.0.0 hb-247.com
@@ -7007,6 +7015,7 @@
 0.0.0.0 hdapp1008-a.akamaihd.net
 0.0.0.0 hdc.maxli.cn
 0.0.0.0 hdsrc-a.akamaihd.net
+0.0.0.0 head-clickfusion.com
 0.0.0.0 health-club.online
 0.0.0.0 healthykids-food.com
 0.0.0.0 heatmobi.offerstrack.net
@@ -8161,6 +8170,7 @@
 0.0.0.0 lps.qantas.com
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 lpx.qantas.com
+0.0.0.0 lr-in.com
 0.0.0.0 lr-ingest.io
 0.0.0.0 lraa.xiaoniutui.com
 0.0.0.0 ls.srvcs.tumblr.com
@@ -10633,7 +10643,6 @@
 0.0.0.0 script-bd.baixing.net
 0.0.0.0 script-sh.d2cdm.jp
 0.0.0.0 script.anura.io
-0.0.0.0 scripte-monster.de
 0.0.0.0 scripts.mofos.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.static-od.com
@@ -12068,10 +12077,12 @@
 0.0.0.0 telegraf.detmir-stats.ru
 0.0.0.0 telegraphcouk.skimlinks.com
 0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.art19.com
+0.0.0.0 telemetry.battle.net
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
@@ -12255,6 +12266,7 @@
 0.0.0.0 top.eomy.net
 0.0.0.0 top.gamesby.net
 0.0.0.0 top.gigmir.net
+0.0.0.0 top.hsdn.org
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 top.myfilms.su
@@ -12476,12 +12488,12 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.social.com
-0.0.0.0 track.software-codes.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.spacepush.ru
 0.0.0.0 track.span-smt.jp
 0.0.0.0 track.spots.im
 0.0.0.0 track.strife.com
+0.0.0.0 track.swaptrap.live
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.tenjin.com
@@ -12896,6 +12908,7 @@
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triggertag.gorillanation.com
+0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 tripod.lycos.co.uk
 0.0.0.0 trk-consulatu.com
 0.0.0.0 trk-egestas.com
@@ -13380,7 +13393,6 @@
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wa.web.de
 0.0.0.0 wall.adgaterewards.com
-0.0.0.0 wallet-api.urbanairship.com
 0.0.0.0 walmart.com.akadns.net
 0.0.0.0 wap-click.com
 0.0.0.0 wap001.bytravel.cn
