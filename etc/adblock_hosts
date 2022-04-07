@@ -1,4 +1,4 @@
-142.251.129.40 ssl.google-analytics.com
+142.251.132.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -3807,6 +3807,7 @@
 0.0.0.0 br.phorm.com
 0.0.0.0 br.realitykings.com
 0.0.0.0 br.rk.com
+0.0.0.0 brahe.apptimize.com
 0.0.0.0 brand-display.com
 0.0.0.0 brand-sdk.kmsmep.com
 0.0.0.0 brand-tech.net
@@ -4103,6 +4104,7 @@
 0.0.0.0 cdn.banners.scubl.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.beaconpush.com
+0.0.0.0 cdn.bidmatrixdsp.com
 0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 cdn.bluebillywig.com
 0.0.0.0 cdn.bongdadem.net
@@ -7389,6 +7391,7 @@
 0.0.0.0 in.bmgan.com
 0.0.0.0 in.cybererotica.com
 0.0.0.0 in.ff5.com
+0.0.0.0 inapps.appflyer.com
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 inbox-messages.net
 0.0.0.0 inc2.igexin.com
@@ -8389,6 +8392,7 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mcs.snssdk.com
+0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-nx.com
 0.0.0.0 md.tvzhe.com
 0.0.0.0 mdmserver.mobidia.com
@@ -9889,6 +9893,7 @@
 0.0.0.0 prdwebcollector.ruetracking.com
 0.0.0.0 pre.glotgrx.com
 0.0.0.0 preaf-ad.jp
+0.0.0.0 prebids.adnsx.com
 0.0.0.0 preferences.truste.com
 0.0.0.0 premium-members.com
 0.0.0.0 premium-offers.com
@@ -13140,6 +13145,7 @@
 0.0.0.0 us-east-1.elb.amazonaws.com
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
+0.0.0.0 us-trk.bidmatrixdsp.com
 0.0.0.0 us-west-1.elb.amazonaws.com
 0.0.0.0 us-west-2.compute.amazonaws.com
 0.0.0.0 us-west-2.elb.amazonaws.com
