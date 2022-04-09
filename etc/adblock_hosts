@@ -1,4 +1,4 @@
-172.217.28.232 ssl.google-analytics.com
+142.251.132.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -1196,6 +1196,7 @@
 0.0.0.0 ads.cracked.com
 0.0.0.0 ads.crawler.com
 0.0.0.0 ads.crisppremium.com
+0.0.0.0 ads.cungcau.vn
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.d-msquared.com
 0.0.0.0 ads.dada.it
@@ -1634,6 +1635,7 @@
 0.0.0.0 ads.suomiautomaatti.com
 0.0.0.0 ads.sup.com
 0.0.0.0 ads.superawesome.tv
+0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.svnt.com
 0.0.0.0 ads.sxx.com
 0.0.0.0 ads.syscdn.de
@@ -2177,6 +2179,7 @@
 0.0.0.0 af-z.jp
 0.0.0.0 af.1gdz.ru
 0.0.0.0 af.fukuishimbun.co.jp
+0.0.0.0 af.tosho-trading.co.jp
 0.0.0.0 afbanner.kinobomber3.online
 0.0.0.0 afd.baidu.com
 0.0.0.0 aff-handler.com
@@ -2509,7 +2512,6 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.dpd.com
-0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.edgekey.net
@@ -2693,6 +2695,7 @@
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
 0.0.0.0 analytics.superstructure.ai
+0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.sutterhealth.org
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.tactilews.com
@@ -2951,7 +2954,6 @@
 0.0.0.0 api.red.wemesh.ca
 0.0.0.0 api.reftagger.com
 0.0.0.0 api.reon.club
-0.0.0.0 api.reproio.com
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rubic.com.tr
 0.0.0.0 api.safedk.com
@@ -4214,6 +4216,7 @@
 0.0.0.0 centent.steanplay.cc
 0.0.0.0 centent.stemplay.cc
 0.0.0.0 centent.streanplay.cc
+0.0.0.0 centralized.zaloapp.com
 0.0.0.0 centrasia-news.com
 0.0.0.0 certified-apps.com
 0.0.0.0 cf-ads.pinger.com
@@ -5288,6 +5291,7 @@
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d31vxm9ubutrmw.cloudfront.net
+0.0.0.0 d32bug9eb0g0bh.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d32r49xyei4vz6.cloudfront.net
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
@@ -5605,6 +5609,7 @@
 0.0.0.0 delivery.first-impression.com
 0.0.0.0 delivery.hornyspots.com
 0.0.0.0 delivery.hunterycity.com
+0.0.0.0 delivery.lavamedia.vn
 0.0.0.0 delivery.playallvideos.com
 0.0.0.0 delivery.satr.jp
 0.0.0.0 delivery.senvangvn.com
@@ -5642,6 +5647,7 @@
 0.0.0.0 devices.carnivalmobile.com
 0.0.0.0 devphp.org.ua
 0.0.0.0 dew9ckzjyt2gn.cloudfront.net
+0.0.0.0 dewalt-sales.com
 0.0.0.0 df-srv.de
 0.0.0.0 df.mmo001.info
 0.0.0.0 df.mob.com
@@ -5739,7 +5745,6 @@
 0.0.0.0 dlkfm8bqz0bpx.cloudfront.net
 0.0.0.0 dlne6myudrxi1.cloudfront.net
 0.0.0.0 dlrioxg1637dk.cloudfront.net
-0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dlvds9i67c60j.cloudfront.net
 0.0.0.0 dlx.addthis.com
 0.0.0.0 dm-event.net
@@ -5878,6 +5883,7 @@
 0.0.0.0 ds02gfqy6io6i.cloudfront.net
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsb.yahoo.co.jp
+0.0.0.0 dsb6jelx4yhln.cloudfront.net
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dserver.hw.net
 0.0.0.0 dsg.interia.pl
@@ -5953,6 +5959,7 @@
 0.0.0.0 dynamic1.anandtech.com
 0.0.0.0 dynamic1.dailytech.com
 0.0.0.0 dynamic2.anandtech.com
+0.0.0.0 dynatrace-managed.com
 0.0.0.0 dyrxq.rfskbylbsf.xyz
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
@@ -6311,6 +6318,7 @@
 0.0.0.0 events.demoup.com
 0.0.0.0 events.emogi.com
 0.0.0.0 events.engager.ecbsn.com
+0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.jokerly.com
 0.0.0.0 events.jora.com
@@ -6914,6 +6922,7 @@
 0.0.0.0 good-games.org
 0.0.0.0 good-traf.ru
 0.0.0.0 good-traff.ru
+0.0.0.0 gooddaywith-captcha.top
 0.0.0.0 google-analyticals.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
@@ -6984,6 +6993,7 @@
 0.0.0.0 gzm.xzbu.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-bid.com
+0.0.0.0 h-cast.jp
 0.0.0.0 h.cloudengage.com
 0.0.0.0 h.hollywood.com
 0.0.0.0 h.imedia.cz
@@ -7425,6 +7435,7 @@
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 inimbus.com.au
+0.0.0.0 init.blackcrow.ai
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
@@ -7542,6 +7553,7 @@
 0.0.0.0 ivr.com.tr
 0.0.0.0 ivy.pconline.com.cn
 0.0.0.0 iwanad.baidu.com
+0.0.0.0 iwe.ktvgv.com
 0.0.0.0 iyes.youku.com
 0.0.0.0 j-a-net.jp
 0.0.0.0 j.9136.com
@@ -7678,7 +7690,6 @@
 0.0.0.0 kartikeya-ram.com
 0.0.0.0 kaspi-payment.com
 0.0.0.0 katelinna.m.biqubao.com
-0.0.0.0 katie.v4.byetnc.com
 0.0.0.0 kc-valves.com
 0.0.0.0 kc.gouchezj.com
 0.0.0.0 kelt-195b.com
@@ -7708,6 +7719,7 @@
 0.0.0.0 klog.hiido.com
 0.0.0.0 km-sea.net
 0.0.0.0 km1.muhoujiemi.com
+0.0.0.0 kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
 0.0.0.0 koji-analytics.com
 0.0.0.0 konnect.videoplaza.tv
@@ -8901,6 +8913,7 @@
 0.0.0.0 mparticle.uc.cn
 0.0.0.0 mpb1.iteye.com
 0.0.0.0 mpc.nicequest.com
+0.0.0.0 mplaylist-ads.zadn.vn
 0.0.0.0 mps-gba.de
 0.0.0.0 mps.wenkuzu.com
 0.0.0.0 mq.d6s3mov.cn
@@ -9354,7 +9367,6 @@
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx-server.thinknearhub.com
 0.0.0.0 openx.4shared.com
-0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.bmwpower-bg.net
 0.0.0.0 openx.cairo360.com
@@ -9488,6 +9500,7 @@
 0.0.0.0 p8u.hinet.net
 0.0.0.0 pa-oa.com
 0.0.0.0 pa.afreecatv.com
+0.0.0.0 pa.pinpoll.com
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 pa.wme.catchmedia.com
 0.0.0.0 paas-push-api-log.immomo.com
@@ -10768,6 +10781,7 @@
 0.0.0.0 search.adcaffe.com
 0.0.0.0 search.eclickz.com
 0.0.0.0 search.jword.jp
+0.0.0.0 search.supplyframe.com
 0.0.0.0 search123.uk.com
 0.0.0.0 search34.info.com
 0.0.0.0 searchad-phinf.pstatic.net
@@ -11041,6 +11055,7 @@
 0.0.0.0 sms-sending.net
 0.0.0.0 sms-zone.org
 0.0.0.0 sms.mob.com
+0.0.0.0 smt.docomo.ne.jp
 0.0.0.0 smy.iheart.com
 0.0.0.0 snack-media.com
 0.0.0.0 snammar-jumntal.com
@@ -11438,6 +11453,7 @@
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.clevertap.com
+0.0.0.0 static.dtadnetwork.com
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.fleshlight.com
@@ -11764,6 +11780,7 @@
 0.0.0.0 stickyadstv.com.edgekey.net
 0.0.0.0 still-innocent.info
 0.0.0.0 stir.semilo.com
+0.0.0.0 stlog.d.dmkt-sp.jp
 0.0.0.0 stnetsdk.vivo.com.cn
 0.0.0.0 stockbook-ads.firebaseapp.com
 0.0.0.0 stockbook-ads.firebaseio.com
@@ -12560,8 +12577,10 @@
 0.0.0.0 trackdat.pinsightmedia.com
 0.0.0.0 trackdb.go3.tv
 0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker-mw-zlivestream.zapps.vn
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker-tds.info
+0.0.0.0 tracker-zlivestream.zapps.vn
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.77player.xyz
 0.0.0.0 tracker.adbinead.com
@@ -12615,6 +12634,7 @@
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.neon-images.com
+0.0.0.0 tracker.nhandaovadoisong.vn
 0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.pinnaclesports.com
@@ -12731,6 +12751,7 @@
 0.0.0.0 tracking.goodgamestudios.com
 0.0.0.0 tracking.gpm-rtv.ru
 0.0.0.0 tracking.graphly.io
+0.0.0.0 tracking.gvm.com.tw
 0.0.0.0 tracking.hannoversche.de
 0.0.0.0 tracking.hi-pi.com
 0.0.0.0 tracking.hivecloud.net
@@ -12848,6 +12869,7 @@
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.viewster.com
 0.0.0.0 tracking.vitringez.com
+0.0.0.0 tracking.vnncdn.net
 0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 0.0.0.0 tracking.waterfrontmedia.com
@@ -13894,6 +13916,7 @@
 0.0.0.0 z1.pclady.com.cn
 0.0.0.0 z1hihu.xmcimg.com
 0.0.0.0 za-ads.de
+0.0.0.0 za.baomoi.com
 0.0.0.0 za.zdn.vn
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zakladka.org.ua
