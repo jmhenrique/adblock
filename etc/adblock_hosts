@@ -1,4 +1,4 @@
-142.250.219.8 ssl.google-analytics.com
+142.250.79.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -268,6 +268,7 @@
 0.0.0.0 a.law.com
 0.0.0.0 a.letsjerk.to
 0.0.0.0 a.livesportmedia.eu
+0.0.0.0 a.llysc.cn
 0.0.0.0 a.lz13.cn
 0.0.0.0 a.macuser.co.uk
 0.0.0.0 a.mayakinfo.ru
@@ -645,6 +646,7 @@
 0.0.0.0 ad.kodansha.pub
 0.0.0.0 ad.koreadaily.com
 0.0.0.0 ad.kshuiz.top
+0.0.0.0 ad.kubicad.icu
 0.0.0.0 ad.land.to
 0.0.0.0 ad.lapa.pub
 0.0.0.0 ad.leap.app
@@ -658,6 +660,7 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad.mediaf.media
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.megapeer.ru
 0.0.0.0 ad.mobstazinc.cn
@@ -1125,8 +1128,10 @@
 0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.baoangiang.com.vn
 0.0.0.0 ads.baobinhduong.vn
+0.0.0.0 ads.baobinhthuan.com.vn
 0.0.0.0 ads.baocantho.com.vn
 0.0.0.0 ads.baodatviet.vn
+0.0.0.0 ads.baohaiduong.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
 0.0.0.0 ads.bb59.ru
 0.0.0.0 ads.bcnewsgroup.com
@@ -1430,6 +1435,7 @@
 0.0.0.0 ads.mail.bg
 0.0.0.0 ads.maleflixxx.tv
 0.0.0.0 ads.mariuana.it
+0.0.0.0 ads.markettimes.vn
 0.0.0.0 ads.marry.vn
 0.0.0.0 ads.marvel.com
 0.0.0.0 ads.massinfra.nl
@@ -2264,6 +2270,7 @@
 0.0.0.0 afi-b.com
 0.0.0.0 afilio.com.br
 0.0.0.0 afk-i.com
+0.0.0.0 afl-static-cdn.newbiz-prod.stroeerws.de
 0.0.0.0 afl.rakuten.co.jp
 0.0.0.0 afp.chinanews.com
 0.0.0.0 afp.wasu.cn
@@ -2658,6 +2665,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.rotapost.ru
 0.0.0.0 analytics.rover.io
+0.0.0.0 analytics.saas-vn.network
 0.0.0.0 analytics.safelinking.net
 0.0.0.0 analytics.salesanalytics.io
 0.0.0.0 analytics.salmonads.com
@@ -3259,6 +3267,7 @@
 0.0.0.0 b.sli-spark.com
 0.0.0.0 b.sweet-hd.com
 0.0.0.0 b.thanksearch.com
+0.0.0.0 b.travel-assets.com
 0.0.0.0 b.tukucc.com
 0.0.0.0 b.unjs.com
 0.0.0.0 b.wishabi.com
@@ -4385,7 +4394,6 @@
 0.0.0.0 clk.onet.pl
 0.0.0.0 clkstat.china.cn
 0.0.0.0 clktrk.display.io
-0.0.0.0 cllctr.roistat.com
 0.0.0.0 clog.go.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
@@ -4393,7 +4401,6 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud.ogury.io
-0.0.0.0 cloud.roistat.com
 0.0.0.0 cloud.sbs.co.kr
 0.0.0.0 cloud.setupad.com
 0.0.0.0 cloudapp-s.store
@@ -4543,7 +4550,6 @@
 0.0.0.0 collector.puhutv.com
 0.0.0.0 collector.retailcrm.pro
 0.0.0.0 collector.rn.de
-0.0.0.0 collector.roistat.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.shopstream.co
@@ -5182,6 +5188,7 @@
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
+0.0.0.0 d2g7xwemdu0wkn.cloudfront.net
 0.0.0.0 d2g8ksx1za632p.cloudfront.net
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d2ga0x5nt7ml6e.cloudfront.net
@@ -7738,6 +7745,7 @@
 0.0.0.0 krum.vsct.fr
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kuhni.kuhnisiblings.ru
+0.0.0.0 kukanlm-youeryuan.com
 0.0.0.0 kunner.wiesentbote.de
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 kwserver.adhispanic.com
@@ -8308,6 +8316,7 @@
 0.0.0.0 main.jiukang.org
 0.0.0.0 mainad-codpp.com
 0.0.0.0 maispremium.com.br
+0.0.0.0 major-t-code.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 mall0.qiyipic.com
 0.0.0.0 maltiverse.lt.acemlnc.com
@@ -8859,6 +8868,7 @@
 0.0.0.0 moh-online.com
 0.0.0.0 mohini-ger.com
 0.0.0.0 mola77.mobilenobo.com
+0.0.0.0 momowa.momoshop.com.tw
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.snssdk.com
@@ -8880,6 +8890,7 @@
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monitoring.youronlinechoices.com
+0.0.0.0 montelena-rcv.gmarket.co.kr
 0.0.0.0 mookie1.com.edgekey.net
 0.0.0.0 moonlightingapi-ads.com
 0.0.0.0 mopub-imp.aarki.net
@@ -10820,6 +10831,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securesmrt-dt.com
 0.0.0.0 securite.01net.com
+0.0.0.0 see-what-is-trending.com
 0.0.0.0 see-work.info
 0.0.0.0 seed.bitcoin.sipa.be
 0.0.0.0 seed.bitcoin.sprovoost.nl
@@ -10850,6 +10862,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sentry.arc.io
+0.0.0.0 sentry.dantri.com.vn
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 seo-master.net
@@ -11453,7 +11466,6 @@
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.clevertap.com
-0.0.0.0 static.dtadnetwork.com
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.fleshlight.com
@@ -11959,6 +11971,7 @@
 0.0.0.0 t.simply-hentai.com
 0.0.0.0 t.smile.eu
 0.0.0.0 t.spot.im
+0.0.0.0 t.trsbf.com
 0.0.0.0 t.uc.cn
 0.0.0.0 t.unbounce.com
 0.0.0.0 t.vacations.disneydestinations.com
@@ -12784,6 +12797,7 @@
 0.0.0.0 tracking.lg.com
 0.0.0.0 tracking.linda.de
 0.0.0.0 tracking.listhub.net
+0.0.0.0 tracking.live.oe24.at
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.markethero.io
@@ -13184,6 +13198,7 @@
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
 0.0.0.0 usageanalytics.coveo.com
+0.0.0.0 usdownload.widost.com
 0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 usenet-nl.top
@@ -13369,6 +13384,7 @@
 0.0.0.0 visitor-analytics.io
 0.0.0.0 visitor-analytics.net
 0.0.0.0 visitor-metrics.com
+0.0.0.0 visitor-microservice.ext.p-a.im
 0.0.0.0 visitor-stats.de
 0.0.0.0 visitor-track.com
 0.0.0.0 visitor.pixplug.in
@@ -13648,6 +13664,7 @@
 0.0.0.0 womens-insider.info
 0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 wonder-ma.com
+0.0.0.0 wonderful-day.club
 0.0.0.0 wood-pen.com
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 woopra-ns.com
