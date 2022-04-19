@@ -1,4 +1,4 @@
-142.250.218.72 ssl.google-analytics.com
+142.250.219.168 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -82,6 +82,7 @@
 0.0.0.0 123-counter.de
 0.0.0.0 123-tracker.com
 0.0.0.0 1278725189.pub.ezanga.com
+0.0.0.0 14-tracking.com
 0.0.0.0 14713804a.l2m.net
 0.0.0.0 1486050000.rsc.cdn77.org
 0.0.0.0 1559.stats.misstrends.com
@@ -2162,7 +2163,6 @@
 0.0.0.0 adx.lsosad.com
 0.0.0.0 adx.ocala.com
 0.0.0.0 adx.phunuadong.vn
-0.0.0.0 adx.relaksit.ru
 0.0.0.0 adx.starbanner.com
 0.0.0.0 adx.starnewsonline.com
 0.0.0.0 adx.telegram.com
@@ -2293,7 +2293,6 @@
 0.0.0.0 aibuy-api.aibuy.io
 0.0.0.0 aic.cdpbeacon.lgtvcommon.com
 0.0.0.0 aid-ad.jp
-0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 aimg.fc2.com
 0.0.0.0 air.audioeye.com
 0.0.0.0 airlock.twcmobile.weather.com
@@ -2428,6 +2427,7 @@
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-http.mintegral.net
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ingress.bitmovin.com
@@ -2777,6 +2777,7 @@
 0.0.0.0 analytics.zendesk.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 analytics.ziftsolutions.com
+0.0.0.0 analytics.zim.vn
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics2.awsli.com.br
 0.0.0.0 analytics2.tvreport.co.kr
@@ -3263,6 +3264,7 @@
 0.0.0.0 b.nude-moon.xyz
 0.0.0.0 b.oix.net
 0.0.0.0 b.povarenok.ru
+0.0.0.0 b.px-cdn.net
 0.0.0.0 b.skinstore.com
 0.0.0.0 b.sli-spark.com
 0.0.0.0 b.sweet-hd.com
@@ -3677,7 +3679,6 @@
 0.0.0.0 bf-tools.net
 0.0.0.0 bf.mocda1.com
 0.0.0.0 bf20578xco.bf.dynatrace.com
-0.0.0.0 bi-analytics.cloudapp.net
 0.0.0.0 bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.medscape.com
@@ -3958,7 +3959,6 @@
 0.0.0.0 c1.4qx.net
 0.0.0.0 c1.chajiaotong.com
 0.0.0.0 c1.china.cn
-0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1.outster.com
 0.0.0.0 c1.politexpert.ru
@@ -4375,6 +4375,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client.88tours.com
+0.0.0.0 client.botchk.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
 0.0.0.0 client.tahono.com
@@ -5188,7 +5189,6 @@
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
-0.0.0.0 d2g7xwemdu0wkn.cloudfront.net
 0.0.0.0 d2g8ksx1za632p.cloudfront.net
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d2ga0x5nt7ml6e.cloudfront.net
@@ -5211,6 +5211,7 @@
 0.0.0.0 d2kadvyeq051an.cloudfront.net
 0.0.0.0 d2kd9y1bp4zc6.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
+0.0.0.0 d2khpmub947xov.cloudfront.net
 0.0.0.0 d2kk0o3fr7ed01.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
@@ -5319,6 +5320,7 @@
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d37abonb6ucrhx.cloudfront.net
+0.0.0.0 d37pempw0ijqri.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38goz54x5g9rw.cloudfront.net
 0.0.0.0 d38itq6vdv6gr9.cloudfront.net
@@ -5967,6 +5969,7 @@
 0.0.0.0 dynamic1.dailytech.com
 0.0.0.0 dynamic2.anandtech.com
 0.0.0.0 dynatrace-managed.com
+0.0.0.0 dyrfxuvraq0fk.cloudfront.net
 0.0.0.0 dyrxq.rfskbylbsf.xyz
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
@@ -6263,6 +6266,7 @@
 0.0.0.0 eura-cell.com
 0.0.0.0 euro-pr.eu
 0.0.0.0 euwtn.5081.site
+0.0.0.0 ev.api.bdg.com
 0.0.0.0 ev.kck.st
 0.0.0.0 ev.tpocdm.com
 0.0.0.0 eva-ad.24hstatic.com
@@ -6665,6 +6669,7 @@
 0.0.0.0 g-statistic.com
 0.0.0.0 g-stats.openhost.es
 0.0.0.0 g.3lian.com
+0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 g.delivery.net
 0.0.0.0 g.gegeyingshi.com
 0.0.0.0 g.hsw.cn
@@ -7191,6 +7196,7 @@
 0.0.0.0 hummingbird.mavencoalition.io
 0.0.0.0 hunt-leads.com
 0.0.0.0 hunter-hub.com
+0.0.0.0 huosai.net.cn
 0.0.0.0 hwa.his.huawei.com
 0.0.0.0 hwmonitor-ru.ru
 0.0.0.0 hwstats.unity3d.com
@@ -7793,7 +7799,6 @@
 0.0.0.0 latency.agoop.net
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
 0.0.0.0 latest-songs.com
-0.0.0.0 launcher.spot.im
 0.0.0.0 launcher.us.yeshen.com
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
@@ -9192,7 +9197,7 @@
 0.0.0.0 nova.dice.net
 0.0.0.0 november-lax.com
 0.0.0.0 novosti-online.gq
-0.0.0.0 novunu.football-plyus.net14-tracking.com
+0.0.0.0 novunu.football-plyus.net123tramites.com
 0.0.0.0 now-online.net
 0.0.0.0 now.eloqua.com
 0.0.0.0 noxagile.duapp.com
@@ -9821,7 +9826,7 @@
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.ssacdn.com
-0.0.0.0 plausible.mangadex.org
+0.0.0.0 plausible.simplelogin.io
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play.entretenimientolz.com
 0.0.0.0 play.leadzuaf.com
@@ -10120,6 +10125,7 @@
 0.0.0.0 qc.designervn.net
 0.0.0.0 qc.japo.vn
 0.0.0.0 qc.kqbd88.com
+0.0.0.0 qc.mhsolution.vn
 0.0.0.0 qc.violet.vn
 0.0.0.0 qctt24h.24h.com.vn
 0.0.0.0 qcv5.blogtruyen.vn
@@ -10999,6 +11005,7 @@
 0.0.0.0 sleep.vermontteddybear.com
 0.0.0.0 sli.familyhandyman.com
 0.0.0.0 slike.indiatimes.com
+0.0.0.0 slm.dantri.com.vn
 0.0.0.0 slog.trackingio.com
 0.0.0.0 slot-888.ru
 0.0.0.0 slotscity.g2afse.com
@@ -11119,6 +11126,8 @@
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
+0.0.0.0 sp.aviasales.com
+0.0.0.0 sp.aviasales.ru
 0.0.0.0 sp.azcentral.com
 0.0.0.0 sp.battlecreekenquirer.com
 0.0.0.0 sp.baxterbulletin.com
@@ -11228,6 +11237,7 @@
 0.0.0.0 sp.yorkdispatch.com
 0.0.0.0 sp.zanesvilletimesrecorder.com
 0.0.0.0 space-link.de
+0.0.0.0 spade.twitch.tv
 0.0.0.0 spads.yamx.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.reference.com
@@ -11506,12 +11516,12 @@
 0.0.0.0 static.ziftsolutions.com
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 staticads.btopenworld.com
-0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statis.dsp.vn
 0.0.0.0 statistic.batdongsan.com.vn
 0.0.0.0 statistic.imgpay.ru
 0.0.0.0 statistiche-free.com
 0.0.0.0 statistiche-web.com
+0.0.0.0 statistics-vov2.vov.vn
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.aldi-international.com
 0.0.0.0 statistics.crowdynews.com
@@ -11805,7 +11815,6 @@
 0.0.0.0 stores-counters.wix.com
 0.0.0.0 stream-all.com
 0.0.0.0 stream-home.ru
-0.0.0.0 stream.spongead.com
 0.0.0.0 stream.useriq.com
 0.0.0.0 stream1.livefyre.com
 0.0.0.0 streem.com.au
@@ -12418,7 +12427,6 @@
 0.0.0.0 track-re01.com
 0.0.0.0 track-server-100.com
 0.0.0.0 track-srv.vietnamnet.vn
-0.0.0.0 track-tracingkit394853.com
 0.0.0.0 track-victoriadates.com
 0.0.0.0 track-web.net
 0.0.0.0 track-your-fedex-package.com
@@ -12543,6 +12551,7 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.social.com
+0.0.0.0 track.software-codes.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.spacepush.ru
 0.0.0.0 track.span-smt.jp
@@ -12990,8 +12999,6 @@
 0.0.0.0 trk.games-to-run123.com
 0.0.0.0 trk.i0.cz
 0.0.0.0 trk.in25app.com
-0.0.0.0 trk.klclick2.com
-0.0.0.0 trk.klclick3.com
 0.0.0.0 trk.nfl-online-streams.live
 0.0.0.0 trk.olnl.net
 0.0.0.0 trk.pinterest.com
@@ -13177,7 +13184,6 @@
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-1.gladly.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
-0.0.0.0 us-central1-production-242307.cloudfunctions.net
 0.0.0.0 us-east-1.elb.amazonaws.com
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
@@ -13427,6 +13433,7 @@
 0.0.0.0 vs.blackplanet.com
 0.0.0.0 vs.tucows.com
 0.0.0.0 vse.srazu.org
+0.0.0.0 vst.sibnet.ru
 0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 vte.nexteramedia.com
 0.0.0.0 vulcan-bit.com
@@ -13779,6 +13786,7 @@
 0.0.0.0 xiji-express.com
 0.0.0.0 xinbo-lora.cn
 0.0.0.0 xinjscn.oss-cn-hangzhou.aliyuncs.com
+0.0.0.0 xiongfengwang.com.cn
 0.0.0.0 xiuxiu.mobile.meitudata.com
 0.0.0.0 xl-rank.com
 0.0.0.0 xl-trk.com
@@ -13935,6 +13943,7 @@
 0.0.0.0 z1hihu.xmcimg.com
 0.0.0.0 za-ads.de
 0.0.0.0 za.baomoi.com
+0.0.0.0 za.zapps.vn
 0.0.0.0 za.zdn.vn
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zakladka.org.ua
