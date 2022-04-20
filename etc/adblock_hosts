@@ -1,4 +1,4 @@
-142.250.219.168 ssl.google-analytics.com
+142.251.132.40 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
@@ -247,6 +247,7 @@
 0.0.0.0 a.fobos.tv
 0.0.0.0 a.fox.com
 0.0.0.0 a.gerasopa.com
+0.0.0.0 a.getflowbox.com
 0.0.0.0 a.gsmarena.com
 0.0.0.0 a.hbf23.cn
 0.0.0.0 a.heavy-r.com
@@ -313,7 +314,6 @@
 0.0.0.0 a.tiscali.co.uk
 0.0.0.0 a.tiyuxiu.com
 0.0.0.0 a.tovarro.com
-0.0.0.0 a.trk-imps.com
 0.0.0.0 a.tuizhuti.com
 0.0.0.0 a.tvsou.com
 0.0.0.0 a.tyncar.com
@@ -391,6 +391,7 @@
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com.edgekey.net
+0.0.0.0 ab.blogs.es
 0.0.0.0 ab.cnbanbao.com
 0.0.0.0 ab.rejushe.com
 0.0.0.0 ab159015.adbutler-zilon.com
@@ -431,6 +432,7 @@
 0.0.0.0 ac.batmobi.net
 0.0.0.0 ac.ecai-report.com
 0.0.0.0 ac.miovp.com
+0.0.0.0 ac.prism-world.jp.net
 0.0.0.0 ac.rnm.ca
 0.0.0.0 ac1.pingpingw.com
 0.0.0.0 acbp0020171456.page.tl
@@ -2622,6 +2624,7 @@
 0.0.0.0 analytics.nhattao.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nova.foxsports.com
+0.0.0.0 analytics.octaglobal.com
 0.0.0.0 analytics.omniscientai.com
 0.0.0.0 analytics.onlyonlinemarketing.com
 0.0.0.0 analytics.ooyala.com
@@ -2984,7 +2987,6 @@
 0.0.0.0 api.us-east-1.aiv-delivery.net
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.userleap.com
-0.0.0.0 api.viafoura.co
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 api.vigo.ru
 0.0.0.0 api.voiceads.cn
@@ -4186,7 +4188,6 @@
 0.0.0.0 cdn.usebutton.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.userreport.com
-0.0.0.0 cdn.viafoura.net
 0.0.0.0 cdn.viewdeos.com
 0.0.0.0 cdn.vlyby.com
 0.0.0.0 cdn.wadawada-stop-report-us.com
@@ -5342,6 +5343,7 @@
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3ax6xygyb5hn9.cloudfront.net
 0.0.0.0 d3b2hhehkqd158.cloudfront.net
+0.0.0.0 d3bbyfw7v2aifi.cloudfront.net
 0.0.0.0 d3beefy8kd1pr7.cloudfront.net
 0.0.0.0 d3bj8nkfly20uo.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
@@ -5400,6 +5402,7 @@
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
 0.0.0.0 d3ou4areduq72f.cloudfront.net
+0.0.0.0 d3oy68whu51rnt.cloudfront.net
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3p8w7to4066sy.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
@@ -5628,6 +5631,7 @@
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 delivery.wasu.cn
 0.0.0.0 delivery.yourfuckbook.com
+0.0.0.0 delog.afreecatv.com
 0.0.0.0 delta.mediafort.ru
 0.0.0.0 delta.rspcdn.com
 0.0.0.0 demandmedia.s3.amazonaws.com
@@ -5867,6 +5871,7 @@
 0.0.0.0 download2.marketengines.com
 0.0.0.0 dp.aws.charter.com
 0.0.0.0 dp1fzft1fdb84.cloudfront.net
+0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 dpd9yiocsyy6p.cloudfront.net
 0.0.0.0 dpjtch.vestabalin.com
 0.0.0.0 dps-reach.com
@@ -7583,6 +7588,7 @@
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jb.dianshu119.com
 0.0.0.0 jb.ecar168.cn
+0.0.0.0 jbdmb1.ynztzh.com
 0.0.0.0 jc1.dayfund.cn
 0.0.0.0 jc1.dayfund.com.cn
 0.0.0.0 jcmagnet.com.cn
@@ -8396,7 +8402,6 @@
 0.0.0.0 mb.gulongbbs.com
 0.0.0.0 mb.zam.com
 0.0.0.0 mbid.marfeelrev.com
-0.0.0.0 mbjb1.girl13.com
 0.0.0.0 mbn.com.ua
 0.0.0.0 mbox.offermatica.intuit.com
 0.0.0.0 mbs.megaroticlive.com
@@ -8784,6 +8789,7 @@
 0.0.0.0 mlog.hiido.com
 0.0.0.0 mlre.com.cn
 0.0.0.0 mlweb.dmlab.hu
+0.0.0.0 mm-api.agency
 0.0.0.0 mm-cgnews.com
 0.0.0.0 mm-syringe.com
 0.0.0.0 mm.actionlink.jp
@@ -9754,6 +9760,7 @@
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.ampry.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.bridge.dooca.store
@@ -10262,7 +10269,6 @@
 0.0.0.0 realssp.co.kr
 0.0.0.0 realtime-bid.com
 0.0.0.0 realtime.clinch.co
-0.0.0.0 realtimeeventfeeds.viafoura.co
 0.0.0.0 realtouchbannerwidget.aebn.net
 0.0.0.0 rec2000.at.ua
 0.0.0.0 rec5.visualwebsiteoptimizer.com
@@ -10598,6 +10604,7 @@
 0.0.0.0 s2.youtube.com
 0.0.0.0 s212.ucoz.net
 0.0.0.0 s24-analytics.com
+0.0.0.0 s2pro-ncode.com
 0.0.0.0 s2r.tut.by
 0.0.0.0 s2s.rafotech.com
 0.0.0.0 s3-analytics-events.easybrain.com
@@ -10703,6 +10710,7 @@
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 scrollingads.hustlermegapass.com
 0.0.0.0 scs.webtrends.com
+0.0.0.0 sd-tagging.azurefd.net
 0.0.0.0 sd.sharethis.com
 0.0.0.0 sda.seesaa.jp
 0.0.0.0 sda.tamdiem247.com
@@ -10786,6 +10794,7 @@
 0.0.0.0 sdofp9c.cddrhx.cn
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdscdn.userreport.com
+0.0.0.0 sdtagging.azureedge.net
 0.0.0.0 sdv-m.ru
 0.0.0.0 sea-nov-1.com
 0.0.0.0 seal.digicert.com
@@ -11558,6 +11567,7 @@
 0.0.0.0 stats.123c.vn
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.addtoany.com
+0.0.0.0 stats.administrarweb.es
 0.0.0.0 stats.adultswim.com
 0.0.0.0 stats.aplus.com
 0.0.0.0 stats.articlesbase.com
@@ -11830,7 +11840,6 @@
 0.0.0.0 stylesheet-js.ru
 0.0.0.0 su.addthis.com
 0.0.0.0 sub.powerapple.com
-0.0.0.0 sub.viafoura.co
 0.0.0.0 sub.xxx-porn-tube.com
 0.0.0.0 subdo.torrentrapid.com
 0.0.0.0 subdo.tumejortorrent.com
@@ -11982,7 +11991,6 @@
 0.0.0.0 t.spot.im
 0.0.0.0 t.trsbf.com
 0.0.0.0 t.uc.cn
-0.0.0.0 t.unbounce.com
 0.0.0.0 t.vacations.disneydestinations.com
 0.0.0.0 t.vimeo.com
 0.0.0.0 t.visit.disneydestinations.com
@@ -12268,6 +12276,7 @@
 0.0.0.0 tkportal.aotter.net
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
+0.0.0.0 tkx.mp.lura.live
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tlgr-me.org
 0.0.0.0 tls.dxsvr.com
@@ -12287,6 +12296,7 @@
 0.0.0.0 tms.oracle.com
 0.0.0.0 tmserver-1.com
 0.0.0.0 tmz.vo.llnwd.net
+0.0.0.0 tn.flashb.id
 0.0.0.0 tnd.ecefibwja.xyz
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
@@ -12979,10 +12989,12 @@
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triggertag.gorillanation.com
+0.0.0.0 trigs-sockets.com
 0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 tripod.lycos.co.uk
 0.0.0.0 trk-consulatu.com
 0.0.0.0 trk-egestas.com
+0.0.0.0 trk-imps.com
 0.0.0.0 trk-int.addealsnetwork.com
 0.0.0.0 trk-pcweb.api.zaloapp.com
 0.0.0.0 trk.10ru.pt
