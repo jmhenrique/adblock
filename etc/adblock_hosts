@@ -1,5 +1,6 @@
-142.250.219.40 ssl.google-analytics.com
+142.250.218.72 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
+0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
 0.0.0.0 0u.fastdmn0.com
 0.0.0.0 1-cl0ud.com
@@ -225,6 +226,7 @@
 0.0.0.0 a.beliefnet.com
 0.0.0.0 a.bestcontentitem.top
 0.0.0.0 a.bestcontenttool.top
+0.0.0.0 a.bfking.cn
 0.0.0.0 a.binpartner.com
 0.0.0.0 a.bitmango.com
 0.0.0.0 a.cbc.ca
@@ -307,6 +309,7 @@
 0.0.0.0 a.shicigequ.com
 0.0.0.0 a.shop.com
 0.0.0.0 a.streamoupload.com
+0.0.0.0 a.tainengchong.com
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 a.thairesort.ru
 0.0.0.0 a.thn21.com
@@ -498,6 +501,7 @@
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-move.jp
+0.0.0.0 ad-ndtv.3s.com.vn
 0.0.0.0 ad-net.co.uk
 0.0.0.0 ad-nex.com
 0.0.0.0 ad-paradise.com
@@ -2714,6 +2718,7 @@
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.teko.vn
 0.0.0.0 analytics.teleclal.com
+0.0.0.0 analytics.test.cheggnet.com
 0.0.0.0 analytics.theknot.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.thenest.com
@@ -2897,7 +2902,6 @@
 0.0.0.0 api.doumob.com
 0.0.0.0 api.engager.ecbsn.com
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
-0.0.0.0 api.flat-ads.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.gameofwhales.com
@@ -5077,6 +5081,7 @@
 0.0.0.0 d1p3zboe6tz3yy.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1piupybsgr6dr.cloudfront.net
+0.0.0.0 d1pn3cn3ri604k.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1qc76gneygidm.cloudfront.net
 0.0.0.0 d1qggq1at2gusn.cloudfront.net
@@ -5350,6 +5355,7 @@
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cod80thn7qnd.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3cynajatn2qbc.cloudfront.net
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
@@ -5619,7 +5625,6 @@
 0.0.0.0 delivery.first-impression.com
 0.0.0.0 delivery.hornyspots.com
 0.0.0.0 delivery.hunterycity.com
-0.0.0.0 delivery.lavamedia.vn
 0.0.0.0 delivery.playallvideos.com
 0.0.0.0 delivery.satr.jp
 0.0.0.0 delivery.senvangvn.com
@@ -6561,6 +6566,7 @@
 0.0.0.0 flash-counter.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 flashtalking.com.edgekey.net
+0.0.0.0 flat-ads.com
 0.0.0.0 fleshlight-russia.com
 0.0.0.0 flex.msn.com
 0.0.0.0 flights-report.com
@@ -6681,7 +6687,6 @@
 0.0.0.0 g.lznews.cn
 0.0.0.0 g.mnw.cn
 0.0.0.0 g.promosrv.com
-0.0.0.0 g.wait.re
 0.0.0.0 g.yccdn.com
 0.0.0.0 g1.pptair.com
 0.0.0.0 g1.tagtic.cn
@@ -7059,6 +7064,7 @@
 0.0.0.0 head-clickfusion.com
 0.0.0.0 health-club.online
 0.0.0.0 healthykids-food.com
+0.0.0.0 heated-app.us
 0.0.0.0 heatmobi.offerstrack.net
 0.0.0.0 heauty-viesected.com
 0.0.0.0 heavy-flood.com
@@ -9744,6 +9750,7 @@
 0.0.0.0 pix-us.revjet.com
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
+0.0.0.0 pix.hyj.mobi
 0.0.0.0 pix.impdesk.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pix.revjet.com
@@ -10450,6 +10457,7 @@
 0.0.0.0 roi-pro.com
 0.0.0.0 roi-rocket.net
 0.0.0.0 romance-net.com
+0.0.0.0 rontent.pomvideo.cc
 0.0.0.0 rontent.powvibeo.cc
 0.0.0.0 ros-infonews.ru
 0.0.0.0 rose.ixbt.com
@@ -10741,6 +10749,7 @@
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdk-monitoring.ogury.co
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adsongo.com
 0.0.0.0 sdk.adtiming.com
@@ -11614,6 +11623,7 @@
 0.0.0.0 stats.edicy.com
 0.0.0.0 stats.embedcdn.cc
 0.0.0.0 stats.epicurious.com
+0.0.0.0 stats.esecured.net
 0.0.0.0 stats.europe.newsweek.com
 0.0.0.0 stats.examiner.com
 0.0.0.0 stats.eyeviewdigital.com
@@ -12214,6 +12224,7 @@
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke.opencps.vn
+0.0.0.0 thongke.tcdulichtphcm.vn
 0.0.0.0 thongke.vui.vn
 0.0.0.0 thongke99.baogiaothong.vn
 0.0.0.0 thor-media.ru
@@ -12391,6 +12402,7 @@
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.datanyze.com
 0.0.0.0 tr.datatrics.com
+0.0.0.0 tr.discuss.com.hk
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.infopanel.jp
 0.0.0.0 tr.interlake.net
@@ -12426,6 +12438,7 @@
 0.0.0.0 trace.qq.com
 0.0.0.0 trace21.dsb-ebusiness.com
 0.0.0.0 tracelog.www.alibaba.com
+0.0.0.0 tracer.concung.com
 0.0.0.0 tracer.perezhilton.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com
@@ -12566,7 +12579,6 @@
 0.0.0.0 track.spots.im
 0.0.0.0 track.strife.com
 0.0.0.0 track.swaptrap.live
-0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
@@ -13059,6 +13071,7 @@
 0.0.0.0 ttmetrics.jcpenney.com
 0.0.0.0 ttplugins.ttpsdk.info
 0.0.0.0 tttppp.oss-cn-guangzhou.aliyuncs.com
+0.0.0.0 ttus.tructiepbongda.me
 0.0.0.0 tu.7j813.cn
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tu.zx110.org
@@ -13456,6 +13469,7 @@
 0.0.0.0 vw.xxxmshel.org
 0.0.0.0 vzyat-kredit.info
 0.0.0.0 w-m-w.net
+0.0.0.0 w-sunwin.net
 0.0.0.0 w-tres.info
 0.0.0.0 w.anmeihe.cn
 0.0.0.0 w.oix.net
@@ -13497,6 +13511,7 @@
 0.0.0.0 we-stats.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 web-ad.xyz
+0.0.0.0 web-analytic.ghtk.vn
 0.0.0.0 web-bars.com
 0.0.0.0 web-boosting.net
 0.0.0.0 web-centr.com
@@ -13912,6 +13927,7 @@
 0.0.0.0 ylx-3.com
 0.0.0.0 ylx-4.com
 0.0.0.0 ym-a.cc
+0.0.0.0 ymprove.gmx.net
 0.0.0.0 ymprove.web.de
 0.0.0.0 yoc-adserver.com
 0.0.0.0 yoc.younited-credit.com
@@ -13954,6 +13970,7 @@
 0.0.0.0 za.baomoi.com
 0.0.0.0 za.zapps.vn
 0.0.0.0 za.zdn.vn
+0.0.0.0 za.zingnews.vn
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zakladka.org.ua
 0.0.0.0 zalo-ads-240-td.zadn.vn
