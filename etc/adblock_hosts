@@ -1,4 +1,4 @@
-142.250.218.8 ssl.google-analytics.com
+142.250.219.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -633,6 +633,7 @@
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.iinfo.cz
 0.0.0.0 ad.iloveinterracial.com
+0.0.0.0 ad.india.xiaomi.com
 0.0.0.0 ad.infoseek.com
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.iplayer.org
@@ -1165,6 +1166,7 @@
 0.0.0.0 ads.boerding.com
 0.0.0.0 ads.boerse-express.com
 0.0.0.0 ads.bondage.com
+0.0.0.0 ads.botbanhang.vn
 0.0.0.0 ads.boursorama.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
@@ -2611,7 +2613,6 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.molistar.com
-0.0.0.0 analytics.monetiza.co
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.moz.com
@@ -2647,6 +2648,7 @@
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.poolshool.com
+0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.praetor.im
 0.0.0.0 analytics.prezly.com
@@ -4254,6 +4256,9 @@
 0.0.0.0 chartbeat-sdk.s3.amazonaws.com
 0.0.0.0 chartboost-imp.aarki.net
 0.0.0.0 chartiq-client-prod.s3.amazonaws.com
+0.0.0.0 chatbox-static.botbanhang.vn
+0.0.0.0 chatbox-tracking.botbanhang.vn
+0.0.0.0 chatbox-widget.botbanhang.vn
 0.0.0.0 cheap-ads.net
 0.0.0.0 check-my-internetspeed.com
 0.0.0.0 check-now.online
@@ -5221,6 +5226,7 @@
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kz60b0gq4lg.cloudfront.net
 0.0.0.0 d2l3f1n039mza.cloudfront.net
+0.0.0.0 d2lahoz916es9g.cloudfront.net
 0.0.0.0 d2lp70uu6oz7vk.cloudfront.net
 0.0.0.0 d2lv4zbk7v5f93.cloudfront.net
 0.0.0.0 d2lxztepvo7ma1.cloudfront.net
@@ -5354,6 +5360,7 @@
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cod80thn7qnd.cloudfront.net
+0.0.0.0 d3cpib6kv2rja7.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3cynajatn2qbc.cloudfront.net
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
@@ -5817,6 +5824,7 @@
 0.0.0.0 dn.msmstatic.com
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
+0.0.0.0 dnh523js9661q.cloudfront.net
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 0.0.0.0 dnm.scloud.lfengmobile.com
 0.0.0.0 dnn4px252i5wx.cloudfront.net
@@ -7516,6 +7524,7 @@
 0.0.0.0 intermrkts.vo.llnwd.net
 0.0.0.0 internal.fuckyoucash.com
 0.0.0.0 interstitial-07.com
+0.0.0.0 interstitial-08.com
 0.0.0.0 interworksmedia.co.kr
 0.0.0.0 intextlinks.idg.zone
 0.0.0.0 intim-media.net
@@ -7687,6 +7696,7 @@
 0.0.0.0 jun01.oss-cn-beijing.aliyuncs.com
 0.0.0.0 junbi-tracker.com
 0.0.0.0 junior.apk.net
+0.0.0.0 junk-cleaner.org
 0.0.0.0 just-cnc.com
 0.0.0.0 just-one-left.com
 0.0.0.0 justmi4.co.in
@@ -7911,6 +7921,7 @@
 0.0.0.0 links.worldbannerexchange.com
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 lists-tracking.komando.com
+0.0.0.0 lite-1x6603199.top
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 little-help.com
 0.0.0.0 liuhemei.com.cn
@@ -9416,6 +9427,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 oplata-shtraf.info
 0.0.0.0 opt-intelligence.com
+0.0.0.0 opti-digital.com
 0.0.0.0 optimierung-der-website.de
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimizely.appspot.com
@@ -9875,6 +9887,7 @@
 0.0.0.0 polit-e-fox.ru
 0.0.0.0 polit-fox.ru
 0.0.0.0 politiques-infos.info
+0.0.0.0 polyvalent.co.in
 0.0.0.0 pon-prairie.com
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pool.ads.netlog.com
@@ -10379,6 +10392,7 @@
 0.0.0.0 reporting.tutelatechnologies.com
 0.0.0.0 reports-api.sqreen.io
 0.0.0.0 reports.pagesuite-professional.co.uk
+0.0.0.0 reports.sdiapi.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 res.pinpai8.cn
@@ -11087,6 +11101,7 @@
 0.0.0.0 smetrics1.experian.com
 0.0.0.0 smp.tus.ac.jp
 0.0.0.0 smpop.icfcdn.com
+0.0.0.0 smrt-content.com
 0.0.0.0 sms-center.info
 0.0.0.0 sms-sending.net
 0.0.0.0 sms-zone.org
@@ -11640,6 +11655,7 @@
 0.0.0.0 stats.gioneemobile.net
 0.0.0.0 stats.grafana.org
 0.0.0.0 stats.guiamais.com.br
+0.0.0.0 stats.hanmaker.com
 0.0.0.0 stats.harpercollins.com
 0.0.0.0 stats.heyoya.com
 0.0.0.0 stats.highwire.com
@@ -11999,6 +12015,7 @@
 0.0.0.0 t.spot.im
 0.0.0.0 t.trsbf.com
 0.0.0.0 t.uc.cn
+0.0.0.0 t.unbounce.com
 0.0.0.0 t.vacations.disneydestinations.com
 0.0.0.0 t.vimeo.com
 0.0.0.0 t.visit.disneydestinations.com
@@ -12285,7 +12302,6 @@
 0.0.0.0 tkportal.aotter.net
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
-0.0.0.0 tkx.mp.lura.live
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tlgr-me.org
 0.0.0.0 tls.dxsvr.com
@@ -12908,6 +12924,7 @@
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
+0.0.0.0 tracking.vegaid.vn
 0.0.0.0 tracking.venturify.at
 0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vid4u.org
@@ -13493,6 +13510,7 @@
 0.0.0.0 wa.web.de
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 walmart.com.akadns.net
+0.0.0.0 wangkuang.net.cn
 0.0.0.0 wap-click.com
 0.0.0.0 wap001.bytravel.cn
 0.0.0.0 wap1.laogu.wang
@@ -13971,6 +13989,7 @@
 0.0.0.0 za.baomoi.com
 0.0.0.0 za.zapps.vn
 0.0.0.0 za.zdn.vn
+0.0.0.0 za.zingmp3.vn
 0.0.0.0 za.zingnews.vn
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zakladka.org.ua
