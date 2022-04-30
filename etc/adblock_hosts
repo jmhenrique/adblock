@@ -1,4 +1,4 @@
-142.251.132.8 ssl.google-analytics.com
+142.251.132.232 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -144,6 +144,7 @@
 0.0.0.0 468.vologdainfo.ru
 0.0.0.0 4nb437eugn.ru.com
 0.0.0.0 5.gzfenda.com
+0.0.0.0 5.sc126.com
 0.0.0.0 51-tour.net
 0.0.0.0 51check.com.cn
 0.0.0.0 5568.gjghy.com
@@ -487,7 +488,6 @@
 0.0.0.0 ad-exchange.toast.com
 0.0.0.0 ad-fam.com
 0.0.0.0 ad-flow.com
-0.0.0.0 ad-gbn.com
 0.0.0.0 ad-generation.jp
 0.0.0.0 ad-generator.net
 0.0.0.0 ad-groups.com
@@ -573,6 +573,7 @@
 0.0.0.0 ad.bannerhost.ru
 0.0.0.0 ad.batanga.com
 0.0.0.0 ad.batanga.net
+0.0.0.0 ad.bench.utorrent.com
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 ad.bestsportstream.com
 0.0.0.0 ad.bitbay.net
@@ -597,6 +598,7 @@
 0.0.0.0 ad.ddo.jp
 0.0.0.0 ad.depositfiles.com
 0.0.0.0 ad.digitallook.com
+0.0.0.0 ad.dline.com.tr
 0.0.0.0 ad.doganburda.com
 0.0.0.0 ad.domainfactory.de
 0.0.0.0 ad.donanimhaber.com
@@ -1766,7 +1768,6 @@
 0.0.0.0 ads.yeshanews.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.ynot.com
-0.0.0.0 ads.yourfreedvds.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zalo.me
 0.0.0.0 ads.zaloapp.com
@@ -2286,7 +2287,6 @@
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 agentchannel.api.duapp.com
 0.0.0.0 agility.cnn.com
-0.0.0.0 aglai-tan.com
 0.0.0.0 agnes.scloud.lfengmobile.com
 0.0.0.0 agoda.com.edgekey.net
 0.0.0.0 agoda.securedtouch.com
@@ -2361,6 +2361,7 @@
 0.0.0.0 am-display.com
 0.0.0.0 am-investor.ru
 0.0.0.0 am-schedule.ru
+0.0.0.0 am.streamdj.ru
 0.0.0.0 am.szhome.com
 0.0.0.0 am.titsx.com
 0.0.0.0 amare.softwaregarden.com
@@ -2545,6 +2546,7 @@
 0.0.0.0 analytics.femalefirst.co.uk
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.firespring.com
+0.0.0.0 analytics.fontanka.ru
 0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.fosrv.com
 0.0.0.0 analytics.freespee.com
@@ -4884,6 +4886,7 @@
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-oz66pp.ru
+0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csp.archant.co.uk
 0.0.0.0 cspb1.5w5w.com
 0.0.0.0 csr.onet.pl
@@ -4977,6 +4980,7 @@
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11hjbdxxtogg5.cloudfront.net
 0.0.0.0 d11tybz5ul8vel.cloudfront.net
+0.0.0.0 d12czbu0tltgqq.cloudfront.net
 0.0.0.0 d12ysuoljjyfqa.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13jhr4vol1304.cloudfront.net
@@ -5015,6 +5019,7 @@
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1af165twk0zgn.cloudfront.net
 0.0.0.0 d1aqvw7cn4ydzo.cloudfront.net
+0.0.0.0 d1aznprfp4xena.cloudfront.net
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1b240xv9h0q8y.cloudfront.net
 0.0.0.0 d1betjlqogdr97.cloudfront.net
@@ -5189,6 +5194,7 @@
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dc2sk4vkh2xn.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
+0.0.0.0 d2dyjetg3tc2wn.cloudfront.net
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
 0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
@@ -6315,6 +6321,7 @@
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.afreecatv.com
 0.0.0.0 eventapi.libring.com
+0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog.inspsearch.com
@@ -7552,6 +7559,7 @@
 0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 ipinyou.com.cn
 0.0.0.0 ipml-qvr8go.ru
+0.0.0.0 ipp.littlecdn.com
 0.0.0.0 iq.sixaxisllc.com
 0.0.0.0 iqu-operation.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
@@ -7666,6 +7674,7 @@
 0.0.0.0 js.rush-member.com
 0.0.0.0 js.rutor.net.pl
 0.0.0.0 js.shangxueba.com
+0.0.0.0 js.spreton.com
 0.0.0.0 js.stroeermediabrands.de
 0.0.0.0 js.textshift.net
 0.0.0.0 js.ubaike.cn
@@ -7741,6 +7750,7 @@
 0.0.0.0 kinogo.r.worldssl.net
 0.0.0.0 kitchen.juicer.cc
 0.0.0.0 kiupoo.stroeerdp.de
+0.0.0.0 kive-intro.web.app
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 kjdw.com.cn
 0.0.0.0 kjos.vo.llnwd.net
@@ -7883,6 +7893,7 @@
 0.0.0.0 lianmen1.joyyang.com
 0.0.0.0 libertymutual.com.edgekey.net
 0.0.0.0 librato-collector.genius.com
+0.0.0.0 libs.aseads.com
 0.0.0.0 libs.tvmao.cn
 0.0.0.0 license-updater.com
 0.0.0.0 lico-ys.com
@@ -8870,6 +8881,7 @@
 0.0.0.0 mobile.confsettings.com
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.measurelib.com
+0.0.0.0 mobile.slgnt.eu
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 mobileads.indiatimes.com
 0.0.0.0 mobileads.msn.com
@@ -9050,6 +9062,7 @@
 0.0.0.0 n.vn-chk777.com
 0.0.0.0 n2s.co.kr
 0.0.0.0 n339.asp-cc.com
+0.0.0.0 n730.timesunion.com
 0.0.0.0 nabeghlavi.com.cn
 0.0.0.0 naj22.proasdf.com
 0.0.0.0 nanofantiki.edigest.ru
@@ -9304,6 +9317,7 @@
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.headlines.pw
 0.0.0.0 office.ad1.ru
+0.0.0.0 og-affiliate.com
 0.0.0.0 ogbwqq.gkwtk.xyz
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogle-0740lb.com
@@ -10037,7 +10051,6 @@
 0.0.0.0 prosper.on-line-casino.ca
 0.0.0.0 prostoimya.kino-o-voine.ru
 0.0.0.0 protect-x.com
-0.0.0.0 protection-booster.club
 0.0.0.0 protection-phone.club
 0.0.0.0 proton-tm.com
 0.0.0.0 providence.voxmedia.com
@@ -11134,7 +11147,6 @@
 0.0.0.0 social-rights.com
 0.0.0.0 social-sb.com
 0.0.0.0 socialbars-web1.com
-0.0.0.0 socialbars-web4.com
 0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 sockjs-goguardian.pusher.com
@@ -12226,7 +12238,6 @@
 0.0.0.0 tgw-masdk.3g.qq.com
 0.0.0.0 tgw-sasdk.3g.qq.com
 0.0.0.0 th-make.com
-0.0.0.0 thansendmaterial-14.live
 0.0.0.0 the-best-track.com
 0.0.0.0 the-only-way-out.com
 0.0.0.0 the-ozone-project.com
@@ -12594,6 +12605,7 @@
 0.0.0.0 track.spacepush.ru
 0.0.0.0 track.span-smt.jp
 0.0.0.0 track.spots.im
+0.0.0.0 track.storm.mg
 0.0.0.0 track.strife.com
 0.0.0.0 track.swaptrap.live
 0.0.0.0 track.td3x.com
@@ -12612,6 +12624,7 @@
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.unear.net
+0.0.0.0 track.unidata.ai
 0.0.0.0 track.veedio.it
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 track.viewdeos.com
@@ -13697,7 +13710,6 @@
 0.0.0.0 wkctj.baidu.com
 0.0.0.0 wl.yna.co.kr
 0.0.0.0 wlog.tmon.co.kr
-0.0.0.0 wm-abms.com
 0.0.0.0 wm-mxc.com
 0.0.0.0 wm-panel.com
 0.0.0.0 wm.mipcdn.com
@@ -14020,6 +14032,7 @@
 0.0.0.0 ziig.com.cn
 0.0.0.0 zim-zim-zam.com
 0.0.0.0 zion-telemetry.api.cnn.io
+0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 zisu.cn.com
 0.0.0.0 zjliloveyou.ixiunv.com
 0.0.0.0 zk.91post.com
