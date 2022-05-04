@@ -1,4 +1,4 @@
-142.250.218.200 ssl.google-analytics.com
+142.250.79.200 ssl.google-analytics.com
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -982,6 +982,7 @@
 0.0.0.0 admitad-connect.com
 0.0.0.0 admixer.co.kr
 0.0.0.0 admost-banner.b-cdn.net
+0.0.0.0 adms.phunusuckhoe.vn
 0.0.0.0 adms.physorg.com
 0.0.0.0 admsapi.businessweekly.com.tw
 0.0.0.0 adn.bursadabugun.com
@@ -2164,6 +2165,8 @@
 0.0.0.0 adx.gayboy.at
 0.0.0.0 adx.golfnews.vn
 0.0.0.0 adx.hendersonvillenews.com
+0.0.0.0 adx.hoanggia.net
+0.0.0.0 adx.hoanggia.net.vn
 0.0.0.0 adx.hongtinnhanh.com
 0.0.0.0 adx.ibibo.com
 0.0.0.0 adx.kul.vn
@@ -2376,6 +2379,7 @@
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp.rd.linksynergy.com
 0.0.0.0 amplify-com-mktg.imgix.net
+0.0.0.0 ampltd.top.gg
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 amradmin.5173.com
@@ -2551,6 +2555,7 @@
 0.0.0.0 analytics.fosrv.com
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.fs-bdash.com
+0.0.0.0 analytics.fsoft.com.vn
 0.0.0.0 analytics.fuckingawesome.com
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.getshogun.com
@@ -4758,6 +4763,7 @@
 0.0.0.0 counter.nope.dk
 0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.ntdvn.com
+0.0.0.0 counter.ntdvn.net
 0.0.0.0 counter.nv.ua
 0.0.0.0 counter.ok.ee
 0.0.0.0 counter.opinion.com.ua
@@ -5022,6 +5028,7 @@
 0.0.0.0 d1aznprfp4xena.cloudfront.net
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1b240xv9h0q8y.cloudfront.net
+0.0.0.0 d1b499kr4qnas6.cloudfront.net
 0.0.0.0 d1betjlqogdr97.cloudfront.net
 0.0.0.0 d1bevsqehy4npt.cloudfront.net
 0.0.0.0 d1bi6hxlc51jjw.cloudfront.net
@@ -5069,6 +5076,7 @@
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
+0.0.0.0 d1lzoljld5a2bc.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
 0.0.0.0 d1mbihpm2gncx7.cloudfront.net
@@ -6162,6 +6170,7 @@
 0.0.0.0 email-plans.com
 0.0.0.0 email-reflex.com
 0.0.0.0 email.m1.bktrksmail.com
+0.0.0.0 emaillinks.soundiiz.com
 0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 embed.contentverticals.de
 0.0.0.0 embed.sendtonews.com
@@ -6343,6 +6352,7 @@
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.bouncex.net
 0.0.0.0 events.brightline.tv
+0.0.0.0 events.btw.so
 0.0.0.0 events.busuu.com
 0.0.0.0 events.cardsmobile.ru
 0.0.0.0 events.chaordicsystems.com
@@ -6915,6 +6925,7 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 go-rank.de
 0.0.0.0 go-rillatrack.com
+0.0.0.0 go-top.xyz
 0.0.0.0 go-trip.online
 0.0.0.0 go.ad2upapp.com
 0.0.0.0 go.bestmobiworld.com
@@ -7004,6 +7015,7 @@
 0.0.0.0 gtcslt-di2.com
 0.0.0.0 gtm.beiersdorf.com
 0.0.0.0 gtm.udemy.com
+0.0.0.0 gtm.vanmoof.com
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gtsdk.batmobi.net
@@ -7528,6 +7540,7 @@
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 interactive.tinnhanhchungkhoan.vn
 0.0.0.0 interaktiv-net.de
+0.0.0.0 intercom-clicks.com
 0.0.0.0 intermrkts.vo.llnwd.net
 0.0.0.0 internal.fuckyoucash.com
 0.0.0.0 interstitial-07.com
@@ -7553,6 +7566,7 @@
 0.0.0.0 ip-geo.appspot.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip.goguardian.com
+0.0.0.0 ip.prvtx.net
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ipada.cafe.naver.com
 0.0.0.0 ipapi.tmbi.com
@@ -7781,6 +7795,7 @@
 0.0.0.0 krum.vsct.fr
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kuhni.kuhnisiblings.ru
+0.0.0.0 kukanlm-lubu1.com
 0.0.0.0 kukanlm-youeryuan.com
 0.0.0.0 kunner.wiesentbote.de
 0.0.0.0 kv-analytics.kiotviet.vn
@@ -7816,6 +7831,9 @@
 0.0.0.0 la-la-moon.com
 0.0.0.0 la-la-sf.com
 0.0.0.0 la.vietid.net
+0.0.0.0 la.vnecdn.net
+0.0.0.0 la2.vnecdn.net
+0.0.0.0 la3.vnecdn.net
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 lamma.24ex.net
 0.0.0.0 lamp-shade.net
@@ -7932,6 +7950,7 @@
 0.0.0.0 links.worldbannerexchange.com
 0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 lists-tracking.komando.com
+0.0.0.0 lite-1x0801165.top
 0.0.0.0 lite-1x6603199.top
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 little-help.com
@@ -8015,6 +8034,7 @@
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.beecost.com
 0.0.0.0 log.beecost.vn
+0.0.0.0 log.bizlive.vn
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.ca.gov.vn
@@ -8125,6 +8145,7 @@
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.viettimes.vn
 0.0.0.0 log.vnay.vn
+0.0.0.0 log.vneconomy.vn
 0.0.0.0 log.vnfinance.vn
 0.0.0.0 log.vov.vn
 0.0.0.0 log.vovplus.vn
@@ -8198,6 +8219,7 @@
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
+0.0.0.0 logs.docnhanh.com.vn
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gaana.com
@@ -8585,6 +8607,7 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.api.yle.fi
 0.0.0.0 metrics.ariba.com
+0.0.0.0 metrics.articulate.com
 0.0.0.0 metrics.autobytel.com
 0.0.0.0 metrics.automobilemag.com
 0.0.0.0 metrics.autotrader.co.uk
@@ -8963,6 +8986,7 @@
 0.0.0.0 mpb1.iteye.com
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 mplaylist-ads.zadn.vn
+0.0.0.0 mplaylist-ads.zascdn.me
 0.0.0.0 mps-gba.de
 0.0.0.0 mps.wenkuzu.com
 0.0.0.0 mq.d6s3mov.cn
@@ -9662,6 +9686,7 @@
 0.0.0.0 pc-agency24.de
 0.0.0.0 pc-on-internet.com
 0.0.0.0 pc-views.net
+0.0.0.0 pc3.vanmoof.com
 0.0.0.0 pcapp-data-collect.youku.com
 0.0.0.0 pcash.globalmailer5.com
 0.0.0.0 pcash.imlive.com
@@ -10179,6 +10204,7 @@
 0.0.0.0 ql.uzuzuz.com
 0.0.0.0 qn-5.com
 0.0.0.0 qnajplxtvz-a.akamaihd.net
+0.0.0.0 qontent.pomvideo.cc
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qp-nett.cn
 0.0.0.0 qpb.sohu.com
@@ -11167,6 +11193,7 @@
 0.0.0.0 sor-sdk.follow-apps.com
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 sourcepoint.vice.com
+0.0.0.0 sp-wukong-tracker.b-cdn.net
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sp.aviasales.com
@@ -11457,6 +11484,7 @@
 0.0.0.0 stat.myshows.me
 0.0.0.0 stat.nate.com
 0.0.0.0 stat.novostimira.com
+0.0.0.0 stat.onemob.mobi
 0.0.0.0 stat.pchome.net
 0.0.0.0 stat.php-d.com
 0.0.0.0 stat.prsmedia.fr
@@ -11838,6 +11866,7 @@
 0.0.0.0 statystyki.panelek.com
 0.0.0.0 stbt.coupons.com
 0.0.0.0 stc-nas.nixcdn.com
+0.0.0.0 stc-support-app-brand.zdn.vn
 0.0.0.0 stc.nas.nixcdn.com
 0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 std.o.webmd.com
@@ -12485,6 +12514,7 @@
 0.0.0.0 track.acclaimnetwork.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.addict-mobile.net
+0.0.0.0 track.adshay.vn
 0.0.0.0 track.adspire.io
 0.0.0.0 track.afcpatrk.com
 0.0.0.0 track.anchorfree.com
@@ -12681,6 +12711,7 @@
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
+0.0.0.0 tracker.edupia.vn
 0.0.0.0 tracker.esputnik.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.fado.vn
@@ -12709,6 +12740,7 @@
 0.0.0.0 tracker.neon-images.com
 0.0.0.0 tracker.nhandaovadoisong.vn
 0.0.0.0 tracker.personizely.net
+0.0.0.0 tracker.phunusuckhoe.vn
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.pinnaclesports.com
 0.0.0.0 tracker.prom.ua
@@ -12751,6 +12783,7 @@
 0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking-service.glority.com
+0.0.0.0 tracking-web.smobgame.com
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.1betternetwork.com
@@ -12826,6 +12859,7 @@
 0.0.0.0 tracking.graphly.io
 0.0.0.0 tracking.gvm.com.tw
 0.0.0.0 tracking.hannoversche.de
+0.0.0.0 tracking.hapiwork.vn
 0.0.0.0 tracking.hi-pi.com
 0.0.0.0 tracking.hivecloud.net
 0.0.0.0 tracking.hongtinnhanh.com
