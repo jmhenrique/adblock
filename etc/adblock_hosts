@@ -1,4 +1,5 @@
-172.217.173.72 ssl.google-analytics.com
+142.250.218.168 ssl.google-analytics.com
+0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -801,7 +802,6 @@
 0.0.0.0 ad2.xrea.com
 0.0.0.0 ad2.yam.com
 0.0.0.0 ad2017.meo4.info
-0.0.0.0 ad3.cross-a.net
 0.0.0.0 ad3.depositfiles.com
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.pamedia.com.au
@@ -1701,6 +1701,7 @@
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.unison.bg
 0.0.0.0 ads.univision.com
+0.0.0.0 ads.usa-media.net
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
@@ -4495,6 +4496,7 @@
 0.0.0.0 co.vaicore.site
 0.0.0.0 cobrand.ria.com
 0.0.0.0 cobrowsing-ha.iadvize.com
+0.0.0.0 cockpit.symplr.de
 0.0.0.0 cod.bitrec.com
 0.0.0.0 cod.southmoney.com
 0.0.0.0 code-garena-vn.com
@@ -4877,6 +4879,7 @@
 0.0.0.0 crm.zenguard.biz
 0.0.0.0 crmbizfly.todo.vn
 0.0.0.0 cro.fi-tsunagu.com
+0.0.0.0 cross-a.net
 0.0.0.0 crosspromo.hutchgames.io
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crosspromotion-us.avosapps.us
@@ -4932,7 +4935,9 @@
 0.0.0.0 ctr-opc.nmg.de
 0.0.0.0 ctr.nmg.de
 0.0.0.0 cts.businesswire.com
+0.0.0.0 cts.tradepub.com
 0.0.0.0 cts.vresp.com
+0.0.0.0 cul.xunjiu.online
 0.0.0.0 curated.fieldtest.cc
 0.0.0.0 curiosity-seven.vercel.app
 0.0.0.0 cursor.kvada.globescale.com
@@ -5264,6 +5269,7 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2nz8k4xyoudsx.cloudfront.net
 0.0.0.0 d2nzjxafm0iowq.cloudfront.net
+0.0.0.0 d2o03z2xnyxlz5.cloudfront.net
 0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
@@ -7804,6 +7810,7 @@
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 kuhni.kuhnisiblings.ru
 0.0.0.0 kukanlm-lubu1.com
+0.0.0.0 kukanlm-my1.com
 0.0.0.0 kukanlm-youeryuan.com
 0.0.0.0 kunner.wiesentbote.de
 0.0.0.0 kv-analytics.kiotviet.vn
@@ -8304,7 +8311,6 @@
 0.0.0.0 lynn.zgsemi.cn
 0.0.0.0 lyz.radio366.com
 0.0.0.0 lz-legal-aid.cn
-0.0.0.0 m-aeti-bocieva.info
 0.0.0.0 m-brain.fi
 0.0.0.0 m-growninppcode.com
 0.0.0.0 m-live.jp
@@ -9039,7 +9045,6 @@
 0.0.0.0 mva1.maeva.com
 0.0.0.0 mvo.g45td.xyz
 0.0.0.0 mwx.ext.mobilityware.com
-0.0.0.0 mx.loubiqu.com
 0.0.0.0 mx03.phorm.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -9799,6 +9804,7 @@
 0.0.0.0 piwik.pokerlistings.com
 0.0.0.0 piwik.wsws.org
 0.0.0.0 pix-us.revjet.com
+0.0.0.0 pix.boursorama.com
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.hyj.mobi
@@ -9943,7 +9949,6 @@
 0.0.0.0 popup-traffic.com
 0.0.0.0 popup.msn.com
 0.0.0.0 popup.sapoapps.vn
-0.0.0.0 pornoizle-hd.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 port-connection.com
 0.0.0.0 pos.baidu.com
@@ -10612,6 +10617,7 @@
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.beop.io
 0.0.0.0 s.click.aliexpress.com
+0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktex.ru
 0.0.0.0 s.cntqk.com
 0.0.0.0 s.cntqk.vn
@@ -12002,6 +12008,7 @@
 0.0.0.0 t.cinemablend.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.cnscore.com
+0.0.0.0 t.cotsta.ru
 0.0.0.0 t.custora.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dgm-au.com
@@ -12712,7 +12719,6 @@
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
 0.0.0.0 tracker.edupia.vn
-0.0.0.0 tracker.esputnik.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.fado.vn
 0.0.0.0 tracker.financialcontent.com
@@ -12755,6 +12761,7 @@
 0.0.0.0 tracker.secretescapes.com
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.softcube.com
+0.0.0.0 tracker.ssl0d.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.thichxemphim.net
 0.0.0.0 tracker.thinkermail.com
@@ -13285,7 +13292,6 @@
 0.0.0.0 us04logfiles-va.zoom.us
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1-sdk.bluedot.io
-0.0.0.0 usa-media.net
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
 0.0.0.0 usageanalytics.coveo.com
@@ -13550,6 +13556,7 @@
 0.0.0.0 wa.eonline.com
 0.0.0.0 wa.essent.nl
 0.0.0.0 wa.kuwo.cn
+0.0.0.0 wa.mail.com
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wa.web.de
 0.0.0.0 wall.adgaterewards.com
