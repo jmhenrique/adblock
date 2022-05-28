@@ -1,4 +1,4 @@
-142.251.128.40 ssl.google-analytics.com
+142.250.218.72 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -2559,6 +2559,7 @@
 0.0.0.0 analytics.gismart.xyz
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.go.com
+0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gorillanation.com
 0.0.0.0 analytics.greensender.pl
@@ -2782,6 +2783,7 @@
 0.0.0.0 analytics.xyscdn.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yext-static.com
+0.0.0.0 analytics.ynap.biz
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.zapps.vn
@@ -4472,6 +4474,7 @@
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.rambler.ru
 0.0.0.0 cnt.ramlife.ru
+0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt.sup.com
 0.0.0.0 cnt.trvdp.com
 0.0.0.0 cnt.vivatube.com
@@ -4513,6 +4516,7 @@
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect-test.arabam.com
+0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.adsorb.com
 0.0.0.0 collect.albacross.com
 0.0.0.0 collect.babybus.com
@@ -5492,6 +5496,7 @@
 0.0.0.0 d6ummfe8aubt5.cloudfront.net
 0.0.0.0 d6wzv57amlrv3.cloudfront.net
 0.0.0.0 d7016uqa4s0lw.cloudfront.net
+0.0.0.0 d761erxl2qywg.cloudfront.net
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
@@ -5570,6 +5575,7 @@
 0.0.0.0 data.hicloud.com
 0.0.0.0 data.iappmobi.com
 0.0.0.0 data.imakenews.com
+0.0.0.0 data.mimikama.at
 0.0.0.0 data.minute.ly
 0.0.0.0 data.mob.com
 0.0.0.0 data.nal.usda.gov
@@ -6173,6 +6179,7 @@
 0.0.0.0 ela-3-tnk.com
 0.0.0.0 elb.eu-west-1.amazonaws.com
 0.0.0.0 elb.us-west-1.amazonaws.com
+0.0.0.0 ele26126.jscrambler.com
 0.0.0.0 elephant.fotostrana.ru
 0.0.0.0 elink.nhanlucnganhluat.vn
 0.0.0.0 elite-s001.com
@@ -6204,6 +6211,7 @@
 0.0.0.0 emonitoring-paczki.pl
 0.0.0.0 ems.youku.com
 0.0.0.0 emu.ilovemp3.top
+0.0.0.0 en-continue.site
 0.0.0.0 ena-native-ads4.com
 0.0.0.0 ena-native-ads9.com
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
@@ -7122,6 +7130,7 @@
 0.0.0.0 healthykids-food.com
 0.0.0.0 heap.drop.com
 0.0.0.0 heated-app.us
+0.0.0.0 heatmap.emma.tools
 0.0.0.0 heatmobi.offerstrack.net
 0.0.0.0 heauty-viesected.com
 0.0.0.0 heavy-flood.com
@@ -7282,6 +7291,7 @@
 0.0.0.0 i-cmg-amlg-prod.appspot.com
 0.0.0.0 i-gp1pqs6f1.cn
 0.0.0.0 i-i.lt
+0.0.0.0 i-main.site
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-reklama.sk
 0.0.0.0 i-sol-geo.ru
@@ -7695,6 +7705,7 @@
 0.0.0.0 js.duotegame.com
 0.0.0.0 js.gdsln.ru
 0.0.0.0 js.gleam.io
+0.0.0.0 js.go2sdk.com
 0.0.0.0 js.hkslg520.com
 0.0.0.0 js.hubspot.com
 0.0.0.0 js.isboost.co.jp
@@ -10434,6 +10445,7 @@
 0.0.0.0 repdata.usatoday.com
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-uri.io
+0.0.0.0 report.mediahub.vn
 0.0.0.0 report.meituan.com
 0.0.0.0 report.mitsubishicars.com
 0.0.0.0 report.personali.com
@@ -10442,6 +10454,7 @@
 0.0.0.0 report.seznamzpravy.cz
 0.0.0.0 report.smartcount.net
 0.0.0.0 report.vnay.vn
+0.0.0.0 report2.mediahub.vn
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.handll.net
@@ -10625,6 +10638,7 @@
 0.0.0.0 s-manager.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s-p-o-n-s-o-r.com
+0.0.0.0 s.0cf.io
 0.0.0.0 s.95105012.com
 0.0.0.0 s.admathhd.com
 0.0.0.0 s.adx.opera.com
@@ -10746,6 +10760,7 @@
 0.0.0.0 savoy.storage.cubecdn.net
 0.0.0.0 sax.sina.cn
 0.0.0.0 sax.sina.com.cn
+0.0.0.0 sayac.tmgrup.com.tr
 0.0.0.0 sayutracking.co.uk
 0.0.0.0 sb-money.ru
 0.0.0.0 sba.about.co.kr
@@ -12051,6 +12066,7 @@
 0.0.0.0 t.lidyana.com
 0.0.0.0 t.ltmse.com
 0.0.0.0 t.mdn2015x2.com
+0.0.0.0 t.melhorplano.net
 0.0.0.0 t.menepe.com
 0.0.0.0 t.mtagmonetizationb.com
 0.0.0.0 t.my.jobs
@@ -13516,6 +13532,7 @@
 0.0.0.0 vitrine.sup.com
 0.0.0.0 viva-droid.com
 0.0.0.0 viva.api.xiaoying.co
+0.0.0.0 vk-ads.ru
 0.0.0.0 vkan-profile.com
 0.0.0.0 vlogs.deja.media
 0.0.0.0 vm.timeinabottle.pw
@@ -13618,6 +13635,7 @@
 0.0.0.0 web-counter.net
 0.0.0.0 web-developper.net
 0.0.0.0 web-domain.net
+0.0.0.0 web-guardian.xyz
 0.0.0.0 web-hoster.co
 0.0.0.0 web-loading.com
 0.0.0.0 web-loading.net
@@ -13927,6 +13945,7 @@
 0.0.0.0 xn--2hvw21e.online
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2qux23confgml.club
+0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--mtso8sj6menhyil.online
 0.0.0.0 xn--nissn-3jc.com
 0.0.0.0 xn--noki-t5b.com
@@ -14033,6 +14052,7 @@
 0.0.0.0 your-notice.com
 0.0.0.0 ypa.focusoftime.com
 0.0.0.0 ypu.samsungelectronics.com
+0.0.0.0 yrqr-ping.com
 0.0.0.0 ys.muhoujiemi.com
 0.0.0.0 ys2000.cdn.bcebos.com
 0.0.0.0 ysdk.qq.com
