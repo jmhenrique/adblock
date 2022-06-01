@@ -1,4 +1,4 @@
-142.250.219.200 ssl.google-analytics.com
+142.250.219.232 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -233,6 +233,7 @@
 0.0.0.0 a.bfking.cn
 0.0.0.0 a.binpartner.com
 0.0.0.0 a.bitmango.com
+0.0.0.0 a.bxwblog.cn
 0.0.0.0 a.cbc.ca
 0.0.0.0 a.cookpad-ads.com
 0.0.0.0 a.custompc.co.uk
@@ -401,6 +402,7 @@
 0.0.0.0 ab.blogs.es
 0.0.0.0 ab.cnbanbao.com
 0.0.0.0 ab.rejushe.com
+0.0.0.0 ab.tweakers.nl
 0.0.0.0 ab159015.adbutler-zilon.com
 0.0.0.0 ab163949.adbutler-kaon.com
 0.0.0.0 abbott.vo.llnwd.net
@@ -1090,6 +1092,7 @@
 0.0.0.0 ads.adecosystems.net
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.adiply.com
+0.0.0.0 ads.admatrix.vn
 0.0.0.0 ads.administrator.de
 0.0.0.0 ads.admoda.com
 0.0.0.0 ads.adnet.am
@@ -2200,6 +2203,7 @@
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aff-track.net
+0.0.0.0 aff.atp.vn
 0.0.0.0 aff.bstatic.com
 0.0.0.0 aff.camplace.com
 0.0.0.0 aff.indirdik.com
@@ -2354,6 +2358,7 @@
 0.0.0.0 alpha.tracedock.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 als.baidu.com
+0.0.0.0 alt-ad.mail.ru
 0.0.0.0 alternativos.iw-advertising.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 am-display.com
@@ -2835,6 +2840,7 @@
 0.0.0.0 ap-northeast-1.elb.amazonaws.com
 0.0.0.0 ap-northeast-2.elb.amazonaws.com
 0.0.0.0 ap-southeast-1.elb.amazonaws.com
+0.0.0.0 ap-southeast-1.log.aliyuncs.com
 0.0.0.0 ap-srv.net
 0.0.0.0 ap.ad-feed.com
 0.0.0.0 ap.delfi.ee
@@ -4013,6 +4019,7 @@
 0.0.0.0 camel.headfarming.com
 0.0.0.0 campaign.adobe.com
 0.0.0.0 campaign.bharatmatrimony.com
+0.0.0.0 campaign.gitiho.com
 0.0.0.0 campaign.nmobs.com
 0.0.0.0 campaigns-collector.albacross.com
 0.0.0.0 campaigns.apps-connects.com
@@ -4589,6 +4596,7 @@
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector2c.zhihuishu.com
 0.0.0.0 columbus-parking.com
+0.0.0.0 com-csn.com
 0.0.0.0 com-reports.net
 0.0.0.0 com-wkejf32ljd23409system.net
 0.0.0.0 com.econa.com
@@ -5104,6 +5112,7 @@
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
 0.0.0.0 d1nssfq3xl2t6b.cloudfront.net
+0.0.0.0 d1nubxdgom3wqt.cloudfront.net
 0.0.0.0 d1nx2jii03b4ju.cloudfront.net
 0.0.0.0 d1oxccu2k3w6jx.cloudfront.net
 0.0.0.0 d1p3zboe6tz3yy.cloudfront.net
@@ -5385,6 +5394,7 @@
 0.0.0.0 d3bbyfw7v2aifi.cloudfront.net
 0.0.0.0 d3beefy8kd1pr7.cloudfront.net
 0.0.0.0 d3bj8nkfly20uo.cloudfront.net
+0.0.0.0 d3bo67muzbfgtl.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3c3uihon9kmp.cloudfront.net
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
@@ -5873,6 +5883,7 @@
 0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 dns-direct.net
 0.0.0.0 dns-upload.com
+0.0.0.0 dns.ladipage.com
 0.0.0.0 dnsseed.bitcoin.dashjr.org
 0.0.0.0 dnsseed.bluematt.me
 0.0.0.0 dnsseed.emzy.de
@@ -7716,6 +7727,7 @@
 0.0.0.0 js.mengheng.net
 0.0.0.0 js.monetize-ssp.com
 0.0.0.0 js.mscto.com
+0.0.0.0 js.mulan.cloud
 0.0.0.0 js.newrutor.eu.org
 0.0.0.0 js.oh100.com
 0.0.0.0 js.passaro-de-fogo.biz
@@ -7754,6 +7766,7 @@
 0.0.0.0 jun01.oss-cn-beijing.aliyuncs.com
 0.0.0.0 junbi-tracker.com
 0.0.0.0 junior.apk.net
+0.0.0.0 junk-cleaner.net
 0.0.0.0 junk-cleaner.org
 0.0.0.0 just-cnc.com
 0.0.0.0 just-one-left.com
@@ -8003,6 +8016,7 @@
 0.0.0.0 live.vnpgroup.net
 0.0.0.0 livecamgirls.streamray.com
 0.0.0.0 livecounter.theyosh.nl
+0.0.0.0 liveonline.nhanhoa.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 livestats.matrix.it
 0.0.0.0 livetracker.rfe.pangea-cms.com
@@ -8056,7 +8070,6 @@
 0.0.0.0 log.aebn.net
 0.0.0.0 log.agoop.net
 0.0.0.0 log.ajunews.com
-0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
@@ -8239,6 +8252,7 @@
 0.0.0.0 logging.fishsticksgames.com
 0.0.0.0 logging.goodgamestudios.com
 0.0.0.0 logging.je-apps.com
+0.0.0.0 logging.kinhtedothi.vn
 0.0.0.0 logging.prefixbox.com
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loggingservices.tribune.com
@@ -9633,6 +9647,7 @@
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 painting-walls.com
+0.0.0.0 panda.kasika.io
 0.0.0.0 panda.kdnet.net
 0.0.0.0 panel-cn.com
 0.0.0.0 pangle.io.edgekey.net
@@ -10976,6 +10991,7 @@
 0.0.0.0 sentry.arc.io
 0.0.0.0 sentry.dantri.com.vn
 0.0.0.0 sentry.mediacdn.vn
+0.0.0.0 sentry.sendo.vn
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 seo-master.net
 0.0.0.0 seo-sport.ru
@@ -11071,6 +11087,7 @@
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 shp.0n3dmn.com
 0.0.0.0 shpovaw8wu.ru.com
+0.0.0.0 shtrack.kingsoft.jp
 0.0.0.0 shyama-jay.com
 0.0.0.0 shzzzz.dftoutiao.com
 0.0.0.0 siads.sv.publicus.com
@@ -11400,7 +11417,6 @@
 0.0.0.0 spytrack.tic.ru
 0.0.0.0 sq.requestads.com
 0.0.0.0 squirrels.getsquirrel.co
-0.0.0.0 sr.studiostack.com
 0.0.0.0 sr2.liveperson.net
 0.0.0.0 sra.moresophy.net
 0.0.0.0 srepdata.usatoday.com
@@ -11425,7 +11441,6 @@
 0.0.0.0 ssp-ad.momento.dev
 0.0.0.0 ssp-api.mobadvent.com
 0.0.0.0 ssp.21ic.com
-0.0.0.0 ssp.bidvol.com
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.kdnet.net
 0.0.0.0 ssp.mediation.trnox.com
@@ -11966,6 +11981,7 @@
 0.0.0.0 superad2.com.sg
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supply.upjers.com
+0.0.0.0 support.tenten.vn
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 supreme-hunter.com
 0.0.0.0 sur.new.gorodkirov.ru
@@ -12152,6 +12168,7 @@
 0.0.0.0 tagboard.com.herokudns.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
 0.0.0.0 tagm.tchibo.de
 0.0.0.0 tagman.britishairways.com
 0.0.0.0 tagmanager.alright.network
@@ -12320,6 +12337,7 @@
 0.0.0.0 thj.astrakhan.ru
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
+0.0.0.0 thongke.bookingcare.vn
 0.0.0.0 thongke.opencps.vn
 0.0.0.0 thongke.tcdulichtphcm.vn
 0.0.0.0 thongke.vui.vn
@@ -12663,6 +12681,7 @@
 0.0.0.0 track.ra.icast.cn
 0.0.0.0 track.realitykings.com
 0.0.0.0 track.realtimeboard.com
+0.0.0.0 track.rentracks.com.vn
 0.0.0.0 track.rheinpfalz.de
 0.0.0.0 track.robee.tech
 0.0.0.0 track.saygames.io
@@ -13434,6 +13453,7 @@
 0.0.0.0 vdna-assets.com
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 ve.kj-cy.cn
+0.0.0.0 veih8bee.xhcdn.com
 0.0.0.0 veille-referencement.com
 0.0.0.0 vendorweb.citibank.com
 0.0.0.0 ver-pelis.net
