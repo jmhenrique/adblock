@@ -1,4 +1,4 @@
-142.250.218.200 ssl.google-analytics.com
+142.250.219.232 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -146,7 +146,6 @@
 0.0.0.0 468.vologdainfo.ru
 0.0.0.0 4nb437eugn.ru.com
 0.0.0.0 5.gzfenda.com
-0.0.0.0 5.sc126.com
 0.0.0.0 51-tour.net
 0.0.0.0 51check.com.cn
 0.0.0.0 5568.gjghy.com
@@ -2300,6 +2299,7 @@
 0.0.0.0 agro.net.ru
 0.0.0.0 ah-ha.com
 0.0.0.0 ah.pricegrabber.com
+0.0.0.0 ai-gis.club
 0.0.0.0 ai.bioon.com
 0.0.0.0 ai.thanhnien.vn
 0.0.0.0 ai.voiceads.cn
@@ -2775,6 +2775,7 @@
 0.0.0.0 analytics.viblo.asia
 0.0.0.0 analytics.videocloud.top
 0.0.0.0 analytics.vietnamfinance.vn
+0.0.0.0 analytics.vnncdn.net
 0.0.0.0 analytics.vnpt.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 analytics.vodgc.net
@@ -3254,7 +3255,6 @@
 0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 ax.ifeng.com
-0.0.0.0 ax.mpapis.xyz
 0.0.0.0 ax.xrea.com
 0.0.0.0 axis-indication.net
 0.0.0.0 axislogger.appspot.com
@@ -4148,7 +4148,6 @@
 0.0.0.0 cdn.bidmatrixdsp.com
 0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 cdn.bluebillywig.com
-0.0.0.0 cdn.bongdadem.net
 0.0.0.0 cdn.braze.eu
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.clinch.co
@@ -5076,6 +5075,7 @@
 0.0.0.0 d1diqetif5itzx.cloudfront.net
 0.0.0.0 d1dli2tyorled9.cloudfront.net
 0.0.0.0 d1e28xq8vu3baf.cloudfront.net
+0.0.0.0 d1e9rtdi67kart.cloudfront.net
 0.0.0.0 d1ebha2k07asm5.cloudfront.net
 0.0.0.0 d1esebcdm6wx7j.cloudfront.net
 0.0.0.0 d1ev866ubw90c6.cloudfront.net
@@ -5160,6 +5160,7 @@
 0.0.0.0 d1wa9546y9kg0n.cloudfront.net
 0.0.0.0 d1wi563t0137vz.cloudfront.net
 0.0.0.0 d1wirc5qsdb1y5.cloudfront.net
+0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1wjz6mrey9f5v.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1xkyo9j4r7vnn.cloudfront.net
@@ -5307,6 +5308,7 @@
 0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2robot.com.cn
+0.0.0.0 d2rx475ezvxy0h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2sbzwmcg5amr3.cloudfront.net
@@ -6271,6 +6273,7 @@
 0.0.0.0 entree.igetget.com
 0.0.0.0 enviou.com.br
 0.0.0.0 eo.sdahxz.xyz
+0.0.0.0 ep.umobile.pl
 0.0.0.0 ep.xone.com
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epnt.ebay.com
@@ -6396,6 +6399,7 @@
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-eu.freshsuccess.com
 0.0.0.0 events-jp.splash-screen.net
+0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 events.air.tv
@@ -8149,6 +8153,7 @@
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
 0.0.0.0 log.mgtv.com
+0.0.0.0 log.mofa.go.kr
 0.0.0.0 log.mp3.zing.vn
 0.0.0.0 log.musical.ly
 0.0.0.0 log.news.zing.vn
@@ -8504,6 +8509,7 @@
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matrix.dailyinnovation.biz
+0.0.0.0 mautic.200lab.io
 0.0.0.0 mautic.teky.edu.vn
 0.0.0.0 max-adserv.com
 0.0.0.0 max-files.oupeng.com
@@ -9531,6 +9537,7 @@
 0.0.0.0 orange-updates.com
 0.0.0.0 orbidder.otto.de
 0.0.0.0 oreo.iawsnetwork.com
+0.0.0.0 org.pc-mc.greylabeldelivery.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.optimost.io
 0.0.0.0 original-empire.com
@@ -10564,6 +10571,7 @@
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.adonnetwork.com
 0.0.0.0 rmedia.boston.com
+0.0.0.0 rmgdapfnccsharpprd.azurewebsites.net
 0.0.0.0 rndntpmgnj-a.akamaihd.net
 0.0.0.0 rnews.focus-news.net
 0.0.0.0 rng-snp-003.com
@@ -11006,6 +11014,7 @@
 0.0.0.0 sentry.dantri.com.vn
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 sentry.sendo.vn
+0.0.0.0 sentry.thucuc.vn
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 seo-master.net
 0.0.0.0 seo-sport.ru
@@ -12181,6 +12190,7 @@
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 tag.userreport.com
 0.0.0.0 tagboard.com.herokudns.com
+0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
@@ -12353,6 +12363,7 @@
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke.bookingcare.vn
+0.0.0.0 thongke.khampha.vn
 0.0.0.0 thongke.opencps.vn
 0.0.0.0 thongke.tcdulichtphcm.vn
 0.0.0.0 thongke.vui.vn
@@ -12647,6 +12658,7 @@
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.ilonofficial.com
 0.0.0.0 track.ionicmedia.com
+0.0.0.0 track.ivymoda.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.justcloud.com
 0.0.0.0 track.knlob.com
@@ -12906,6 +12918,7 @@
 0.0.0.0 tracking.cirrusinsight.com
 0.0.0.0 tracking.conduit.com
 0.0.0.0 tracking.customerly.io
+0.0.0.0 tracking.cystack.net
 0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 tracking.deluxe-marketing.com
 0.0.0.0 tracking.diginetica.net
@@ -13460,6 +13473,7 @@
 0.0.0.0 vault-encryption.com
 0.0.0.0 vax-boost.com
 0.0.0.0 vax-now.com
+0.0.0.0 vb.plvb.xyz
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 vdc.zoomph.com
@@ -13576,6 +13590,7 @@
 0.0.0.0 vmm-satellite1.com
 0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmstats.varrando.com
+0.0.0.0 vn-garena.vn
 0.0.0.0 vodafone-direkt.de
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 volgograd-info.ru
@@ -13722,6 +13737,7 @@
 0.0.0.0 webmasters.h2porn.com
 0.0.0.0 webmasters.videarn.com
 0.0.0.0 webmedia.co.il
+0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 webpixel.smartmeapp.com
 0.0.0.0 webpoll.sparklit.com
 0.0.0.0 webpush.bizfly.vn
@@ -13959,6 +13975,7 @@
 0.0.0.0 xiuxiu.mobile.meitudata.com
 0.0.0.0 xl-rank.com
 0.0.0.0 xl-trk.com
+0.0.0.0 xl.plvb.xyz
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog-va.tiktokv.com
