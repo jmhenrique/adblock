@@ -1,4 +1,4 @@
-142.251.128.104 ssl.google-analytics.com
+216.58.222.8 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -13415,6 +13415,7 @@
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users-api.com
 0.0.0.0 users.51.la
+0.0.0.0 users.maxcluster.net
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 userstats.shopee.vn
