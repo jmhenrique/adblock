@@ -1,4 +1,4 @@
-142.251.128.136 ssl.google-analytics.com
+142.251.128.104 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -841,6 +841,7 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adasiatagmanager.appspot.com
+0.0.0.0 adat.freemail.hu
 0.0.0.0 adb.fling.com
 0.0.0.0 adback.tango.me
 0.0.0.0 adbd.liuxue86.com
@@ -1306,7 +1307,6 @@
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.fptplay.net.vn
-0.0.0.0 ads.fptplay.vn
 0.0.0.0 ads.freecaster.tv
 0.0.0.0 ads.freeonlinegames.com
 0.0.0.0 ads.friendfinder.com
@@ -2654,6 +2654,7 @@
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.pagefly.io
+0.0.0.0 analytics.pancake.vn
 0.0.0.0 analytics.performable.com
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.phando.com
@@ -3293,7 +3294,6 @@
 0.0.0.0 b.sli-spark.com
 0.0.0.0 b.sweet-hd.com
 0.0.0.0 b.thanksearch.com
-0.0.0.0 b.tukucc.com
 0.0.0.0 b.unjs.com
 0.0.0.0 b.wishabi.com
 0.0.0.0 b1.027art.com
@@ -3661,6 +3661,7 @@
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.adx.yahoo.com
 0.0.0.0 becode.xiao84.com
+0.0.0.0 bee.tc.easebar.com
 0.0.0.0 beead.co.uk
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behacdn.ksmobile.net
@@ -4160,6 +4161,7 @@
 0.0.0.0 cdn.destinilocators.com
 0.0.0.0 cdn.doke.app
 0.0.0.0 cdn.driveback.ru
+0.0.0.0 cdn.dsmstats.com
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.g5e.com
@@ -4958,6 +4960,7 @@
 0.0.0.0 customad.cnn.com
 0.0.0.0 customer.heartinternet.co.uk
 0.0.0.0 customerevents.netflix.com
+0.0.0.0 customers.fptad.com
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cv.bsvideos.com
 0.0.0.0 cw.addthis.com
@@ -4992,6 +4995,7 @@
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
 0.0.0.0 d.mob.com
 0.0.0.0 d.omsnative.de
+0.0.0.0 d.sondakika.com
 0.0.0.0 d.thanksearch.com
 0.0.0.0 d.wi-fi.ru
 0.0.0.0 d.win10com.com
@@ -5231,6 +5235,7 @@
 0.0.0.0 d2b7n13v8adl6f.cloudfront.net
 0.0.0.0 d2bbq3twedfo2f.cloudfront.net
 0.0.0.0 d2bj2texxib1qg.cloudfront.net
+0.0.0.0 d2bxxk33t58v29.cloudfront.net
 0.0.0.0 d2c.ne.jp
 0.0.0.0 d2c4ylitp1qu24.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
@@ -5267,6 +5272,7 @@
 0.0.0.0 d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
 0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
+0.0.0.0 d2j74sjmqqyf26.cloudfront.net
 0.0.0.0 d2k487jakgs1mb.cloudfront.net
 0.0.0.0 d2k7b1tjy36ro0.cloudfront.net
 0.0.0.0 d2kadvyeq051an.cloudfront.net
@@ -5572,7 +5578,6 @@
 0.0.0.0 daliantong.com.cn
 0.0.0.0 dangrancha.com.cn
 0.0.0.0 danv01ao0kdr2.cloudfront.net
-0.0.0.0 dap.dmm.co.jp
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 darren01.oss-cn-beijing.aliyuncs.com
 0.0.0.0 dart.clearchannel.com
@@ -5798,7 +5803,6 @@
 0.0.0.0 discovery-script.newspic.kr
 0.0.0.0 discovery.newspic.kr
 0.0.0.0 discoveryplus.popin.cc
-0.0.0.0 diseno.librogratis.info
 0.0.0.0 disp-x.space
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 display.apester.com
@@ -6525,6 +6529,7 @@
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 extreme-dm.com
 0.0.0.0 extreme-ip-lookup.com
+0.0.0.0 extyoneplus-3.com
 0.0.0.0 ey.r.appspot.com
 0.0.0.0 eye.rd.services
 0.0.0.0 eyeblaster.akadns.net
@@ -7300,6 +7305,7 @@
 0.0.0.0 https-apple.com
 0.0.0.0 htxcl.com.cn
 0.0.0.0 hu.xbhy.com
+0.0.0.0 huazitupian.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 hub.com.pl
 0.0.0.0 hub.securedtouch.com
 0.0.0.0 hubble.netease.com
@@ -9610,6 +9616,7 @@
 0.0.0.0 p.biasdo.com
 0.0.0.0 p.bokecc.com
 0.0.0.0 p.d.1emn.com
+0.0.0.0 p.data.cctv.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.eikuaitao.com
 0.0.0.0 p.eyebuydirect-cmr.net
@@ -10306,6 +10313,7 @@
 0.0.0.0 quota-reader.net
 0.0.0.0 quran-quote.com
 0.0.0.0 qwe.qrrgv.space
+0.0.0.0 qwe0231141.bj.bcebos.com
 0.0.0.0 qzi-ggjsyuming.com
 0.0.0.0 r-ad.linkshare.jp
 0.0.0.0 r-ad.ne.jp
@@ -10833,6 +10841,7 @@
 0.0.0.0 sc.smardroid.com
 0.0.0.0 sc.vmware.com
 0.0.0.0 scambiobanner.aruba.it
+0.0.0.0 scan-scan.com
 0.0.0.0 scarlet-clicks.info
 0.0.0.0 scc.ssacdn.com
 0.0.0.0 scdown.qq.com
@@ -12035,6 +12044,7 @@
 0.0.0.0 sv-pr.ru
 0.0.0.0 sv-static-lottery.headlines.pw
 0.0.0.0 sv-static1-lottery.headlines.pw
+0.0.0.0 sv.aq.qq.com
 0.0.0.0 sv.sheego.de
 0.0.0.0 svc.mobilexsoft.com
 0.0.0.0 svk-native.ru
@@ -12067,6 +12077,7 @@
 0.0.0.0 sysmon.kakaku.com
 0.0.0.0 system-notify.app
 0.0.0.0 systemmonitoring.badgeville.com
+0.0.0.0 sz88.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 szene-traffic.com
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 t-analytics.com
@@ -12089,6 +12100,7 @@
 0.0.0.0 t.blinkist.com
 0.0.0.0 t.booksuper.info
 0.0.0.0 t.brand-server.com
+0.0.0.0 t.carta.com
 0.0.0.0 t.castle.io
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
@@ -12408,6 +12420,7 @@
 0.0.0.0 tim.nextinpact.com
 0.0.0.0 timai-mao.com
 0.0.0.0 timber.sendtonews.com
+0.0.0.0 timejs.game.163.com
 0.0.0.0 timeslog.indiatimes.com
 0.0.0.0 tin.pornoset.org
 0.0.0.0 tin.xpornoset.com
@@ -12559,6 +12572,7 @@
 0.0.0.0 tr.datanyze.com
 0.0.0.0 tr.datatrics.com
 0.0.0.0 tr.discuss.com.hk
+0.0.0.0 tr.ds.kakao.com
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.infopanel.jp
 0.0.0.0 tr.interlake.net
@@ -13296,6 +13310,7 @@
 0.0.0.0 ub1.job592.com
 0.0.0.0 ubar-pro4.ru
 0.0.0.0 ubmcvideo.baidustatic.com
+0.0.0.0 ubt-sin.tripcdn.com
 0.0.0.0 ubt.berlingskemedia.net
 0.0.0.0 uc-ap.yodo1api.com
 0.0.0.0 uc.r.appspot.com
@@ -13489,7 +13504,6 @@
 0.0.0.0 vault-encryption.com
 0.0.0.0 vax-boost.com
 0.0.0.0 vax-now.com
-0.0.0.0 vb.plvb.xyz
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 vdc.zoomph.com
@@ -13721,6 +13735,7 @@
 0.0.0.0 web-url.net
 0.0.0.0 web-viewer.online
 0.0.0.0 web-visor.com
+0.0.0.0 web-vitals.booking.com
 0.0.0.0 web.900.la
 0.0.0.0 web.acumenpi.com
 0.0.0.0 web.dle-news.pw
@@ -13993,7 +14008,6 @@
 0.0.0.0 xiuxiu.mobile.meitudata.com
 0.0.0.0 xl-rank.com
 0.0.0.0 xl-trk.com
-0.0.0.0 xl.plvb.xyz
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog-va.tiktokv.com
