@@ -1,4 +1,4 @@
-142.250.219.168 ssl.google-analytics.com
+142.250.219.8 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -6234,6 +6234,7 @@
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 ema.hostvn.net
 0.0.0.0 email-clk.adguard.com
+0.0.0.0 email-links.crowdfireapp.com
 0.0.0.0 email-match.com
 0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-plans.com
