@@ -1,4 +1,4 @@
-142.250.218.168 ssl.google-analytics.com
+142.251.128.40 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -2939,7 +2939,6 @@
 0.0.0.0 api.hdtv.letv.com
 0.0.0.0 api.hk.goforandroid.com
 0.0.0.0 api.huqindustries.co.uk
-0.0.0.0 api.iadvize.com
 0.0.0.0 api.immomo.com
 0.0.0.0 api.imqtyik.com
 0.0.0.0 api.infinario.com
@@ -4103,7 +4102,6 @@
 0.0.0.0 cda.0-shiny.com
 0.0.0.0 cdgfa.ifeng.com
 0.0.0.0 cdj-dap.s3-ap-northeast-1.amazonaws.com
-0.0.0.0 cdlc.iadvize.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn-analytics.ladmedia.fr
 0.0.0.0 cdn-analytics.pl
@@ -4511,7 +4509,6 @@
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
 0.0.0.0 cobrand.ria.com
-0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 cockpit.symplr.de
 0.0.0.0 cod.bitrec.com
 0.0.0.0 cod.southmoney.com
@@ -6765,7 +6762,6 @@
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 fshanys-vip.top
 0.0.0.0 fspark-ap.com
-0.0.0.0 fstatic.iadvize.com
 0.0.0.0 ftpcontent.worldnow.com
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 fun-hits.com
@@ -7150,7 +7146,6 @@
 0.0.0.0 hades.qyer.com
 0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 halal-place.com
-0.0.0.0 halc.iadvize.com
 0.0.0.0 hami-china.xyz
 0.0.0.0 handbagcom.skimlinks.com
 0.0.0.0 handy-ads.de
@@ -7949,7 +7944,6 @@
 0.0.0.0 layer-ads.de
 0.0.0.0 lb.aatkit.com
 0.0.0.0 lb.secureweb24.net
-0.0.0.0 lc.iadvize.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lcf.cmplay.cmcm.com
 0.0.0.0 lcs.livedoor.net
@@ -11661,7 +11655,6 @@
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.hatid.com
 0.0.0.0 static.herr.io
-0.0.0.0 static.iadvize.com
 0.0.0.0 static.ichehome.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.jiaquyi.com
@@ -14038,7 +14031,6 @@
 0.0.0.0 xml1.adsimilate.com
 0.0.0.0 xml2.nbcsearch.com
 0.0.0.0 xmlserving.mobagent.com
-0.0.0.0 xmpp-ha-alb.iadvize.com
 0.0.0.0 xn--2hvw21e.online
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2qux23confgml.club
