@@ -1,4 +1,4 @@
-142.251.128.40 ssl.google-analytics.com
+142.251.129.104 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -204,6 +204,7 @@
 0.0.0.0 a-stat.appmifile.com
 0.0.0.0 a-static.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 0.0.0.0 a.4aqq.com
 0.0.0.0 a.52wubi.com
 0.0.0.0 a.52zxw.com
@@ -2147,6 +2148,7 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advices-ost.xyz
 0.0.0.0 advil.waze.com
+0.0.0.0 advision-adnw.jp
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 advrts.onelouder.com
 0.0.0.0 advserver.cgv.vn
@@ -3806,6 +3808,7 @@
 0.0.0.0 bnsqc3zmvt.us-east-1.elasticbeanstalk.com
 0.0.0.0 bo.facesbet.com
 0.0.0.0 boardx.huanqiu.com
+0.0.0.0 bob-recs.com
 0.0.0.0 bobi-bobi.info
 0.0.0.0 bobi-mobi.info
 0.0.0.0 bold-in.ru
@@ -3887,6 +3890,7 @@
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bt.phorm.com
 0.0.0.0 bt1.patexplorer.com
+0.0.0.0 btg360.com.br
 0.0.0.0 btn.counter.weather.ca
 0.0.0.0 btn.onlylady.com
 0.0.0.0 btn.pchome.net
@@ -4211,6 +4215,7 @@
 0.0.0.0 cdn.springboard.gorillanation.com
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdn.steambets.net
+0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.teamskeetimages.com
 0.0.0.0 cdn.tekoapis.com
 0.0.0.0 cdn.teleportapi.com
@@ -7100,6 +7105,7 @@
 0.0.0.0 gt.yy.com
 0.0.0.0 gtcslt-di2.com
 0.0.0.0 gtm.beiersdorf.com
+0.0.0.0 gtm.eduki.com
 0.0.0.0 gtm.udemy.com
 0.0.0.0 gtm.vanmoof.com
 0.0.0.0 gtrk.s3.amazonaws.com
@@ -7287,6 +7293,7 @@
 0.0.0.0 hotelscombined.com.au
 0.0.0.0 hothardwarecom.skimlinks.com
 0.0.0.0 hotrank.com.tw
+0.0.0.0 hotwire-widget.dailywire.com
 0.0.0.0 hotwords.com.br
 0.0.0.0 hotwords.com.mx
 0.0.0.0 houseads-prod.elasticbeanstalk.com
@@ -7349,7 +7356,6 @@
 0.0.0.0 i-vengo.com
 0.0.0.0 i.bigin.io
 0.0.0.0 i.bigmir.net
-0.0.0.0 i.btg360.com.br
 0.0.0.0 i.cdnpark.com
 0.0.0.0 i.clickagy.com
 0.0.0.0 i.compendium.com
@@ -9909,6 +9915,7 @@
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.ampry.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.blivenyc.com
@@ -10298,6 +10305,7 @@
 0.0.0.0 qqq-www-987.site
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
+0.0.0.0 qsearch-a.akamaihd.net
 0.0.0.0 quality-channel.de
 0.0.0.0 quangcao.24h.com.vn
 0.0.0.0 quangcao.baovannghe.com.vn
@@ -11545,7 +11553,6 @@
 0.0.0.0 stat.5-tv.ru
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.adguard.com
-0.0.0.0 stat.adultium.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.alloha.tv
 0.0.0.0 stat.analytiall.com
@@ -11694,7 +11701,6 @@
 0.0.0.0 statistiche-web.com
 0.0.0.0 statistics-vov2.vov.vn
 0.0.0.0 statistics.11880.com
-0.0.0.0 statistics.aldi-international.com
 0.0.0.0 statistics.crowdynews.com
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 statistics.fppressa.ru
@@ -13162,6 +13168,7 @@
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 traffick-soul.com
 0.0.0.0 trafic-media.ru
+0.0.0.0 tragency-clesburg.icu
 0.0.0.0 trail-web.com
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trans.globalnetworkad.com
@@ -13300,6 +13307,7 @@
 0.0.0.0 u1.20q.cn
 0.0.0.0 u1.61sou.com
 0.0.0.0 u1.idongde.com
+0.0.0.0 u1.qyxxpd.com
 0.0.0.0 u1.shuaiku.com
 0.0.0.0 u566.chron.com
 0.0.0.0 u652.myplainview.com
@@ -13354,7 +13362,6 @@
 0.0.0.0 un-limitededitions.com
 0.0.0.0 un.ubaike.cn
 0.0.0.0 un1.lawyernet.cn
-0.0.0.0 unanimis.co.uk
 0.0.0.0 undm.qibulo.com
 0.0.0.0 uni-king.cn
 0.0.0.0 unid.go.com
@@ -13879,6 +13886,7 @@
 0.0.0.0 wj.jiancai365.cn
 0.0.0.0 wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
+0.0.0.0 wl-analytics.tsp.li
 0.0.0.0 wl.yna.co.kr
 0.0.0.0 wlog.tmon.co.kr
 0.0.0.0 wm-panel.com
@@ -13971,6 +13979,7 @@
 0.0.0.0 wzor.web-serf.info
 0.0.0.0 x-adservice.com
 0.0.0.0 x-busty.org
+0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x-nomer.com
 0.0.0.0 x-park.net
 0.0.0.0 x-ssp.com
