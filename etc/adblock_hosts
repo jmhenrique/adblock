@@ -1,4 +1,4 @@
-142.251.132.232 ssl.google-analytics.com
+172.217.173.104 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 0577renliu.net.cn
@@ -202,6 +202,7 @@
 0.0.0.0 a-resolver.com
 0.0.0.0 a-stat.appmifile.com
 0.0.0.0 a-static.com
+0.0.0.0 a.10tianqi.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 0.0.0.0 a.4aqq.com
@@ -1693,7 +1694,6 @@
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.twojatv.info
-0.0.0.0 ads.uc.cn
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
@@ -2516,6 +2516,7 @@
 0.0.0.0 analytics.cinematoday.jp
 0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.clickdimensions.com
+0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cmn.com
@@ -2539,6 +2540,7 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.dpd.com
+0.0.0.0 analytics.dsyqt.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.edgekey.net
@@ -2568,6 +2570,7 @@
 0.0.0.0 analytics.fsoft.com.vn
 0.0.0.0 analytics.fuckingawesome.com
 0.0.0.0 analytics.gameforge.de
+0.0.0.0 analytics.gate.co.id
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gismart.xyz
 0.0.0.0 analytics.global.sky.com
@@ -2597,6 +2600,7 @@
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.jumboprivacy.com
+0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kemlu.go.id
@@ -2654,6 +2658,7 @@
 0.0.0.0 analytics.optilead.co.uk
 0.0.0.0 analytics.orenshmu.com
 0.0.0.0 analytics.ostr.io
+0.0.0.0 analytics.ouc.ac.cy
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.pagefly.io
@@ -2758,7 +2763,9 @@
 0.0.0.0 analytics.tintuc.vn
 0.0.0.0 analytics.tio.ch
 0.0.0.0 analytics.tmonews.com
+0.0.0.0 analytics.tokosia.com
 0.0.0.0 analytics.tooso.ai
+0.0.0.0 analytics.touchnote.io
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tresensa.com
 0.0.0.0 analytics.tribeca.vidavee.com
@@ -2766,6 +2773,7 @@
 0.0.0.0 analytics.trutv.com
 0.0.0.0 analytics.tver.jp
 0.0.0.0 analytics.twitter.com
+0.0.0.0 analytics.unand.ac.id
 0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.unilogcorp.com
 0.0.0.0 analytics.upworthy.com
@@ -2798,6 +2806,7 @@
 0.0.0.0 analytics.witglobal.net
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.worldtable.co
+0.0.0.0 analytics.wrc.nic.in
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xyscdn.com
 0.0.0.0 analytics.yahoo.com
@@ -3044,6 +3053,7 @@
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-icons.apptentive.com
+0.0.0.0 app-measurement.com
 0.0.0.0 app-trackings.com
 0.0.0.0 app.activetrail.com
 0.0.0.0 app.adjust.io
@@ -4547,6 +4557,7 @@
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect-test.arabam.com
+0.0.0.0 collect-v6.51.la
 0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.adsorb.com
 0.0.0.0 collect.albacross.com
@@ -5283,6 +5294,7 @@
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
 0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 d2j74sjmqqyf26.cloudfront.net
+0.0.0.0 d2juccxzu13rax.cloudfront.net
 0.0.0.0 d2k487jakgs1mb.cloudfront.net
 0.0.0.0 d2k7b1tjy36ro0.cloudfront.net
 0.0.0.0 d2kadvyeq051an.cloudfront.net
@@ -7070,6 +7082,7 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-rank.org
+0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
 0.0.0.0 googleads.github.io
 0.0.0.0 googleplay-store.com
@@ -7666,6 +7679,7 @@
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ipada.cafe.naver.com
 0.0.0.0 ipapi.tmbi.com
+0.0.0.0 ipcc-vnp1.vnptmedia.vn
 0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 ipinyou.com.cn
 0.0.0.0 ipml-qvr8go.ru
@@ -8263,6 +8277,7 @@
 0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 log.yapaytech.com
+0.0.0.0 log.ycapp.yiche.com
 0.0.0.0 log.yougameover.com
 0.0.0.0 log.zamba.vn
 0.0.0.0 log.zdnet.co.kr
@@ -8544,9 +8559,12 @@
 0.0.0.0 mathtag.com.edgekey.net
 0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.activate.cz
+0.0.0.0 matomo.aksorn.com
 0.0.0.0 matomo.crossiety.app
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
+0.0.0.0 matomo.shoppersguide.com.ph
+0.0.0.0 matomo.unicaf.org
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 mautic.200lab.io
 0.0.0.0 mautic.teky.edu.vn
@@ -9900,6 +9918,8 @@
 0.0.0.0 piwik.matrix.ua
 0.0.0.0 piwik.medienhaus.com
 0.0.0.0 piwik.mortgageloan.com
+0.0.0.0 piwik.onlinecasino-thai.com
+0.0.0.0 piwik.onlinecasino321.com
 0.0.0.0 piwik.pokerlistings.com
 0.0.0.0 piwik.wsws.org
 0.0.0.0 pix-us.revjet.com
@@ -10252,6 +10272,7 @@
 0.0.0.0 pv.sohu.com
 0.0.0.0 pw.gigazine.net
 0.0.0.0 pw.lpsxssm.com
+0.0.0.0 pwkrakanmet.met.gov.my
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.effirst.com
@@ -11675,6 +11696,7 @@
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.jiaquyi.com
 0.0.0.0 static.klaviyo.com
+0.0.0.0 static.leadpages.net
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.masoffer.net
 0.0.0.0 static.meijiacun.com
@@ -11704,6 +11726,7 @@
 0.0.0.0 staticad.thethao247.vn
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 statis.dsp.vn
+0.0.0.0 statistic-blog-v2.sapoapps.vn
 0.0.0.0 statistic.batdongsan.com.vn
 0.0.0.0 statistic.imgpay.ru
 0.0.0.0 statistiche-free.com
@@ -11727,6 +11750,7 @@
 0.0.0.0 statistiek.rijksoverheid.nl
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistik.duplanet.tk
+0.0.0.0 statistik.komputerkampus.com
 0.0.0.0 statistik.motorpresse.de
 0.0.0.0 statistik.simaja.de
 0.0.0.0 statm.the-adult-company.com
@@ -11780,6 +11804,7 @@
 0.0.0.0 stats.cnevids.com
 0.0.0.0 stats.concierge.com
 0.0.0.0 stats.coronalabs.com
+0.0.0.0 stats.coursepad.com
 0.0.0.0 stats.curds.io
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.datawrapper.de
@@ -11922,6 +11947,7 @@
 0.0.0.0 stats.vc.gg
 0.0.0.0 stats.viddler.com
 0.0.0.0 stats.videodelivery.net
+0.0.0.0 stats.videoseyred.in
 0.0.0.0 stats.videoseyredin.net
 0.0.0.0 stats.vidyome.com
 0.0.0.0 stats.vietnammoi.vn
@@ -12238,6 +12264,7 @@
 0.0.0.0 tag.surpha.jp
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 tag.userreport.com
+0.0.0.0 tag.winister.app
 0.0.0.0 tagboard.com.herokudns.com
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagger.ope.scmp.com
@@ -12411,6 +12438,7 @@
 0.0.0.0 this-is-living.cn
 0.0.0.0 thj.astrakhan.ru
 0.0.0.0 thongke.24h.com.vn
+0.0.0.0 thongke.arttimes.vn
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 thongke.bookingcare.vn
 0.0.0.0 thongke.khampha.vn
@@ -13244,6 +13272,7 @@
 0.0.0.0 trk.stroeermediabrands.de
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.techtarget.com
+0.0.0.0 trk.us-learn-teacher-poetry.xyz
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk2-wtb.swaven.com
 0.0.0.0 trk2.pinterest.com
@@ -13532,6 +13561,7 @@
 0.0.0.0 vax-boost.com
 0.0.0.0 vax-now.com
 0.0.0.0 vcardsdkservice.vivo.com.cn
+0.0.0.0 vcdnads.ru.com
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 vdc.zoomph.com
 0.0.0.0 vde1.voyage-prive.de
@@ -13811,6 +13841,7 @@
 0.0.0.0 webstatistik.odav.de
 0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.oanda.com
+0.0.0.0 webstats.pixcell.ch
 0.0.0.0 webstats.plus.net
 0.0.0.0 webstats.sapo.pt
 0.0.0.0 webstats.thaindian.com
@@ -13956,6 +13987,7 @@
 0.0.0.0 wsapi-global.master.live
 0.0.0.0 wsapi.master.live
 0.0.0.0 wserver.vidazoo.com
+0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wspeed.qq.com
 0.0.0.0 wss.hbpl.co.uk
 0.0.0.0 wstat.ozon.ru
