@@ -1,4 +1,4 @@
-142.251.132.232 ssl.google-analytics.com
+172.217.162.136 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -1053,6 +1053,7 @@
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-im-netz.de
+0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
@@ -2811,6 +2812,7 @@
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.volvocars.com
 0.0.0.0 analytics.vooxe.com
+0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 analytics.webflow.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
@@ -4200,6 +4202,7 @@
 0.0.0.0 cdn.dsmstats.com
 0.0.0.0 cdn.dsspn.com
 0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 cdn.eksiup.com
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gimbal.tech
@@ -7347,6 +7350,7 @@
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hot-3d-girls.com
 0.0.0.0 hot-count.com
+0.0.0.0 hot-dating-here.life
 0.0.0.0 hot-eam.com
 0.0.0.0 hot-hits.us
 0.0.0.0 hot-mob.com
@@ -7828,7 +7832,6 @@
 0.0.0.0 js.bulkhentai.com
 0.0.0.0 js.chetan.com
 0.0.0.0 js.coinisrsdelivery.com
-0.0.0.0 js.colo2.jp
 0.0.0.0 js.convertale.com
 0.0.0.0 js.duotegame.com
 0.0.0.0 js.gdsln.ru
@@ -8107,7 +8110,6 @@
 0.0.0.0 link.informer.com
 0.0.0.0 link.ixs1.net
 0.0.0.0 link.uk.expediamail.com
-0.0.0.0 linkdoni.soft98.ir
 0.0.0.0 linking-page.com
 0.0.0.0 links-and-traffic.com
 0.0.0.0 links-ranking.de
@@ -9385,7 +9387,6 @@
 0.0.0.0 news.pustgovorjat.ru
 0.0.0.0 news.rk345dno.ru
 0.0.0.0 news.trendovo.com.ua
-0.0.0.0 news.zsjxwj.com
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsfeed.intl.miui.com
 0.0.0.0 newsfeed.net.ua
@@ -11684,6 +11685,7 @@
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.kika-backend.com
 0.0.0.0 stat.kununu.cz
+0.0.0.0 stat.kwikmotion.com
 0.0.0.0 stat.livesportbar.net
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.matichon.co.th
@@ -14176,6 +14178,7 @@
 0.0.0.0 xn--noki-t5b.com
 0.0.0.0 xn--telegrm-qbd.com
 0.0.0.0 xn--wxtr9fwyxk9c.club
+0.0.0.0 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0 xn--xhq9mt12cf5v.shop
 0.0.0.0 xn--xhq9mt12cf5v.top
 0.0.0.0 xn--xhq9mt12cf5v.xn--io0a7i
