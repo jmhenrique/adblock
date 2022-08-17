@@ -1,4 +1,4 @@
-142.251.128.40 ssl.google-analytics.com
+172.217.173.72 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -21,7 +21,6 @@
 0.0.0.0 1.66law.cn
 0.0.0.0 1.78500.cn
 0.0.0.0 1.800400.net
-0.0.0.0 1.92caijing.com
 0.0.0.0 1.ajiyuming.com
 0.0.0.0 1.arpun.com
 0.0.0.0 1.bh5.com.cn
@@ -2386,6 +2385,7 @@
 0.0.0.0 am-display.com
 0.0.0.0 am-investor.ru
 0.0.0.0 am-schedule.ru
+0.0.0.0 am.i.mullvad.net
 0.0.0.0 am.streamdj.ru
 0.0.0.0 am.szhome.com
 0.0.0.0 am.titsx.com
@@ -2687,6 +2687,7 @@
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pixels.ai
 0.0.0.0 analytics.plaid.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -3172,6 +3173,7 @@
 0.0.0.0 arms.livedoor.net
 0.0.0.0 around-theglobe.co
 0.0.0.0 arsconsole.global-intermedia.com
+0.0.0.0 artemis-cdn.ocdn.eu
 0.0.0.0 artisan-digital.cn
 0.0.0.0 arts-cloud.net
 0.0.0.0 arvb.ewtcbedtmx.ru
@@ -4460,6 +4462,7 @@
 0.0.0.0 clickwallads.s3.amazonaws.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-metrics.chess.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
@@ -6304,8 +6307,12 @@
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 ema.hostvn.net
 0.0.0.0 email-clk.adguard.com
+0.0.0.0 email-link.adtidy.net
+0.0.0.0 email-link.adtidy.org
 0.0.0.0 email-links.crowdfireapp.com
 0.0.0.0 email-match.com
+0.0.0.0 email-open.adtidy.net
+0.0.0.0 email-open.adtidy.org
 0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-plans.com
 0.0.0.0 email-reflex.com
@@ -6537,7 +6544,6 @@
 0.0.0.0 events.sk.ht
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
-0.0.0.0 events.statsigapi.net
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.textme-app.com
@@ -6726,8 +6732,8 @@
 0.0.0.0 find-my-great-life.com
 0.0.0.0 finditout-now.com
 0.0.0.0 finema-net.cdn.ampproject.org
+0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 fiona.ai.net
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 fireworks-advertising.com
 0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 first-hufu.oss-cn-shanghai.aliyuncs.com
@@ -9002,7 +9008,6 @@
 0.0.0.0 micro-win.com
 0.0.0.0 midas-i.com
 0.0.0.0 midas-network.com
-0.0.0.0 middleware.p7s1.io
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 mideast-today.com
 0.0.0.0 midoweb.offerstrack.net
@@ -9522,6 +9527,7 @@
 0.0.0.0 obmen.starstudio.org.ua
 0.0.0.0 obs.cn-east-3.myhuaweicloud.com
 0.0.0.0 oc.umeng.com
+0.0.0.0 occa.ocs.oraclecloud.com
 0.0.0.0 ocd.yodo1api.com
 0.0.0.0 oceanbot-steam.com
 0.0.0.0 octopart-analytics.com
@@ -9535,6 +9541,7 @@
 0.0.0.0 oey53uw-1ye.cn
 0.0.0.0 ofd.meng-an.cn
 0.0.0.0 offaces-butional.com
+0.0.0.0 offdeck.telkomsel.com
 0.0.0.0 offer.slgnt.eu
 0.0.0.0 offers.affiliatetraction.com
 0.0.0.0 offers.cloackp.com
@@ -11951,7 +11958,6 @@
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
 0.0.0.0 stats.nextgen-email.com
-0.0.0.0 stats.norton.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.opoloo.de
@@ -12711,6 +12717,7 @@
 0.0.0.0 tr.suedkurier.de
 0.0.0.0 tr.topdevvn.com
 0.0.0.0 tr.vitals.co
+0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 tr1.admeira.ch
 0.0.0.0 tr1.mailperformance.com
 0.0.0.0 tr6.snapchat.com
@@ -13016,6 +13023,7 @@
 0.0.0.0 tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
+0.0.0.0 tracker.tolvnow.com
 0.0.0.0 tracker.tubecj.com
 0.0.0.0 tracker.twenga.pl
 0.0.0.0 tracker.unbxdapi.com
@@ -14185,6 +14193,7 @@
 0.0.0.0 xn--xkry73b.online
 0.0.0.0 xne1ocient87zxz.360doc.cn
 0.0.0.0 xpig-dev.directservices.it
+0.0.0.0 xpj08.oss-cn-beijing.aliyuncs.com
 0.0.0.0 xpromo.g5e.com
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 xr-tds.com
