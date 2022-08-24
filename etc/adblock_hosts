@@ -1,4 +1,4 @@
-142.250.218.200 ssl.google-analytics.com
+142.251.129.136 ssl.google-analytics.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -953,7 +953,6 @@
 0.0.0.0 adlockscreen.goforandroid.com
 0.0.0.0 adlog.foxitcloud.com
 0.0.0.0 adlog.ifood.tv
-0.0.0.0 adlog.shopping.naver.com
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adlogs.ad2iction.com
 0.0.0.0 adloox-blocks.deliverimp.com
@@ -2206,7 +2205,6 @@
 0.0.0.0 af-next.com
 0.0.0.0 af-z.jp
 0.0.0.0 af.1gdz.ru
-0.0.0.0 af.fukuishimbun.co.jp
 0.0.0.0 af.tosho-trading.co.jp
 0.0.0.0 afbanner.kinobomber3.online
 0.0.0.0 afd.baidu.com
@@ -2609,10 +2607,12 @@
 0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.ifood.tv
+0.0.0.0 analytics.ikyu.com
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
+0.0.0.0 analytics.iss.one
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.jamstackvietnam.com
 0.0.0.0 analytics.jodelapis.com
@@ -2702,7 +2702,6 @@
 0.0.0.0 analytics.projectcarmen.com
 0.0.0.0 analytics.proxer.me
 0.0.0.0 analytics.publitas.com
-0.0.0.0 analytics.qlook.net
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
 0.0.0.0 analytics.qoqa.ninja
@@ -3653,7 +3652,6 @@
 0.0.0.0 beacon.examiner.com
 0.0.0.0 beacon.flow.io
 0.0.0.0 beacon.gu-web.net
-0.0.0.0 beacon.guim.co.uk
 0.0.0.0 beacon.gutefrage.net
 0.0.0.0 beacon.indieclicktv.com
 0.0.0.0 beacon.itmedia.jp
@@ -4229,7 +4227,6 @@
 0.0.0.0 cdn.mobsocmedia.com
 0.0.0.0 cdn.movieads.ru
 0.0.0.0 cdn.n.dynstc.com
-0.0.0.0 cdn.neppa-ad.com
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.optmn.cloud
@@ -4964,6 +4961,7 @@
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
+0.0.0.0 crta.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crtv.mate1.com
@@ -5307,6 +5305,7 @@
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cmh8xu3ncrj2.cloudfront.net
+0.0.0.0 d2cmqkwo8rxlr9.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dc2sk4vkh2xn.cloudfront.net
@@ -6468,6 +6467,7 @@
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-collector.analytics.onedio.com
 0.0.0.0 event-listener.air.tv
+0.0.0.0 event-logger.tagboard.com
 0.0.0.0 event-reg.info
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 event-search.jorte.com
@@ -8235,7 +8235,6 @@
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.ca.gov.vn
 0.0.0.0 log.cinematoday.jp
-0.0.0.0 log.cizion.com
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.cpex.cz
 0.0.0.0 log.daidoanket.vn
@@ -8261,6 +8260,7 @@
 0.0.0.0 log.go.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.gobankingrates.com
+0.0.0.0 log.haberturk.com
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 log.hiiir.com
@@ -10417,6 +10417,7 @@
 0.0.0.0 qc.kqbd88.com
 0.0.0.0 qc.mhsolution.vn
 0.0.0.0 qc.violet.vn
+0.0.0.0 qc1.cheshipin.com
 0.0.0.0 qcao.happyskin.vn
 0.0.0.0 qctt24h.24h.com.vn
 0.0.0.0 qcv5.blogtruyen.vn
@@ -10432,6 +10433,7 @@
 0.0.0.0 qn-5.com
 0.0.0.0 qnajplxtvz-a.akamaihd.net
 0.0.0.0 qontent.pomvideo.cc
+0.0.0.0 qontent.powvibeo.me
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qpb0.sohu.com
@@ -10748,7 +10750,7 @@
 0.0.0.0 roi-rocket.net
 0.0.0.0 romance-net.com
 0.0.0.0 rontent.pomvideo.cc
-0.0.0.0 rontent.powvibeo.cc
+0.0.0.0 rontent.powvibeo.me
 0.0.0.0 ros-infonews.ru
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselip-fetish.com
@@ -12220,6 +12222,7 @@
 0.0.0.0 synergy-e.com
 0.0.0.0 synovite-scripts.com
 0.0.0.0 synthes.vo.llnwd.net
+0.0.0.0 syr66.com.cn
 0.0.0.0 sys.refocus.ru
 0.0.0.0 sysmon.kakaku.com
 0.0.0.0 system-notify.app
@@ -12236,6 +12239,7 @@
 0.0.0.0 t.91syun.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
+0.0.0.0 t.adbr.io
 0.0.0.0 t.adlpo.com
 0.0.0.0 t.ajrkm.link
 0.0.0.0 t.armchairbookie.com
