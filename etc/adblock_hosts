@@ -1,4 +1,5 @@
-142.251.132.40 ssl.google-analytics.com
+142.250.218.232 ssl.google-analytics.com
+0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -114,6 +115,7 @@
 0.0.0.0 24-sportnews.com
 0.0.0.0 247-inc.com
 0.0.0.0 247-inc.net
+0.0.0.0 247vi-bank.com
 0.0.0.0 24h-ad.24hstatic.com
 0.0.0.0 24h-ipad-ad.24hstatic.com
 0.0.0.0 24pm-affiliation.com
@@ -364,6 +366,7 @@
 0.0.0.0 a1.shusanqi.com
 0.0.0.0 a1.sumiaowang.com
 0.0.0.0 a1.syfj.net
+0.0.0.0 a1.tbuz.com.cn
 0.0.0.0 a1.twtym.com
 0.0.0.0 a1.yaozui.com
 0.0.0.0 a1.zhanzhang.net
@@ -638,6 +641,7 @@
 0.0.0.0 ad.hankooki.com
 0.0.0.0 ad.happynest.vn
 0.0.0.0 ad.hbv.de
+0.0.0.0 ad.hepsiburada.com
 0.0.0.0 ad.hi5.com
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.holmesmind.com
@@ -681,6 +685,7 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad.mediaprimaplus.com.my
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.megapeer.ru
 0.0.0.0 ad.mobstazinc.cn
@@ -727,12 +732,14 @@
 0.0.0.0 ad.reachppc.com
 0.0.0.0 ad.reklam.xyz
 0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.reklm.com
 0.0.0.0 ad.reyazilim.com
 0.0.0.0 ad.sacitaslan.com
 0.0.0.0 ad.searchhound.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.setrowid.com
 0.0.0.0 ad.sgdgjarfpp123.com
+0.0.0.0 ad.sigortagundem.biz
 0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.slashgear.com
@@ -1048,6 +1055,7 @@
 0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
+0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-im-netz.de
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-kesselhaus.com
@@ -1392,6 +1400,7 @@
 0.0.0.0 ads.img.globo.com
 0.0.0.0 ads.imguol.com
 0.0.0.0 ads.imgur.com
+0.0.0.0 ads.imovideo.ru
 0.0.0.0 ads.indeed.com
 0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.indexinfo.org
@@ -1486,6 +1495,7 @@
 0.0.0.0 ads.mofos.com
 0.0.0.0 ads.mondogames.com
 0.0.0.0 ads.monetize-me.com
+0.0.0.0 ads.motosiklet.net
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.mrskin.com
 0.0.0.0 ads.msn.com
@@ -2905,7 +2915,6 @@
 0.0.0.0 api-keks.com
 0.0.0.0 api-live.outgrow.co
 0.0.0.0 api-n.outgrow.co
-0.0.0.0 api-public.addthis.com
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api-stg.ensonhaber.com
 0.0.0.0 api-telemetry.servers.getgo.com
@@ -2917,7 +2926,6 @@
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.adcalls.nl
 0.0.0.0 api.addnow.com
-0.0.0.0 api.addthis.com
 0.0.0.0 api.adintext.net
 0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adnsafe.org
@@ -4240,7 +4248,7 @@
 0.0.0.0 cdn.relaido.jp
 0.0.0.0 cdn.revjet.com
 0.0.0.0 cdn.rongzhouxing.com
-0.0.0.0 cdn.sanjagh.com
+0.0.0.0 cdn.sgmntfy.com
 0.0.0.0 cdn.smartclick.io
 0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.split.io
@@ -4997,7 +5005,6 @@
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ct.thegear-box.com
-0.0.0.0 ct1.addthis.com
 0.0.0.0 ct2.kimodameshi.com
 0.0.0.0 ct2.kyarame.com
 0.0.0.0 ct2.sarashi.com
@@ -5023,7 +5030,6 @@
 0.0.0.0 customers.fptad.com
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cv.bsvideos.com
-0.0.0.0 cw.addthis.com
 0.0.0.0 cwt.citywire.info
 0.0.0.0 cx.ssacdn.com
 0.0.0.0 cxense.com.edgekey.net
@@ -5247,6 +5253,7 @@
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
 0.0.0.0 d1zw85ny9dtn37.cloudfront.net
 0.0.0.0 d2-apps.net
+0.0.0.0 d204slsrhoah2f.cloudfront.net
 0.0.0.0 d20903hof2l33q.cloudfront.net
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
 0.0.0.0 d20je219bs8hnq.cloudfront.net
@@ -5921,7 +5928,7 @@
 0.0.0.0 dlrioxg1637dk.cloudfront.net
 0.0.0.0 dltqxz76sim1s.cloudfront.net
 0.0.0.0 dlvds9i67c60j.cloudfront.net
-0.0.0.0 dlx.addthis.com
+0.0.0.0 dlxk2dj1h3e83.cloudfront.net
 0.0.0.0 dm-event.net
 0.0.0.0 dm.17xuexiba.com
 0.0.0.0 dm.21hubei.com
@@ -6268,7 +6275,6 @@
 0.0.0.0 economic-news.co
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 edge-west.customer.io
-0.0.0.0 edge.addthis.com
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.metroleads.com
 0.0.0.0 edge.safedk.com
@@ -7817,7 +7823,6 @@
 0.0.0.0 jdd01.198game.net
 0.0.0.0 jet.zbp.ru
 0.0.0.0 jg.wensixuetang.com
-0.0.0.0 jhgff23az.biqugetv.com
 0.0.0.0 ji.ihualun.com
 0.0.0.0 jia-huan.cn
 0.0.0.0 jiaoben.eastday.com
@@ -8510,6 +8515,7 @@
 0.0.0.0 lyfwpt.com.cn
 0.0.0.0 lylxuot.pltqbcgsq.biz
 0.0.0.0 lynn.zgsemi.cn
+0.0.0.0 lysim-lre.com
 0.0.0.0 lyz.radio366.com
 0.0.0.0 m-brain.fi
 0.0.0.0 m-growninppcode.com
@@ -8525,7 +8531,6 @@
 0.0.0.0 m.8800266.com.cn
 0.0.0.0 m.91heima.cn
 0.0.0.0 m.91xiaodu.top
-0.0.0.0 m.addthis.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.adtiming.com
 0.0.0.0 m.aty.sohu.com
@@ -9514,7 +9519,6 @@
 0.0.0.0 o-oo.ooo
 0.0.0.0 o-s.io
 0.0.0.0 o.60sk.ru
-0.0.0.0 o.addthis.com
 0.0.0.0 o.bluewin.ch
 0.0.0.0 o.detik.com
 0.0.0.0 o.fandango.com
@@ -9748,7 +9752,6 @@
 0.0.0.0 p-n.io
 0.0.0.0 p-td.com
 0.0.0.0 p.7060.la
-0.0.0.0 p.addthis.com
 0.0.0.0 p.altergeo.ru
 0.0.0.0 p.aty.sohu.com
 0.0.0.0 p.biasdo.com
@@ -10224,7 +10227,6 @@
 0.0.0.0 prime-hunage.com
 0.0.0.0 prime-hunter.com
 0.0.0.0 prime-vpnet.com
-0.0.0.0 prime.rambler.ru
 0.0.0.0 prisma-tr.prismamedia.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacy.outdoorsg.com
@@ -10401,7 +10403,6 @@
 0.0.0.0 pzd.rakuten.co.jp
 0.0.0.0 q-counter.com
 0.0.0.0 q-stats.nl
-0.0.0.0 q.addthis.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 q1.yyxwzx.com
 0.0.0.0 q777.sfchronicle.com
@@ -10919,10 +10920,8 @@
 0.0.0.0 s3.ttpsdk.info
 0.0.0.0 s3r.tut.by
 0.0.0.0 s3s-main.net
+0.0.0.0 s3t3d2y8.afcdn.net
 0.0.0.0 s4r.tut.by
-0.0.0.0 s7.addthis.com
-0.0.0.0 s8.addthis.com
-0.0.0.0 s9.addthis.com
 0.0.0.0 sa.aol.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.bbc.com
@@ -11183,6 +11182,7 @@
 0.0.0.0 sensors.ibreader.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.yodo1api.com
+0.0.0.0 sentry-track.vietnamworks.com
 0.0.0.0 sentry.arc.io
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 seo-master.net
@@ -11906,6 +11906,7 @@
 0.0.0.0 stats.coronalabs.com
 0.0.0.0 stats.coursepad.com
 0.0.0.0 stats.curds.io
+0.0.0.0 stats.darkreader.app
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.dice.com
@@ -12144,7 +12145,6 @@
 0.0.0.0 stt.nimbusweb.me
 0.0.0.0 style.onvz.nl
 0.0.0.0 stylesheet-js.ru
-0.0.0.0 su.addthis.com
 0.0.0.0 sub.powerapple.com
 0.0.0.0 sub.xxx-porn-tube.com
 0.0.0.0 subdo.torrentrapid.com
@@ -13499,6 +13499,7 @@
 0.0.0.0 ui.oix.net
 0.0.0.0 uib.ff.avast.com
 0.0.0.0 uid.mavencoalition.io
+0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uim.tifbs.net
 0.0.0.0 ujm.hansel.io
@@ -13639,7 +13640,6 @@
 0.0.0.0 v.tysjkw.cn
 0.0.0.0 v1-c73e.kxcdn.com
 0.0.0.0 v1.19purify.com
-0.0.0.0 v1.addthis.com
 0.0.0.0 v1.iad1.bitgravity.com
 0.0.0.0 v1.kwpewga.cn
 0.0.0.0 v1.phb123.com
@@ -14163,6 +14163,7 @@
 0.0.0.0 x8.cho-chin.com
 0.0.0.0 x822.mrt.com
 0.0.0.0 x9.shinobi.jp
+0.0.0.0 xads.joboko.com
 0.0.0.0 xapi.ozon.ru
 0.0.0.0 xc.gouchezj.com
 0.0.0.0 xc.macd.cn
@@ -14185,6 +14186,7 @@
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xmadsapi.joboko.com
 0.0.0.0 xmarkscom.skimlinks.com
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xml-api.online
