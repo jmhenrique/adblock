@@ -1,4 +1,4 @@
-142.250.219.136 ssl.google-analytics.com
+142.250.218.168 ssl.google-analytics.com
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -403,6 +403,7 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-east-retail-direct.amazon.com
 0.0.0.0 aaxads.com.edgekey.net
+0.0.0.0 ab-log.datahou.se
 0.0.0.0 ab.blogs.es
 0.0.0.0 ab.cnbanbao.com
 0.0.0.0 ab.rejushe.com
@@ -2538,6 +2539,7 @@
 0.0.0.0 analytics.cinematoday.jp
 0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.clickdimensions.com
+0.0.0.0 analytics.clientify.net
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.cloudron.io
@@ -3036,6 +3038,7 @@
 0.0.0.0 api.safedk.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sail-personalize.com
+0.0.0.0 api.sailthru.com
 0.0.0.0 api.salmonads.com
 0.0.0.0 api.saypromo.net
 0.0.0.0 api.sdffwef11.com
@@ -3852,6 +3855,7 @@
 0.0.0.0 bold-in.ru
 0.0.0.0 bom-soft.com.cn
 0.0.0.0 bonne-terre-data-layer.com
+0.0.0.0 bonnetiere-infrangible-burthening.xyz
 0.0.0.0 bonus-point1.life
 0.0.0.0 boo-box.com
 0.0.0.0 booking-tables.com
@@ -4118,6 +4122,7 @@
 0.0.0.0 cb.baidu.com
 0.0.0.0 cb.g01.yahoodns.net
 0.0.0.0 cb.ksmobile.com
+0.0.0.0 cb.sailthru.com
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cbdm.weathercn.com
@@ -4710,6 +4715,7 @@
 0.0.0.0 compteur-visite.com
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 computer-set.com
+0.0.0.0 conceptualization-noddies-candlemaker.online
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condles-temark.com
 0.0.0.0 conduit-banners.com
@@ -5559,6 +5565,7 @@
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3pel2vlstnlu9.cloudfront.net
 0.0.0.0 d3phbp7p78bdk9.cloudfront.net
+0.0.0.0 d3phzb7fk3uhin.cloudfront.net
 0.0.0.0 d3pk579obpqv7b.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
@@ -7361,6 +7368,7 @@
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 horizon.globo.com
 0.0.0.0 horizon.mashable.com
+0.0.0.0 horizon.sailthru.com
 0.0.0.0 horse-racing-affiliate-program.co.uk
 0.0.0.0 horyzon-media.com
 0.0.0.0 hospitality-optimizer.com
@@ -8298,6 +8306,7 @@
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.ohmynews.com
+0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
 0.0.0.0 log.oto.com.vn
 0.0.0.0 log.outbrain.org
@@ -12128,6 +12137,7 @@
 0.0.0.0 stocker.bonnint.net
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 stonecloud-place.com
 0.0.0.0 storage-ad.com
 0.0.0.0 storage.onlinetv.media
 0.0.0.0 store.page.zaloapp.com
@@ -12473,6 +12483,7 @@
 0.0.0.0 techradarcom.skimlinks.com
 0.0.0.0 techspotcom.skimlinks.com
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 tedo-stats.de
 0.0.0.0 tejia.gaibang.fun
 0.0.0.0 tel-tel-fie.com
 0.0.0.0 telangana-news24.com
