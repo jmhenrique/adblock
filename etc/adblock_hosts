@@ -1,4 +1,4 @@
-142.250.79.200 ssl.google-analytics.com
+142.251.128.104 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -19001,7 +19001,6 @@
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.kumulos.com
 0.0.0.0 events.launchdarkly.com
-0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mapbox.com
@@ -30963,7 +30962,6 @@
 0.0.0.0 mobile.appchina.com
 0.0.0.0 mobile.confsettings.com
 0.0.0.0 mobile.eum-appdynamics.com
-0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.measurelib.com
 0.0.0.0 mobile.slgnt.eu
 0.0.0.0 mobile333.com
@@ -38486,7 +38484,6 @@
 0.0.0.0 rereddit.com
 0.0.0.0 rereegny.net
 0.0.0.0 reroplittrewheck.pro
-0.0.0.0 res.cloudinary.com
 0.0.0.0 res.levexis.com
 0.0.0.0 res.pinpai8.cn
 0.0.0.0 res.rbl.ms
