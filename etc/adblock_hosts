@@ -1,4 +1,4 @@
-142.251.128.104 ssl.google-analytics.com
+142.250.218.168 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -2638,6 +2638,7 @@
 0.0.0.0 ad.mediaprimaplus.com.my
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.megapeer.ru
+0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.mox.tv
@@ -2863,6 +2864,7 @@
 0.0.0.0 adamoads.com
 0.0.0.0 adaog.com
 0.0.0.0 adaos-ads.net
+0.0.0.0 adapace.gotrackier.com
 0.0.0.0 adapd.com
 0.0.0.0 adapex.io
 0.0.0.0 adapf.com
@@ -3269,6 +3271,7 @@
 0.0.0.0 aditizanna.com
 0.0.0.0 aditize.com
 0.0.0.0 adjal.com
+0.0.0.0 adjar.gotrackier.com
 0.0.0.0 adjb.5nd.com
 0.0.0.0 adjector.com
 0.0.0.0 adjesty.com
@@ -4182,6 +4185,7 @@
 0.0.0.0 ads.mediatwo.com
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.meetcelebs.com
+0.0.0.0 ads.memob.com
 0.0.0.0 ads.metropolis.co.jp
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.miarroba.com
@@ -4596,6 +4600,7 @@
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 adsapi.snapchat.com
 0.0.0.0 adsapi.snapchat.com
+0.0.0.0 adsapp.gotrackier.com
 0.0.0.0 adsassets.waze.com
 0.0.0.0 adsatt.abc.starwave.com
 0.0.0.0 adsatt.abcnews.starwave.com
@@ -4950,6 +4955,7 @@
 0.0.0.0 adssend.net
 0.0.0.0 adssrv.nationmultimedia.com
 0.0.0.0 adssyscom.com
+0.0.0.0 adstacks.gotrackier.com
 0.0.0.0 adstarget.net
 0.0.0.0 adstargeting.com
 0.0.0.0 adstargets.com
@@ -4969,6 +4975,7 @@
 0.0.0.0 adstock.pro
 0.0.0.0 adstock.ru
 0.0.0.0 adstook.com
+0.0.0.0 adstory.gotrackier.com
 0.0.0.0 adstracking.apps.zing.vn
 0.0.0.0 adstripe.net
 0.0.0.0 adstudio.cloud
@@ -5500,6 +5507,7 @@
 0.0.0.0 adxxx.org
 0.0.0.0 adyapper.com
 0.0.0.0 adylalahb.ru
+0.0.0.0 adyogis.gotrackier.com
 0.0.0.0 adyoulike.com
 0.0.0.0 adyoulike.omnitagjs.com
 0.0.0.0 adysis.com
@@ -5730,6 +5738,7 @@
 0.0.0.0 affiliwelt.net
 0.0.0.0 affilixxl.de
 0.0.0.0 affilizr.com
+0.0.0.0 affilsoft.gotrackier.com
 0.0.0.0 affinesystems.com
 0.0.0.0 affinitad.com
 0.0.0.0 affinity.com
@@ -7335,6 +7344,7 @@
 0.0.0.0 aphycolourses.info
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 api-ad-callback.mobiuspace.net
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
@@ -7690,6 +7700,7 @@
 0.0.0.0 applaudcourageous.com
 0.0.0.0 applaudliteratureconsultant.com
 0.0.0.0 apple.www.letv.com
+0.0.0.0 appleads-trk.com
 0.0.0.0 applebarq.com
 0.0.0.0 applequan.com
 0.0.0.0 applescringe.com
@@ -7713,6 +7724,7 @@
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appmm.zapr.in
+0.0.0.0 appmontize.gotrackier.com
 0.0.0.0 appn.center
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appnext.com
@@ -7745,6 +7757,7 @@
 0.0.0.0 apps.nielsen.com
 0.0.0.0 apps.poln.co
 0.0.0.0 appsanalytics.appideas.it
+0.0.0.0 appsclicks.g2afse.com
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
@@ -8226,6 +8239,7 @@
 0.0.0.0 atedquali.one
 0.0.0.0 ateletswitoto.com
 0.0.0.0 atemda.com
+0.0.0.0 aterru.g2afse.com
 0.0.0.0 atevaccination.com
 0.0.0.0 atexceede.com
 0.0.0.0 atgallader.com
@@ -8328,6 +8342,7 @@
 0.0.0.0 au2m8.com
 0.0.0.0 auchoons.net
 0.0.0.0 aucked.com
+0.0.0.0 auctera.gotrackier.com
 0.0.0.0 auctionnudge.com
 0.0.0.0 audaciousdefault.com
 0.0.0.0 audiblyrang.com
@@ -10312,6 +10327,7 @@
 0.0.0.0 bleaborahm.one
 0.0.0.0 bleachfamouszinc.com
 0.0.0.0 bleinu.com
+0.0.0.0 blendai.gotrackier.com
 0.0.0.0 blendorbraker.com
 0.0.0.0 blenkbenched.casa
 0.0.0.0 bleokerrie.com
@@ -12921,6 +12937,7 @@
 0.0.0.0 click.zipcodez.com
 0.0.0.0 click.zmctrack.net
 0.0.0.0 click2.cafepress.com
+0.0.0.0 click2commission.gotrackier.com
 0.0.0.0 click2sell.eu
 0.0.0.0 click360.io
 0.0.0.0 click360v2-ingest.azurewebsites.net
@@ -14001,6 +14018,7 @@
 0.0.0.0 controlsgc.prisacom.com
 0.0.0.0 controlswim.com
 0.0.0.0 controversialseen.com
+0.0.0.0 conup.gotrackier.com
 0.0.0.0 conusmedia.com
 0.0.0.0 convdlink.com
 0.0.0.0 conventionforgetful.com
@@ -22764,6 +22782,7 @@
 0.0.0.0 harrietproverb.com
 0.0.0.0 hartalltunker.com
 0.0.0.0 hartsfieldrowesville.salleyoklaunion.com
+0.0.0.0 harvest.gotrackier.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 harvester.hbpl.co.uk
@@ -23994,6 +24013,7 @@
 0.0.0.0 hypeads.org
 0.0.0.0 hypemakers.net
 0.0.0.0 hyperactivate.com
+0.0.0.0 hyperads.gotrackier.com
 0.0.0.0 hyperadx.com
 0.0.0.0 hyperbanner.net
 0.0.0.0 hyperlinksecure.com
@@ -24897,6 +24917,7 @@
 0.0.0.0 inkestyle.net
 0.0.0.0 inklinkor.com
 0.0.0.0 inkornesto.com
+0.0.0.0 inkrevenue.gotrackier.com
 0.0.0.0 inktad.com
 0.0.0.0 inlacesepicly.com
 0.0.0.0 inlinks.de
@@ -27098,6 +27119,7 @@
 0.0.0.0 korenizvosmi.net
 0.0.0.0 korexo.com
 0.0.0.0 korgiejoinyou.com
+0.0.0.0 kormzi.gotrackier.com
 0.0.0.0 koromi.ru
 0.0.0.0 korovkasms.ru
 0.0.0.0 korrelate.net
@@ -30008,6 +30030,7 @@
 0.0.0.0 mediawayss.com
 0.0.0.0 mediaweaver.jp
 0.0.0.0 mediax.angloinfo.com
+0.0.0.0 mediaxpedia.gotrackier.com
 0.0.0.0 mediaz.angloinfo.com
 0.0.0.0 mediaz.asia
 0.0.0.0 mediaz.vn
@@ -31001,6 +31024,7 @@
 0.0.0.0 mobioffers.ru
 0.0.0.0 mobipromote.com
 0.0.0.0 mobiright.com
+0.0.0.0 mobisaturn.gotrackier.com
 0.0.0.0 mobisla.com
 0.0.0.0 mobitracker.info
 0.0.0.0 mobiyield.com
@@ -31088,6 +31112,7 @@
 0.0.0.0 momentcleanpitch.com
 0.0.0.0 momentexperimentsqueen.com
 0.0.0.0 momently.com
+0.0.0.0 momentus.gotrackier.com
 0.0.0.0 momijoy.ru
 0.0.0.0 mommygravelyslime.com
 0.0.0.0 momn.site
@@ -32175,6 +32200,7 @@
 0.0.0.0 netratings.com
 0.0.0.0 netrefer.com
 0.0.0.0 netseer.com
+0.0.0.0 netsetgo.gotrackier.com
 0.0.0.0 netshare.ltd
 0.0.0.0 netshelter.net
 0.0.0.0 netsled.net
@@ -33178,6 +33204,7 @@
 0.0.0.0 ocexikc.cn
 0.0.0.0 ochaugly.net
 0.0.0.0 ochze.com
+0.0.0.0 ociasb.adtiming.com
 0.0.0.0 ocio.leadzu.com
 0.0.0.0 oclaserver.com
 0.0.0.0 oclasrv.com
@@ -35100,6 +35127,7 @@
 0.0.0.0 phonefilamentembarrassment.com
 0.0.0.0 phonenow.net
 0.0.0.0 phonestar.info
+0.0.0.0 phono.gotrackier.com
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 phontomsasa.cfd
@@ -35554,6 +35582,7 @@
 0.0.0.0 play.yo.onvid.club
 0.0.0.0 play2.biz
 0.0.0.0 play4k.co
+0.0.0.0 playdigo.gotrackier.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player-feedback.p7s1video.net
 0.0.0.0 player-telemetry.vimeo.com
@@ -37528,6 +37557,7 @@
 0.0.0.0 quiapountaxed.com
 0.0.0.0 quick-counter.net
 0.0.0.0 quickads.net
+0.0.0.0 quickadsmedia.gotrackier.com
 0.0.0.0 quickanalytics.ca
 0.0.0.0 quickeryes.com
 0.0.0.0 quickkoala.io
@@ -39228,6 +39258,7 @@
 0.0.0.0 rsz.sk
 0.0.0.0 rszimg.com
 0.0.0.0 rt-ns.ru
+0.0.0.0 rt.adtiming.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rt.flix360.com
 0.0.0.0 rt.globalmailer.com
@@ -39245,6 +39276,7 @@
 0.0.0.0 rtb-media.ru
 0.0.0.0 rtb-seller.com
 0.0.0.0 rtb.adentifi.com
+0.0.0.0 rtb.adtiming.com
 0.0.0.0 rtb.adx1.com
 0.0.0.0 rtb.appbid.com
 0.0.0.0 rtb.com.ru
@@ -44462,6 +44494,8 @@
 0.0.0.0 tarpitbar.com
 0.0.0.0 tarrabastanly.com
 0.0.0.0 tarrilyathenee.com
+0.0.0.0 tarsan.g2afse.com
+0.0.0.0 tarsan.media-412.com
 0.0.0.0 tartarsharped.com
 0.0.0.0 tartator.com
 0.0.0.0 tarttendency.com
@@ -47248,6 +47282,7 @@
 0.0.0.0 twodrive.su
 0.0.0.0 twogldi.top
 0.0.0.0 twokidjay.com
+0.0.0.0 twotreymedia10001697.o18.click
 0.0.0.0 twpasol.com
 0.0.0.0 twpfa.cn
 0.0.0.0 twtad.com
@@ -48738,6 +48773,7 @@
 0.0.0.0 vigoroussolidjitter.com
 0.0.0.0 vigpsypoyta.com
 0.0.0.0 vigraghe.net
+0.0.0.0 vihit.gotrackier.com
 0.0.0.0 vihtori-analytics.fi
 0.0.0.0 vihub.ru
 0.0.0.0 viiadr.com
@@ -49307,6 +49343,7 @@
 0.0.0.0 vymhnxjyj.com
 0.0.0.0 vyocqq.com
 0.0.0.0 vyrhxfi.cn
+0.0.0.0 vytomi.gotrackier.com
 0.0.0.0 vyule.com
 0.0.0.0 vyvxx.com
 0.0.0.0 vz1m.com
