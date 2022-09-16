@@ -1,4 +1,4 @@
-142.250.218.168 ssl.google-analytics.com
+142.251.128.104 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -11015,6 +11015,7 @@
 0.0.0.0 btloader.com
 0.0.0.0 btmp4.net
 0.0.0.0 btmpgcgpjwagnx.com
+0.0.0.0 btn.clickability.com
 0.0.0.0 btn.counter.weather.ca
 0.0.0.0 btn.onlylady.com
 0.0.0.0 btn.pchome.net
@@ -11166,6 +11167,7 @@
 0.0.0.0 butterburst.com
 0.0.0.0 button-follow.zalo.me
 0.0.0.0 button-share.zalo.me
+0.0.0.0 button.clickability.com
 0.0.0.0 buttons-config.sharethis.com
 0.0.0.0 buttoothbrush.com
 0.0.0.0 buwuhapta.com
@@ -11703,6 +11705,7 @@
 0.0.0.0 caruagedlr.com
 0.0.0.0 carveac.com
 0.0.0.0 carvyre.com
+0.0.0.0 cas.clickability.com
 0.0.0.0 cas.clickability.com
 0.0.0.0 cas.cluep.com
 0.0.0.0 casadelfutbol.info
@@ -24641,6 +24644,7 @@
 0.0.0.0 imp.ad-plus.cn
 0.0.0.0 imp.apprevolve.com
 0.0.0.0 imp.clickability.com
+0.0.0.0 imp.clickability.com
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.dmm.co.jp
 0.0.0.0 imp.dmm.com
@@ -32299,7 +32303,6 @@
 0.0.0.0 news-news.co
 0.0.0.0 news-venere.com
 0.0.0.0 news.1ru.tv
-0.0.0.0 news.browns-restaurants.co.uk
 0.0.0.0 news.fangdaijisuanqi.com
 0.0.0.0 news.govorjat.ru
 0.0.0.0 news.jiukang.org
@@ -38791,6 +38794,7 @@
 0.0.0.0 rhymezebra.com
 0.0.0.0 rhythmmoney.com
 0.0.0.0 rhythmxchange.com
+0.0.0.0 ri.clickability.com
 0.0.0.0 ri.nuggad.net
 0.0.0.0 ri.revolvermaps.com
 0.0.0.0 riastats.com
@@ -39569,6 +39573,7 @@
 0.0.0.0 s.btstatic.com
 0.0.0.0 s.c.appier.net
 0.0.0.0 s.click.aliexpress.com
+0.0.0.0 s.clickability.com
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktex.ru
@@ -40747,6 +40752,7 @@
 0.0.0.0 sfp.safe.baidu.com
 0.0.0.0 sfstfiz.cn
 0.0.0.0 sftapi.com
+0.0.0.0 sftp.clickability.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sfxl.com.cn
@@ -42952,6 +42958,7 @@
 0.0.0.0 stats.cartoonnetwork.com
 0.0.0.0 stats.christianpost.com
 0.0.0.0 stats.clear-media.com
+0.0.0.0 stats.clickability.com
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.clickforknowledge.com
 0.0.0.0 stats.cmcigroup.com
