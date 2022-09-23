@@ -1,4 +1,4 @@
-142.250.219.200 ssl.google-analytics.com
+142.251.129.200 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -2496,7 +2496,6 @@
 0.0.0.0 ad.aduserver.com
 0.0.0.0 ad.adxcore.com
 0.0.0.0 ad.allboxing.ru
-0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.aloodo.com
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amgdgt.com
@@ -5446,7 +5445,6 @@
 0.0.0.0 adx-west-imp.aarki.net
 0.0.0.0 adx.admicro.vn
 0.0.0.0 adx.ads.oppomobile.com
-0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.chinmedia.vn
@@ -24532,7 +24530,6 @@
 0.0.0.0 images.mylot.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.perf-serving.com
-0.0.0.0 images.salsify.com
 0.0.0.0 images.specificclick.net
 0.0.0.0 images.webads.co.uk
 0.0.0.0 images1.cliqueclack.com
@@ -32309,6 +32306,7 @@
 0.0.0.0 news-news.co
 0.0.0.0 news-venere.com
 0.0.0.0 news.1ru.tv
+0.0.0.0 news.browns-restaurants.co.uk
 0.0.0.0 news.fangdaijisuanqi.com
 0.0.0.0 news.govorjat.ru
 0.0.0.0 news.jiukang.org
