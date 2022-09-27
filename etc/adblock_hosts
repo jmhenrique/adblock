@@ -1,4 +1,4 @@
-142.250.219.168 ssl.google-analytics.com
+172.217.28.8 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -8425,7 +8425,6 @@
 0.0.0.0 atzekromchan.com
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 au.umeng.com
-0.0.0.0 au1.gigya.com
 0.0.0.0 au2m8.com
 0.0.0.0 aubkikxiupnqgr.com
 0.0.0.0 auchoons.net
@@ -12190,7 +12189,6 @@
 0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gallery
-0.0.0.0 cdn.gigya.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
 0.0.0.0 cdn.haocaa.com
@@ -12258,7 +12256,6 @@
 0.0.0.0 cdn.qbaka.net
 0.0.0.0 cdn.raekdata.com
 0.0.0.0 cdn.rebel.ai
-0.0.0.0 cdn.rebuyengine.com
 0.0.0.0 cdn.redlightcenter.com
 0.0.0.0 cdn.relaido.jp
 0.0.0.0 cdn.reporo.net
@@ -12377,9 +12374,6 @@
 0.0.0.0 cdns.amgdgt.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdns.sdkconfig.site
-0.0.0.0 cdns1.gigya.com
-0.0.0.0 cdns2.gigya.com
-0.0.0.0 cdns3.gigya.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnspace.io
 0.0.0.0 cdnssl.clicktale.net
@@ -19178,9 +19172,7 @@
 0.0.0.0 eu.groupondata.com
 0.0.0.0 eu.market-place.su
 0.0.0.0 eu.spgo.io
-0.0.0.0 eu1.gigya.com
 0.0.0.0 eu1.madsone.com
-0.0.0.0 eu2.gigya.com
 0.0.0.0 eu2.madsone.com
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euadw.com
@@ -19867,7 +19859,6 @@
 0.0.0.0 farehitchlower.icu
 0.0.0.0 farethief.com
 0.0.0.0 farm-cn.plista.com
-0.0.0.0 farm5.gigya.com
 0.0.0.0 farmer.wego.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farshake.com
@@ -22720,8 +22711,10 @@
 0.0.0.0 gsb9.cn
 0.0.0.0 gsbsyljs.com
 0.0.0.0 gscontxt.net
+0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.gigya.com
 0.0.0.0 gscounters.gigya.com
+0.0.0.0 gscounters.us1.gigya.com
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsecurecontent.com
 0.0.0.0 gsf-cf.softonic.com
@@ -48961,7 +48954,6 @@
 0.0.0.0 us04logfiles-va.zoom.us
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1-sdk.bluedot.io
-0.0.0.0 us1.gigya.com
 0.0.0.0 us1.siteimprove.com
 0.0.0.0 us1tryasemi.ru
 0.0.0.0 us2.siteimprove.com
