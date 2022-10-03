@@ -1,4 +1,4 @@
-142.250.219.232 ssl.google-analytics.com
+142.251.128.72 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -30397,6 +30397,8 @@
 0.0.0.0 mcount.ru
 0.0.0.0 mcpuwpush.com
 0.0.0.0 mcqmall.com
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mcteu.cn
@@ -31704,6 +31706,7 @@
 0.0.0.0 mommygravelyslime.com
 0.0.0.0 momn.site
 0.0.0.0 momowa.momoshop.com.tw
+0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.domdog.io
