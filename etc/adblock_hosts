@@ -1,4 +1,4 @@
-142.251.128.72 ssl.google-analytics.com
+142.250.218.232 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -5342,6 +5342,7 @@
 0.0.0.0 advertica.ae
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
+0.0.0.0 advertise.ldplayer.net
 0.0.0.0 advertise.ru
 0.0.0.0 advertisecountrycrunch.com
 0.0.0.0 advertisegame.com
@@ -7016,6 +7017,7 @@
 0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics.sanoma.fi
+0.0.0.0 analytics.santander.co.uk
 0.0.0.0 analytics.scalemonk.com
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.seattleclouds.com
@@ -7501,6 +7503,7 @@
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.doumob.com
+0.0.0.0 api.eagllwin.com
 0.0.0.0 api.engager.ecbsn.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
@@ -7670,6 +7673,7 @@
 0.0.0.0 apirelay.ru
 0.0.0.0 apis.appnxt.net
 0.0.0.0 apis.com.br
+0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 apituner.ecbsn.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apiv2.tiin.vn
@@ -7758,6 +7762,7 @@
 0.0.0.0 appconfig.cmgdigital.com
 0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 appdiscovery.apptap.com
+0.0.0.0 appdump.nie.easebar.com
 0.0.0.0 appealsfini.com
 0.0.0.0 appealsunken.com
 0.0.0.0 appearancefingerprintabet.com
@@ -7783,6 +7788,7 @@
 0.0.0.0 applink.mob.com
 0.0.0.0 apploading.mobi
 0.0.0.0 applog.camera360.com
+0.0.0.0 applog.matrix.easebar.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.ucdns.uc.cn
@@ -8131,6 +8137,11 @@
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 ashyhamburgertwice.com
 0.0.0.0 ashyknob.com
+0.0.0.0 asia-analyzer-appstore.vivoglobal.com
+0.0.0.0 asia-comonrt-stsdk.vivoglobal.com
+0.0.0.0 asia-comort-stsdk.vivoglobal.com
+0.0.0.0 asia-ex-adlog.vivoglobal.com
+0.0.0.0 asia-exstsdk.vivoglobal.com
 0.0.0.0 asia-monitor-stsdk.vivoglobal.com
 0.0.0.0 asia-northeast1-affiliate-pr.cloudfunctions.net
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
@@ -12241,6 +12252,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 cdn.optmn.cloud
+0.0.0.0 cdn.orangeclickmedia.com
 0.0.0.0 cdn.orbengine.com
 0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.pardot.com
@@ -13281,6 +13293,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client-metrics.chess.com
+0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.midosoo.com
@@ -14732,6 +14745,7 @@
 0.0.0.0 creative-platform.vrvm.com
 0.0.0.0 creative-serving.com
 0.0.0.0 creative.cc-dt.com
+0.0.0.0 creative.eagllwin.com
 0.0.0.0 creative.leojmp.com
 0.0.0.0 creative.live.missav.com
 0.0.0.0 creative.lkqd.net
@@ -22172,6 +22186,7 @@
 0.0.0.0 go.ad2upapp.com
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.deliverymodo.com
+0.0.0.0 go.dhs.gov
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 go.goroost.com
@@ -24938,6 +24953,7 @@
 0.0.0.0 imads.integral-marketing.com
 0.0.0.0 imadworks.rediff.com
 0.0.0.0 image-rentracks.com
+0.0.0.0 image.cauly.co.kr
 0.0.0.0 image.cecash.com
 0.0.0.0 image.influenster.com
 0.0.0.0 image.moengage.com
@@ -25720,6 +25736,8 @@
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iosppk.com
 0.0.0.0 iosuppu.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
 0.0.0.0 iotechnologies.com
 0.0.0.0 iovgoexkassuwy.com
 0.0.0.0 ip-geo.appspot.com
@@ -29031,6 +29049,7 @@
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
 0.0.0.0 log.adap.tv
 0.0.0.0 log.aebn.net
@@ -30394,6 +30413,7 @@
 0.0.0.0 mcnt.jp
 0.0.0.0 mcontigo.com
 0.0.0.0 mcoreads.com
+0.0.0.0 mcount.easebar.com
 0.0.0.0 mcount.ru
 0.0.0.0 mcpuwpush.com
 0.0.0.0 mcqmall.com
@@ -30430,6 +30450,7 @@
 0.0.0.0 mdn2015x1.com
 0.0.0.0 mdotlabs.com
 0.0.0.0 mdotm.com
+0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mdpszsqzs.com
 0.0.0.0 mdqgwa.cn
 0.0.0.0 mds.nipa.co.th
@@ -30915,6 +30936,7 @@
 0.0.0.0 metrics.centex.com
 0.0.0.0 metrics.chacha.com
 0.0.0.0 metrics.chron.com
+0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.cleveland.com
 0.0.0.0 metrics.client-eng.a2z.com
@@ -31708,10 +31730,12 @@
 0.0.0.0 momowa.momoshop.com.tw
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.domdog.io
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.snssdk.com
+0.0.0.0 mon.tiktokv.com
 0.0.0.0 monadplug.com
 0.0.0.0 monasterycashierrepellent.com
 0.0.0.0 monbonsai.info
@@ -31943,6 +31967,8 @@
 0.0.0.0 mpkwleyxkmt.com
 0.0.0.0 mplaylist-ads.zadn.vn
 0.0.0.0 mplaylist-ads.zascdn.me
+0.0.0.0 mplusps.ims.vodafone.com
+0.0.0.0 mpluswf.ims.vodafone.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mpnrs.com
 0.0.0.0 mpnvhuokd.com
@@ -32806,6 +32832,7 @@
 0.0.0.0 netmonitor.fi
 0.0.0.0 netnesspb.com
 0.0.0.0 netpatas.com
+0.0.0.0 netperform-is.vodafone.com.tr
 0.0.0.0 netpoint-media.de
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netpub.media
@@ -33713,6 +33740,7 @@
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o626b32etkg6.com
 0.0.0.0 o65qmb.tw
+0.0.0.0 o861134.ingest.sentry.io
 0.0.0.0 oaascbasgdffq.com
 0.0.0.0 oaboudsi.com
 0.0.0.0 oackoubs.com
@@ -36202,6 +36230,7 @@
 0.0.0.0 pl12258511.puhtml.com
 0.0.0.0 pl136883.puhtml.com
 0.0.0.0 pl137937.puhtml.com
+0.0.0.0 pl15402247.highperformancecpm.com
 0.0.0.0 pl176754.puhtml.com
 0.0.0.0 pl1978.puhtml.com
 0.0.0.0 pl3087.puhtml.com
@@ -37271,6 +37300,7 @@
 0.0.0.0 prowlenchant.com
 0.0.0.0 prowlenthusiasticcongest.com
 0.0.0.0 prownl.com
+0.0.0.0 proxima.nie.easebar.com
 0.0.0.0 proximic.com
 0.0.0.0 proximitykit.radiusnetworks.com
 0.0.0.0 proxy.dzeio.com
@@ -40609,6 +40639,7 @@
 0.0.0.0 san-spr-01.net
 0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 sanalytics.ncaa.com
+0.0.0.0 sanalytics.tbs.com
 0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sancontr.com
@@ -41342,6 +41373,7 @@
 0.0.0.0 sentrapromosi.com
 0.0.0.0 sentry-track.vietnamworks.com
 0.0.0.0 sentry.arc.io
+0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 senxiaopang.top
 0.0.0.0 seo-master.net
@@ -44229,6 +44261,7 @@
 0.0.0.0 storage.onlinetv.media
 0.0.0.0 store.page.zaloapp.com
 0.0.0.0 storeacdn.com
+0.0.0.0 storeen.ldmnq.com
 0.0.0.0 stores-counters.wix.com
 0.0.0.0 storescissors.com
 0.0.0.0 storeslope.com
@@ -46726,7 +46759,13 @@
 0.0.0.0 tqlyjz.cn
 0.0.0.0 tqqjk.top
 0.0.0.0 tr-1.agilone.com
+0.0.0.0 tr-domaincfg.vivoglobal.com
 0.0.0.0 tr-op.datatrics.com
+0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
+0.0.0.0 tr-st-sl.vivoglobal.com
+0.0.0.0 tr-timesync.vivoglobal.com
+0.0.0.0 tr-vcode-api.vivoglobal.com
+0.0.0.0 tr-vcode-od.vivoglobal.com
 0.0.0.0 tr.bannersdf.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.bt.matrixspa.it
@@ -47015,6 +47054,7 @@
 0.0.0.0 track.vio.edu.vn
 0.0.0.0 track.visitorpath.com
 0.0.0.0 track.vscash.com
+0.0.0.0 track.wattpad.com
 0.0.0.0 track.wattpad.com
 0.0.0.0 track.wayin.com
 0.0.0.0 track.wesdk.co
@@ -48803,6 +48843,7 @@
 0.0.0.0 uomsogicgi.com
 0.0.0.0 uongsona.uno
 0.0.0.0 uongsono.uno
+0.0.0.0 uop.umeng.com
 0.0.0.0 uopmcdnpad.com
 0.0.0.0 uorlsblg.cyou
 0.0.0.0 uoyrsd.com
@@ -51069,6 +51110,7 @@
 0.0.0.0 whizzco.com
 0.0.0.0 whjibbprhng.com
 0.0.0.0 whkesznbi.com
+0.0.0.0 who.nie.easebar.com
 0.0.0.0 whoachoh.com
 0.0.0.0 whoansee.com
 0.0.0.0 whoaremyfriends.com
@@ -51931,6 +51973,7 @@
 0.0.0.0 xcms.shop
 0.0.0.0 xcmz999.com
 0.0.0.0 xcnqpwbeqanijjb.com
+0.0.0.0 xconf.cauly.co.kr
 0.0.0.0 xcounter.ch
 0.0.0.0 xcsaz.com
 0.0.0.0 xcsci.cn
