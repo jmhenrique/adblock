@@ -1,4 +1,4 @@
-172.217.28.232 ssl.google-analytics.com
+172.217.162.200 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored for https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -9714,8 +9714,6 @@
 0.0.0.0 beak.bigdata.dpgmmservices.nl
 0.0.0.0 beakdragon.com
 0.0.0.0 beakedpissod.com
-0.0.0.0 beam-ws.giraffe360.com
-0.0.0.0 beam.giraffe360.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beam.mjhlifesciences.com
 0.0.0.0 beam.remp.impresa.pt
@@ -20188,7 +20186,6 @@
 0.0.0.0 fftpzrscirdagr.com
 0.0.0.0 ffwap.com
 0.0.0.0 ffwjkbruvypv.com
-0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fg-z.com
 0.0.0.0 fgbsrtolbscjy.com
 0.0.0.0 fgcash.com.br
@@ -49500,7 +49497,6 @@
 0.0.0.0 verandahcrease.com
 0.0.0.0 verbalconnoisseurstoppage.com
 0.0.0.0 verblife-2.co
-0.0.0.0 verblife-3.co
 0.0.0.0 verblife-5.co
 0.0.0.0 verblife-5.co
 0.0.0.0 verbolia.com
