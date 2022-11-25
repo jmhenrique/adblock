@@ -1,4 +1,4 @@
-172.217.162.200 ssl.google-analytics.com
+142.251.128.8 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -4311,7 +4311,6 @@
 0.0.0.0 ads.iknowthatgirl.com
 0.0.0.0 ads.imagistica.com
 0.0.0.0 ads.imeem.com
-0.0.0.0 ads.img.co.za
 0.0.0.0 ads.img.globo.com
 0.0.0.0 ads.imguol.com
 0.0.0.0 ads.imgur.com
@@ -9839,7 +9838,6 @@
 0.0.0.0 banner.g6.zing.vn
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.hpmdnetwork.ru
-0.0.0.0 banner.img.co.za
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.kanald.com.tr
 0.0.0.0 banner.kiev.ua
@@ -37662,6 +37660,7 @@
 0.0.0.0 ping.smyte.com
 0.0.0.0 ping.taplytics.com
 0.0.0.0 ping.tvmaze.com
+0.0.0.0 ping.ublock.org
 0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 pingagenow.com
 0.0.0.0 pingapi.accengage.com
