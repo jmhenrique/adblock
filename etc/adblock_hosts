@@ -1,4 +1,4 @@
-142.250.218.200 ssl.google-analytics.com
+172.217.29.8 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
@@ -7305,7 +7305,6 @@
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.shop.hisense.com
 0.0.0.0 analytics.shorte.st
-0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sitewit.com
@@ -9109,7 +9108,6 @@
 0.0.0.0 avo.app
 0.0.0.0 avoadsservices.com
 0.0.0.0 avowtech.mobileadstrk.com
-0.0.0.0 avpa.javalobby.org
 0.0.0.0 avpbglwocpaq.com
 0.0.0.0 avppuqrudc.com
 0.0.0.0 avpris.ru
@@ -31555,7 +31553,6 @@
 0.0.0.0 matomo.chsc.dk
 0.0.0.0 matomo.cloud
 0.0.0.0 matomo.crossiety.app
-0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.lulea.se
 0.0.0.0 matomo.mindbite.cloud
 0.0.0.0 matomo.quan.hoabinh.vn
