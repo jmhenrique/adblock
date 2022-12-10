@@ -1,2 +1,2 @@
 ||corinthians.com.br^$replace=/Corinthians/Palmeiras/
-/.*:((?!(80|443|8081)$)(?=(([6-9]\d{3,})|\d{5,})))/$network
+/.*:((?!(80|443|8080)$)(?=(([6-9]\d{3,})|\d{5,})))/$network
