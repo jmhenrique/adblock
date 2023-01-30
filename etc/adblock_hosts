@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 28jan23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 30jan23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -31,7 +31,6 @@
 0.0.0.0 1.ajiyuming.com
 0.0.0.0 1.arpun.com
 0.0.0.0 1.bh5.com.cn
-0.0.0.0 1.ccutu.com
 0.0.0.0 1.cjcp.cn
 0.0.0.0 1.codesdq.com
 0.0.0.0 1.codezh.com
@@ -160,6 +159,7 @@
 0.0.0.0 4nb437eugn.ru.com
 0.0.0.0 5-internads-7.com
 0.0.0.0 5-n-appmobile.com
+0.0.0.0 5.ccutu.com
 0.0.0.0 5.gzfenda.com
 0.0.0.0 508327fbe9.95bd06d118.com
 0.0.0.0 50m.gkcyc.com
@@ -518,6 +518,7 @@
 0.0.0.0 ad-channel.wikawika.xyz
 0.0.0.0 ad-cheers.com
 0.0.0.0 ad-ck.ru
+0.0.0.0 ad-clcount.com
 0.0.0.0 ad-clicks.com
 0.0.0.0 ad-count.jp
 0.0.0.0 ad-creative.projectcarmen.com
@@ -3862,6 +3863,7 @@
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 behave.noen.at
+0.0.0.0 behavior.tongdun.net
 0.0.0.0 beijing.buzhi5.com
 0.0.0.0 bekannt-im-web.de
 0.0.0.0 believe-the-hype.be
@@ -5003,6 +5005,7 @@
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 convertexperiments.com.edgekey.net
 0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 cookie.codemarketing.cloud
 0.0.0.0 cookie.monster.com
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookieless-data.com
@@ -5540,6 +5543,7 @@
 0.0.0.0 d1zjr9cc2zx7cg.cloudfront.net
 0.0.0.0 d1zrs4deyai5xm.cloudfront.net
 0.0.0.0 d1zw85ny9dtn37.cloudfront.net
+0.0.0.0 d1zxg9iar5y3ur.cloudfront.net
 0.0.0.0 d2-apps.net
 0.0.0.0 d204slsrhoah2f.cloudfront.net
 0.0.0.0 d205jrj5h1616x.cloudfront.net
@@ -5547,6 +5551,7 @@
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
 0.0.0.0 d20je219bs8hnq.cloudfront.net
 0.0.0.0 d20kffh39acpue.cloudfront.net
+0.0.0.0 d20kfqepj430zj.cloudfront.net
 0.0.0.0 d213cc9tw38vai.cloudfront.net
 0.0.0.0 d21f25e9uvddd7.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
@@ -14319,6 +14324,7 @@
 0.0.0.0 urlpage-redirect.com
 0.0.0.0 us-1.gladly.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
+0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 us-east-1.elb.amazonaws.com
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
