@@ -3133,6 +3133,7 @@
 0.0.0.0 api.nrelate.com
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 api.oneaudience.com
+0.0.0.0 api.optimizely.com
 0.0.0.0 api.ozui.vn
 0.0.0.0 api.parse.com
 0.0.0.0 api.pdbarea.com
@@ -3226,6 +3227,7 @@
 0.0.0.0 app.hstatic.net
 0.0.0.0 app.mashero.com
 0.0.0.0 app.monetrack.com
+0.0.0.0 app.optimizely.com
 0.0.0.0 app.pulsatehq.com
 0.0.0.0 app.reflectivedata.com
 0.0.0.0 app.roximity.com
@@ -4426,6 +4428,7 @@
 0.0.0.0 cdn.neon.click
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 cdn.orangeclickmedia.com
 0.0.0.0 cdn.panelbear.com
@@ -4474,6 +4477,7 @@
 0.0.0.0 cdn2.cache.vn
 0.0.0.0 cdn28786515.ahacdn.me
 0.0.0.0 cdn2sitescout-a.akamaihd.net
+0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn44221613.ahacdn.me
 0.0.0.0 cdnads.cam4.com
 0.0.0.0 cdnads.geeksforgeeks.org
@@ -6728,7 +6732,6 @@
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 ema.hostvn.net
-0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-link.adtidy.net
 0.0.0.0 email-link.adtidy.org
 0.0.0.0 email-links.crowdfireapp.com
@@ -6962,6 +6965,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.matterport.com
 0.0.0.0 events.mercadolibre.com
+0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.newsroom.bi
 0.0.0.0 events.niit-mts.com
@@ -8771,6 +8775,7 @@
 0.0.0.0 log.ohmynews.com
 0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
+0.0.0.0 log.optimizely.com
 0.0.0.0 log.oto.com.vn
 0.0.0.0 log.outbrain.org
 0.0.0.0 log.outbrainimg.com
@@ -8853,6 +8858,7 @@
 0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
 0.0.0.0 log22.makeshop.co.kr
+0.0.0.0 log3.optimizely.com
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 logapi.misa.com.vn
@@ -8941,6 +8947,7 @@
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logtake.weidian.com
 0.0.0.0 logv2.mp3.zing.vn
+0.0.0.0 logx.optimizely.com
 0.0.0.0 logzh.dantocmiennui.vn
 0.0.0.0 logzh.vietnamplus.vn
 0.0.0.0 lojapremio.com.br
@@ -11831,6 +11838,7 @@
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 service-update.online
 0.0.0.0 service.kingoapp.com
+0.0.0.0 service.maxymiser.net
 0.0.0.0 service.multi-pops.com
 0.0.0.0 service.urchin.com
 0.0.0.0 servicelayer.king.com
