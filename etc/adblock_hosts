@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 08feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 10feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -6638,7 +6638,6 @@
 0.0.0.0 e.imguol.com
 0.0.0.0 e.invodo.com
 0.0.0.0 e.kde.cz
-0.0.0.0 e.metarouter.io
 0.0.0.0 e.qq.com
 0.0.0.0 e.sexad.net
 0.0.0.0 e.thanksearch.com
@@ -8617,6 +8616,7 @@
 0.0.0.0 limone.iltrovatore.it
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 linicom.co.uk
+0.0.0.0 link-a.net
 0.0.0.0 link-ag.net
 0.0.0.0 link-booster.de
 0.0.0.0 link-crawler.com
@@ -8638,7 +8638,6 @@
 0.0.0.0 links.voyeurweb.com
 0.0.0.0 links.worldbannerexchange.com
 0.0.0.0 links.zoopla.co.uk
-0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 lists-tracking.komando.com
 0.0.0.0 lists.ccmbg.com
 0.0.0.0 lite-cdn.com
@@ -8802,7 +8801,6 @@
 0.0.0.0 log.ngaynay.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.nordot.jp
-0.0.0.0 log.ohmynews.com
 0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
@@ -10943,6 +10941,7 @@
 0.0.0.0 publish.iptvz.net
 0.0.0.0 publish.web.id
 0.0.0.0 publisher-east.mobileadtrading.com
+0.0.0.0 publisher-network.com
 0.0.0.0 publishers.advertising.a2z.com
 0.0.0.0 pubmatic.edgekey.net
 0.0.0.0 pubs.hiddennetwork.com
@@ -12342,6 +12341,7 @@
 0.0.0.0 staples.com.edgekey.net
 0.0.0.0 star-advertising.com
 0.0.0.0 star-cntr-5.com
+0.0.0.0 star-seo.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0 star.manystars.ru
 0.0.0.0 start-page.org
 0.0.0.0 start-xyz.com
@@ -12357,6 +12357,7 @@
 0.0.0.0 stat.24liveplus.com
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.5-tv.ru
+0.0.0.0 stat.absolutist.com
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.adguard.com
 0.0.0.0 stat.airdroid.com
@@ -13744,6 +13745,7 @@
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.fado.vn
 0.0.0.0 tracker.fengkongcloud.com
+0.0.0.0 tracker.files.fm
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.freecharge.in
 0.0.0.0 tracker.gamedock.io
@@ -14114,7 +14116,6 @@
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 trackla.stackla.com
-0.0.0.0 tracklink-tel.de
 0.0.0.0 tracklog.58.com
 0.0.0.0 trackpm.shop2market.com
 0.0.0.0 tracks.arubamediamarketing.it
@@ -14496,6 +14497,7 @@
 0.0.0.0 v2.adgoto.com
 0.0.0.0 v2.urlads.net
 0.0.0.0 v20.cnnd.vn
+0.0.0.0 v2st.shinobi.jp
 0.0.0.0 v5.chinoc.net
 0.0.0.0 v8.analytics.pinsightmedia.com
 0.0.0.0 v96-surf.com
