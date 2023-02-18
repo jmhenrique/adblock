@@ -3,11 +3,10 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 15feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 18feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
-0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 04-f-bmf.com
 0.0.0.0 0a0d-d3l1vr.b-cdn.net
 0.0.0.0 0u.fastdmn0.com
@@ -102,7 +101,6 @@
 0.0.0.0 1800.stats.misstrends.com
 0.0.0.0 1867.stats.misstrends.com
 0.0.0.0 1buu1.penyouw.com
-0.0.0.0 1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1minto-start.com
 0.0.0.0 1to1.bbva.com
@@ -1971,6 +1969,7 @@
 0.0.0.0 adserver.cdnstream.com
 0.0.0.0 adserver.cherryfind.co.uk
 0.0.0.0 adserver.clix.pt
+0.0.0.0 adserver.ddev.site
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitalmedianet.com
 0.0.0.0 adserver.digitoday.com
@@ -2198,6 +2197,7 @@
 0.0.0.0 adv2.expres.ua
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advancelocal-adapter-image-uploads.s3.amazonaws.com
+0.0.0.0 advantage.digitalsunray.com
 0.0.0.0 advast.sibnet.ru
 0.0.0.0 adver.24h.com.vn
 0.0.0.0 adversting.riamedia.com.ua
@@ -3511,6 +3511,7 @@
 0.0.0.0 b.fox.com
 0.0.0.0 b.grvcdn.com
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
+0.0.0.0 b.karte.io
 0.0.0.0 b.kouke5.com
 0.0.0.0 b.nude-moon.xyz
 0.0.0.0 b.oix.net
@@ -3522,6 +3523,7 @@
 0.0.0.0 b.thanksearch.com
 0.0.0.0 b.unjs.com
 0.0.0.0 b.wishabi.com
+0.0.0.0 b0.yahoo.co.jp
 0.0.0.0 b1.51scw.net
 0.0.0.0 b1.91jucai.com
 0.0.0.0 b1.b2b168.com
@@ -3875,6 +3877,7 @@
 0.0.0.0 beacon.toyota.co.jp
 0.0.0.0 beacon.tunecore.com
 0.0.0.0 beacon.tws.toyota.jp
+0.0.0.0 beacon.unext.jp
 0.0.0.0 beacon.vertebrae-axis.com
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon.walmart.ca
@@ -3928,6 +3931,7 @@
 0.0.0.0 besucherzaehler-homepage.de
 0.0.0.0 besucherzaehler-zugriffszaehler.de
 0.0.0.0 bet.championat.com
+0.0.0.0 beta-log.anninhthudo.vn
 0.0.0.0 beta-news.org
 0.0.0.0 beta.galleries.paperstreetcash.com
 0.0.0.0 beta.mediafort.ru
@@ -5694,6 +5698,7 @@
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d2h2t5pll64zl8.cloudfront.net
+0.0.0.0 d2h7xgu48ne6by.cloudfront.net
 0.0.0.0 d2ho1n52p59mwv.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2hvwfg7vv4mhf.cloudfront.net
@@ -6157,6 +6162,7 @@
 0.0.0.0 dating-service.net
 0.0.0.0 dating-z.shop
 0.0.0.0 db.riskwaters.com
+0.0.0.0 db033pq6bj64g.cloudfront.net
 0.0.0.0 dba9ytko5p72r.cloudfront.net
 0.0.0.0 dbcdqp72lzmvj.cloudfront.net
 0.0.0.0 dbex-tracker-v2.driveback.ru
@@ -6645,6 +6651,7 @@
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0 dz5bomaog2c5t.cloudfront.net
+0.0.0.0 dz6uw9vrm7nx6.cloudfront.net
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 dzr4v2ld8fze2.cloudfront.net
 0.0.0.0 dzs55b7slwyx.cloudfront.net
@@ -7669,6 +7676,7 @@
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 green-red.com
 0.0.0.0 grounded-card.pro
+0.0.0.0 groupstats.chat.zalo.me
 0.0.0.0 groupstats.event.zalo.me
 0.0.0.0 grow.powerstep.com
 0.0.0.0 grown-inpp-code.com
@@ -7849,7 +7857,6 @@
 0.0.0.0 hits.tf.rs
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hitserver.ibope.com.br
-0.0.0.0 hitweb.chosun.com
 0.0.0.0 hitweb2.chosun.com
 0.0.0.0 hktracker.hankookilbo.com
 0.0.0.0 hlog.hiido.com
@@ -8748,7 +8755,6 @@
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log-collector.svctr.zynga.com
-0.0.0.0 log-giaoducthoidai.epicdn.me
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-live.direct.ly
 0.0.0.0 log-marketing.jp
@@ -8775,8 +8781,11 @@
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.bandi.so
+0.0.0.0 log.baobackan.com.vn
+0.0.0.0 log.baocaobang.vn
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
+0.0.0.0 log.baogialai.com.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.baonghean.vn
 0.0.0.0 log.baophapluat.vn
@@ -8849,6 +8858,7 @@
 0.0.0.0 log.newsbreak.jp
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.ngaynay.vn
+0.0.0.0 log.nhandan.vn
 0.0.0.0 log.nhipcaudautu.vn
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.ohou.se
@@ -8912,6 +8922,7 @@
 0.0.0.0 log.vnfinance.vn
 0.0.0.0 log.vov.vn
 0.0.0.0 log.vovplus.vn
+0.0.0.0 log.vovworld.vn
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.worldsoft-cms.info
@@ -8994,6 +9005,7 @@
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs-ott.fbox.fpt.vn
 0.0.0.0 logs-partners.coupang.com
+0.0.0.0 logs.1cdn.vn
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.81plug.com
 0.0.0.0 logs.amap.com
@@ -9110,6 +9122,7 @@
 0.0.0.0 m.usersonline.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 m.yap.yahoo.com
+0.0.0.0 m.zedcdn.me
 0.0.0.0 m.zwsteel.cn
 0.0.0.0 m1-shop.ru
 0.0.0.0 m1.100how.com
@@ -9286,6 +9299,7 @@
 0.0.0.0 mds.nipa.co.th
 0.0.0.0 me-client.eservice.emarsys.net
 0.0.0.0 me.networkandfaces.com
+0.0.0.0 me.zedcdn.me
 0.0.0.0 measure.mf.cz
 0.0.0.0 measure.office.com
 0.0.0.0 measure.refinery89.com
@@ -9300,6 +9314,7 @@
 0.0.0.0 media-a.vpptechnologies.com
 0.0.0.0 media-active.ru
 0.0.0.0 media-adrunner.mycomputer.com
+0.0.0.0 media-ads.zaloapp.com
 0.0.0.0 media-b.vpptechnologies.com
 0.0.0.0 media-c.vpptechnologies.com
 0.0.0.0 media-d.vpptechnologies.com
@@ -9647,6 +9662,7 @@
 0.0.0.0 mkt.hoanghamobile.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 ml-attr.com
+0.0.0.0 ml-sys.xyz
 0.0.0.0 mladvertistsldah.com.ua
 0.0.0.0 mlog.hiido.com
 0.0.0.0 mlre.com.cn
@@ -10060,6 +10076,7 @@
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 nnoxzo.rfskbylbsf.xyz
 0.0.0.0 noah.reddion.com
+0.0.0.0 node.aibeacon.jp
 0.0.0.0 node.market-place.su
 0.0.0.0 node.sm-dafa.com
 0.0.0.0 noflake-aggregator-http.narvar.com
@@ -10949,6 +10966,7 @@
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 promotion.haravan.com
 0.0.0.0 promotionad.nvcam.net
+0.0.0.0 promotionbar.sapoapps.vn
 0.0.0.0 promotionpopup.sapoapps.vn
 0.0.0.0 promotions-884485.c.cdn77.org
 0.0.0.0 promotions.betfred.com
@@ -11887,9 +11905,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sensors.yodo1api.com
-0.0.0.0 sentry-mini.zalo.me
 0.0.0.0 sentry-new.divar.ir
-0.0.0.0 sentry-track.vietnamworks.com
 0.0.0.0 sentry.arc.io
 0.0.0.0 sentry.cafebazaar.org
 0.0.0.0 sentry.footballiapp.com
@@ -11962,6 +11978,7 @@
 0.0.0.0 servo-report.dvdfab.fr
 0.0.0.0 session.timecommerce.net
 0.0.0.0 setting.adzcore.com
+0.0.0.0 setting.intl.miui.com
 0.0.0.0 setupstronghighlyinfo-file.info
 0.0.0.0 seuranta.finland.fi
 0.0.0.0 sex-and-flirt.com
@@ -12480,6 +12497,7 @@
 0.0.0.0 stat.onemob.mobi
 0.0.0.0 stat.pchome.net
 0.0.0.0 stat.php-d.com
+0.0.0.0 stat.play.zing.vn
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stat.rare.ru
 0.0.0.0 stat.ringier.sk
@@ -12739,6 +12757,7 @@
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.ksearchnet.com
 0.0.0.0 stats.kumulos.com
+0.0.0.0 stats.lab.zalo.ai
 0.0.0.0 stats.landingi.com
 0.0.0.0 stats.libresse.no
 0.0.0.0 stats.livingsocial.com
@@ -12804,6 +12823,7 @@
 0.0.0.0 stats.slideshare.net
 0.0.0.0 stats.someecards.com
 0.0.0.0 stats.stb-ottow.de
+0.0.0.0 stats.stg.zaloapp.com
 0.0.0.0 stats.storify.com
 0.0.0.0 stats.streamhub.io
 0.0.0.0 stats.suite101.com
@@ -12880,6 +12900,8 @@
 0.0.0.0 statsapi.screen9.com
 0.0.0.0 statsapi.tiendeo.com.tr
 0.0.0.0 statscol.pond5.com
+0.0.0.0 statscollector-1.agora.io
+0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statsd.zmags.com
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statstracker.celebrity-gossip.net
@@ -15275,7 +15297,6 @@
 0.0.0.0 ys.muhoujiemi.com
 0.0.0.0 ys2000.cdn.bcebos.com
 0.0.0.0 ysdk.qq.com
-0.0.0.0 ysdm.ys137.com.cn
 0.0.0.0 yt-adp.nosdn.127.net
 0.0.0.0 yt-adp.ws.126.net
 0.0.0.0 yu.dlxxjsh.top
