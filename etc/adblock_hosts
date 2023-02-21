@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 18feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 20feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -5602,6 +5602,7 @@
 0.0.0.0 d1zxg9iar5y3ur.cloudfront.net
 0.0.0.0 d1zy4z3rd7svgh.cloudfront.net
 0.0.0.0 d2-apps.net
+0.0.0.0 d200108c6x0w2v.cloudfront.net
 0.0.0.0 d204slsrhoah2f.cloudfront.net
 0.0.0.0 d205jrj5h1616x.cloudfront.net
 0.0.0.0 d20903hof2l33q.cloudfront.net
@@ -5731,6 +5732,7 @@
 0.0.0.0 d2l3f1n039mza.cloudfront.net
 0.0.0.0 d2lahoz916es9g.cloudfront.net
 0.0.0.0 d2lp70uu6oz7vk.cloudfront.net
+0.0.0.0 d2ltukojvgbso5.cloudfront.net
 0.0.0.0 d2lv4zbk7v5f93.cloudfront.net
 0.0.0.0 d2lxammzjarx1n.cloudfront.net
 0.0.0.0 d2lxztepvo7ma1.cloudfront.net
@@ -6652,6 +6654,7 @@
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0 dz5bomaog2c5t.cloudfront.net
 0.0.0.0 dz6uw9vrm7nx6.cloudfront.net
+0.0.0.0 dzdgfp673c1p0.cloudfront.net
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 dzr4v2ld8fze2.cloudfront.net
 0.0.0.0 dzs55b7slwyx.cloudfront.net
@@ -7301,6 +7304,7 @@
 0.0.0.0 for.health-net-lady.ru
 0.0.0.0 force24.co.uk
 0.0.0.0 forced-layer.de
+0.0.0.0 forecast.lemonde.fr
 0.0.0.0 foreign.nearme.com.cn
 0.0.0.0 forestseasons.com.cn
 0.0.0.0 foreveryoung.gz01.bdysite.com
@@ -10383,6 +10387,7 @@
 0.0.0.0 outbrainimg.com.edgekey.net
 0.0.0.0 outsmoke-niyaxabura.com
 0.0.0.0 ov.yahoo.co.jp
+0.0.0.0 overcooked-addition.pro
 0.0.0.0 overjoyed-balance.com
 0.0.0.0 overlay.aibuy.io
 0.0.0.0 overlay.ringtonematcher.com
