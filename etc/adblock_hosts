@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 20feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 22feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -89,6 +89,7 @@
 0.0.0.0 12.cookcai.com
 0.0.0.0 12112336.pix-cdn.org
 0.0.0.0 123-counter.de
+0.0.0.0 123-movies.bz
 0.0.0.0 123-tracker.com
 0.0.0.0 1278725189.pub.ezanga.com
 0.0.0.0 14-tracking.com
@@ -875,6 +876,7 @@
 0.0.0.0 adapace.gotrackier.com
 0.0.0.0 adapi.inlcorp.com
 0.0.0.0 adapi.tuyensinh247.com
+0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -4109,6 +4111,7 @@
 0.0.0.0 bridgetrack.com.edgesuite.net
 0.0.0.0 bridgetrack.speedera.r3h.net
 0.0.0.0 brigi-jar.com
+0.0.0.0 brilliant-raise.pro
 0.0.0.0 british-banners.com
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser-intake-datadoghq.eu
@@ -5105,6 +5108,7 @@
 0.0.0.0 counter.1gb.ru
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.24h.com.vn
+0.0.0.0 counter.24smi.info
 0.0.0.0 counter.adguard.com
 0.0.0.0 counter.ajansspor.com
 0.0.0.0 counter.all.biz
@@ -5422,6 +5426,7 @@
 0.0.0.0 d188m5xxcpvuue.cloudfront.net
 0.0.0.0 d18e74vjvmvza1.cloudfront.net
 0.0.0.0 d18g6t7whf8ejf.cloudfront.net
+0.0.0.0 d18kg2zy9x3t96.cloudfront.net
 0.0.0.0 d18mealirgdbbz.cloudfront.net
 0.0.0.0 d18myvrsrzjrd7.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
@@ -6458,6 +6463,7 @@
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
+0.0.0.0 dn9uzzhcwc0ya.cloudfront.net
 0.0.0.0 dne6rbzy5csnc.cloudfront.net
 0.0.0.0 dnf06i4y06g13.cloudfront.net
 0.0.0.0 dnh523js9661q.cloudfront.net
@@ -7429,6 +7435,7 @@
 0.0.0.0 ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
 0.0.0.0 ganon.yahoo.com
+0.0.0.0 gaseous-power.com
 0.0.0.0 gate-sync.net
 0.0.0.0 gateway.ttpsdk.info
 0.0.0.0 gateway.yieldify-production.com
@@ -8258,6 +8265,7 @@
 0.0.0.0 intercom-clicks.com
 0.0.0.0 intermrkts.vo.llnwd.net
 0.0.0.0 internal-analytics.odoo.com
+0.0.0.0 internal-heart.pro
 0.0.0.0 internal.fuckyoucash.com
 0.0.0.0 interstitial-07.com
 0.0.0.0 interstitial-08.com
@@ -8782,7 +8790,6 @@
 0.0.0.0 log.apkomega.com
 0.0.0.0 log.appbundledownload.com
 0.0.0.0 log.appdriver.jp
-0.0.0.0 log.artipbox.net
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.bandi.so
 0.0.0.0 log.baobackan.com.vn
@@ -8845,7 +8852,6 @@
 0.0.0.0 log.kinhdoanhhoinhap.vn
 0.0.0.0 log.kinhtedouong.vn
 0.0.0.0 log.krs-ix.ru
-0.0.0.0 log.kslogs.ru
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.lemonpi.io
 0.0.0.0 log.lon22.com
@@ -8883,6 +8889,7 @@
 0.0.0.0 log.radiko.jp
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.rutube.ru
+0.0.0.0 log.saigondautu.com.vn
 0.0.0.0 log.seekda.com
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.shufoo.net
@@ -9002,7 +9009,6 @@
 0.0.0.0 logly.co.jp
 0.0.0.0 logo-net.co.uk
 0.0.0.0 logperf.vnexpress.net
-0.0.0.0 logping.exblog.jp
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logru.vietnamplus.vn
 0.0.0.0 logs-01.loggly.com
@@ -9963,7 +9969,6 @@
 0.0.0.0 neobasnet.timeout.ru
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 neoebiz.co.kr
-0.0.0.0 ner-de-mi-nis-6.info
 0.0.0.0 nest.net.ru
 0.0.0.0 net-filter.com
 0.0.0.0 net-protector.com
@@ -11190,6 +11195,7 @@
 0.0.0.0 ra.rockcontent.com
 0.0.0.0 rabattkoder.ifragasatt.se
 0.0.0.0 rabc1.iteye.com
+0.0.0.0 rac.ruutu.fi
 0.0.0.0 radar.bayan.ir
 0.0.0.0 raddoppia-bitcoin.click
 0.0.0.0 raddoppia-bitcoin.pro
@@ -11550,7 +11556,6 @@
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.layer0.co
 0.0.0.0 rum.marquardmedia.hu
-0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
@@ -14329,7 +14334,6 @@
 0.0.0.0 trkr.shoppingminds.net
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 trovus.co.uk
-0.0.0.0 tru.webelapp.com
 0.0.0.0 truehits.in.th
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
@@ -14753,6 +14757,7 @@
 0.0.0.0 vnn-tracking.vnncdn.net
 0.0.0.0 vodafone-direkt.de
 0.0.0.0 vogo-vogo.ru
+0.0.0.0 voices-kerence.com
 0.0.0.0 volgograd-info.ru
 0.0.0.0 vologda-info.ru
 0.0.0.0 vortex.data.microsoft.com
