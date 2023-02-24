@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 22feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 24feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -140,7 +140,6 @@
 0.0.0.0 360.anatic.net
 0.0.0.0 360yield-basic.com
 0.0.0.0 3amcouk.skimlinks.com
-0.0.0.0 3d55ty.cfeucdn.com
 0.0.0.0 3o9s.short.gy
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
@@ -566,6 +565,7 @@
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-serving.de
+0.0.0.0 ad-site55.net
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net
 0.0.0.0 ad-spire.net
@@ -738,6 +738,7 @@
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.onliner.by
+0.0.0.0 ad.orange-park.jp
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.outsidehub.com
 0.0.0.0 ad.outstream.today
@@ -792,7 +793,6 @@
 0.0.0.0 ad.universcine.com
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.velomania.ru
-0.0.0.0 ad.vhls.ru.com
 0.0.0.0 ad.vidver.to
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.virtual-nights.com
@@ -1192,7 +1192,6 @@
 0.0.0.0 ads.asiafriendfinder.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.asredas.com
-0.0.0.0 ads.audio.thisisdax.com
 0.0.0.0 ads.autonet.com.vn
 0.0.0.0 ads.autotrader.com
 0.0.0.0 ads.avct.cloud
@@ -4665,6 +4664,7 @@
 0.0.0.0 click.i.southwesternrailway.com
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.jasmin.com
+0.0.0.0 click.justwatch.com
 0.0.0.0 click.kataweb.it
 0.0.0.0 click.khingtracking.com
 0.0.0.0 click.livejasmin.com
@@ -5057,7 +5057,6 @@
 0.0.0.0 conversionlabs.net.pl
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 convertexperiments.com.edgekey.net
-0.0.0.0 convusmp.admailtiser.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie.codemarketing.cloud
 0.0.0.0 cookie.monster.com
@@ -5337,6 +5336,7 @@
 0.0.0.0 cylindrical-pollution.pro
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cz0nm0sg-hk.cn
+0.0.0.0 d-064.com
 0.0.0.0 d-1.co
 0.0.0.0 d-agency.net
 0.0.0.0 d-bi.fr
@@ -5404,6 +5404,7 @@
 0.0.0.0 d13vul5n9pqibl.cloudfront.net
 0.0.0.0 d140sbu1b1m3h0.cloudfront.net
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
+0.0.0.0 d145ghnzqbsasr.cloudfront.net
 0.0.0.0 d14821r0t3377v.cloudfront.net
 0.0.0.0 d14pdm1b7fi5kh.cloudfront.net
 0.0.0.0 d14zhsq5aop7ap.cloudfront.net
@@ -5488,6 +5489,7 @@
 0.0.0.0 d1fs2ef81chg3.cloudfront.net
 0.0.0.0 d1g2nud28z4vph.cloudfront.net
 0.0.0.0 d1g4493j0tcwvt.cloudfront.net
+0.0.0.0 d1g4xgvlcsj49g.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1gwclp1pmzk26.cloudfront.net
 0.0.0.0 d1ha41wacubcnb.cloudfront.net
@@ -5498,6 +5500,7 @@
 0.0.0.0 d1igp3oop3iho5.cloudfront.net
 0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1izuvv2qy7hel.cloudfront.net
+0.0.0.0 d1j1m9awq6n3x3.cloudfront.net
 0.0.0.0 d1j2jv7bvcsxqg.cloudfront.net
 0.0.0.0 d1j47wsepxe9u2.cloudfront.net
 0.0.0.0 d1j6limf657foe.cloudfront.net
@@ -5759,6 +5762,7 @@
 0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2ojfulajn60p5.cloudfront.net
+0.0.0.0 d2ov8ip31qpxly.cloudfront.net
 0.0.0.0 d2oy22m6xey08r.cloudfront.net
 0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
 0.0.0.0 d2pdbggfzjbhzh.cloudfront.net
@@ -5859,6 +5863,7 @@
 0.0.0.0 d34opff713c3gh.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d34rdvn2ky3gnm.cloudfront.net
+0.0.0.0 d34zwq0l4x27a6.cloudfront.net
 0.0.0.0 d359wjs9dpy12d.cloudfront.net
 0.0.0.0 d35kbxc0t24sp8.cloudfront.net
 0.0.0.0 d35r45qhjmgs3g.cloudfront.net
@@ -6262,6 +6267,7 @@
 0.0.0.0 depart.trinitymedia.ai
 0.0.0.0 deprecated-custom-domains.b-cdn.net
 0.0.0.0 deserted-employment.pro
+0.0.0.0 desgao1zt7irn.cloudfront.net
 0.0.0.0 desv383oqqc0.cloudfront.net
 0.0.0.0 detect.ergebnis-dienst.de
 0.0.0.0 detectca.easysol.net
@@ -7901,6 +7907,7 @@
 0.0.0.0 hostedbannerads.aebn.net
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hot-3d-girls.com
+0.0.0.0 hot-clips.space
 0.0.0.0 hot-count.com
 0.0.0.0 hot-dating-here.life
 0.0.0.0 hot-eam.com
@@ -9237,7 +9244,6 @@
 0.0.0.0 mastertag.kpcustomer.de
 0.0.0.0 mastertag.q-sis.de
 0.0.0.0 mat.socy.es
-0.0.0.0 match.basebanner.com
 0.0.0.0 matchbin-assets.s3.amazonaws.com
 0.0.0.0 materiel.baizhan.net
 0.0.0.0 materiel.junshidao.com
@@ -11021,6 +11027,7 @@
 0.0.0.0 pub.toku-tag.jp
 0.0.0.0 pubfeed.linkby.com
 0.0.0.0 publi.atresmediapublicidad.com
+0.0.0.0 public.adgger.jp
 0.0.0.0 public.bd.313.nl
 0.0.0.0 public.porn.fr
 0.0.0.0 publicidad.elmundo.es
@@ -11950,7 +11957,6 @@
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 servedby.proxena-adserver.com
 0.0.0.0 servedby.revive-adserver.net
-0.0.0.0 servedby.studads.com
 0.0.0.0 servedby.yell.com
 0.0.0.0 server.adeasy.ru
 0.0.0.0 server.bidstack.com
@@ -12043,6 +12049,7 @@
 0.0.0.0 sikr.chimeratool.com
 0.0.0.0 simple-isl.com
 0.0.0.0 sin1.geoadnxs.com
+0.0.0.0 sing-tracker.com
 0.0.0.0 sis.jpush.io
 0.0.0.0 site-kaiseki-tool.com
 0.0.0.0 site-lock.net
@@ -12383,7 +12390,6 @@
 0.0.0.0 srmdata-eur.com
 0.0.0.0 srmdata-us.com
 0.0.0.0 srtb.msn.com
-0.0.0.0 srv.admailtiser.com
 0.0.0.0 srv.dc-1.net
 0.0.0.0 srv.dynamicyield.com
 0.0.0.0 srv.tunefindforfans.com
@@ -12421,7 +12427,6 @@
 0.0.0.0 st-1.1fichier.com
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 st-eu.dynamicyield.com
-0.0.0.0 st-n.pc5ads.com
 0.0.0.0 st-rdirect.com
 0.0.0.0 st.astraone.io
 0.0.0.0 st.bitban.com
@@ -12440,6 +12445,7 @@
 0.0.0.0 stage.traffiliate.com
 0.0.0.0 staples.com.edgekey.net
 0.0.0.0 star-advertising.com
+0.0.0.0 star-clicks.com
 0.0.0.0 star-cntr-5.com
 0.0.0.0 star-seo.oss-ap-northeast-1.aliyuncs.com
 0.0.0.0 star.manystars.ru
@@ -12629,7 +12635,6 @@
 0.0.0.0 statistic.imgpay.ru
 0.0.0.0 statistiche-free.com
 0.0.0.0 statistiche-web.com
-0.0.0.0 statistics-se.talentum.com
 0.0.0.0 statistics-vov2.vov.vn
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.crowdynews.com
@@ -13966,7 +13971,6 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.arbetarbladet.se
 0.0.0.0 tracking.atreemo.com
-0.0.0.0 tracking.audio.thisisdax.com
 0.0.0.0 tracking.avestatidning.com
 0.0.0.0 tracking.badgeville.com
 0.0.0.0 tracking.bandypuls.se
@@ -14504,7 +14508,6 @@
 0.0.0.0 upgrade-sim-card.com
 0.0.0.0 uplift-platform.com
 0.0.0.0 upload-now.net
-0.0.0.0 upset.xsuffer.com
 0.0.0.0 upsight-api.com
 0.0.0.0 uptime.monitorus.ru
 0.0.0.0 upu.samsungelectronics.com
@@ -15382,6 +15385,7 @@
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
 0.0.0.0 zona1.at.ua
+0.0.0.0 zone-annuaire.hair
 0.0.0.0 zoom.zshu.net
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
