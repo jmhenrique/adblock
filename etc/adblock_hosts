@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 27feb23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 01mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 005.0x1f4b0.com
@@ -664,6 +664,7 @@
 0.0.0.0 ad.gmw.cn
 0.0.0.0 ad.go.com
 0.0.0.0 ad.grafika.cz
+0.0.0.0 ad.gunosy.com
 0.0.0.0 ad.hankooki.com
 0.0.0.0 ad.happynest.vn
 0.0.0.0 ad.hbv.de
@@ -678,6 +679,7 @@
 0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 ad.india.xiaomi.com
 0.0.0.0 ad.infoseek.com
+0.0.0.0 ad.inter-edu.com
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.iplayer.org
 0.0.0.0 ad.jacotei.com.br
@@ -945,6 +947,7 @@
 0.0.0.0 adf.dahe.cn
 0.0.0.0 adf.hdkinoshka.net
 0.0.0.0 adf.kino-go.co
+0.0.0.0 adf.shinobi.jp
 0.0.0.0 adfeed.marchex.com
 0.0.0.0 adflash.affairsclub.com
 0.0.0.0 adfox.yandex.ru
@@ -975,6 +978,7 @@
 0.0.0.0 adin.bigpoint.com
 0.0.0.0 adinc.co.kr
 0.0.0.0 adinfo.tango.me
+0.0.0.0 adingo.jp.eimg.jp
 0.0.0.0 adinsight.co.kr
 0.0.0.0 adit-media.com
 0.0.0.0 adjar.gotrackier.com
@@ -1039,6 +1043,7 @@
 0.0.0.0 adnetwork.com.br
 0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnmore.co.kr
+0.0.0.0 adntokyo.gunosy.com
 0.0.0.0 adnxs-simple.com
 0.0.0.0 ado.delfi.ee
 0.0.0.0 adobetag.com.edgekey.net
@@ -1829,6 +1834,7 @@
 0.0.0.0 ads.wikia.nocookie.net
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.worddictionary.co.uk
+0.0.0.0 ads.world-fusigi.net
 0.0.0.0 ads.worldstarhiphop.com
 0.0.0.0 ads.worthplaying.com
 0.0.0.0 ads.wwe.biz
@@ -1852,6 +1858,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zalo.me
 0.0.0.0 ads.zaloapp.com
+0.0.0.0 ads.zascdn.me
 0.0.0.0 ads.zdn.vn
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
@@ -2119,6 +2126,7 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static-td.zadn.vn
+0.0.0.0 adtima-static.aka.zdn.vn
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtima-static.zascdn.me
 0.0.0.0 adtima-video.zadn.vn
@@ -2409,6 +2417,7 @@
 0.0.0.0 aibuy-api.aibuy.io
 0.0.0.0 aic.cdpbeacon.lgtvcommon.com
 0.0.0.0 aid-ad.jp
+0.0.0.0 aimg.fc2.com
 0.0.0.0 air.audioeye.com
 0.0.0.0 airlock.twcmobile.weather.com
 0.0.0.0 aixuntupian.oss-cn-hongkong.aliyuncs.com
@@ -4724,6 +4733,7 @@
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-metrics.chess.com
+0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.midosoo.com
@@ -5239,6 +5249,7 @@
 0.0.0.0 creative.eagllwin.com
 0.0.0.0 creative.leojmp.com
 0.0.0.0 creative.live.missav.com
+0.0.0.0 creative.live.tktube.com
 0.0.0.0 creative.live7mm.tv
 0.0.0.0 creative.nscash.com
 0.0.0.0 creative.prf.hn
@@ -5602,6 +5613,7 @@
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
+0.0.0.0 d1zjpzpoh45wtm.cloudfront.net
 0.0.0.0 d1zjr9cc2zx7cg.cloudfront.net
 0.0.0.0 d1zrs4deyai5xm.cloudfront.net
 0.0.0.0 d1zw85ny9dtn37.cloudfront.net
@@ -6027,6 +6039,7 @@
 0.0.0.0 d3tozt7si7bmf7.cloudfront.net
 0.0.0.0 d3u598arehftfk.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
+0.0.0.0 d3ubdcv1nz4dub.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
@@ -6867,6 +6880,7 @@
 0.0.0.0 engine.partylemons.com
 0.0.0.0 engine.turboroller.ru
 0.0.0.0 enhance-config.fgl.com
+0.0.0.0 enormous-use.pro
 0.0.0.0 enot.k-yroky.ru
 0.0.0.0 ent.mobileanjian.com
 0.0.0.0 ent1.12584.cn
@@ -8984,6 +8998,7 @@
 0.0.0.0 logger.eigene.io
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.goeuro.com
+0.0.0.0 logger.growstarry.com
 0.0.0.0 logger.kataweb.it
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.ntracecloud.com
@@ -9277,6 +9292,7 @@
 0.0.0.0 mb-tracking.com
 0.0.0.0 mb.gulongbbs.com
 0.0.0.0 mb.zam.com
+0.0.0.0 mbadv.nan.co.jp
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mbn-1.com
 0.0.0.0 mbn.com.ua
@@ -9354,6 +9370,7 @@
 0.0.0.0 media.the-adult-company.com
 0.0.0.0 media.travelzoo.com
 0.0.0.0 media2.travelzoo.com
+0.0.0.0 media5.fc2.com
 0.0.0.0 mediad.co.jp
 0.0.0.0 mediaforge.com.edgekey.net
 0.0.0.0 mediametrics.mpsa.com
@@ -9392,6 +9409,7 @@
 0.0.0.0 mercedesbenz-vip.com
 0.0.0.0 merchant-businesses.com
 0.0.0.0 merciless.localstars.com
+0.0.0.0 mercury.coupang.com
 0.0.0.0 mesiniklan.andipublisher.com
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 messaging.influencemobile.com
@@ -9515,6 +9533,7 @@
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
 0.0.0.0 metrics.govexec.com
+0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.happycolor.app
 0.0.0.0 metrics.harley-davidson.com
 0.0.0.0 metrics.hbogo.com
@@ -9769,6 +9788,7 @@
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 modern-passenger.pro
 0.0.0.0 moengagewebsdk.imgix.net
+0.0.0.0 mogo-crypto.net
 0.0.0.0 moh-followup.com
 0.0.0.0 moh-online.com
 0.0.0.0 mola77.mobilenobo.com
@@ -11131,7 +11151,6 @@
 0.0.0.0 qn-5.com
 0.0.0.0 qnajplxtvz-a.akamaihd.net
 0.0.0.0 qontent.pomvideo.cc
-0.0.0.0 qontent.powvibeo.me
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qps.cint.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
@@ -11267,6 +11286,7 @@
 0.0.0.0 realtime.clinch.co
 0.0.0.0 realtouchbannerwidget.aebn.net
 0.0.0.0 rec.aiservice.vn
+0.0.0.0 rec.banggood.com
 0.0.0.0 rec.detik.com
 0.0.0.0 rec2000.at.ua
 0.0.0.0 rec5.visualwebsiteoptimizer.com
@@ -11999,6 +12019,7 @@
 0.0.0.0 sftp.clickability.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sg.freeimg.ru
+0.0.0.0 sgad.surfsnow.jp
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgsnssdk.com.edgekey.net
@@ -12804,6 +12825,7 @@
 0.0.0.0 stats.persgroep.nl
 0.0.0.0 stats.petrotimes.vn
 0.0.0.0 stats.piaggio.com
+0.0.0.0 stats.playoncenter.com
 0.0.0.0 stats.playrix.com
 0.0.0.0 stats.poddtoppen.se
 0.0.0.0 stats.polldaddy.com
@@ -12954,6 +12976,7 @@
 0.0.0.0 store.page.zaloapp.com
 0.0.0.0 storeen.ldmnq.com
 0.0.0.0 stores-counters.wix.com
+0.0.0.0 straight-shift.pro
 0.0.0.0 stream-all.com
 0.0.0.0 stream-home.ru
 0.0.0.0 stream1.livefyre.com
@@ -13113,6 +13136,7 @@
 0.0.0.0 t.mdn2015x2.com
 0.0.0.0 t.melhorplano.net
 0.0.0.0 t.menepe.com
+0.0.0.0 t.mmtrkr.com
 0.0.0.0 t.my.jobs
 0.0.0.0 t.n.mcdonalds.de
 0.0.0.0 t.njzrxx.xyz
@@ -13886,6 +13910,7 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.neon-images.com
 0.0.0.0 tracker.nhandaovadoisong.vn
+0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.phunusuckhoe.vn
 0.0.0.0 tracker.phunuvagiadinh.vn
@@ -14293,6 +14318,7 @@
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 trigs-sockets.com
+0.0.0.0 trim-goal.com
 0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 tripod.lycos.co.uk
 0.0.0.0 trk-aspernatur.com
@@ -14375,6 +14401,7 @@
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tu.zx110.org
 0.0.0.0 tu2.taohuaimg.com
+0.0.0.0 tubby-delivery.pro
 0.0.0.0 tune-up.site
 0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 tur-tur-key.com
@@ -14447,6 +14474,7 @@
 0.0.0.0 uep.gaijin.net
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug-sg.byteoversea.com
+0.0.0.0 ugly-dance.pro
 0.0.0.0 ui.oix.net
 0.0.0.0 uib.ff.avast.com
 0.0.0.0 uid.mavencoalition.io
@@ -14480,6 +14508,7 @@
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 universal-traffic.com
 0.0.0.0 universal.wgplayer.com
+0.0.0.0 uniway.cn.com
 0.0.0.0 unlawful-clock.pro
 0.0.0.0 unnatural-situation.pro
 0.0.0.0 unripe-hello.pro
@@ -14958,6 +14987,7 @@
 0.0.0.0 wenxue.weimeifan.net
 0.0.0.0 wer.glib-cough.fun
 0.0.0.0 werbung.meteoxpress.com
+0.0.0.0 wet-slice.com
 0.0.0.0 wew.dushiwenxue.net
 0.0.0.0 wffengtai.com.cn
 0.0.0.0 wg-aff.com
@@ -15249,6 +15279,7 @@
 0.0.0.0 yaba.org.cn
 0.0.0.0 yad.pandafilms.best
 0.0.0.0 yads.c.yimg.jp
+0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yan.zhouguanchen.com
 0.0.0.0 ybinst0.ec.yimg.com
 0.0.0.0 ybinst1.ec.yimg.com
@@ -15278,6 +15309,7 @@
 0.0.0.0 yijiuningyia.gushiwen.org
 0.0.0.0 yin1.zgpingshu.com
 0.0.0.0 yiyu-fz.cn
+0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 yktj.yzz.cn
 0.0.0.0 yl-zipper.com
 0.0.0.0 ylasthepoityelthens.com.ua
