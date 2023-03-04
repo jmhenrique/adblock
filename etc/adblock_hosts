@@ -3,10 +3,9 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 01mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 03mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
-0.0.0.0 005.0x1f4b0.com
 0.0.0.0 04-f-bmf.com
 0.0.0.0 0a0d-d3l1vr.b-cdn.net
 0.0.0.0 0u.fastdmn0.com
@@ -199,6 +198,7 @@
 0.0.0.0 8q2g560ynxlkz9rm.in.net
 0.0.0.0 93savmobile-m.com
 0.0.0.0 986.stats.misstrends.com
+0.0.0.0 9fum.ifeng.com
 0.0.0.0 9rendezvous-l.com
 0.0.0.0 a-94interdads.com
 0.0.0.0 a-ads.com
@@ -2384,7 +2384,6 @@
 0.0.0.0 affiliation-france.com
 0.0.0.0 affiliation.planethoster.info
 0.0.0.0 affilsoft.gotrackier.com
-0.0.0.0 afflow.18-plus.net
 0.0.0.0 affstat.digikala.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 afi-b.com
@@ -2667,6 +2666,7 @@
 0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
+0.0.0.0 analytics.dealer.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -2833,6 +2833,7 @@
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pixels.ai
 0.0.0.0 analytics.plaid.com
+0.0.0.0 analytics.plaza.ir
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pokki.com
@@ -4008,8 +4009,6 @@
 0.0.0.0 black-bricks.net
 0.0.0.0 blackberry.org.mx
 0.0.0.0 blacktri-a.akamaihd.net
-0.0.0.0 blamper-news.ru
-0.0.0.0 blamper-novosti.ru
 0.0.0.0 blendai.gotrackier.com
 0.0.0.0 bleua.ecefibwja.xyz
 0.0.0.0 blizzard.blueoxtech.com
@@ -4459,7 +4458,6 @@
 0.0.0.0 cdn.hunteryvely.com
 0.0.0.0 cdn.imvkan.com
 0.0.0.0 cdn.interactivemedia.net
-0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn.jst.ai
 0.0.0.0 cdn.klasseo.com
 0.0.0.0 cdn.locallogic.co
@@ -4474,7 +4472,6 @@
 0.0.0.0 cdn.mixx-ad.net
 0.0.0.0 cdn.mobify.com
 0.0.0.0 cdn.mobsocmedia.com
-0.0.0.0 cdn.monero-miner.net
 0.0.0.0 cdn.movieads.ru
 0.0.0.0 cdn.myadmessenger.com
 0.0.0.0 cdn.n.dynstc.com
@@ -4660,6 +4657,7 @@
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.digiato.com
 0.0.0.0 click.digital.metaquestmail.com
+0.0.0.0 click.discord.com
 0.0.0.0 click.e.progressive.com
 0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.email.bbc.com
@@ -4854,7 +4852,6 @@
 0.0.0.0 codes.wai.it
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
-0.0.0.0 coin-service.com
 0.0.0.0 cold-cold-freezing.com
 0.0.0.0 coll.v00yvd.xyz
 0.0.0.0 collect-ap2.attraqt.io
@@ -5887,6 +5884,7 @@
 0.0.0.0 d36s9tmu0jh8rd.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
+0.0.0.0 d36un5ytqxjgkq.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d370hf5nfmhbjy.cloudfront.net
@@ -5943,6 +5941,7 @@
 0.0.0.0 d3flai6f7brtcx.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3frqqoat98cng.cloudfront.net
+0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
 0.0.0.0 d3gi6isrskhoq.cloudfront.net
 0.0.0.0 d3h1v5cflrhzi4.cloudfront.net
@@ -7269,8 +7268,6 @@
 0.0.0.0 fimserve.askmen.com
 0.0.0.0 fimserve.ign.com
 0.0.0.0 fimserve.myspace.com
-0.0.0.0 fin-vecto.ru
-0.0.0.0 fin-vector.ru
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 find-a.jp
 0.0.0.0 find-ip-address.org
@@ -7908,7 +7905,6 @@
 0.0.0.0 hospitality-optimizer.com
 0.0.0.0 host-one-more.com
 0.0.0.0 host-redirect.net
-0.0.0.0 host.d-ns.ga
 0.0.0.0 host.pornolenta.cc
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hostedbannerads.aebn.net
@@ -8490,6 +8486,7 @@
 0.0.0.0 k.streamrail.com
 0.0.0.0 k1.dancihu.com
 0.0.0.0 k1.wanwenwan.cn
+0.0.0.0 kaan.kakao.com
 0.0.0.0 kaiseki-website.com
 0.0.0.0 kaiu-marketing.com
 0.0.0.0 kak-bit-new.ru
@@ -9669,7 +9666,6 @@
 0.0.0.0 mindless-series.pro
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.torrent.pw
-0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minerva.healthcentral.com
 0.0.0.0 mini.activeshopper.com
 0.0.0.0 mini.hao123.com
@@ -9750,6 +9746,7 @@
 0.0.0.0 mobi-mobi.info
 0.0.0.0 mobi-up.net
 0.0.0.0 mobi.yanosik.pl
+0.0.0.0 mobiadvert.livesportmedia.eu
 0.0.0.0 mobiile-service.ru
 0.0.0.0 mobile-10.com
 0.0.0.0 mobile-campaigns.avast.com
@@ -10239,7 +10236,6 @@
 0.0.0.0 ogbwqq.gkwtk.xyz
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogle-0740lb.com
-0.0.0.0 ognyvo-topnews.ru
 0.0.0.0 ohcohz.stroeerdp.de
 0.0.0.0 oilpainting.colorbynumber.veraxen.com
 0.0.0.0 oimg.nbcuni.com
@@ -10680,6 +10676,7 @@
 0.0.0.0 pic1.dianshu119.com
 0.0.0.0 pic50.pingguolv.com
 0.0.0.0 piccdn.igetget.com
+0.0.0.0 pics-city.space
 0.0.0.0 pics.firstload.de
 0.0.0.0 pics.kolmic.com
 0.0.0.0 pics.xgo-img.com.cn
@@ -10859,12 +10856,9 @@
 0.0.0.0 pokkt.fuse-ad.com
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
-0.0.0.0 polit-e-fox.ru
-0.0.0.0 polit-fox.ru
 0.0.0.0 politiques-infos.info
 0.0.0.0 polyvalent.co.in
 0.0.0.0 pon-prairie.com
-0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pool.ads.netlog.com
 0.0.0.0 pool.nimiq.watch
 0.0.0.0 pop.dojo.cc
@@ -11043,6 +11037,7 @@
 0.0.0.0 pub.sv2.biz
 0.0.0.0 pub.toku-tag.jp
 0.0.0.0 pubfeed.linkby.com
+0.0.0.0 pubgw.yahoo.com
 0.0.0.0 publi.atresmediapublicidad.com
 0.0.0.0 public.adgger.jp
 0.0.0.0 public.bd.313.nl
@@ -11070,6 +11065,7 @@
 0.0.0.0 push-house.net
 0.0.0.0 push-news.org
 0.0.0.0 push-notifications.top
+0.0.0.0 push-sdk.com
 0.0.0.0 push-sdk.net
 0.0.0.0 push.apusapps.com
 0.0.0.0 push.connecto.io
@@ -11499,7 +11495,6 @@
 0.0.0.0 rokhdad.telewebion.com
 0.0.0.0 romance-net.com
 0.0.0.0 rontent.powvibeo.me
-0.0.0.0 ros-infonews.ru
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselip-fetish.com
 0.0.0.0 rot.rusoul.ru
@@ -11590,7 +11585,6 @@
 0.0.0.0 run-syndicate.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 russian-cuties.info
-0.0.0.0 rustoria-topnews.ru
 0.0.0.0 rysheatlengthani.com.ua
 0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s-adzone.com
@@ -11669,7 +11663,6 @@
 0.0.0.0 s3.ttpsdk.info
 0.0.0.0 s3r.tut.by
 0.0.0.0 s3s-main.net
-0.0.0.0 s3t3d2y8.afcdn.net
 0.0.0.0 s4r.tut.by
 0.0.0.0 sa.aol.com
 0.0.0.0 sa.bbc.co.uk
@@ -11762,6 +11755,7 @@
 0.0.0.0 script.anura.io
 0.0.0.0 script.e-space.se
 0.0.0.0 script.extellio.com
+0.0.0.0 scripte-monster.de
 0.0.0.0 scripts.mofos.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.static-od.com
@@ -12933,6 +12927,7 @@
 0.0.0.0 statsadvance-01.net
 0.0.0.0 statsapi.screen9.com
 0.0.0.0 statsapi.tiendeo.com.tr
+0.0.0.0 statsapi.tiendeo.se
 0.0.0.0 statscol.pond5.com
 0.0.0.0 statscollector-1.agora.io
 0.0.0.0 statscollector.sd-rtn.com
@@ -13520,7 +13515,6 @@
 0.0.0.0 top-casting-termine.de
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-js-metrics.top.my.ua
-0.0.0.0 top-newsrustoria.ru
 0.0.0.0 top-offers1.com
 0.0.0.0 top-performance.best
 0.0.0.0 top-performance.club
@@ -14423,6 +14417,7 @@
 0.0.0.0 two.tracedock.com
 0.0.0.0 twotreymedia10001697.o18.click
 0.0.0.0 twstat.lifenewsjr.com
+0.0.0.0 ty-baidu.xyz
 0.0.0.0 u-ad.info
 0.0.0.0 u-on.eu
 0.0.0.0 u-q.net.cn
@@ -14906,7 +14901,6 @@
 0.0.0.0 web.51fishplace.com
 0.0.0.0 web.900.la
 0.0.0.0 web.acumenpi.com
-0.0.0.0 web.dle-news.pw
 0.0.0.0 web.informer.com
 0.0.0.0 web.unltd.info
 0.0.0.0 web1.51.la
