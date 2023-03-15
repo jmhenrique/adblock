@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 10mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 13mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -116,6 +116,7 @@
 0.0.0.0 2183.jsjmlejl.clickshield.net
 0.0.0.0 21fit3-wnro.cn
 0.0.0.0 2278.stats.misstrends.com
+0.0.0.0 233a.luyouwang.com
 0.0.0.0 24-7clinic.com
 0.0.0.0 24-sportnews.com
 0.0.0.0 247-inc.com
@@ -2120,6 +2121,7 @@
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtarget.com.tr
 0.0.0.0 adtech-digital.ru
+0.0.0.0 adtech-prod.nikecloud.com
 0.0.0.0 adtest.pages.dev
 0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-common.zascdn.me
@@ -4430,7 +4432,6 @@
 0.0.0.0 cdn.bescore.com
 0.0.0.0 cdn.biddercore.io
 0.0.0.0 cdn.bidmatrixdsp.com
-0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 cdn.bluebillywig.com
 0.0.0.0 cdn.brid.tv
 0.0.0.0 cdn.c-i.as
@@ -5390,6 +5391,7 @@
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
 0.0.0.0 d10wfab8zt419p.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
+0.0.0.0 d11bdev7tcn7wh.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11hjbdxxtogg5.cloudfront.net
 0.0.0.0 d11p7gi4d9x2s0.cloudfront.net
@@ -5681,6 +5683,7 @@
 0.0.0.0 d29dbajta0the9.cloudfront.net
 0.0.0.0 d29dzo8owxlzou.cloudfront.net
 0.0.0.0 d29i6o40xcgdai.cloudfront.net
+0.0.0.0 d29mxewlidfjg1.cloudfront.net
 0.0.0.0 d2b7n13v8adl6f.cloudfront.net
 0.0.0.0 d2bbq3twedfo2f.cloudfront.net
 0.0.0.0 d2bxxk33t58v29.cloudfront.net
@@ -5933,6 +5936,7 @@
 0.0.0.0 d3d54j7si4woql.cloudfront.net
 0.0.0.0 d3d9pt4go32tk8.cloudfront.net
 0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
+0.0.0.0 d3ejxyz09ctey7.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3ep3jwb1mgn3k.cloudfront.net
 0.0.0.0 d3evio1yid77jr.cloudfront.net
@@ -6967,9 +6971,6 @@
 0.0.0.0 eu.market-place.su
 0.0.0.0 eu.spgo.io
 0.0.0.0 euadsapi.manhuaren.com
-0.0.0.0 euc-excel-telemetry.officeapps.live.com
-0.0.0.0 euc-powerpoint-telemetry.officeapps.live.com
-0.0.0.0 euc-word-telemetry.officeapps.live.com
 0.0.0.0 eudcqm.uihdlx.xyz
 0.0.0.0 eudoxia-myr.com
 0.0.0.0 eue.collect-opnet.com
@@ -7128,7 +7129,6 @@
 0.0.0.0 exacttarget.api.mashery.com
 0.0.0.0 exc.mob.com
 0.0.0.0 exc.ns.nl
-0.0.0.0 excel-telemetry.officeapps.live.com
 0.0.0.0 excellent-closet.pro
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange-traffic.com
@@ -8327,6 +8327,7 @@
 0.0.0.0 ipinyou.com.cn
 0.0.0.0 ipml-qvr8go.ru
 0.0.0.0 ipp.littlecdn.com
+0.0.0.0 ipworld-ao.com
 0.0.0.0 iq.sixaxisllc.com
 0.0.0.0 ir.mihanstore.net
 0.0.0.0 irritating-standard.pro
@@ -8404,6 +8405,7 @@
 0.0.0.0 join.megaphonetv.com
 0.0.0.0 join.xlgirls.com
 0.0.0.0 journey.unicef.de
+0.0.0.0 jp.zaloapp.com
 0.0.0.0 jpaasne.e.shifen.com
 0.0.0.0 jpg1.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jquery-cdn.cc
@@ -8738,7 +8740,6 @@
 0.0.0.0 live-cams-1.livejasmin.com
 0.0.0.0 live-once.net
 0.0.0.0 live.careplusvn.com
-0.0.0.0 live.com.mcas.ms
 0.0.0.0 live.cxo.name
 0.0.0.0 live.ec2.cxo.name
 0.0.0.0 live.vnpgroup.net
@@ -9197,7 +9198,6 @@
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail.banklife.ru
 0.0.0.0 mailderef.mail.com
-0.0.0.0 main-datings.top
 0.0.0.0 main-ti-cod.com
 0.0.0.0 main-ti-hub.com
 0.0.0.0 main.jiukang.org
@@ -10050,7 +10050,6 @@
 0.0.0.0 news-back.org
 0.0.0.0 news-bitivu.cc
 0.0.0.0 news-central.io
-0.0.0.0 news-central.me
 0.0.0.0 news-central.org
 0.0.0.0 news-code.com
 0.0.0.0 news-flash.net
@@ -10896,16 +10895,12 @@
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 power.adhacker.online
 0.0.0.0 poweradvertising.co.uk
-0.0.0.0 powerpoint-telemetry.officeapps.live.com
 0.0.0.0 powerteam-competitions.com
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 poza-69.ru
 0.0.0.0 pp-serve.newsinc.com
 0.0.0.0 pp.awmplus.com
 0.0.0.0 pp.muzofon-online.com
-0.0.0.0 ppc-onenote-telemetry.officeapps.live.com
-0.0.0.0 ppc-powerpoint-telemetry.officeapps.live.com
-0.0.0.0 ppc-word-telemetry.officeapps.live.com
 0.0.0.0 ppc.adhere.marchex.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 pqwaker.altervista.org
@@ -13415,6 +13410,7 @@
 0.0.0.0 the-people-group.com
 0.0.0.0 theta.sogoucdn.com
 0.0.0.0 thetestpage.39.net
+0.0.0.0 thick-ruin.pro
 0.0.0.0 thinknear-hosted.thinknearhub.com
 0.0.0.0 third-tracking.com
 0.0.0.0 thirdparty.bnc.lt
@@ -13429,6 +13425,7 @@
 0.0.0.0 thongke99.baogiaothong.vn
 0.0.0.0 thor-media.ru
 0.0.0.0 thor-z.com
+0.0.0.0 thoth.utyug.media
 0.0.0.0 threat-analytics.com
 0.0.0.0 thump-night-stand.com
 0.0.0.0 ti.domainforlite.com
@@ -13535,6 +13532,7 @@
 0.0.0.0 top-performance.best
 0.0.0.0 top-performance.club
 0.0.0.0 top-performance.top
+0.0.0.0 top-performance.work
 0.0.0.0 top-ro.ro
 0.0.0.0 top-site-list.com
 0.0.0.0 top-staging.mail.ru
@@ -15093,7 +15091,6 @@
 0.0.0.0 woopra-ns.com
 0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 wootric.com.herokudns.com
-0.0.0.0 word-telemetry.officeapps.live.com
 0.0.0.0 wordpresscom.skimlinks.com
 0.0.0.0 working-online.net
 0.0.0.0 world-2012.info
@@ -15429,6 +15426,7 @@
 0.0.0.0 zoom.zshu.net
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
+0.0.0.0 zpsocial-f52-org.zadn.vn
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zq.lansedir.com
 0.0.0.0 zs.dhl.de
