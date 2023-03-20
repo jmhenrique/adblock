@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 13mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 17mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -716,7 +716,6 @@
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.megapeer.ru
 0.0.0.0 ad.mobiuspace.net
-0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.mox.tv
 0.0.0.0 ad.mrtnsvr.com
@@ -887,6 +886,7 @@
 0.0.0.0 adbd.liuxue86.com
 0.0.0.0 adbison-redirect.com
 0.0.0.0 adblock-analytics.io
+0.0.0.0 adblock-one-protection.com
 0.0.0.0 adblock-pro-download.com
 0.0.0.0 adblock-pro.org
 0.0.0.0 adbn.masterinvest.info
@@ -2521,6 +2521,7 @@
 0.0.0.0 an.xemvtv.net
 0.0.0.0 an.yandex.ru
 0.0.0.0 ana.bandi.so
+0.0.0.0 ana.gomtv.com
 0.0.0.0 ana.mediable.info
 0.0.0.0 analitica.webrpp.com
 0.0.0.0 analy.qq.com
@@ -2814,6 +2815,7 @@
 0.0.0.0 analytics.nova.foxsports.com
 0.0.0.0 analytics.octaglobal.com
 0.0.0.0 analytics.omniscientai.com
+0.0.0.0 analytics.onedio.com
 0.0.0.0 analytics.onlyonlinemarketing.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.optilead.co.uk
@@ -3151,6 +3153,7 @@
 0.0.0.0 api.karpishe.com
 0.0.0.0 api.keen.io
 0.0.0.0 api.leadpages.io
+0.0.0.0 api.lhkmedia.in
 0.0.0.0 api.limbik.com
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.locately.com
@@ -5587,6 +5590,7 @@
 0.0.0.0 d1u1byonn4po0b.cloudfront.net
 0.0.0.0 d1uae3ok0byyqw.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
+0.0.0.0 d1ue5xz1lnqk0d.cloudfront.net
 0.0.0.0 d1ukp4rdr0i4nl.cloudfront.net
 0.0.0.0 d1upt0rqzff34l.cloudfront.net
 0.0.0.0 d1uw69x4c2zrim.cloudfront.net
@@ -5609,6 +5613,7 @@
 0.0.0.0 d1ytalcrl612d7.cloudfront.net
 0.0.0.0 d1yu5hbtu8mng9.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
+0.0.0.0 d1yyhdmsmo3k5p.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
@@ -5707,6 +5712,7 @@
 0.0.0.0 d2enprlhqqv4jf.cloudfront.net
 0.0.0.0 d2er1uyk6qcknh.cloudfront.net
 0.0.0.0 d2ers4gi7coxau.cloudfront.net
+0.0.0.0 d2eyuq8th0eqll.cloudfront.net
 0.0.0.0 d2ezz24t9nm0vu.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
@@ -5847,6 +5853,7 @@
 0.0.0.0 d2zbpgxs57sg1k.cloudfront.net
 0.0.0.0 d2zcblk8m9mzq5.cloudfront.net
 0.0.0.0 d2zh7okxrw0ix.cloudfront.net
+0.0.0.0 d2zi8ra5rb7m89.cloudfront.net
 0.0.0.0 d2zjlj1vewrxcj.cloudfront.net
 0.0.0.0 d2zzazjvlpgmgi.cloudfront.net
 0.0.0.0 d301cxwfymy227.cloudfront.net
@@ -5918,6 +5925,7 @@
 0.0.0.0 d3asksgk2foh5m.cloudfront.net
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3b2hhehkqd158.cloudfront.net
+0.0.0.0 d3b4u8mwtkp9dd.cloudfront.net
 0.0.0.0 d3bbyfw7v2aifi.cloudfront.net
 0.0.0.0 d3beefy8kd1pr7.cloudfront.net
 0.0.0.0 d3bj8nkfly20uo.cloudfront.net
@@ -6745,6 +6753,7 @@
 0.0.0.0 ea.vente-unique.com
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 ea.youmaker.com
+0.0.0.0 eagle-insight.com
 0.0.0.0 eanddrsgankru.com.ua
 0.0.0.0 eap.enorth.com.cn
 0.0.0.0 eapik.anagog.com
@@ -7001,7 +7010,6 @@
 0.0.0.0 event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.rdstation.com.br
-0.0.0.0 event-collector.analytics.onedio.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-logger.tagboard.com
 0.0.0.0 event-reg.info
@@ -7163,6 +7171,7 @@
 0.0.0.0 exta-z.ru
 0.0.0.0 extend-list.net
 0.0.0.0 extern.prisjakt.nu
+0.0.0.0 external-api.impression-neo.naver.com
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 external.bbc.co.uk
 0.0.0.0 external.reseguiden.se
@@ -7728,6 +7737,7 @@
 0.0.0.0 gtm-server.healthline.com
 0.0.0.0 gtm.beiersdorf.com
 0.0.0.0 gtm.eduki.com
+0.0.0.0 gtm.tipranks.com
 0.0.0.0 gtm.udemy.com
 0.0.0.0 gtm.vanmoof.com
 0.0.0.0 gtrk.s3.amazonaws.com
@@ -8791,6 +8801,7 @@
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-hl.snssdk.com
+0.0.0.0 log-lb.skyperfectv.co.jp
 0.0.0.0 log-live.direct.ly
 0.0.0.0 log-marketing.jp
 0.0.0.0 log-player.arte.tv
@@ -8858,6 +8869,7 @@
 0.0.0.0 log.go.com
 0.0.0.0 log.go2s.co
 0.0.0.0 log.gobankingrates.com
+0.0.0.0 log.gomlab.com
 0.0.0.0 log.haberturk.com
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.hemera.com.vn
@@ -10971,7 +10983,6 @@
 0.0.0.0 production.deckers.coremedia.cloud
 0.0.0.0 profi-link.org
 0.0.0.0 profi-para.com
-0.0.0.0 profield.ddns.net
 0.0.0.0 profiling.avandor.com
 0.0.0.0 profit-casino.com
 0.0.0.0 profit-partner.ru
@@ -12216,7 +12227,6 @@
 0.0.0.0 somniture.stuff.co.nz
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
-0.0.0.0 sonar.viously.com
 0.0.0.0 sonata-notifications-us-east.taptapnetworks.com
 0.0.0.0 sonata-notifications.taptapnetworks.com
 0.0.0.0 sonet-rp.swaxis.com
@@ -12457,6 +12467,7 @@
 0.0.0.0 st.cv46.ru
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 st.fanatics.com
+0.0.0.0 st.film.ru
 0.0.0.0 st.hbrd.io
 0.0.0.0 st.linkfire.com
 0.0.0.0 st.onlygip.tech
@@ -13087,6 +13098,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
 0.0.0.0 t.adbr.io
+0.0.0.0 t.adcell.com
 0.0.0.0 t.adlpo.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.ajrkm.link
@@ -13526,6 +13538,7 @@
 0.0.0.0 toon-families.com
 0.0.0.0 top-bloggers.com
 0.0.0.0 top-casting-termine.de
+0.0.0.0 top-clips.space
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-js-metrics.top.my.ua
 0.0.0.0 top-offers1.com
@@ -14578,6 +14591,7 @@
 0.0.0.0 usage.seibert-media.io
 0.0.0.0 usageanalytics.coveo.com
 0.0.0.0 useg.nextdigital.com.hk
+0.0.0.0 usejj.makepolo.cn
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 usenet-nl.top
 0.0.0.0 user-api.com
@@ -14688,6 +14702,7 @@
 0.0.0.0 verblife-5.co
 0.0.0.0 vercel-analytics.com
 0.0.0.0 vercel-insights.com
+0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verified-extensions.com
 0.0.0.0 verify-app.online
