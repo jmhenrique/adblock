@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 17mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 20mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -2327,6 +2327,7 @@
 0.0.0.0 affiliate.astraweb.com
 0.0.0.0 affiliate.bfashion.com
 0.0.0.0 affiliate.blucigs.com
+0.0.0.0 affiliate.casino-wonder.com
 0.0.0.0 affiliate.chiaki.vn
 0.0.0.0 affiliate.digikala.com
 0.0.0.0 affiliate.dtiserv.com
@@ -2343,6 +2344,7 @@
 0.0.0.0 affiliate.malltina.com
 0.0.0.0 affiliate.mediatemple.net
 0.0.0.0 affiliate.mercola.com
+0.0.0.0 affiliate.miracle-miracle.com
 0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.productreview.com.au
@@ -2675,7 +2677,6 @@
 0.0.0.0 analytics.digitalpfizer.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dns-shop.ru
-0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.dsyqt.com
 0.0.0.0 analytics.dunro.com
@@ -5574,6 +5575,7 @@
 0.0.0.0 d1r90st78epsag.cloudfront.net
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1rguclfwp7nc8.cloudfront.net
+0.0.0.0 d1rkd1d0jv6skn.cloudfront.net
 0.0.0.0 d1rkf0bq85yx06.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1rsh847opos9y.cloudfront.net
@@ -6386,6 +6388,7 @@
 0.0.0.0 dit-dit-dot.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 dita6jhhqwoiz.cloudfront.net
+0.0.0.0 divekcl7q9fxi.cloudfront.net
 0.0.0.0 diz4z73aymwyp.cloudfront.net
 0.0.0.0 dizzy-illegal.pro
 0.0.0.0 dj-updates.com
@@ -6885,7 +6888,6 @@
 0.0.0.0 enews10.yxlady.net
 0.0.0.0 eng.trkcnv.com
 0.0.0.0 engage-network.influencemobile.com
-0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.vzw.com
 0.0.0.0 engage.webshrinker.com
 0.0.0.0 engage.windows.com
@@ -7086,6 +7088,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.matterport.com
 0.0.0.0 events.mercadolibre.com
+0.0.0.0 events.missena.io
 0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.newsroom.bi
@@ -7195,6 +7198,7 @@
 0.0.0.0 f1.ichong123.com
 0.0.0.0 f1.pig66.com
 0.0.0.0 f1.zaojv.com
+0.0.0.0 f11-ads.com
 0.0.0.0 f11.hackhome.com
 0.0.0.0 f164.sheltonherald.com
 0.0.0.0 f775.thehour.com
@@ -7645,7 +7649,6 @@
 0.0.0.0 go-trip.online
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.dhs.gov
-0.0.0.0 go.dnsfilter.com
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 go.goroost.com
@@ -7714,6 +7717,7 @@
 0.0.0.0 green-ads.net
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 green-red.com
+0.0.0.0 grizzled-cover.com
 0.0.0.0 grounded-card.pro
 0.0.0.0 groupstats.chat.zalo.me
 0.0.0.0 groupstats.event.zalo.me
@@ -10934,6 +10938,7 @@
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prdwebcollector.ruetracking.com
 0.0.0.0 pre.glotgrx.com
+0.0.0.0 prebid-cache.ifunny.co
 0.0.0.0 prebids.adnsx.com
 0.0.0.0 predataclient.b-cdn.net
 0.0.0.0 preferences.truste.com
@@ -12502,7 +12507,6 @@
 0.0.0.0 stat.adguard.com
 0.0.0.0 stat.airdroid.com
 0.0.0.0 stat.alibaba.com
-0.0.0.0 stat.alloha.tv
 0.0.0.0 stat.analytiall.com
 0.0.0.0 stat.aport.ru
 0.0.0.0 stat.appsgeyser.com
@@ -14410,6 +14414,7 @@
 0.0.0.0 tso.dennisnet.co.uk
 0.0.0.0 tsr.zlatoff.ru
 0.0.0.0 tstlabs.co.uk
+0.0.0.0 tt-baidu.xyz
 0.0.0.0 tt.biquge.la
 0.0.0.0 tt11.adobe.com
 0.0.0.0 tt123.eastday.com
