@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 20mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 22mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -1112,6 +1112,7 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.upltv.com
+0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads-stream.com
 0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
 0.0.0.0 ads-twitter.com
@@ -2774,6 +2775,7 @@
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.loop-cloud.de
 0.0.0.0 analytics.lucid.app
+0.0.0.0 analytics.lunaweb.cloud
 0.0.0.0 analytics.m7g.twitch.tv
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.maileon.com
@@ -4403,7 +4405,6 @@
 0.0.0.0 cdn-xinghuatupian-cdn.com
 0.0.0.0 cdn.234doo.com
 0.0.0.0 cdn.88-f.net
-0.0.0.0 cdn.aanetwork.vn
 0.0.0.0 cdn.adbert.info
 0.0.0.0 cdn.adfenix.com
 0.0.0.0 cdn.ads.fotoable.net
@@ -4682,6 +4683,7 @@
 0.0.0.0 click.mmosite.com
 0.0.0.0 click.news.vans.com
 0.0.0.0 click.nl.npr.org
+0.0.0.0 click.nvgaming.nvidia.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.redditmail.com
@@ -4932,6 +4934,7 @@
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.puhutv.com
+0.0.0.0 collector.reelevant.com
 0.0.0.0 collector.retailcrm.pro
 0.0.0.0 collector.rn.de
 0.0.0.0 collector.schibsted.io
@@ -5849,6 +5852,7 @@
 0.0.0.0 d2y8ttytgze7qt.cloudfront.net
 0.0.0.0 d2yh8t8mdj4l9x.cloudfront.net
 0.0.0.0 d2ykons4g8jre6.cloudfront.net
+0.0.0.0 d2ywv53s25fi6c.cloudfront.net
 0.0.0.0 d2z0gqc8sv0l7p.cloudfront.net
 0.0.0.0 d2z51a9spn09cw.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
@@ -6414,6 +6418,7 @@
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dkus30wj6f84p.cloudfront.net
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
+0.0.0.0 dl-protect.net
 0.0.0.0 dl-rms.com
 0.0.0.0 dl.crazyporn.xxx
 0.0.0.0 dl.episerver.net
@@ -6606,6 +6611,7 @@
 0.0.0.0 dsn-kuban.krasnodar.su
 0.0.0.0 dsn-vgtrk.ru
 0.0.0.0 dsnr-affiliates.com
+0.0.0.0 dsnymrk0k4p3v.cloudfront.net
 0.0.0.0 dsp-1.ogury.io
 0.0.0.0 dsp-eu.surfy.tech
 0.0.0.0 dsp.ali213.net
@@ -7629,6 +7635,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 global-redirect.net
+0.0.0.0 global.ketchcdn.com
 0.0.0.0 global.ssl.fastly.net
 0.0.0.0 global.yyapi.net
 0.0.0.0 globalconfig.bluedot.io
@@ -9931,6 +9938,7 @@
 0.0.0.0 mvo.g45td.xyz
 0.0.0.0 mwx.ext.mobilityware.com
 0.0.0.0 mx03.phorm.com
+0.0.0.0 mxaserver.mxplay.com
 0.0.0.0 mxpl.9gag.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -10220,7 +10228,6 @@
 0.0.0.0 oas.roanoke.com
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
-0.0.0.0 oas.villagevoice.com
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.register.com
@@ -10441,6 +10448,7 @@
 0.0.0.0 overjoyed-balance.com
 0.0.0.0 overlay.aibuy.io
 0.0.0.0 overlay.ringtonematcher.com
+0.0.0.0 overlooked-cup.pro
 0.0.0.0 ovk.xceler8.io
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 owbroinothiermon.com.ua
@@ -10969,6 +10977,7 @@
 0.0.0.0 pro-web.net
 0.0.0.0 pro.iweihai.cn
 0.0.0.0 processor.asccommunications.com
+0.0.0.0 prod-analytics.royal.drmgms.com
 0.0.0.0 prod-collecticon.outlookmobile.com
 0.0.0.0 prod-collector.bigbasket.com
 0.0.0.0 prod-dcs-eventlog.decagames.com
@@ -11179,6 +11188,7 @@
 0.0.0.0 qontent.pomvideo.cc
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qps.cint.com
+0.0.0.0 qqcdnpictest.mxplay.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qsearch-a.akamaihd.net
@@ -11415,6 +11425,7 @@
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-uri.io
 0.0.0.0 report.23video.com
+0.0.0.0 report.iciba.com
 0.0.0.0 report.mediahub.vn
 0.0.0.0 report.meituan.com
 0.0.0.0 report.mitsubishicars.com
@@ -11786,6 +11797,7 @@
 0.0.0.0 script.e-space.se
 0.0.0.0 script.extellio.com
 0.0.0.0 scripte-monster.de
+0.0.0.0 scripts-repo.reelevant.com
 0.0.0.0 scripts.mofos.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.static-od.com
@@ -13734,7 +13746,6 @@
 0.0.0.0 track.game18click.com
 0.0.0.0 track.gawker.com
 0.0.0.0 track.hk01.com
-0.0.0.0 track.homejobs.careers
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.hujiang.com
@@ -14681,6 +14692,7 @@
 0.0.0.0 vam-nado.ru
 0.0.0.0 van.redlightcenter.com
 0.0.0.0 vantage-media.net
+0.0.0.0 vasia.bluentated.racing
 0.0.0.0 vast.bazonserver.site
 0.0.0.0 vast.holmesmind.com
 0.0.0.0 vast.videocdn.tv
@@ -15209,7 +15221,6 @@
 0.0.0.0 x822.mrt.com
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xads.joboko.com
-0.0.0.0 xapi.ozon.ru
 0.0.0.0 xc.gouchezj.com
 0.0.0.0 xc.macd.cn
 0.0.0.0 xc.mydrivers.com
