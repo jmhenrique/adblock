@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 22mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 24mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -484,6 +484,7 @@
 0.0.0.0 accomodation-tastes.net
 0.0.0.0 accountant-audio.com
 0.0.0.0 accounts.pkr.com
+0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 acdn01.vidox.net
 0.0.0.0 ace.naver.com
 0.0.0.0 acelogger.heraldcorp.com
@@ -494,6 +495,7 @@
 0.0.0.0 acme.tango.me
 0.0.0.0 acme.vidox.net
 0.0.0.0 acodes.b2b.cn
+0.0.0.0 acs.m.taobao.com
 0.0.0.0 action.evrikak.ru
 0.0.0.0 actioniq.mr-in.com
 0.0.0.0 activate-discount.com
@@ -2680,6 +2682,7 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.dsyqt.com
+0.0.0.0 analytics.dugun.com
 0.0.0.0 analytics.dunro.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.e1.ru
@@ -3333,6 +3336,7 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 aprod.scopely.io
 0.0.0.0 aps.hearstnp.com
+0.0.0.0 apsrgeo.amap.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 aq.prices25.com
@@ -4738,7 +4742,6 @@
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-telemetry.roblox.com
-0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
@@ -5002,7 +5005,9 @@
 0.0.0.0 conduit-services.com
 0.0.0.0 conf.international.baidu.com
 0.0.0.0 conf.lsosad.com
+0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 conference-ballroom.com
+0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confiant-integrations.net
 0.0.0.0 config-sea-nfl.yinzcam.com
 0.0.0.0 config.88-f.net
@@ -5528,6 +5533,7 @@
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
+0.0.0.0 d1ktmtailsv07c.cloudfront.net
 0.0.0.0 d1kwkwcfmhtljq.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lihuem8ojqxz.cloudfront.net
@@ -5558,6 +5564,7 @@
 0.0.0.0 d1nx2jii03b4ju.cloudfront.net
 0.0.0.0 d1o1guzowlqlts.cloudfront.net
 0.0.0.0 d1of5w8unlzqtg.cloudfront.net
+0.0.0.0 d1or04kku1mxl9.cloudfront.net
 0.0.0.0 d1oxccu2k3w6jx.cloudfront.net
 0.0.0.0 d1p3zboe6tz3yy.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
@@ -5613,6 +5620,7 @@
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1xkyo9j4r7vnn.cloudfront.net
 0.0.0.0 d1xw8yqtkk9ae5.cloudfront.net
+0.0.0.0 d1yaf4htak1xfg.cloudfront.net
 0.0.0.0 d1ybdlg8aoufn.cloudfront.net
 0.0.0.0 d1yt8zt4633tzi.cloudfront.net
 0.0.0.0 d1ytalcrl612d7.cloudfront.net
@@ -5641,6 +5649,7 @@
 0.0.0.0 d20kfqepj430zj.cloudfront.net
 0.0.0.0 d20nuqz94uw3np.cloudfront.net
 0.0.0.0 d213cc9tw38vai.cloudfront.net
+0.0.0.0 d219kvfj8xp5vh.cloudfront.net
 0.0.0.0 d21f25e9uvddd7.cloudfront.net
 0.0.0.0 d21m5j4ptsok5u.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
@@ -6428,6 +6437,7 @@
 0.0.0.0 dl37p9e5e1vn0.cloudfront.net
 0.0.0.0 dl5ft52dtazxd.cloudfront.net
 0.0.0.0 dlem1deojpcg7.cloudfront.net
+0.0.0.0 dlh8c15zw7vfn.cloudfront.net
 0.0.0.0 dlkfm8bqz0bpx.cloudfront.net
 0.0.0.0 dlne6myudrxi1.cloudfront.net
 0.0.0.0 dlooqrhebkjoh.cloudfront.net
@@ -6583,6 +6593,7 @@
 0.0.0.0 dr.atwoodubre.com
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
 0.0.0.0 dr8pk6ovub897.cloudfront.net
+0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 dramatic-challenge.com
 0.0.0.0 drbccw04ifva6.cloudfront.net
 0.0.0.0 drda5yf9kgz5p.cloudfront.net
@@ -6951,6 +6962,7 @@
 0.0.0.0 error.videonow.ru
 0.0.0.0 errors.perfectgonzo.com
 0.0.0.0 errors.snackly.co
+0.0.0.0 esa-reg-eup.myoppo.com
 0.0.0.0 esc-team.com
 0.0.0.0 escape.insites.eu
 0.0.0.0 eset-affiliate.de
@@ -7468,6 +7480,7 @@
 0.0.0.0 gamebooster.lionmobi.com
 0.0.0.0 games-tuz.site
 0.0.0.0 gaming-adult.com
+0.0.0.0 gaming-at-my.best
 0.0.0.0 gamma.cachefly.net
 0.0.0.0 ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
@@ -9270,6 +9283,7 @@
 0.0.0.0 marketo.net.edgekey.net
 0.0.0.0 markhor.organicfruitapps.com
 0.0.0.0 marlin.kumo.at
+0.0.0.0 marmotsverige.com.se
 0.0.0.0 martech.condenastdigital.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 mas.sector.sk
@@ -9769,6 +9783,7 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 mo.gushiji.cc
 0.0.0.0 mo.vlpyj.xy
+0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 mobad.ijinshan.com
@@ -11188,7 +11203,6 @@
 0.0.0.0 qontent.pomvideo.cc
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qps.cint.com
-0.0.0.0 qqcdnpictest.mxplay.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qsearch-a.akamaihd.net
@@ -11435,6 +11449,7 @@
 0.0.0.0 report.seznamzpravy.cz
 0.0.0.0 report.smartcount.net
 0.0.0.0 report.vnay.vn
+0.0.0.0 report2.iciba.com
 0.0.0.0 report2.mediahub.vn
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.cdndex.io
@@ -12509,6 +12524,7 @@
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.oupeng.com
 0.0.0.0 stat-feedot.ru
+0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat-rock.com
 0.0.0.0 stat-track.com
 0.0.0.0 stat.24liveplus.com
@@ -14743,6 +14759,9 @@
 0.0.0.0 vic-m.co
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 vice-publishers-cdn.vice.com
+0.0.0.0 vid-caps.online
+0.0.0.0 vid-clips.space
+0.0.0.0 vid-for-clips.space
 0.0.0.0 vid-io.springserve.net
 0.0.0.0 video-adblocker.com
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com
@@ -15267,7 +15286,6 @@
 0.0.0.0 xn--mtso8sj6menhyil.online
 0.0.0.0 xn--nissn-3jc.com
 0.0.0.0 xn--noki-t5b.com
-0.0.0.0 xn--r1a.website
 0.0.0.0 xn--telegrm-qbd.com
 0.0.0.0 xn--wxtr9fwyxk9c.club
 0.0.0.0 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
