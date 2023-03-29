@@ -3,8 +3,9 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 24mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 27mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
+0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
 0.0.0.0 0a0d-d3l1vr.b-cdn.net
@@ -96,6 +97,7 @@
 0.0.0.0 14713804a.l2m.net
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 1559.stats.misstrends.com
+0.0.0.0 15823f12-289e-4189-9e51-e2de1bf1a105.online
 0.0.0.0 16-merchant-s.com
 0.0.0.0 1675450967.rsc.cdn77.org
 0.0.0.0 17.huanqiu.com
@@ -135,6 +137,7 @@
 0.0.0.0 3.ssqzj.com
 0.0.0.0 301-redirecting.com
 0.0.0.0 30280827a.l2m.net
+0.0.0.0 31830fbc-adbf-11ed-afa1-0242ac120002.site
 0.0.0.0 32.huanqiu.com
 0.0.0.0 321.jintang114.org
 0.0.0.0 33universal.adprimemedia.com
@@ -4742,6 +4745,7 @@
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
@@ -4957,6 +4961,7 @@
 0.0.0.0 collector1.afreecatv.com
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector2c.zhihuishu.com
+0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 colossal-bear.pro
 0.0.0.0 columbus-parking.com
 0.0.0.0 com-csn.com
@@ -5491,6 +5496,7 @@
 0.0.0.0 d1cw0c50l8jv65.cloudfront.net
 0.0.0.0 d1cykymlllue3h.cloudfront.net
 0.0.0.0 d1czd1q73kbu32.cloudfront.net
+0.0.0.0 d1d7hwtv2l91pm.cloudfront.net
 0.0.0.0 d1d8vn0fpluuz7.cloudfront.net
 0.0.0.0 d1daeonbqcq0oh.cloudfront.net
 0.0.0.0 d1diqetif5itzx.cloudfront.net
@@ -5732,6 +5738,7 @@
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
+0.0.0.0 d2foi16y3n0s3e.cloudfront.net
 0.0.0.0 d2g8ksx1za632p.cloudfront.net
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d2ga0x5nt7ml6e.cloudfront.net
@@ -7229,6 +7236,7 @@
 0.0.0.0 facebook-accounts.com.mx
 0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 facil-iti.com
+0.0.0.0 failing-devil.com
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 fam-8.net
 0.0.0.0 fam-ad.com
@@ -7250,6 +7258,7 @@
 0.0.0.0 fastly-insights.com
 0.0.0.0 favorable-lady.pro
 0.0.0.0 favorable-sample.com
+0.0.0.0 favorite-tonight.pro
 0.0.0.0 fb-accounts.com
 0.0.0.0 fb-gw.bef.rest
 0.0.0.0 fb-plus.com
@@ -8775,6 +8784,7 @@
 0.0.0.0 live-once.net
 0.0.0.0 live.careplusvn.com
 0.0.0.0 live.cxo.name
+0.0.0.0 live.demand.supply
 0.0.0.0 live.ec2.cxo.name
 0.0.0.0 live.vnpgroup.net
 0.0.0.0 livecamgirls.streamray.com
@@ -8958,7 +8968,6 @@
 0.0.0.0 log.snow.me
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.strm.yandex.ru
-0.0.0.0 log.suumo.jp
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.tapatalk.com
 0.0.0.0 log.tapchimattran.vn
@@ -9947,6 +9956,7 @@
 0.0.0.0 music-electric.org
 0.0.0.0 music-headphones.org
 0.0.0.0 music-home.info
+0.0.0.0 musk-give.com
 0.0.0.0 muslim-world.info
 0.0.0.0 mustang-browser.com
 0.0.0.0 mva1.maeva.com
@@ -13303,7 +13313,6 @@
 0.0.0.0 tags.creditkarma.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
-0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tags.soloway.ru
@@ -14616,6 +14625,7 @@
 0.0.0.0 us.dev.zeronaught.com
 0.0.0.0 us.i1.yimg.com
 0.0.0.0 us.rewardearners.com
+0.0.0.0 us.tags.newscgp.com
 0.0.0.0 us04logfiles-va.zoom.us
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1-sdk.bluedot.io
