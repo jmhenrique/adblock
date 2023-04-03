@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 29mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 31mar23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
@@ -749,6 +749,7 @@
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.outsidehub.com
 0.0.0.0 ad.outstream.today
+0.0.0.0 ad.owlair.net
 0.0.0.0 ad.oyy.ru
 0.0.0.0 ad.particlenews.com
 0.0.0.0 ad.period-calendar.com
@@ -927,12 +928,10 @@
 0.0.0.0 adclear.teufel.de
 0.0.0.0 adclient.vietnamnetjsc.vn
 0.0.0.0 adclient1.tucows.com
-0.0.0.0 adconf.rqmob.com
 0.0.0.0 adconfigproxy.azurewebsites.net
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcounter.theglobeandmail.com
 0.0.0.0 adcreative.naver.com
-0.0.0.0 adcs.rqmob.com
 0.0.0.0 add-client.com
 0.0.0.0 add.f5haber.com
 0.0.0.0 add.in.ua
@@ -3054,7 +3053,6 @@
 0.0.0.0 anzeigen-vor-ort.de
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 aorta.clickagy.com
-0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-northeast-1.elb.amazonaws.com
 0.0.0.0 ap-northeast-2.elb.amazonaws.com
 0.0.0.0 ap-southeast-1.elb.amazonaws.com
@@ -3206,7 +3204,6 @@
 0.0.0.0 api.radar.io
 0.0.0.0 api.red.wemesh.ca
 0.0.0.0 api.reftagger.com
-0.0.0.0 api.rqmob.com
 0.0.0.0 api.rubic.com.tr
 0.0.0.0 api.safedk.com
 0.0.0.0 api.safegraph.com
@@ -3292,7 +3289,6 @@
 0.0.0.0 app.titsx.com
 0.0.0.0 appad-api-01.perfectcorp.com
 0.0.0.0 appboy-images.com
-0.0.0.0 appclick.rqmob.com
 0.0.0.0 appconfig.cmgdigital.com
 0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 appdump.nie.easebar.com
@@ -3388,7 +3384,6 @@
 0.0.0.0 as2.adserverhd.com
 0.0.0.0 as2.autoforums.com
 0.0.0.0 as4x.tmcs.ticketmaster.com
-0.0.0.0 ascribe.rqmob.com
 0.0.0.0 aserv.motorsgate.com
 0.0.0.0 asg.faperoni.com
 0.0.0.0 ashow.pcpop.com
@@ -4354,6 +4349,7 @@
 0.0.0.0 casino-sicuro.it
 0.0.0.0 casino-zilla.com
 0.0.0.0 caspionlog.appspot.com
+0.0.0.0 caviera-sverige.shop
 0.0.0.0 cb-content.com
 0.0.0.0 cb.baidu.com
 0.0.0.0 cb.g01.yahoodns.net
@@ -4411,6 +4407,7 @@
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn-ra.rockcontent.com
+0.0.0.0 cdn-redirector.glopal.com
 0.0.0.0 cdn-resources.prfct.cc
 0.0.0.0 cdn-rum.ngenix.net
 0.0.0.0 cdn-server.cc
@@ -5581,6 +5578,7 @@
 0.0.0.0 d1nx2jii03b4ju.cloudfront.net
 0.0.0.0 d1o1guzowlqlts.cloudfront.net
 0.0.0.0 d1of5w8unlzqtg.cloudfront.net
+0.0.0.0 d1okyw2ay5msiy.cloudfront.net
 0.0.0.0 d1or04kku1mxl9.cloudfront.net
 0.0.0.0 d1oxccu2k3w6jx.cloudfront.net
 0.0.0.0 d1p3zboe6tz3yy.cloudfront.net
@@ -5644,6 +5642,7 @@
 0.0.0.0 d1yu5hbtu8mng9.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 d1yyhdmsmo3k5p.cloudfront.net
+0.0.0.0 d1z1vj4sd251u9.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
@@ -5739,6 +5738,7 @@
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
 0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
+0.0.0.0 d2ef20sk9hi1u3.cloudfront.net
 0.0.0.0 d2ei3pn5qbemvt.cloudfront.net
 0.0.0.0 d2enprlhqqv4jf.cloudfront.net
 0.0.0.0 d2er1uyk6qcknh.cloudfront.net
@@ -6573,6 +6573,7 @@
 0.0.0.0 domains-resolver.net
 0.0.0.0 dongtukj.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 doo6pwib3qngu.cloudfront.net
+0.0.0.0 doo9gpa5xdov2.cloudfront.net
 0.0.0.0 dopemobi.offerstrack.net
 0.0.0.0 doppler-beacons.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
@@ -6612,6 +6613,7 @@
 0.0.0.0 dqhi3ea93ztgv.cloudfront.net
 0.0.0.0 dqv45r33u0ltv.cloudfront.net
 0.0.0.0 dr.atwoodubre.com
+0.0.0.0 dr3fr5q4g2ul9.cloudfront.net
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
 0.0.0.0 dr8pk6ovub897.cloudfront.net
 0.0.0.0 dragate.dc.oppomobile.com
@@ -6652,6 +6654,7 @@
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.youdao.com
 0.0.0.0 dspk.kindredplc.com
+0.0.0.0 dt.beyla.site
 0.0.0.0 dt.nrjmobile.fr
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 dtakdb1z5gq7e.cloudfront.net
@@ -7804,6 +7807,7 @@
 0.0.0.0 guardiandigitalcomparison.co.uk
 0.0.0.0 guerrilla-links.com
 0.0.0.0 guess.h.qhimg.com
+0.0.0.0 guide-antivirus.com
 0.0.0.0 guirui-clothes.com
 0.0.0.0 gulf-financials.com
 0.0.0.0 gulf-news.info
@@ -7850,6 +7854,7 @@
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 hapic1.zhuangxiu22.com
 0.0.0.0 happen.spkt.io
+0.0.0.0 happy-davinci-53144f.netlify.com
 0.0.0.0 happyunicorns.gutefrage.net
 0.0.0.0 harpocrates.ethyca.com
 0.0.0.0 harsh-definition.pro
@@ -8250,7 +8255,6 @@
 0.0.0.0 in.ff5.com
 0.0.0.0 in.unext.jp
 0.0.0.0 inapps.appflyer.com
-0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 inbox-messages.net
 0.0.0.0 inc2.igexin.com
@@ -8903,6 +8907,7 @@
 0.0.0.0 log.ca.gov.vn
 0.0.0.0 log.cinematoday.jp
 0.0.0.0 log.codemarketing.cloud
+0.0.0.0 log.collectaction.com
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.cpex.cz
 0.0.0.0 log.daidoanket.vn
@@ -9957,7 +9962,6 @@
 0.0.0.0 ms.cnbanbao.com
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msdk.qq.com
-0.0.0.0 msdk.rqmob.com
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 msg.71.am
 0.0.0.0 msg.ettoday.net
@@ -10295,6 +10299,7 @@
 0.0.0.0 oauth.datorama.com
 0.0.0.0 ob.leap.app
 0.0.0.0 obb.domohoziaka.ru
+0.0.0.0 objective-wright-961fed.netlify.com
 0.0.0.0 oblivki.filmy-2017.net
 0.0.0.0 obmen.starstudio.org.ua
 0.0.0.0 obs.cn-east-3.myhuaweicloud.com
@@ -11059,6 +11064,7 @@
 0.0.0.0 production.deckers.coremedia.cloud
 0.0.0.0 profi-link.org
 0.0.0.0 profi-para.com
+0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 profiling.avandor.com
 0.0.0.0 profit-casino.com
 0.0.0.0 profit-partner.ru
@@ -11388,6 +11394,7 @@
 0.0.0.0 rec.detik.com
 0.0.0.0 rec2000.at.ua
 0.0.0.0 rec5.visualwebsiteoptimizer.com
+0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 receiver.eigene.io
 0.0.0.0 receiver.pravoved.org
 0.0.0.0 reception-desk.net
@@ -11748,6 +11755,7 @@
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s1-adfly.com
 0.0.0.0 s1.dugoogle.com
+0.0.0.0 s1.hanlinzhijia.com
 0.0.0.0 s1.intimshop.ru
 0.0.0.0 s1.pipishu.com
 0.0.0.0 s1.qiqutt.cn
@@ -12724,7 +12732,6 @@
 0.0.0.0 static.prototypes.ru
 0.0.0.0 static.returngo.ai
 0.0.0.0 static.rongkao.com
-0.0.0.0 static.rqmob.com
 0.0.0.0 static.scroll.com
 0.0.0.0 static.securedtouch.com
 0.0.0.0 static.skimlinks.com
@@ -13075,6 +13082,7 @@
 0.0.0.0 store-notifications.online
 0.0.0.0 store.page.zaloapp.com
 0.0.0.0 storeen.ldmnq.com
+0.0.0.0 storelog.kode.co.kr
 0.0.0.0 stores-counters.wix.com
 0.0.0.0 straight-shift.pro
 0.0.0.0 stream-all.com
@@ -13464,6 +13472,7 @@
 0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 telemetry.transcend.io
 0.0.0.0 telemetry.v.dropbox.com
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetry.watchabc.go.com
@@ -14026,7 +14035,6 @@
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.remp.sme.sk
 0.0.0.0 tracker.revip.info
-0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.secretescapes.com
 0.0.0.0 tracker.services.vaix.ai
@@ -14584,7 +14592,6 @@
 0.0.0.0 ugly-dance.pro
 0.0.0.0 ui.oix.net
 0.0.0.0 uib.ff.avast.com
-0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uim.tifbs.net
