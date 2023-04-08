@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 03apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 05apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
@@ -1304,6 +1304,7 @@
 0.0.0.0 ads.dgabcsolutions.com.br
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalalchemy.tv
+0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
 0.0.0.0 ads.dijitalvarliklar.com
@@ -3339,6 +3340,7 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 aprod.scopely.io
 0.0.0.0 aps.hearstnp.com
+0.0.0.0 apse.trk.rixserv.com
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 apv-launcher.minute.ly
@@ -4541,7 +4543,6 @@
 0.0.0.0 cdn.yb0t.com
 0.0.0.0 cdn.yieldwrapper.com
 0.0.0.0 cdn1.adspace.4tube.com
-0.0.0.0 cdn1.profitmetrics.io
 0.0.0.0 cdn1.tvzhe.com
 0.0.0.0 cdn1.zopiny.com
 0.0.0.0 cdn12359286.ahacdn.me
@@ -5435,6 +5436,7 @@
 0.0.0.0 d13vul5n9pqibl.cloudfront.net
 0.0.0.0 d140sbu1b1m3h0.cloudfront.net
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
+0.0.0.0 d142i1hxvwe38g.cloudfront.net
 0.0.0.0 d145ghnzqbsasr.cloudfront.net
 0.0.0.0 d14821r0t3377v.cloudfront.net
 0.0.0.0 d14pdm1b7fi5kh.cloudfront.net
@@ -6706,6 +6708,7 @@
 0.0.0.0 dx.mountain.com
 0.0.0.0 dxgo95ahe73e8.cloudfront.net
 0.0.0.0 dxh2ivs16758.cloudfront.net
+0.0.0.0 dxj6cq8hj162l.cloudfront.net
 0.0.0.0 dxk5g04fo96r4.cloudfront.net
 0.0.0.0 dxkkb5tytkivf.cloudfront.net
 0.0.0.0 dxprljqoay4rt.cloudfront.net
@@ -6848,6 +6851,7 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 econda-monitor.de
 0.0.0.0 economic-news.co
+0.0.0.0 ecsv2.roblox.com
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 edge-west.customer.io
 0.0.0.0 edge.atmtd.com
@@ -6960,6 +6964,7 @@
 0.0.0.0 ep.umobile.pl
 0.0.0.0 ep.xone.com
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
+0.0.0.0 ephemeralcounters.api.roblox.com
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epn.adledge.com
 0.0.0.0 epnt.ebay.com
@@ -10718,6 +10723,7 @@
 0.0.0.0 pdf-platinum.info
 0.0.0.0 pdn-1.com
 0.0.0.0 pdn-2.com
+0.0.0.0 pdn-5.com
 0.0.0.0 pe.intentiq.com
 0.0.0.0 pe1.intentiq.com
 0.0.0.0 pebble-adhese.gva.be
@@ -11066,6 +11072,7 @@
 0.0.0.0 profiling.avandor.com
 0.0.0.0 profit-casino.com
 0.0.0.0 profit-partner.ru
+0.0.0.0 profitable-sleep.pro
 0.0.0.0 promo-banner.ru
 0.0.0.0 promo-bc.com
 0.0.0.0 promo-images.ttpsdk.info
@@ -11504,6 +11511,7 @@
 0.0.0.0 report.vnay.vn
 0.0.0.0 report2.iciba.com
 0.0.0.0 report2.mediahub.vn
+0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.tutelatechnologies.com
@@ -11789,6 +11797,7 @@
 0.0.0.0 safe-click.net
 0.0.0.0 safe-connection21.com
 0.0.0.0 safe-mondays.net
+0.0.0.0 safemy-ios.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 sak.userreport.com
 0.0.0.0 sakura-traffic.com
@@ -13193,7 +13202,6 @@
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.ajrkm.link
 0.0.0.0 t.arianelab.com
-0.0.0.0 t.armchairbookie.com
 0.0.0.0 t.auditedmedia.org.au
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.bbtrack.net
@@ -13530,6 +13538,7 @@
 0.0.0.0 thor-media.ru
 0.0.0.0 thor-z.com
 0.0.0.0 thoth.utyug.media
+0.0.0.0 threadbare-inspection.com
 0.0.0.0 threat-analytics.com
 0.0.0.0 thump-night-stand.com
 0.0.0.0 ti.domainforlite.com
@@ -13751,6 +13760,7 @@
 0.0.0.0 tracer.perezhilton.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com
+0.0.0.0 tracing.roblox.com
 0.0.0.0 track-aws.notsy.io
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-mixer.ru
@@ -14395,6 +14405,7 @@
 0.0.0.0 traffic.pinklabel.com
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traffic.tcmagnet.com
+0.0.0.0 traffic.vietnhan.co
 0.0.0.0 traffic.wdc.center
 0.0.0.0 trafficad-biz.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
@@ -15259,6 +15270,7 @@
 0.0.0.0 wtsdc.worldnow.com
 0.0.0.0 wuliao.chzsport.cn
 0.0.0.0 wuliao.juqingba.cn
+0.0.0.0 ww2.imgadult.com
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com
@@ -15537,7 +15549,10 @@
 0.0.0.0 zoom.zshu.net
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
+0.0.0.0 zpsocial-f50-org.zadn.vn
+0.0.0.0 zpsocial-f51-org.zadn.vn
 0.0.0.0 zpsocial-f52-org.zadn.vn
+0.0.0.0 zpsocial-f53-org.zadn.vn
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zq.lansedir.com
 0.0.0.0 zs.dhl.de
