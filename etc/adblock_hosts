@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 05apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 07apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
@@ -414,6 +414,7 @@
 0.0.0.0 aaa.vidox.net
 0.0.0.0 aab-check.me
 0.0.0.0 aab-proxy.tld
+0.0.0.0 aads.shuzilm.cn
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 aamt.nbcnews.com
 0.0.0.0 aamt.today.com
@@ -610,6 +611,7 @@
 0.0.0.0 ad.aceplanet.co.kr
 0.0.0.0 ad.activetk.cf
 0.0.0.0 ad.aduserver.com
+0.0.0.0 ad.adxcore.com
 0.0.0.0 ad.allboxing.ru
 0.0.0.0 ad.aloodo.com
 0.0.0.0 ad.altervista.org
@@ -890,6 +892,7 @@
 0.0.0.0 adat.freemail.hu
 0.0.0.0 adb.fling.com
 0.0.0.0 adback.tango.me
+0.0.0.0 adbanner.adxcore.com
 0.0.0.0 adbd.liuxue86.com
 0.0.0.0 adbison-redirect.com
 0.0.0.0 adblock-analytics.io
@@ -1790,6 +1793,7 @@
 0.0.0.0 ads.univision.com
 0.0.0.0 ads.usa-media.net
 0.0.0.0 ads.usatoday.com
+0.0.0.0 ads.usercash.com
 0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 0.0.0.0 ads.vador.com
@@ -2294,6 +2298,7 @@
 0.0.0.0 adx.xtv.vn
 0.0.0.0 adxcallback.batmobi.net
 0.0.0.0 adxcel-ec2.com
+0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxlog.vivo.com.cn
 0.0.0.0 adyogis.gotrackier.com
 0.0.0.0 adz.rashflash.com
@@ -3258,7 +3263,6 @@
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 app-circle-world.com
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-icons.apptentive.com
 0.0.0.0 app-measurement.com
@@ -3571,6 +3575,7 @@
 0.0.0.0 bacon.getcarro.com
 0.0.0.0 bacon.section.io
 0.0.0.0 badding.oss-ap-southeast-1.aliyuncs.com
+0.0.0.0 baggy-fail.pro
 0.0.0.0 baidu-image-qqcom.com
 0.0.0.0 baidu-jxf.co
 0.0.0.0 baidu1.cardbaobao.com
@@ -5384,6 +5389,7 @@
 0.0.0.0 d.8181zx.com
 0.0.0.0 d.ab126.com
 0.0.0.0 d.adlpo.com
+0.0.0.0 d.adxcore.com
 0.0.0.0 d.dgzj.com
 0.0.0.0 d.email.forbes.com
 0.0.0.0 d.haberler.com
@@ -5880,6 +5886,7 @@
 0.0.0.0 d2x0u7rtw4p89p.cloudfront.net
 0.0.0.0 d2x19ia47o8gwm.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
+0.0.0.0 d2xng9e6gymuzr.cloudfront.net
 0.0.0.0 d2y8ttytgze7qt.cloudfront.net
 0.0.0.0 d2yh8t8mdj4l9x.cloudfront.net
 0.0.0.0 d2ykons4g8jre6.cloudfront.net
@@ -6026,6 +6033,7 @@
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3lcz8vpax4lo2.cloudfront.net
 0.0.0.0 d3lk5upv0ixky2.cloudfront.net
+0.0.0.0 d3ln1qrnwms3rd.cloudfront.net
 0.0.0.0 d3lvr7yuk4uaui.cloudfront.net
 0.0.0.0 d3lw2k94jnkvbs.cloudfront.net
 0.0.0.0 d3m4hp4bp4w996.cloudfront.net
@@ -6413,6 +6421,7 @@
 0.0.0.0 discovery.newspic.kr
 0.0.0.0 discoveryplus.popin.cc
 0.0.0.0 disp-x.space
+0.0.0.0 dispatcher.adxcore.com
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 display.apester.com
 0.0.0.0 display.digitalriver.com
@@ -7345,7 +7354,6 @@
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 find-a.jp
 0.0.0.0 find-ip-address.org
-0.0.0.0 find-my-great-life.com
 0.0.0.0 finditout-now.com
 0.0.0.0 finema-net.cdn.ampproject.org
 0.0.0.0 fingerprinter-production.herokuapp.com
@@ -7527,7 +7535,6 @@
 0.0.0.0 gateway.yieldify-production.com
 0.0.0.0 gather.donga.com
 0.0.0.0 gatorleads.co.uk
-0.0.0.0 gaut-hil.com
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gc.zgo.at
 0.0.0.0 gccode.gongchang.com
@@ -7655,6 +7662,7 @@
 0.0.0.0 gg.miinaa.com
 0.0.0.0 gg.miued.com
 0.0.0.0 gg.sonhoo.com
+0.0.0.0 gg.taoseyy.cn
 0.0.0.0 gg.uuu9.com
 0.0.0.0 gg1.mengchongzu.com
 0.0.0.0 gg86.pinggu.org
@@ -7668,7 +7676,6 @@
 0.0.0.0 ghghgf.51dongshi.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
 0.0.0.0 giga-abs.de
-0.0.0.0 gilgamesh-amu.com
 0.0.0.0 gim.co.il
 0.0.0.0 gipostart-1.co
 0.0.0.0 girohjalm.com.se
@@ -7692,6 +7699,7 @@
 0.0.0.0 globel.co.uk
 0.0.0.0 globus-inter.com
 0.0.0.0 glowpok.rawr.gold
+0.0.0.0 glum-bake.pro
 0.0.0.0 gm-it.consulting
 0.0.0.0 gm.mob.com
 0.0.0.0 gma.alicdn.com
@@ -7966,6 +7974,7 @@
 0.0.0.0 hitweb2.chosun.com
 0.0.0.0 hktracker.hankookilbo.com
 0.0.0.0 hlog.hiido.com
+0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmong-miaojiuyi.com
 0.0.0.0 hnjls.com.cn
@@ -7995,7 +8004,6 @@
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hostedbannerads.aebn.net
 0.0.0.0 hosting.conduit.com
-0.0.0.0 hot-3d-girls.com
 0.0.0.0 hot-clips.space
 0.0.0.0 hot-count.com
 0.0.0.0 hot-dating-here.life
@@ -8643,6 +8651,7 @@
 0.0.0.0 kunner.wiesentbote.de
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 kwserver.adhispanic.com
+0.0.0.0 l.adxcore.com
 0.0.0.0 l.bfmtv.com
 0.0.0.0 l.da-te.jp
 0.0.0.0 l.fairblocker.com
@@ -8853,7 +8862,6 @@
 0.0.0.0 loading-page.net
 0.0.0.0 loading-resource.com
 0.0.0.0 loading-url.net
-0.0.0.0 loathsome-most.com
 0.0.0.0 lobby-x.eu
 0.0.0.0 lobster.unionpeer.com
 0.0.0.0 loc.sexymilfspics.com
@@ -8947,6 +8955,7 @@
 0.0.0.0 log.hiiir.com
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.idnes.cz
+0.0.0.0 log.iflytek.com
 0.0.0.0 log.ifood.tv
 0.0.0.0 log.infonet.vn
 0.0.0.0 log.invodo.com
@@ -8992,6 +9001,7 @@
 0.0.0.0 log.prezi.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.quora.com
+0.0.0.0 log.qvb.qcloud.com
 0.0.0.0 log.radiko.jp
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.rutube.ru
@@ -9036,6 +9046,7 @@
 0.0.0.0 log.vnay.vn
 0.0.0.0 log.vneconomy.vn
 0.0.0.0 log.vnfinance.vn
+0.0.0.0 log.voicecloud.cn
 0.0.0.0 log.vov.vn
 0.0.0.0 log.vovplus.vn
 0.0.0.0 log.vovworld.vn
@@ -9059,6 +9070,7 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log1.happymod.com
+0.0.0.0 log1.wtlogin.qq.com
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
@@ -9210,7 +9222,6 @@
 0.0.0.0 lynn.zgsemi.cn
 0.0.0.0 lysim-lre.com
 0.0.0.0 lyz.radio366.com
-0.0.0.0 lz-pub-ads.com
 0.0.0.0 m-brain.fi
 0.0.0.0 m-growninppcode.com
 0.0.0.0 m-live.jp
@@ -9978,6 +9989,7 @@
 0.0.0.0 mstat.acestream.net
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mt.64foot.com
+0.0.0.0 mtag.adxcore.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtga.setapp.com
 0.0.0.0 mtlog.droid4x.cn
@@ -10214,6 +10226,7 @@
 0.0.0.0 nojsstats.appspot.com
 0.0.0.0 nol.yahoo.com
 0.0.0.0 noor-alhedaya.com
+0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 normal-brain.com
 0.0.0.0 normal-strength.com
 0.0.0.0 norranstats.azurewebsites.net
@@ -10514,7 +10527,6 @@
 0.0.0.0 outsmoke-niyaxabura.com
 0.0.0.0 ov.yahoo.co.jp
 0.0.0.0 overcooked-addition.pro
-0.0.0.0 overjoyed-balance.com
 0.0.0.0 overlay.aibuy.io
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overlooked-cup.pro
@@ -10967,6 +10979,7 @@
 0.0.0.0 pon-prairie.com
 0.0.0.0 pool.ads.netlog.com
 0.0.0.0 pool.nimiq.watch
+0.0.0.0 pooye-ads.com
 0.0.0.0 pop.dojo.cc
 0.0.0.0 pop.mrstiff.com
 0.0.0.0 pop.verplusonline.com
@@ -11774,7 +11787,6 @@
 0.0.0.0 s212.ucoz.net
 0.0.0.0 s232.theintelligencer.com
 0.0.0.0 s24-analytics.com
-0.0.0.0 s2pro-ncode.com
 0.0.0.0 s2r.tut.by
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3.ap-southeast-1.amazonaws.com
@@ -12452,6 +12464,9 @@
 0.0.0.0 sp.yorkdispatch.com
 0.0.0.0 sp.zanesvilletimesrecorder.com
 0.0.0.0 sp0.baidu.com
+0.0.0.0 sp1.baidu.com
+0.0.0.0 sp2.baidu.com
+0.0.0.0 sp3.baidu.com
 0.0.0.0 space-link.de
 0.0.0.0 spade.twitch.tv
 0.0.0.0 spads.yamx.com
@@ -13067,14 +13082,12 @@
 0.0.0.0 stc.ninisite.com
 0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 std.o.webmd.com
-0.0.0.0 steep-opening.com
 0.0.0.0 steep-secretary.pro
 0.0.0.0 step-service.crossinstall.io
 0.0.0.0 step-step-go.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stickyadstv.com.akadns.net
 0.0.0.0 stickyadstv.com.edgekey.net
-0.0.0.0 stimulating-contact.com
 0.0.0.0 stir.semilo.com
 0.0.0.0 stlog.d.dmkt-sp.jp
 0.0.0.0 stnetsdk.vivo.com.cn
@@ -13694,12 +13707,14 @@
 0.0.0.0 tour.brazzers.com
 0.0.0.0 townlife-aff.com
 0.0.0.0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
+0.0.0.0 tp.content-score.com
 0.0.0.0 tp.sgcn.com
 0.0.0.0 tp4sul.jwzd.com.cn
 0.0.0.0 tpa7.iahorro.com
 0.0.0.0 tpads.sv.publicus.com
 0.0.0.0 tpjz.tmuurnthtf.xyz
 0.0.0.0 tpmedia-reactads.com
+0.0.0.0 tpns.gz2.tencent.com
 0.0.0.0 tpstelemetry.tencent.com
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
@@ -13754,6 +13769,7 @@
 0.0.0.0 trace-2000.com
 0.0.0.0 trace.51jingying.com
 0.0.0.0 trace.qq.com
+0.0.0.0 trace.zhiyan.tencent-cloud.net
 0.0.0.0 trace21.dsb-ebusiness.com
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracer.concung.com
@@ -14658,6 +14674,7 @@
 0.0.0.0 upgrade-sim-card.com
 0.0.0.0 uplift-platform.com
 0.0.0.0 upload-now.net
+0.0.0.0 uplog.inews.qq.com
 0.0.0.0 upsight-api.com
 0.0.0.0 uptime.monitorus.ru
 0.0.0.0 upu.samsungelectronics.com
@@ -14697,6 +14714,7 @@
 0.0.0.0 usejj.makepolo.cn
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 usenet-nl.top
+0.0.0.0 user-analysis.7moor.com
 0.0.0.0 user-api.com
 0.0.0.0 user-clicks.com
 0.0.0.0 user-red.com
@@ -14865,8 +14883,8 @@
 0.0.0.0 videostats.kakao.com
 0.0.0.0 videosvc.ezoic.com
 0.0.0.0 vider-image.com
+0.0.0.0 vids-fun.online
 0.0.0.0 vie-en-islam.com
-0.0.0.0 viency-vering.com
 0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 view-affiliwelt.net
 0.0.0.0 view-flix.com
@@ -15342,6 +15360,7 @@
 0.0.0.0 xmarkscom.skimlinks.com
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xml-api.online
+0.0.0.0 xml-heartbid.monster
 0.0.0.0 xml.adfclick1.com
 0.0.0.0 xml.adsparkmedia.net
 0.0.0.0 xml.adxfactory.com
