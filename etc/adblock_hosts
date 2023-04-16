@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 12apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 14apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
@@ -2882,6 +2882,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.rotapost.ru
 0.0.0.0 analytics.rover.io
+0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analytics.saas-vn.network
 0.0.0.0 analytics.safelinking.net
 0.0.0.0 analytics.salesanalytics.io
@@ -3014,6 +3015,7 @@
 0.0.0.0 analytics2.tvreport.co.kr
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analyticsehnwe.servicebus.windows.net
+0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticsnew.overwolf.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyze.yahooapis.com
@@ -3828,6 +3830,7 @@
 0.0.0.0 bd888.qizuang.com
 0.0.0.0 bda1.ayule.net
 0.0.0.0 bdad.gaotie.net
+0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdasd.chdbook.cn
 0.0.0.0 bdasd.chinabig.com.cn
@@ -4340,6 +4343,7 @@
 0.0.0.0 car.qcmrjx.com
 0.0.0.0 cards-sea-nfl.yinzcam.com
 0.0.0.0 careful-oven.pro
+0.0.0.0 careless-category.pro
 0.0.0.0 carl.pubsvs.com
 0.0.0.0 carpediem.sv2.biz
 0.0.0.0 carrefour-des-affaires.com
@@ -4671,6 +4675,7 @@
 0.0.0.0 click-url.com
 0.0.0.0 click.ad1.ru
 0.0.0.0 click.airmalta-mail.com
+0.0.0.0 click.aliexpress.com
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.bkdpt.com
 0.0.0.0 click.bokecc.com
@@ -5422,6 +5427,7 @@
 0.0.0.0 d10nkw6w2k1o10.cloudfront.net
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
 0.0.0.0 d10wfab8zt419p.cloudfront.net
+0.0.0.0 d10zmv6hrj5cx1.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d11bdev7tcn7wh.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
@@ -6373,6 +6379,7 @@
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dfp.bouncex.net
+0.0.0.0 dfwbfr2blhmr5.cloudfront.net
 0.0.0.0 dgemanowhot.com.ua
 0.0.0.0 dggaenaawxe8z.cloudfront.net
 0.0.0.0 dgw7ae5vrovs7.cloudfront.net
@@ -7022,6 +7029,7 @@
 0.0.0.0 estatcounter.co.uk
 0.0.0.0 et-cod.com
 0.0.0.0 et-code.ru
+0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.mobadvent.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etc-cdn-staging.ams3.digitaloceanspaces.com
@@ -7684,6 +7692,7 @@
 0.0.0.0 ggw.watertu.com
 0.0.0.0 ggxwb.miguvideo.com
 0.0.0.0 ghghgf.51dongshi.com
+0.0.0.0 ghghgf.xuexiwa.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
 0.0.0.0 giga-abs.de
 0.0.0.0 gim.co.il
@@ -7800,6 +7809,7 @@
 0.0.0.0 grow.powerstep.com
 0.0.0.0 grown-inpp-code.com
 0.0.0.0 grown-t-code.com
+0.0.0.0 grs.hicloud.com
 0.0.0.0 grumpy-fear.pro
 0.0.0.0 grupoemidia.com.br
 0.0.0.0 gs.mountain.com
@@ -9263,7 +9273,6 @@
 0.0.0.0 m.nanyangqiaoxiang.cn
 0.0.0.0 m.qhxcdmfj.cn
 0.0.0.0 m.sancdn.net
-0.0.0.0 m.stripe.com
 0.0.0.0 m.szyuke.cn
 0.0.0.0 m.trb.com
 0.0.0.0 m.usersonline.com
@@ -10910,6 +10919,7 @@
 0.0.0.0 pixel.nur.kz
 0.0.0.0 pixel.pcworld.com
 0.0.0.0 pixel.playbuzz.com
+0.0.0.0 pixel.poptok.com
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.realtor.com
 0.0.0.0 pixel.reddit.com
@@ -11755,7 +11765,6 @@
 0.0.0.0 s.avforums.ru
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.beop.io
-0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktex.ru
@@ -12253,6 +12262,7 @@
 0.0.0.0 smaato-server.thinknearhub.com
 0.0.0.0 smac-ad.com
 0.0.0.0 smac-ssp.com
+0.0.0.0 smart-c.jp
 0.0.0.0 smart-counter.net
 0.0.0.0 smart-data-systems.com
 0.0.0.0 smart-digital-solutions.com
@@ -14313,6 +14323,7 @@
 0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.practicefusion.com
 0.0.0.0 tracking.propelmedia.com
+0.0.0.0 tracking.purchasely.io
 0.0.0.0 tracking.rapidape.com
 0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.realtor.com
@@ -15190,6 +15201,7 @@
 0.0.0.0 widget.convertiser.com
 0.0.0.0 widget.crowdignite.com
 0.0.0.0 widget.cybershop-affiliate.jp
+0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widget.fitanalytics.com
 0.0.0.0 widget.golfscape.com
 0.0.0.0 widget.headlines.pw
@@ -15316,6 +15328,7 @@
 0.0.0.0 wuliao.juqingba.cn
 0.0.0.0 ww2.imgadult.com
 0.0.0.0 ww2.imgtaxi.com
+0.0.0.0 ww2.imgwallet.com
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www-google-analytics.l.google.com
@@ -15388,6 +15401,7 @@
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xml-api.online
 0.0.0.0 xml-heartbid.monster
+0.0.0.0 xml-heartbidnet.monster
 0.0.0.0 xml.adfclick1.com
 0.0.0.0 xml.adsparkmedia.net
 0.0.0.0 xml.adxfactory.com
