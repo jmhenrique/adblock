@@ -3,7 +3,7 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 14apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 17apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
@@ -541,6 +541,7 @@
 0.0.0.0 ad-im-cmg.streamguys1.com
 0.0.0.0 ad-img.diyidan.net
 0.0.0.0 ad-indicator.com
+0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 ad-log.wemakeprice.com
 0.0.0.0 ad-logging2.ap-northeast-2.elasticbeanstalk.com
 0.0.0.0 ad-loupe.com
@@ -802,6 +803,7 @@
 0.0.0.0 ad.universcine.com
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.velomania.ru
+0.0.0.0 ad.video-mech.ru
 0.0.0.0 ad.vidver.to
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.virtual-nights.com
@@ -1078,6 +1080,7 @@
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
+0.0.0.0 adrackpush.azurewebsites.net
 0.0.0.0 adrates.theglobeandmail.com
 0.0.0.0 adreq.vivo.com.cn
 0.0.0.0 adresult-sp.jp
@@ -2406,6 +2409,7 @@
 0.0.0.0 afl-static-cdn.newbiz-prod.stroeerws.de
 0.0.0.0 afl.rakuten.co.jp
 0.0.0.0 afp.chinanews.com
+0.0.0.0 afraid-standard.pro
 0.0.0.0 ag.palmtube.net
 0.0.0.0 ag1.zuszw.com
 0.0.0.0 agent.contentsanalyst.com
@@ -2432,6 +2436,7 @@
 0.0.0.0 aid-ad.jp
 0.0.0.0 aimg.fc2.com
 0.0.0.0 air.audioeye.com
+0.0.0.0 aircraft-fapi.club
 0.0.0.0 airlock.twcmobile.weather.com
 0.0.0.0 aixuntupian.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 ajdivotdelbloab24.jio.com
@@ -2571,6 +2576,7 @@
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 analytics-api.statvoo.com
 0.0.0.0 analytics-au.clickdimensions.com
+0.0.0.0 analytics-beacon.p.uliza.jp
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-chi-nfl.yinzcam.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -2903,6 +2909,7 @@
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.sitewit.com
+0.0.0.0 analytics.skroutz.gr
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.slidesai.io
@@ -4869,6 +4876,7 @@
 0.0.0.0 code.ainsyndication.com
 0.0.0.0 code.barrior.online
 0.0.0.0 code.barrior.ru
+0.0.0.0 code.bizdirlib.com
 0.0.0.0 code.curs.net.ua
 0.0.0.0 code.ditiezu.net
 0.0.0.0 code.kinofactor.ru
@@ -5498,10 +5506,12 @@
 0.0.0.0 d1ayv3a7nyno3a.cloudfront.net
 0.0.0.0 d1az618or4kzj8.cloudfront.net
 0.0.0.0 d1aznprfp4xena.cloudfront.net
+0.0.0.0 d1azpphj80lavy.cloudfront.net
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1b240xv9h0q8y.cloudfront.net
 0.0.0.0 d1b499kr4qnas6.cloudfront.net
 0.0.0.0 d1b9b1cxai2c03.cloudfront.net
+0.0.0.0 d1bad9ankyq5eg.cloudfront.net
 0.0.0.0 d1bci271z7i5pg.cloudfront.net
 0.0.0.0 d1betjlqogdr97.cloudfront.net
 0.0.0.0 d1bevsqehy4npt.cloudfront.net
@@ -5748,6 +5758,7 @@
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dc2sk4vkh2xn.cloudfront.net
+0.0.0.0 d2dkurdav21mkk.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2dyjetg3tc2wn.cloudfront.net
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
@@ -6377,6 +6388,7 @@
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
 0.0.0.0 df888.eastday.com
 0.0.0.0 dfanalytics.dealerfire.com
+0.0.0.0 dfiqvf0syzl54.cloudfront.net
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dfp.bouncex.net
 0.0.0.0 dfwbfr2blhmr5.cloudfront.net
@@ -6551,7 +6563,6 @@
 0.0.0.0 dmz3nd5oywtsw.cloudfront.net
 0.0.0.0 dmzls.safe-installation.com
 0.0.0.0 dn.adzerver.com
-0.0.0.0 dn.msmstatic.com
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
@@ -7417,6 +7428,7 @@
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 footjoygolfskorrea.com.se
 0.0.0.0 for-j.com
+0.0.0.0 for-joiyvid.site
 0.0.0.0 for.health-net-lady.ru
 0.0.0.0 force24.co.uk
 0.0.0.0 forced-layer.de
@@ -7810,6 +7822,7 @@
 0.0.0.0 grown-inpp-code.com
 0.0.0.0 grown-t-code.com
 0.0.0.0 grs.hicloud.com
+0.0.0.0 gruesome-comfortable.pro
 0.0.0.0 grumpy-fear.pro
 0.0.0.0 grupoemidia.com.br
 0.0.0.0 gs.mountain.com
@@ -8115,6 +8128,7 @@
 0.0.0.0 ia.51.la
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iabusprivacy.pmc.com
+0.0.0.0 iacanotot.com.de
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iad.g.163.com
 0.0.0.0 iadctest.qwapi.com
@@ -12238,6 +12252,7 @@
 0.0.0.0 skeletal-if.pro
 0.0.0.0 skimlinkscom.skimlinks.com
 0.0.0.0 skroutza.skroutz.gr
+0.0.0.0 skt-asum.com
 0.0.0.0 sky.dunsuan.com
 0.0.0.0 skymedia.co.uk
 0.0.0.0 skypicker-api.infinario.com
