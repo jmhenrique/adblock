@@ -3,9 +3,8 @@
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 17apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 19apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
-0.0.0.0 0.0.realodix
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
 0.0.0.0 0a0d-d3l1vr.b-cdn.net
@@ -583,7 +582,6 @@
 0.0.0.0 ad-sun.de
 0.0.0.0 ad-switcher.com
 0.0.0.0 ad-tag.biz
-0.0.0.0 ad-tech.com
 0.0.0.0 ad-tizer.net
 0.0.0.0 ad-tool.com
 0.0.0.0 ad-track.jp
@@ -4179,6 +4177,7 @@
 0.0.0.0 btn.onlylady.com
 0.0.0.0 btn.pchome.net
 0.0.0.0 btr.domywife.com
+0.0.0.0 btrace.qq.com
 0.0.0.0 btrack.homedy.com
 0.0.0.0 btstats.devtribu.fr
 0.0.0.0 bu1.duba.com
@@ -4211,6 +4210,7 @@
 0.0.0.0 bwb101.goo.ne.jp
 0.0.0.0 bwp.download.com
 0.0.0.0 bwstatistics.sapoapps.vn
+0.0.0.0 bx-cloud.com
 0.0.0.0 bx.neolabs.kz
 0.0.0.0 by.dyq.cn
 0.0.0.0 by.uservoice.com
@@ -4790,6 +4790,7 @@
 0.0.0.0 clk.onet.pl
 0.0.0.0 clkstat.china.cn
 0.0.0.0 clktrk.display.io
+0.0.0.0 cllctr.any.run
 0.0.0.0 clog.geniex.com
 0.0.0.0 clog.go.com
 0.0.0.0 clog.mirrativ.com
@@ -4883,6 +4884,7 @@
 0.0.0.0 code.lockbot.net
 0.0.0.0 code.metalocator.com
 0.0.0.0 code.rtbsystem.com
+0.0.0.0 code.usergram.info
 0.0.0.0 code.vh45130.eurodir.ru
 0.0.0.0 coder-bts.site
 0.0.0.0 codes.royalad.pl
@@ -5158,6 +5160,7 @@
 0.0.0.0 counter.adguard.com
 0.0.0.0 counter.ajansspor.com
 0.0.0.0 counter.all.biz
+0.0.0.0 counter.any.run
 0.0.0.0 counter.bizland.com
 0.0.0.0 counter.blogoscoop.net
 0.0.0.0 counter.bloke.com
@@ -5774,6 +5777,7 @@
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
+0.0.0.0 d2fhrdu08h12cc.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2foi16y3n0s3e.cloudfront.net
 0.0.0.0 d2g8ksx1za632p.cloudfront.net
@@ -5964,6 +5968,7 @@
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d370hf5nfmhbjy.cloudfront.net
+0.0.0.0 d379fkejtn2clk.cloudfront.net
 0.0.0.0 d37abonb6ucrhx.cloudfront.net
 0.0.0.0 d37pempw0ijqri.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
@@ -6167,6 +6172,7 @@
 0.0.0.0 d95d1c685a.6c142df43a.com
 0.0.0.0 d985a9d2clzq5.cloudfront.net
 0.0.0.0 d9b5gfwt6p05u.cloudfront.net
+0.0.0.0 d9c5dterekrjd.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
 0.0.0.0 d9tnvwv7i2n85.cloudfront.net
 0.0.0.0 d9v72urx9pbbc.cloudfront.net
@@ -6655,6 +6661,7 @@
 0.0.0.0 dramatic-challenge.com
 0.0.0.0 drbccw04ifva6.cloudfront.net
 0.0.0.0 drda5yf9kgz5p.cloudfront.net
+0.0.0.0 dreary-east.pro
 0.0.0.0 drf8e429z5jzt.cloudfront.net
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 driv-analytics.com
@@ -7235,6 +7242,7 @@
 0.0.0.0 exchange.xbiz.com
 0.0.0.0 execute-api.us-east-1.amazonaws.com
 0.0.0.0 execution-use.ci360.sas.com
+0.0.0.0 exhausted-use.pro
 0.0.0.0 exists-mazard.icu
 0.0.0.0 exit-ad.de
 0.0.0.0 exit-x.net
@@ -7429,6 +7437,7 @@
 0.0.0.0 footjoygolfskorrea.com.se
 0.0.0.0 for-j.com
 0.0.0.0 for-joiyvid.site
+0.0.0.0 for-joiyvidspics.online
 0.0.0.0 for.health-net-lady.ru
 0.0.0.0 force24.co.uk
 0.0.0.0 forced-layer.de
@@ -8120,6 +8129,7 @@
 0.0.0.0 i.isnssdk.com
 0.0.0.0 i.j2j.ru
 0.0.0.0 i.l.cnn.net
+0.0.0.0 i.moshimo.com
 0.0.0.0 i.po.st
 0.0.0.0 i.tct-rom.com
 0.0.0.0 i.viafoura.co
@@ -8695,6 +8705,7 @@
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ffsagami.com
 0.0.0.0 l.ffx.io
+0.0.0.0 l.francetvinfo.fr
 0.0.0.0 l.hamazo.tv
 0.0.0.0 l.ikora.tv
 0.0.0.0 l.junglekouen.com
@@ -10570,6 +10581,7 @@
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overlooked-cup.pro
 0.0.0.0 ovk.xceler8.io
+0.0.0.0 owa.any.run
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 owbroinothiermon.com.ua
 0.0.0.0 owneriq.net.edgekey.net
@@ -11410,6 +11422,7 @@
 0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 ratel-ad.com
 0.0.0.0 ratings.lycos.com
+0.0.0.0 raw-co.com
 0.0.0.0 raw-console.com
 0.0.0.0 rays-counter.com
 0.0.0.0 rb-net.com
@@ -12229,6 +12242,7 @@
 0.0.0.0 signup-way.com
 0.0.0.0 sikr.chimeratool.com
 0.0.0.0 simple-isl.com
+0.0.0.0 simplistic-potato.pro
 0.0.0.0 sin1.geoadnxs.com
 0.0.0.0 sing-tracker.com
 0.0.0.0 sis.jpush.io
@@ -13791,6 +13805,7 @@
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.suedkurier.de
 0.0.0.0 tr.topdevvn.com
+0.0.0.0 tr.usergram.info
 0.0.0.0 tr.vitals.co
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 tr1.admeira.ch
