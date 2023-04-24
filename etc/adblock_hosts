@@ -1,9 +1,9 @@
-142.251.129.200 ssl.google-analytics.com
+142.250.219.232 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 19apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 21apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -491,6 +491,7 @@
 0.0.0.0 ace.naver.com
 0.0.0.0 acelogger.heraldcorp.com
 0.0.0.0 acf-webmaster.net
+0.0.0.0 achilles-par.com
 0.0.0.0 acid-adserver.click
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acl.stayfriends.de
@@ -1325,6 +1326,7 @@
 0.0.0.0 ads.downloadaccelerator.com
 0.0.0.0 ads.drugs.com
 0.0.0.0 ads.dtpnetwork.biz
+0.0.0.0 ads.dugwood.com
 0.0.0.0 ads.dygdigital.com
 0.0.0.0 ads.dynamic-media.org
 0.0.0.0 ads.eagletribune.com
@@ -1461,6 +1463,7 @@
 0.0.0.0 ads.ign.com
 0.0.0.0 ads.iknowthatgirl.com
 0.0.0.0 ads.imagistica.com
+0.0.0.0 ads.imbc.com
 0.0.0.0 ads.imeem.com
 0.0.0.0 ads.img.globo.com
 0.0.0.0 ads.imguol.com
@@ -2090,6 +2093,7 @@
 0.0.0.0 adslot.uc.cn
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adsmetadata.startappk8s.com
+0.0.0.0 adsmrapi.imbc.com
 0.0.0.0 adsnew.gsmarena.com
 0.0.0.0 adsp.ciner.com.tr
 0.0.0.0 adsp.haberturk.com
@@ -2464,6 +2468,7 @@
 0.0.0.0 algat.intergoles.me
 0.0.0.0 ali-bestshop.ru
 0.0.0.0 ali-crm.ru
+0.0.0.0 alia-iso.com
 0.0.0.0 alias.ngs.modry.cz
 0.0.0.0 aliexpress-internet.ru
 0.0.0.0 alimama.alicdn.com
@@ -2626,6 +2631,7 @@
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.apnewsregistry.com
+0.0.0.0 analytics.apotekhjartat.se
 0.0.0.0 analytics.appsbnet.com.br
 0.0.0.0 analytics.appservice.tech
 0.0.0.0 analytics.archive.org
@@ -3780,6 +3786,7 @@
 0.0.0.0 barbours.com.se
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bas.boshi.tv
+0.0.0.0 baste-znl.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batmobile.com.tw
 0.0.0.0 bats.video.yahoo.com
@@ -3941,6 +3948,7 @@
 0.0.0.0 behavior.tongdun.net
 0.0.0.0 beijing.buzhi5.com
 0.0.0.0 bekannt-im-web.de
+0.0.0.0 belia-glp.com
 0.0.0.0 believe-the-hype.be
 0.0.0.0 beloved-ideal.pro
 0.0.0.0 ben.crxmouse.com
@@ -4673,6 +4681,7 @@
 0.0.0.0 clean-1-clean.club
 0.0.0.0 clear-request.com
 0.0.0.0 clearsale.com.br
+0.0.0.0 clever-redirect.com
 0.0.0.0 cli.linksynergy.com
 0.0.0.0 click-cdn.com
 0.0.0.0 click-count.info
@@ -5600,6 +5609,7 @@
 0.0.0.0 d1nkvehlw5hmj4.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
+0.0.0.0 d1now6cui1se29.cloudfront.net
 0.0.0.0 d1nssfq3xl2t6b.cloudfront.net
 0.0.0.0 d1nubxdgom3wqt.cloudfront.net
 0.0.0.0 d1nx2jii03b4ju.cloudfront.net
@@ -6902,6 +6912,7 @@
 0.0.0.0 edgead.woomedya.com
 0.0.0.0 edirect.efind.ru
 0.0.0.0 edmanalytics.pandahall.com
+0.0.0.0 edu-lib.com
 0.0.0.0 edu.jiukang.org
 0.0.0.0 eduad.baidu.com
 0.0.0.0 edw.edmunds.com
@@ -7046,6 +7057,7 @@
 0.0.0.0 estatcounter.co.uk
 0.0.0.0 et-cod.com
 0.0.0.0 et-code.ru
+0.0.0.0 et-gv.fr
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.mobadvent.com
 0.0.0.0 et.nytimes.com
@@ -7335,6 +7347,7 @@
 0.0.0.0 fb-plus.com
 0.0.0.0 fb.cashtraffic.com
 0.0.0.0 fbmedia-ckl.com
+0.0.0.0 fbmedia-dhs.com
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 fc.itmedia.co.jp
 0.0.0.0 fc.webmasterpro.de
@@ -7474,6 +7487,7 @@
 0.0.0.0 free-counter.com
 0.0.0.0 free-counters.co.uk
 0.0.0.0 free-counters.net
+0.0.0.0 free-datings.com
 0.0.0.0 free-domain.net
 0.0.0.0 free-hit-counters.net
 0.0.0.0 free-local-events.info
@@ -7822,6 +7836,7 @@
 0.0.0.0 green-ads.net
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 green-red.com
+0.0.0.0 green-search-engine.com
 0.0.0.0 grizzled-cover.com
 0.0.0.0 grounded-card.pro
 0.0.0.0 groupstats.chat.zalo.me
@@ -9481,6 +9496,7 @@
 0.0.0.0 me-client.eservice.emarsys.net
 0.0.0.0 me.networkandfaces.com
 0.0.0.0 me.zedcdn.me
+0.0.0.0 measure.chase.com
 0.0.0.0 measure.mf.cz
 0.0.0.0 measure.office.com
 0.0.0.0 measure.refinery89.com
@@ -10393,6 +10409,7 @@
 0.0.0.0 offers.sapra.ir
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.headlines.pw
+0.0.0.0 offerwall.yandex.net
 0.0.0.0 office.ad1.ru
 0.0.0.0 og-affiliate.com
 0.0.0.0 og.zyzjpx.cn
@@ -11369,6 +11386,7 @@
 0.0.0.0 r.existenz.se
 0.0.0.0 r.kleertjes.com
 0.0.0.0 r.miamano.com
+0.0.0.0 r.moshimo.com
 0.0.0.0 r.mradx.net
 0.0.0.0 r.msn.com
 0.0.0.0 r.my.com
@@ -12199,6 +12217,7 @@
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgsnssdk.com.edgekey.net
+0.0.0.0 sgtm.handyhuellen.de
 0.0.0.0 sgtm.inet.se
 0.0.0.0 sgtm.sefamerve.com
 0.0.0.0 sgtm.simoahava.com
@@ -13836,7 +13855,6 @@
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 tracing.roblox.com
-0.0.0.0 track-aws.notsy.io
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-mixer.ru
 0.0.0.0 track-re01.com
@@ -13949,7 +13967,6 @@
 0.0.0.0 track.nifty.com
 0.0.0.0 track.ning.com
 0.0.0.0 track.nopaperforms.com
-0.0.0.0 track.notsy.io
 0.0.0.0 track.noz.de
 0.0.0.0 track.nzz.ch
 0.0.0.0 track.oasis.magictavern.com
@@ -14011,6 +14028,7 @@
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track.vio.edu.vn
 0.0.0.0 track.vscash.com
+0.0.0.0 track.vtcnews.vn
 0.0.0.0 track.wattpad.com
 0.0.0.0 track.wayin.com
 0.0.0.0 track.wesdk.co
@@ -14512,6 +14530,7 @@
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 tredir.go.com
 0.0.0.0 trek.powtoon.com
+0.0.0.0 tremendous-tour.pro
 0.0.0.0 trendads.reactivebetting.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 tretorn-rea.com.se
@@ -15258,6 +15277,7 @@
 0.0.0.0 widgets.tree.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 widjet.analnoe.tv
+0.0.0.0 wiela-kig.com
 0.0.0.0 wifi-test.mobidia.com
 0.0.0.0 wiinvent.com.vn
 0.0.0.0 wikia-ads.wikia.com
