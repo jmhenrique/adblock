@@ -1,9 +1,9 @@
-142.250.219.232 ssl.google-analytics.com
+142.250.218.168 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
 0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 21apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 24apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -313,6 +313,7 @@
 0.0.0.0 a.partner-versicherung.de
 0.0.0.0 a.pcpro.co.uk
 0.0.0.0 a.pikabu.ru
+0.0.0.0 a.plerdy.com
 0.0.0.0 a.popin.cc
 0.0.0.0 a.qinghua5.com
 0.0.0.0 a.qncye.net
@@ -2136,6 +2137,7 @@
 0.0.0.0 adtarget.com.tr
 0.0.0.0 adtech-digital.ru
 0.0.0.0 adtech-prod.nikecloud.com
+0.0.0.0 adtechvideo.s3.amazonaws.com
 0.0.0.0 adtest.pages.dev
 0.0.0.0 adtima-common.zadn.vn
 0.0.0.0 adtima-common.zascdn.me
@@ -3513,6 +3515,7 @@
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 award.sitekeuring.net
 0.0.0.0 away-stay.com
+0.0.0.0 awesome-blocker.com
 0.0.0.0 awesome.section.io
 0.0.0.0 aws-api.sail-personalize.com
 0.0.0.0 aws-itcloud.net
@@ -3986,6 +3989,7 @@
 0.0.0.0 bf.mocda1.com
 0.0.0.0 bf20578xco.bf.dynatrace.com
 0.0.0.0 bgtw.chimeratool.com
+0.0.0.0 bh-dm.com
 0.0.0.0 bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.medscape.com
@@ -4096,6 +4100,7 @@
 0.0.0.0 bold-in.ru
 0.0.0.0 bonne-terre-data-layer.com
 0.0.0.0 bonnetiere-infrangible-burthening.xyz
+0.0.0.0 bonus-app.net
 0.0.0.0 boo-box.com
 0.0.0.0 booking-tables.com
 0.0.0.0 books-analytics-events.apple.com
@@ -4267,6 +4272,7 @@
 0.0.0.0 c.nuhcpf.com
 0.0.0.0 c.opinion.com.ua
 0.0.0.0 c.pcswtw.cn
+0.0.0.0 c.plerdy.com
 0.0.0.0 c.pravo.ru
 0.0.0.0 c.realtytrac.com
 0.0.0.0 c.riskified.com
@@ -4998,6 +5004,7 @@
 0.0.0.0 collector2c.zhihuishu.com
 0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 colossal-bear.pro
+0.0.0.0 colum-rvb.com
 0.0.0.0 columbus-parking.com
 0.0.0.0 com-reports.net
 0.0.0.0 com-wkejf32ljd23409system.net
@@ -5292,6 +5299,7 @@
 0.0.0.0 cre-ads.com
 0.0.0.0 creara-media.ru
 0.0.0.0 creative-analytics.crossinstall.io
+0.0.0.0 creative-bars1.com
 0.0.0.0 creative-cdn.appgrowth.com
 0.0.0.0 creative-platform.vrvm.com
 0.0.0.0 creative-serving.com
@@ -6105,6 +6113,7 @@
 0.0.0.0 d3qinhqny4thfo.cloudfront.net
 0.0.0.0 d3qu0b872n4q3x.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
+0.0.0.0 d3qygewatvuv28.cloudfront.net
 0.0.0.0 d3qztsm17pgxue.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rb9wasp2y8gw.cloudfront.net
@@ -6209,6 +6218,7 @@
 0.0.0.0 daily-sport.news
 0.0.0.0 dailymotion-ams.gravityrd-services.com
 0.0.0.0 dailymotion-cs.vpadn.com
+0.0.0.0 daima.aixiaola.com
 0.0.0.0 daima.diaoben.net
 0.0.0.0 daima.ijq.tv
 0.0.0.0 daima.ssata.cn
@@ -6581,6 +6591,7 @@
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
+0.0.0.0 dn6rwwtxa647p.cloudfront.net
 0.0.0.0 dn9uzzhcwc0ya.cloudfront.net
 0.0.0.0 dne6rbzy5csnc.cloudfront.net
 0.0.0.0 dnf06i4y06g13.cloudfront.net
@@ -6736,6 +6747,7 @@
 0.0.0.0 duiba.com.cn
 0.0.0.0 duiwai.baidu.com
 0.0.0.0 dup.baidustatic.com
+0.0.0.0 duqamtr9ifv5t.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
 0.0.0.0 duz64ud8y8urc.cloudfront.net
 0.0.0.0 duzt6rhr7wo8p.cloudfront.net
@@ -7025,6 +7037,7 @@
 0.0.0.0 epp.bih.net.ba
 0.0.0.0 epro.sogou.com
 0.0.0.0 eps-analyzer.de
+0.0.0.0 eq.af31f.site
 0.0.0.0 eq.userneeds.com
 0.0.0.0 equal-gravity.com
 0.0.0.0 er.5ykj.cn
@@ -7433,6 +7446,7 @@
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fluid-pie.pro
 0.0.0.0 flurry.cachefly.net
+0.0.0.0 flustered-poetry.pro
 0.0.0.0 flux-g.com
 0.0.0.0 fly-ads.net
 0.0.0.0 fly-analytics.com
@@ -8096,7 +8110,6 @@
 0.0.0.0 httpring.qq.com
 0.0.0.0 hu.xbhy.com
 0.0.0.0 huang-biao.com
-0.0.0.0 huazitupian.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 hub.com.pl
 0.0.0.0 hub.securedtouch.com
 0.0.0.0 hubble.netease.com
@@ -9565,6 +9578,7 @@
 0.0.0.0 mega1.yeah1.com
 0.0.0.0 megaban.com.ua
 0.0.0.0 megadata.co.kr
+0.0.0.0 megae-aqn.com
 0.0.0.0 megogo.1ru.tv
 0.0.0.0 mein.monster.de
 0.0.0.0 mellow-game.pro
@@ -9583,6 +9597,7 @@
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 messaging.influencemobile.com
 0.0.0.0 messenger-notify.digital
+0.0.0.0 messenger-notify.xyz
 0.0.0.0 met.vgwort.de
 0.0.0.0 metabet.api.areyouwatchingthis.com
 0.0.0.0 metabet.static.areyouwatchingthis.com
@@ -10268,6 +10283,7 @@
 0.0.0.0 ngc1.nsm-corp.com
 0.0.0.0 ngd.thesun.co.uk
 0.0.0.0 ngegas.files.im
+0.0.0.0 nice-mw.com
 0.0.0.0 nightswatch-go-collector-y2.yieldify-production.com
 0.0.0.0 nil.naver.com
 0.0.0.0 ninja.akamaized.net
@@ -10473,6 +10489,7 @@
 0.0.0.0 on-click.ir
 0.0.0.0 on-line.lv
 0.0.0.0 on-push.com
+0.0.0.0 on-you.cn
 0.0.0.0 onandeggsiswe.com.ua
 0.0.0.0 onapp.haravan.com
 0.0.0.0 one-door.com
@@ -10709,6 +10726,7 @@
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 param.lionmobi.com
 0.0.0.0 parameter.lionmobi.com
+0.0.0.0 paris-lno.com
 0.0.0.0 park.above.com
 0.0.0.0 park.parkingpanel.com
 0.0.0.0 park.realadev.ru
@@ -11001,6 +11019,7 @@
 0.0.0.0 planning-analytics.ibmcloud.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
+0.0.0.0 platform-hetcash.com
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.ssacdn.com
 0.0.0.0 plausible.ams.to
@@ -11032,6 +11051,7 @@
 0.0.0.0 pmssrv.mercadolivre.com.br
 0.0.0.0 pmweb.com.br
 0.0.0.0 pnekru6pxrum-a.akamaihd.net
+0.0.0.0 pnez8.rut6m.xyz
 0.0.0.0 pnrt-stsdk.vivo.com.cn
 0.0.0.0 po.ponant.com
 0.0.0.0 pochta-info.com
@@ -12103,6 +12123,7 @@
 0.0.0.0 securecd-smnd.com
 0.0.0.0 securecloud-dt.com
 0.0.0.0 securecloud-smart.com
+0.0.0.0 secureconv-dl.com
 0.0.0.0 secured-url.net
 0.0.0.0 securedopen-bp.com
 0.0.0.0 securely-send.com
@@ -12161,6 +12182,7 @@
 0.0.0.0 serious-partners.com
 0.0.0.0 serl.mooo.com
 0.0.0.0 serv-ac.com
+0.0.0.0 serv-selectmedia.com
 0.0.0.0 servad.mynet.com
 0.0.0.0 servads.fansshare.com
 0.0.0.0 serve-sys.com
@@ -12408,6 +12430,7 @@
 0.0.0.0 sogo.uc.continuefaf.top
 0.0.0.0 sokmil-ad.com
 0.0.0.0 sol-data.com
+0.0.0.0 solucx.com.br
 0.0.0.0 som.aeroplan.com
 0.0.0.0 somniture.stuff.co.nz
 0.0.0.0 son-in-lawmorbid.com
@@ -13858,6 +13881,7 @@
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-mixer.ru
 0.0.0.0 track-re01.com
+0.0.0.0 track-selectmedia.com
 0.0.0.0 track-server-100.com
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track-victoriadates.com
@@ -14130,6 +14154,7 @@
 0.0.0.0 tracker.phunusuckhoe.vn
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.pinnaclesports.com
+0.0.0.0 tracker.plerdy.com
 0.0.0.0 tracker.prom.ua
 0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.realclearpolitics.com
@@ -15070,6 +15095,8 @@
 0.0.0.0 w11.zhongkaohelp.com
 0.0.0.0 w18.9939.com
 0.0.0.0 w1jesu6.package12.com
+0.0.0.0 w3-reporting-nel.reddit.com
+0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w3.ting55.com
 0.0.0.0 w3c.5txs.com
 0.0.0.0 w4o7aea80ss3-a.akamaihd.net
@@ -15634,6 +15661,7 @@
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 zencudo.co.uk
 0.0.0.0 zesty-beer.pro
+0.0.0.0 zesty-lady.pro
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zg.mmyuer.com
 0.0.0.0 zgsdk.zhugeio.com
