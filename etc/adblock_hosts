@@ -1,9 +1,9 @@
 142.250.218.168 ssl.google-analytics.com
 0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
-0.0.0.0 # list corrections can be requested at https://github.com/adguardteam/adguardsdnsfilter/issues
+0.0.0.0 # list corrections can be requested upstream at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 24apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+0.0.0.0 # updated 28apr23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 04-f-bmf.com
@@ -128,6 +128,7 @@
 0.0.0.0 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 0.0.0.0 2beon.co.kr
+0.0.0.0 2mdn-cn.net
 0.0.0.0 3-2g38cfo0l.cn
 0.0.0.0 3-mobiappu.com
 0.0.0.0 3.5646.cn
@@ -725,6 +726,7 @@
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.megapeer.ru
 0.0.0.0 ad.mobiuspace.net
+0.0.0.0 ad.moo-mam-tai.com
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.mox.tv
 0.0.0.0 ad.mrtnsvr.com
@@ -830,6 +832,7 @@
 0.0.0.0 ad.zing.vn
 0.0.0.0 ad.zinimedia.com
 0.0.0.0 ad.ztylez.com
+0.0.0.0 ad.zui.com
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad0.haynet.com
 0.0.0.0 ad01.mediacorpsingapore.com
@@ -1040,6 +1043,7 @@
 0.0.0.0 admin.voh.com.vn
 0.0.0.0 admitad-connect.com
 0.0.0.0 admixer.co.kr
+0.0.0.0 admob-cn.com
 0.0.0.0 admost-banner.b-cdn.net
 0.0.0.0 adms.phunusuckhoe.vn
 0.0.0.0 adms.physorg.com
@@ -3716,6 +3720,7 @@
 0.0.0.0 banners.copyscape.com
 0.0.0.0 banners.crakcash.com
 0.0.0.0 banners.czi.cz
+0.0.0.0 banners.defenceweb.co.za
 0.0.0.0 banners.dine.com
 0.0.0.0 banners.direction-x.com
 0.0.0.0 banners.dogfart.com
@@ -3734,6 +3739,7 @@
 0.0.0.0 banners.iq.pl
 0.0.0.0 banners.isoftmarketing.com
 0.0.0.0 banners.jewishfriendfinder.com
+0.0.0.0 banners.livepartners.com
 0.0.0.0 banners.lottoelite.com
 0.0.0.0 banners.meccahoo.com
 0.0.0.0 banners.millionairemate.com
@@ -3886,6 +3892,7 @@
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.cdnma.com
+0.0.0.0 beacon.clickequations.net
 0.0.0.0 beacon.cracked.com
 0.0.0.0 beacon.digima.com
 0.0.0.0 beacon.dropbox.com
@@ -4207,6 +4214,7 @@
 0.0.0.0 bunny-net.com
 0.0.0.0 buoyant-force.pro
 0.0.0.0 burdaffi.burdadigital.pl
+0.0.0.0 burdensome-gene.pro
 0.0.0.0 business-today.info
 0.0.0.0 business.92wy.com
 0.0.0.0 button-call.zalo.me
@@ -4511,6 +4519,7 @@
 0.0.0.0 cdn.klasseo.com
 0.0.0.0 cdn.locallogic.co
 0.0.0.0 cdn.lodeo.io
+0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.maaw.io
 0.0.0.0 cdn.malokacha.club
 0.0.0.0 cdn.marjmedya.com
@@ -4543,6 +4552,7 @@
 0.0.0.0 cdn.revjet.com
 0.0.0.0 cdn.rgrd.xyz
 0.0.0.0 cdn.rongzhouxing.com
+0.0.0.0 cdn.routy.app
 0.0.0.0 cdn.sgmntfy.com
 0.0.0.0 cdn.shareaholic.net
 0.0.0.0 cdn.smartclick.io
@@ -5337,7 +5347,6 @@
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crtv.mate1.com
 0.0.0.0 cryo.socialblade.com
-0.0.0.0 crypto-coins.club
 0.0.0.0 crypto-coins.com
 0.0.0.0 crypto-coins.info
 0.0.0.0 crypto-loot.com
@@ -5586,6 +5595,7 @@
 0.0.0.0 d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1jl096lp4cce0.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
+0.0.0.0 d1juimniehopp3.cloudfront.net
 0.0.0.0 d1jwpd11ofhd5g.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
@@ -5593,6 +5603,7 @@
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1ktmtailsv07c.cloudfront.net
 0.0.0.0 d1kwkwcfmhtljq.cloudfront.net
+0.0.0.0 d1kzm6rtbvkdln.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lihuem8ojqxz.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
@@ -5910,6 +5921,7 @@
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2uhnetoehh304.cloudfront.net
 0.0.0.0 d2uy8iq3fi50kh.cloudfront.net
+0.0.0.0 d2uyi99y1mkn17.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2va1d0hpla18n.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
@@ -6360,7 +6372,6 @@
 0.0.0.0 delivery.akadigital.vn
 0.0.0.0 delivery.first-impression.com
 0.0.0.0 delivery.hornyspots.com
-0.0.0.0 delivery.hunterycity.com
 0.0.0.0 delivery.playallvideos.com
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.sexyxxx.biz
@@ -6469,6 +6480,7 @@
 0.0.0.0 discovery-script.newspic.kr
 0.0.0.0 discovery.newspic.kr
 0.0.0.0 discoveryplus.popin.cc
+0.0.0.0 disfigured-state.pro
 0.0.0.0 disp-x.space
 0.0.0.0 dispatcher.adxcore.com
 0.0.0.0 dispatcher.upmc.uc.cn
@@ -6644,6 +6656,7 @@
 0.0.0.0 dotnet.endai.com
 0.0.0.0 dotserver.douyucdn.cn
 0.0.0.0 double-check.com
+0.0.0.0 doubleclick-cn.net
 0.0.0.0 doubleclick.ctfile.com
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 doubleverify.com.edgekey.net
@@ -7137,6 +7150,7 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-stream.spot.im
+0.0.0.0 event-tracking.deliverr.com
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.chitai-gorod.ru
 0.0.0.0 event.condenastdigital.com
@@ -7464,6 +7478,7 @@
 0.0.0.0 for-j.com
 0.0.0.0 for-joiyvid.site
 0.0.0.0 for-joiyvidspics.online
+0.0.0.0 for-joiyvidspics.site
 0.0.0.0 for.health-net-lady.ru
 0.0.0.0 force24.co.uk
 0.0.0.0 forced-layer.de
@@ -7681,7 +7696,6 @@
 0.0.0.0 geoip.pennlive.com
 0.0.0.0 geoip.securitetotale.com
 0.0.0.0 geoip.silive.com
-0.0.0.0 geoip.spotpass.io
 0.0.0.0 geoip.syracuse.com
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geoiplookup.wikimedia.org
@@ -7819,13 +7833,19 @@
 0.0.0.0 good-games.org
 0.0.0.0 good-traf.ru
 0.0.0.0 good-traff.ru
+0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
+0.0.0.0 googleads-cn.com
 0.0.0.0 googleads.github.io
+0.0.0.0 googleadservices-cn.com
+0.0.0.0 googleoptimize-cn.com
 0.0.0.0 googleplay-store.com
 0.0.0.0 googleshopping.sapoapps.vn
+0.0.0.0 googletagmanager-cn.com
+0.0.0.0 googlevads-cn.com
 0.0.0.0 gorod.tunt.lv
 0.0.0.0 goryachie-foto.net
 0.0.0.0 gos-kanal.ru
@@ -8165,7 +8185,6 @@
 0.0.0.0 ia.51.la
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iabusprivacy.pmc.com
-0.0.0.0 iacanotot.com.de
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iad.g.163.com
 0.0.0.0 iadctest.qwapi.com
@@ -8240,6 +8259,7 @@
 0.0.0.0 image.influenster.com
 0.0.0.0 image.richrelevance.com
 0.0.0.0 image1.cecash.com
+0.0.0.0 images-ads.aland.com
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 images-aud.sourceforge.net
@@ -8272,6 +8292,7 @@
 0.0.0.0 img.3sjt.com
 0.0.0.0 img.adtiming.com
 0.0.0.0 img.apester.com
+0.0.0.0 img.ascontentcloud.com
 0.0.0.0 img.avatraffic.com
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.crossinstall.com
@@ -8563,7 +8584,6 @@
 0.0.0.0 join.xlgirls.com
 0.0.0.0 joint-bad.com
 0.0.0.0 journey.unicef.de
-0.0.0.0 jp.zaloapp.com
 0.0.0.0 jpaasne.e.shifen.com
 0.0.0.0 jpg1.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jquery-cdn.cc
@@ -8578,6 +8598,7 @@
 0.0.0.0 js.aiservice.vn
 0.0.0.0 js.bju888.com
 0.0.0.0 js.chetan.com
+0.0.0.0 js.clickequations.net
 0.0.0.0 js.coinisrsdelivery.com
 0.0.0.0 js.convertale.com
 0.0.0.0 js.download-apk-i.com
@@ -9234,7 +9255,6 @@
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logs.unchecky.com
-0.0.0.0 logs.vmixcore.com
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logscafef.channelvn.net
 0.0.0.0 logsdk.qq.com
@@ -10233,7 +10253,6 @@
 0.0.0.0 news-alert.org
 0.0.0.0 news-back.org
 0.0.0.0 news-bitivu.cc
-0.0.0.0 news-central.io
 0.0.0.0 news-central.org
 0.0.0.0 news-code.com
 0.0.0.0 news-flash.net
@@ -10241,6 +10260,7 @@
 0.0.0.0 news-headlines.co
 0.0.0.0 news-host.net
 0.0.0.0 news-mars.com
+0.0.0.0 news-molixo.cc
 0.0.0.0 news-muheji.com
 0.0.0.0 news-network.ru
 0.0.0.0 news-news.co
@@ -10751,6 +10771,7 @@
 0.0.0.0 partner.pladform.ru
 0.0.0.0 partner.shop.vorwerk.de
 0.0.0.0 partner.superbahisaffiliates248.com
+0.0.0.0 partner.vecteezy.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnergateway.liga-stavok.com
@@ -11461,6 +11482,7 @@
 0.0.0.0 ratings.lycos.com
 0.0.0.0 raw-co.com
 0.0.0.0 raw-console.com
+0.0.0.0 raw-move.pro
 0.0.0.0 rays-counter.com
 0.0.0.0 rb-net.com
 0.0.0.0 rb.ras1.site
@@ -11605,7 +11627,9 @@
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-uri.io
 0.0.0.0 report.23video.com
+0.0.0.0 report.apkpure.net
 0.0.0.0 report.iciba.com
+0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 report.mediahub.vn
 0.0.0.0 report.meituan.com
 0.0.0.0 report.mitsubishicars.com
@@ -11979,6 +12003,7 @@
 0.0.0.0 script.anura.io
 0.0.0.0 script.e-space.se
 0.0.0.0 script.extellio.com
+0.0.0.0 script.fixel.ai
 0.0.0.0 scripte-monster.de
 0.0.0.0 scripts-repo.reelevant.com
 0.0.0.0 scripts.mofos.com
@@ -12262,6 +12287,7 @@
 0.0.0.0 shop-cdn.coccoc.com
 0.0.0.0 shop.vnay.vn
 0.0.0.0 shopconvert.com.br
+0.0.0.0 shopify-fast-tags.deliverr.com
 0.0.0.0 shoptarget.com.br
 0.0.0.0 short-address.com
 0.0.0.0 show-review.com
@@ -12827,7 +12853,6 @@
 0.0.0.0 static.fengkongcloud.com
 0.0.0.0 static.fleshlight.com
 0.0.0.0 static.gaomaer.cn
-0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.hatid.com
 0.0.0.0 static.herr.io
 0.0.0.0 static.ichehome.com
@@ -13233,6 +13258,7 @@
 0.0.0.0 success-news.org
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 suchmaschinen-ranking-hits.de
+0.0.0.0 sudden-great.pro
 0.0.0.0 sugar.zhihu.com
 0.0.0.0 sugs.m.sm.cn
 0.0.0.0 sumarketing.co.uk
@@ -13818,6 +13844,7 @@
 0.0.0.0 tpstelemetry.tencent.com
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
+0.0.0.0 tr-monday.xyz
 0.0.0.0 tr-op.datatrics.com
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
@@ -13850,7 +13877,6 @@
 0.0.0.0 tr.vitals.co
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 tr1.admeira.ch
-0.0.0.0 tr1.mailperformance.com
 0.0.0.0 tr6.snapchat.com
 0.0.0.0 trac.clicplan.co.uk
 0.0.0.0 trac.clicplan.com
@@ -13911,6 +13937,7 @@
 0.0.0.0 track.briskfile.com
 0.0.0.0 track.buybox.click
 0.0.0.0 track.byzon.swelen.net
+0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.catalogs.com
 0.0.0.0 track.cbs.com
 0.0.0.0 track.cedsdigital.it
@@ -13928,6 +13955,7 @@
 0.0.0.0 track.cracked.com
 0.0.0.0 track.customer.io
 0.0.0.0 track.custora.com
+0.0.0.0 track.dark.bz
 0.0.0.0 track.ddmanager.ru
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.digitalriver.com
@@ -14119,7 +14147,6 @@
 0.0.0.0 tracker.fado.vn
 0.0.0.0 tracker.farsnews.ir
 0.0.0.0 tracker.fengkongcloud.com
-0.0.0.0 tracker.files.fm
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.freecharge.in
 0.0.0.0 tracker.gamedock.io
@@ -14336,7 +14363,6 @@
 0.0.0.0 tracking.koego.com
 0.0.0.0 tracking.komoot.de
 0.0.0.0 tracking.kurier.at
-0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.leadlander.com
 0.0.0.0 tracking.leeep.jp
 0.0.0.0 tracking.legacyoffers.com
@@ -14500,7 +14526,6 @@
 0.0.0.0 tracks.arubamediamarketing.it
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 tracktrue.clicktrue.biz
-0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 trade-agreement.com
 0.0.0.0 trade46-q.com
 0.0.0.0 trading-ad.net
@@ -14523,6 +14548,7 @@
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.mindviz.com
 0.0.0.0 traffic.pinklabel.com
+0.0.0.0 traffic.styria.hr
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traffic.tcmagnet.com
 0.0.0.0 traffic.vietnhan.co
@@ -14692,6 +14718,7 @@
 0.0.0.0 u939.colgate.com
 0.0.0.0 ua.badongo.com
 0.0.0.0 ua.indianexpress.com
+0.0.0.0 uacabilqlgpw.cdnvideo3.com
 0.0.0.0 ual.ocmcbyxm.xyz
 0.0.0.0 ub-analytics.com
 0.0.0.0 ub-xjp.vvbrd.com
@@ -14721,6 +14748,7 @@
 0.0.0.0 uep.gaijin.net
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ug-sg.byteoversea.com
+0.0.0.0 ugly-charity.pro
 0.0.0.0 ugly-dance.pro
 0.0.0.0 ui.oix.net
 0.0.0.0 uib.ff.avast.com
@@ -14753,7 +14781,6 @@
 0.0.0.0 unity3d.com.edgekey.net
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 universal-traffic.com
-0.0.0.0 universal.wgplayer.com
 0.0.0.0 uniway.cn.com
 0.0.0.0 unlawful-clock.pro
 0.0.0.0 unnatural-situation.pro
@@ -14816,7 +14843,6 @@
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
 0.0.0.0 usageanalytics.coveo.com
-0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 usejj.makepolo.cn
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 usenet-nl.top
@@ -15268,6 +15294,7 @@
 0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 widget-view.dmm.co.jp
 0.0.0.0 widget-view.dmm.com
+0.0.0.0 widget.admiral.hr
 0.0.0.0 widget.beop.io
 0.0.0.0 widget.boende.se
 0.0.0.0 widget.cdn.citygate.se
@@ -15290,6 +15317,7 @@
 0.0.0.0 widget.sellwild.com
 0.0.0.0 widget.shopstyle.com
 0.0.0.0 widget.socialmart.ru
+0.0.0.0 widget.sparrow.ru
 0.0.0.0 widget.tippebannere.no
 0.0.0.0 widget.utinet.ru
 0.0.0.0 widget.zenback.jp
