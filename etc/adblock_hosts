@@ -4715,6 +4715,7 @@
 0.0.0.0 click.khingtracking.com
 0.0.0.0 click.livejasmin.com
 0.0.0.0 click.mail.hotels.com
+0.0.0.0 click.mailing.ticketmaster.com
 0.0.0.0 click.mkt.grab.com
 0.0.0.0 click.mmosite.com
 0.0.0.0 click.news.vans.com
@@ -5545,6 +5546,7 @@
 0.0.0.0 d1ev866ubw90c6.cloudfront.net
 0.0.0.0 d1ezlc9vy4yc7g.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
+0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1fs2ef81chg3.cloudfront.net
@@ -6980,7 +6982,6 @@
 0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-plans.com
 0.0.0.0 email-reflex.com
-0.0.0.0 email.m1.bktrksmail.com
 0.0.0.0 emaillinks.soundiiz.com
 0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 embarrassed-slice.pro
@@ -13397,6 +13398,7 @@
 0.0.0.0 taboola.com.cn
 0.0.0.0 tad.suning.com
 0.0.0.0 tadv.didestan.net
+0.0.0.0 tag-demo.mention-me.com
 0.0.0.0 tag-manager.playbuzz.com
 0.0.0.0 tag.adincube.com
 0.0.0.0 tag.adtrendmedia.net
@@ -13419,6 +13421,7 @@
 0.0.0.0 tag.karte.io
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.links-analytics.com
+0.0.0.0 tag.mention-me.com
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.nifty.com
 0.0.0.0 tag.pprl.io
@@ -15150,6 +15153,7 @@
 0.0.0.0 web20-traffic-system.de
 0.0.0.0 webads.co.nz
 0.0.0.0 webads.tradeholding.com
+0.0.0.0 webanalytics.zohodcm.com
 0.0.0.0 webanalyticsnossl.websense.com
 0.0.0.0 webanalyzer.bussion.com
 0.0.0.0 webbannons.ntm.eu
