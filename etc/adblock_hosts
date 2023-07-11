@@ -1092,6 +1092,7 @@
 0.0.0.0 ads-6686.top
 0.0.0.0 ads-admin.hubs.vn
 0.0.0.0 ads-api.playfun.vn
+0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-backend.chaincliq.com
 0.0.0.0 ads-backend.nhadatmoi.net
@@ -1124,6 +1125,7 @@
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.mattel163.com
 0.0.0.0 ads-server.mxplay.com
+0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-static.phonepe.com
 0.0.0.0 ads-stream.com
 0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
@@ -2126,6 +2128,7 @@
 0.0.0.0 adtarget.com.tr
 0.0.0.0 adtech-digital.ru
 0.0.0.0 adtech-prod.nikecloud.com
+0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtechvideo.s3.amazonaws.com
 0.0.0.0 adtest.pages.dev
 0.0.0.0 adtima-common.zadn.vn
@@ -2235,7 +2238,9 @@
 0.0.0.0 advertica-cdn2.com
 0.0.0.0 advertise.ldplayer.net
 0.0.0.0 advertisement-nhatanh.com
+0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising-cdn.com
+0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.bayoubuzz.com
 0.0.0.0 advertising.dclux.com
 0.0.0.0 advertising.embarcaderopublishing.com
@@ -3132,6 +3137,7 @@
 0.0.0.0 api.bonusberry.ru
 0.0.0.0 api.bugfender.com
 0.0.0.0 api.bugsee.com
+0.0.0.0 api.bugsnag.com
 0.0.0.0 api.calq.io
 0.0.0.0 api.cazamba.com
 0.0.0.0 api.cheatsheet.me
@@ -3189,7 +3195,6 @@
 0.0.0.0 api.nrelate.com
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 api.oneaudience.com
-0.0.0.0 api.optimizely.com
 0.0.0.0 api.ozui.vn
 0.0.0.0 api.parse.com
 0.0.0.0 api.pdbarea.com
@@ -3265,6 +3270,7 @@
 0.0.0.0 app.airtrack.jp
 0.0.0.0 app.bugfender.com
 0.0.0.0 app.bugreplay.com
+0.0.0.0 app.bugsnag.com
 0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.cobrowser.com
@@ -3272,11 +3278,11 @@
 0.0.0.0 app.crossengage.io
 0.0.0.0 app.datorama.com
 0.0.0.0 app.gelirartisi.com
+0.0.0.0 app.getsentry.com
 0.0.0.0 app.getwoohoo.com
 0.0.0.0 app.hstatic.net
 0.0.0.0 app.mashero.com
 0.0.0.0 app.monetrack.com
-0.0.0.0 app.optimizely.com
 0.0.0.0 app.pulsatehq.com
 0.0.0.0 app.reflectivedata.com
 0.0.0.0 app.roximity.com
@@ -3306,6 +3312,7 @@
 0.0.0.0 applogs.pixelfederation.com
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appmetrica.yandex.net
+0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appmm.zapr.in
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appnext.hs.llnwd.net
@@ -4139,6 +4146,7 @@
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 browser.covatic.io
 0.0.0.0 browser.intl.miui.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 brs.intl.miui.com
 0.0.0.0 brt.studylabs.cn
 0.0.0.0 bs-dante.ru
@@ -4180,6 +4188,7 @@
 0.0.0.0 buoyant-quote.pro
 0.0.0.0 burdaffi.burdadigital.pl
 0.0.0.0 burdensome-gene.pro
+0.0.0.0 business-api.tiktok.com
 0.0.0.0 business-today.info
 0.0.0.0 business.92wy.com
 0.0.0.0 button-call.zalo.me
@@ -4495,7 +4504,6 @@
 0.0.0.0 cdn.neon.click
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 cdn.onesignal.com
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 cdn.orangeclickmedia.com
 0.0.0.0 cdn.pardot.com
@@ -4550,7 +4558,6 @@
 0.0.0.0 cdn2.cache.vn
 0.0.0.0 cdn28786515.ahacdn.me
 0.0.0.0 cdn2sitescout-a.akamaihd.net
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn44221613.ahacdn.me
 0.0.0.0 cdn93d99x0e.23bei.com
 0.0.0.0 cdnads.cam4.com
@@ -4637,6 +4644,7 @@
 0.0.0.0 cja-1223.cc
 0.0.0.0 cjpowercast.com.edgesuite.net
 0.0.0.0 ck-cdn.com
+0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 ck.ncclick.co.kr
 0.0.0.0 ckg.vipyl.com
 0.0.0.0 cl-ad.x-flow.app
@@ -6958,6 +6966,7 @@
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 ema.hostvn.net
+0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-link.adtidy.net
 0.0.0.0 email-link.adtidy.org
 0.0.0.0 email-links.crowdfireapp.com
@@ -7199,7 +7208,6 @@
 0.0.0.0 events.matterport.com
 0.0.0.0 events.mercadolibre.com
 0.0.0.0 events.missena.io
-0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.newsroom.bi
 0.0.0.0 events.niit-mts.com
@@ -9002,6 +9010,7 @@
 0.0.0.0 log.bizlive.vn
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.btopenworld.com
+0.0.0.0 log.byteoversea.com
 0.0.0.0 log.ca.gov.vn
 0.0.0.0 log.cinematoday.jp
 0.0.0.0 log.codemarketing.cloud
@@ -9074,7 +9083,6 @@
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
-0.0.0.0 log.optimizely.com
 0.0.0.0 log.oto.com.vn
 0.0.0.0 log.outbrain.org
 0.0.0.0 log.outbrainimg.com
@@ -9162,7 +9170,6 @@
 0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
 0.0.0.0 log22.makeshop.co.kr
-0.0.0.0 log3.optimizely.com
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 logapi.misa.com.vn
@@ -9251,7 +9258,6 @@
 0.0.0.0 logtake.weidian.com
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 logv3.metric.vn
-0.0.0.0 logx.optimizely.com
 0.0.0.0 logzh.dantocmiennui.vn
 0.0.0.0 logzh.vietnamplus.vn
 0.0.0.0 lojapremio.com.br
@@ -9644,6 +9650,7 @@
 0.0.0.0 metrics.apartmentfinder.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.api.yle.fi
+0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.ariba.com
 0.0.0.0 metrics.articulate.com
 0.0.0.0 metrics.autobytel.com
@@ -9829,6 +9836,7 @@
 0.0.0.0 metrika.lookmovie2.to
 0.0.0.0 metrika.myseldon.com
 0.0.0.0 metrika.traff.space
+0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrix.behtarino.com
 0.0.0.0 metrix.emagister.com
 0.0.0.0 mevents.trusteer.com
@@ -10329,6 +10337,7 @@
 0.0.0.0 notify-master.net
 0.0.0.0 notify-monad.com
 0.0.0.0 notify-service.com
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.nuviad.com
 0.0.0.0 notresante-infos.com
 0.0.0.0 nouveau-president.com
@@ -12205,7 +12214,6 @@
 0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 service-update.online
-0.0.0.0 service.maxymiser.net
 0.0.0.0 service.multi-pops.com
 0.0.0.0 service.urchin.com
 0.0.0.0 servicelayer.king.com
@@ -12223,6 +12231,7 @@
 0.0.0.0 serving-sys.com
 0.0.0.0 serving-system.com
 0.0.0.0 session.timecommerce.net
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.intl.miui.com
 0.0.0.0 setupstronghighlyinfo-file.info
@@ -14722,6 +14731,8 @@
 0.0.0.0 ucs.betwaygroup.com
 0.0.0.0 udbdf-v2.nimo.tv
 0.0.0.0 udc.msn.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
 0.0.0.0 udgrbq.malwarebytes.com
 0.0.0.0 udiab1.jianshu.com
 0.0.0.0 ue.flipboard.com
@@ -15305,6 +15316,7 @@
 0.0.0.0 widgets.informars.com
 0.0.0.0 widgets.lendingtree.com
 0.0.0.0 widgets.oddschecker.com
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 widgets.planeta.ru
 0.0.0.0 widgets.progrids.com
 0.0.0.0 widgets.spklw.com
