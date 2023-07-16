@@ -1,4 +1,3 @@
-#
 0000.bealanews.com
 0000.groovinews.com
 0000.shockynews.com
@@ -34265,10 +34264,6 @@ de.schroders.email
 descrepush.com
 described.work
 descriptionheels.com
-# description: the list of unique ads domains that disguise the real trackers by using cname records.
-# description: the list of unique clickthroughs domains that disguise the real trackers by using cname records.
-# description: the list of unique microsites domains that disguise the real trackers by using cname records.
-# description: the list of unique trackers domains that disguise the real trackers by using cname records.
 descz.ovh
 desekansr.com
 desen4.info
@@ -55629,7 +55624,6 @@ home.nexton.com
 homenick.biz
 homeoffun.com
 homepage1.b2bmktg.com
-# homepage: https://github.com/adguardteam/cname-trackers
 homepageking.de
 home.ranchosienna.com
 homergeoidal.tech
@@ -104076,7 +104070,6 @@ timetablewearmatrix.com
 timeterritory.com
 timetoagree.com
 timetwig.com
-# timeupdated: 2023-07-10t08:00:17+00:00
 t.imgur.com
 timingaskew.com
 timingbitternessgreasy.com
@@ -104174,10 +104167,6 @@ titanpoker.com
 titary.com
 titheddenials.com
 tithewtog.com
-# title: adguard cname disguised ads list
-# title: adguard cname disguised clickthroughs list
-# title: adguard cname disguised microsites list
-# title: adguard cname disguised trackers list
 title.mximg.com
 titlerwilhelm.com
 titlin.com

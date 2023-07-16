@@ -1,19 +1,8 @@
  ssl.google-analytics.com
-0.0.0.0 #
 0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
-0.0.0.0 # description: the list of unique ads domains that disguise the real trackers by using cname records.
-0.0.0.0 # description: the list of unique clickthroughs domains that disguise the real trackers by using cname records.
-0.0.0.0 # description: the list of unique microsites domains that disguise the real trackers by using cname records.
-0.0.0.0 # description: the list of unique trackers domains that disguise the real trackers by using cname records.
-0.0.0.0 # homepage: https://github.com/adguardteam/cname-trackers
 0.0.0.0 # list corrections can be requested upstream at https://github.com/adguardteam/adguardsdnsfilter/issues
 0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # timeupdated: 2023-07-10t08:00:17+00:00
-0.0.0.0 # title: adguard cname disguised ads list
-0.0.0.0 # title: adguard cname disguised clickthroughs list
-0.0.0.0 # title: adguard cname disguised microsites list
-0.0.0.0 # title: adguard cname disguised trackers list
 0.0.0.0 # updated 09jul23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 *.b2bmktg.com
 0.0.0.0 0-000.store
