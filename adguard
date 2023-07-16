@@ -9540,7 +9540,6 @@ adgrx.com
 adgsdchh.xyz
 ad.gt
 adgtrk.com
-# adguarddns, parsed and mirrored by https://firebog.net
 ad-guardian.com
 ad.gunosy.com
 adhall.com
@@ -66331,7 +66330,6 @@ li.rtl2.de
 lisafnil.space
 lispingwraths.space
 list1holp.com
-# list corrections can be requested upstream at https://github.com/adguardteam/adguardsdnsfilter/issues
 listen360.com
 listenlayer.com
 listen.trakks.com
@@ -75538,6 +75536,8 @@ netcounter.de
 netcrew-analysis.jp
 netc.sfr.fr
 net.cyberian.tech
+net.daraz.com
+net.daraz.com.bd
 net.daraz.pk
 netdeal.com.br
 netdebit-counter.de
@@ -78036,6 +78036,7 @@ omtr2.partners.salesforce.com
 om.travelocity.ca
 om.travelocity.com
 omtrdc.net
+omtrdc.net.iberostar.com
 om.triphomes.com
 omtrns.sstats.q8.dk
 om.truecar.com
@@ -82492,7 +82493,6 @@ plcrm.protolabs.com
 plczro.21dressroom.com
 pleasantlyrevenge.com
 pleasantpump.com
-# please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
 pleasedpicklewinning.com
 pleasemeright.com
 pleasetrack.com
@@ -103777,7 +103777,6 @@ thisismetis.com
 thisismynewcname.bsteele.dev
 thisis.purelifeexperiences.com
 thisis.purepursuits.com
-# this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 thisiswaldo.com
 thisis.weareafricatravel.com
 thisisyourprize.site
@@ -109364,6 +109363,7 @@ ttnrd.com
 ttoc8ok.com
 t.todaysdailytip.com
 ttoefanyorget.one
+tt.omtrdc.net
 t.top-male-health.com
 ttplugins.ttpsdk.info
 tt.pluralsight.com
@@ -110666,7 +110666,6 @@ update48451.xyz
 updateadvancedgreatlytheproduct.vip
 updateapps.net
 updatecompletelyfreetheproduct.vip
-# updated 09jul23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 updatedchargers.com
 updatedcharges.net
 updateenow.com

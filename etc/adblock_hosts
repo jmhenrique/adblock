@@ -1,9 +1,4 @@
  ssl.google-analytics.com
-0.0.0.0 # adguarddns, parsed and mirrored by https://firebog.net
-0.0.0.0 # list corrections can be requested upstream at https://github.com/adguardteam/adguardsdnsfilter/issues
-0.0.0.0 # please bring any such issues up at https://github.com/wally3k/wally3k.github.io/issues
-0.0.0.0 # this is sourced from an "adblock" style list which may contain mistakes in how it is parsed
-0.0.0.0 # updated 09jul23 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 0.0.0.0 *.b2bmktg.com
 0.0.0.0 0-000.store
 0.0.0.0 0-rootsweb.b2bmktg.com
@@ -46424,6 +46419,7 @@
 0.0.0.0 net.brillen.pl
 0.0.0.0 net.contoseroticoscnn.com
 0.0.0.0 net.cyberian.tech
+0.0.0.0 net.daraz.com.bd
 0.0.0.0 net.daraz.pk
 0.0.0.0 net.depauli.com
 0.0.0.0 net.eurowings.com
@@ -47488,6 +47484,7 @@
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 omtr1.partners.salesforce.com
 0.0.0.0 omtr2.partners.salesforce.com
+0.0.0.0 omtrdc.net.iberostar.com
 0.0.0.0 omtrns.sstats.q8.dk
 0.0.0.0 omvzcq.vidaxl.be
 0.0.0.0 on-click.ir
