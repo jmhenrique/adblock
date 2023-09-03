@@ -547,7 +547,6 @@
 0.0.0.0 1140.bealanews.com
 0.0.0.0 1142.jumronews.com
 0.0.0.0 1148.bealanews.com
-0.0.0.0 1148768686.rsc.cdn77.org
 0.0.0.0 116.jumronews.com
 0.0.0.0 1163.shockynews.com
 0.0.0.0 1165.bealanews.com
@@ -644,7 +643,6 @@
 0.0.0.0 1426bde9ff.4631b36f4f.com
 0.0.0.0 1429.bealanews.com
 0.0.0.0 143.shockynews.com
-0.0.0.0 1430254596.rsc.cdn77.org
 0.0.0.0 1435.bealanews.com
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1438.bealanews.com
@@ -777,7 +775,6 @@
 0.0.0.0 1823.bealanews.com
 0.0.0.0 1827.groovinews.com
 0.0.0.0 183.groovinews.com
-0.0.0.0 1832068995.rsc.cdn77.org
 0.0.0.0 1842.bealanews.com
 0.0.0.0 1846.bealanews.com
 0.0.0.0 184d6c5595.dff2c5fc33.com
@@ -1397,7 +1394,6 @@
 0.0.0.0 9955951.pillar.app
 0.0.0.0 99aa05f0e1.bc9bdbb70b.com
 0.0.0.0 99bddc8c25.84692db09f.com
-0.0.0.0 99ca111363.ba488608ee.com
 0.0.0.0 9aeb603608.86c80a0afb.com
 0.0.0.0 9b0798654a.5a2d208cea.com
 0.0.0.0 9b55.pandasuite.io
@@ -4455,6 +4451,7 @@
 0.0.0.0 abc.rwpt.top
 0.0.0.0 abc.yebaike.com
 0.0.0.0 abcd.5lu.com
+0.0.0.0 abcd.cnhuoche.com
 0.0.0.0 abcd.coderays.com
 0.0.0.0 abcd.yiq.com
 0.0.0.0 abcd.zle.com
@@ -6745,7 +6742,6 @@
 0.0.0.0 adslog.apexinnotech.com
 0.0.0.0 adslot.uc.cn
 0.0.0.0 adsmetadata.mobileadexchange.net
-0.0.0.0 adsmetadata.startappk8s.com
 0.0.0.0 adsmrapi.imbc.com
 0.0.0.0 adsnew.gsmarena.com
 0.0.0.0 adsp.ciner.com.tr
@@ -7870,6 +7866,7 @@
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-2.aasaam.com
 0.0.0.0 analytics-3.aasaam.com
+0.0.0.0 analytics-active.net
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-api.a-f.io
 0.0.0.0 analytics-api.liveapp.com
@@ -7907,6 +7904,7 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics-ssl.allconnect.com
 0.0.0.0 analytics-ssl.bradyid.com
+0.0.0.0 analytics-stamp.confi.com.vc
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tracker.thescore.com
@@ -12266,6 +12264,7 @@
 0.0.0.0 c021b14e0782ad7ef6d74.clicknplay.to
 0.0.0.0 c0b0be585f.581c933842.com
 0.0.0.0 c0i.ckoi.com
+0.0.0.0 c0me-get-s0me.net
 0.0.0.0 c0n.tubestash.com
 0.0.0.0 c0n.urlgalleries.net
 0.0.0.0 c0p.cepsum.umontreal.ca
@@ -16561,6 +16560,7 @@
 0.0.0.0 d310a0f1fe.91c58a050f.com
 0.0.0.0 d313lzv9559yp9.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
+0.0.0.0 d31m6w8i2nx65e.cloudfront.net
 0.0.0.0 d31mxuhvwrofft.cloudfront.net
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d31o2k8hutiibd.cloudfront.net
@@ -16586,6 +16586,7 @@
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34opff713c3gh.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
+0.0.0.0 d34r8q7sht0t9k.cloudfront.net
 0.0.0.0 d34rdvn2ky3gnm.cloudfront.net
 0.0.0.0 d34zwq0l4x27a6.cloudfront.net
 0.0.0.0 d359wjs9dpy12d.cloudfront.net
@@ -19574,7 +19575,6 @@
 0.0.0.0 detect.ergebnis-dienst.de
 0.0.0.0 detectca.easysol.net
 0.0.0.0 deter-individuals.com
-0.0.0.0 determine-month-upward-shoot.xyz
 0.0.0.0 detnmz.bizfluent.com
 0.0.0.0 detnmz.dailypuppy.com
 0.0.0.0 detnmz.ehow.com
@@ -20309,6 +20309,7 @@
 0.0.0.0 dmp.rtbsrv.com
 0.0.0.0 dmp.sbermarketing.ru
 0.0.0.0 dmpcdn.el-mundo.net
+0.0.0.0 dmpmetrics.rcsmetrics.it
 0.0.0.0 dmqykw.thirtymall.com
 0.0.0.0 dmr.cnhoney.com
 0.0.0.0 dms.fx678.com
@@ -21363,6 +21364,7 @@
 0.0.0.0 egret.brothers.studio
 0.0.0.0 egret.friendships.me
 0.0.0.0 egvemw.aboutyou.ee
+0.0.0.0 eh-ra-z-se-na.org
 0.0.0.0 eh.stowingwhelks.com
 0.0.0.0 ehauzf.jewlr.ca
 0.0.0.0 ehavol.consul.com.br
@@ -23981,7 +23983,6 @@
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 g3.letv.com
 0.0.0.0 g5.g5partners.com
-0.0.0.0 g7c9j7j2.hwcdn.net
 0.0.0.0 g993dvyzae.branch.salesfloor.net
 0.0.0.0 ga-ads.com
 0.0.0.0 ga-analytics.com
@@ -24145,7 +24146,6 @@
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.goforandroid.com
 0.0.0.0 geoip.gulflive.com
-0.0.0.0 geoip.herewetest.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.imber.live
 0.0.0.0 geoip.inquirer.net
@@ -37794,7 +37794,6 @@
 0.0.0.0 liveonline.nhanhoa.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 livestats.matrix.it
-0.0.0.0 livetracker.rfe.pangea-cms.com
 0.0.0.0 liveviewer.ez.no
 0.0.0.0 lixir.wargers.org
 0.0.0.0 lizard.juststeveking.uk
@@ -38276,6 +38275,7 @@
 0.0.0.0 look.opskln.com
 0.0.0.0 looking-for-two.com
 0.0.0.0 lookup.qubit.com
+0.0.0.0 loomi-prod.xyz
 0.0.0.0 loon.analogjoe.com
 0.0.0.0 loon.davidalindahl.com
 0.0.0.0 loon.jrmyfranck.com
@@ -41089,7 +41089,6 @@
 0.0.0.0 mediasolutions.netinsight.net
 0.0.0.0 mediasource.actonservice.com
 0.0.0.0 mediator.imgsmail.ru
-0.0.0.0 mediator.mail.ru
 0.0.0.0 mediatraffic.com.ua
 0.0.0.0 mediaview.globalmailer.com
 0.0.0.0 mediax.angloinfo.com
@@ -43823,7 +43822,6 @@
 0.0.0.0 nlp-japan.life-and-mind.com
 0.0.0.0 nltzqx.autodoc.co.uk
 0.0.0.0 nlvnht.miror.jp
-0.0.0.0 nm.placoidtobyman.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmetrics.samsungmobile.com
 0.0.0.0 nmiodk.promiflash.de
@@ -49575,7 +49573,6 @@
 0.0.0.0 sa.adidas.pt
 0.0.0.0 sa.adidas.se
 0.0.0.0 sa.adidas.sk
-0.0.0.0 sa.aol.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.chdist.com
 0.0.0.0 sa.digital.wilhelmsen.com
@@ -51094,6 +51091,7 @@
 0.0.0.0 sg-payment.cydf.hoyoverse.com
 0.0.0.0 sg.carousellmotors.com
 0.0.0.0 sg.freeimg.ru
+0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg.lucanet.com
 0.0.0.0 sg.nnip.com
 0.0.0.0 sg.schroders.email
@@ -58766,6 +58764,7 @@
 0.0.0.0 thai.maxwinjpspin.com
 0.0.0.0 thale-ete.com
 0.0.0.0 thanecityfc.spyn.co
+0.0.0.0 thank-you.io
 0.0.0.0 thankful-conference.pro
 0.0.0.0 thanks.hubspaces.jp
 0.0.0.0 thanks.olivesitter.com
@@ -59337,7 +59336,6 @@
 0.0.0.0 toro-tags.com
 0.0.0.0 toronto-content.cresa.com
 0.0.0.0 torrent-protection.com
-0.0.0.0 torrent-pug.site
 0.0.0.0 torrent-repa.site
 0.0.0.0 torrent-trackers.ru
 0.0.0.0 torropinto.viessmann.es
@@ -61530,6 +61528,7 @@
 0.0.0.0 tracker.dalso.org
 0.0.0.0 tracker.dcdn.baidu.com
 0.0.0.0 tracker.decomworld.com
+0.0.0.0 tracker.dianshige.com
 0.0.0.0 tracker.digikala.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
@@ -61614,6 +61613,7 @@
 0.0.0.0 tracker.tolvnow.com
 0.0.0.0 tracker.tubecj.com
 0.0.0.0 tracker.twofive25.com
+0.0.0.0 tracker.ulivetv.net
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.vgame.us
@@ -61631,6 +61631,7 @@
 0.0.0.0 tracker.zummycloud.com
 0.0.0.0 trackerapi.service.echobox.com
 0.0.0.0 trackerapi.truste.com
+0.0.0.0 trackernew.ulivetv.net
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking-3-9f58.trnox.com
@@ -64024,6 +64025,7 @@
 0.0.0.0 vpl.voyage-prive.pl
 0.0.0.0 vpmdiq.propertyfinder.qa
 0.0.0.0 vpn-access.site
+0.0.0.0 vpn-defend.com
 0.0.0.0 vpn-offers.com
 0.0.0.0 vpn-offers.info
 0.0.0.0 vpn-offers.org
@@ -64207,6 +64209,7 @@
 0.0.0.0 wareneingang.edeka.de
 0.0.0.0 warfieldtech.actonservice.com
 0.0.0.0 warlike-purpose.pro
+0.0.0.0 warm-course.pro
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 wary-pressure.pro
 0.0.0.0 was.epson.com
