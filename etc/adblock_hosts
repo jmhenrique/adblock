@@ -454,6 +454,7 @@
 0.0.0.0 1.i999d.cn
 0.0.0.0 1.isanxia.com
 0.0.0.0 1.jeasyui.net
+0.0.0.0 1.jiangzheba.com
 0.0.0.0 1.jiqie.cn
 0.0.0.0 1.jumronews.com
 0.0.0.0 1.jushtong.com
@@ -1724,7 +1725,6 @@
 0.0.0.0 9d70e2dcea.c4024c9266.com
 0.0.0.0 9d844b1143.7f00f312e5.com
 0.0.0.0 9e4a8a6859.1f031f585b.com
-0.0.0.0 9e6b79c0d0.f4961f1b2e.com
 0.0.0.0 9e813c2770.3227a4c431.com
 0.0.0.0 9ea415bca3.0816086bd1.com
 0.0.0.0 9eb759e6ce.52a16ddb75.com
@@ -6753,6 +6753,7 @@
 0.0.0.0 ads.oneplace.com
 0.0.0.0 ads.onetouchtv.me
 0.0.0.0 ads.opensubtitles.org
+0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.oxymoronent.com
@@ -7484,7 +7485,6 @@
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx-west-imp.aarki.net
 0.0.0.0 adx.36kr.com
-0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.chinmedia.vn
 0.0.0.0 adx.chip.de
@@ -11767,7 +11767,6 @@
 0.0.0.0 bdad.gaotie.net
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
-0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdasd.chdbook.cn
 0.0.0.0 bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
@@ -12879,6 +12878,7 @@
 0.0.0.0 c.cpa6.ru
 0.0.0.0 c.cpl2.ru
 0.0.0.0 c.cqpsf.cn
+0.0.0.0 c.down.tube
 0.0.0.0 c.dpgmedia.net
 0.0.0.0 c.ecliks.com
 0.0.0.0 c.ftstats.com
@@ -14006,7 +14006,6 @@
 0.0.0.0 cjrhml.snipes.ch
 0.0.0.0 ck-cdn.com
 0.0.0.0 ck.abdalpaces.com
-0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 ck.ncclick.co.kr
 0.0.0.0 ck.zzipps.com
 0.0.0.0 ckg.vipyl.com
@@ -16981,6 +16980,7 @@
 0.0.0.0 d1bxkgbbc428vi.cloudfront.net
 0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
+0.0.0.0 d1cglulyxpv8sj.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1clmik8la8v65.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
@@ -19998,7 +19998,6 @@
 0.0.0.0 data-ff6ba35ab1.cash-online.de
 0.0.0.0 data-ff95894520.apps.iocnt.de
 0.0.0.0 data-formula.com
-0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-jsext.com
 0.0.0.0 data-nl.computer-automation.de
 0.0.0.0 data-nl.connect-channel.de
@@ -20026,7 +20025,6 @@
 0.0.0.0 data.accountslatam.coca-cola.com
 0.0.0.0 data.adlermode.com
 0.0.0.0 data.adobedc.net
-0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.adwombat.com
 0.0.0.0 data.aem-sites-internal.adobe.com
 0.0.0.0 data.ajo-sandbox.ensemble.com
@@ -21319,7 +21317,6 @@
 0.0.0.0 dl.dinngo.co
 0.0.0.0 dl.elaw.om
 0.0.0.0 dl.episerver.net
-0.0.0.0 dl.fatimacapos.com
 0.0.0.0 dl.flipagram.com
 0.0.0.0 dl.flipkartwholesale.com
 0.0.0.0 dl.fotoable.com
@@ -23662,7 +23659,6 @@
 0.0.0.0 eu-west-3.elb.amazonaws.com
 0.0.0.0 eu.amazonpayments.com
 0.0.0.0 eu.balletsbeep.com
-0.0.0.0 eu.bassoonavatara.com
 0.0.0.0 eu.business.samsung.com
 0.0.0.0 eu.cignaglobalhealth.com
 0.0.0.0 eu.gldn.io
@@ -35292,6 +35288,7 @@
 0.0.0.0 goinst.feim.com
 0.0.0.0 gointo.imi-hydronic.com
 0.0.0.0 goku.brightcove.com
+0.0.0.0 gold-line.click
 0.0.0.0 gold-mir.com
 0.0.0.0 gold-wm.ru
 0.0.0.0 gold.ibiza-court.com
@@ -54205,7 +54202,6 @@
 0.0.0.0 rd.luckybet.lv
 0.0.0.0 rd.menozen.com.br
 0.0.0.0 rd.modernistlook.com
-0.0.0.0 rd.pulayanyet.com
 0.0.0.0 rd.savingtoolsonline.com
 0.0.0.0 rdbd.xsread.com
 0.0.0.0 rdbs.redboosthub.online
@@ -64770,7 +64766,6 @@
 0.0.0.0 system.nefiber.com
 0.0.0.0 systeme-business.online
 0.0.0.0 sytuzk.nissanvimontlaval.com
-0.0.0.0 sz.createsgummous.com
 0.0.0.0 sz.famanils.com
 0.0.0.0 sz88.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 szakms.bygghemma.se
@@ -73783,7 +73778,6 @@
 0.0.0.0 zdpsve.scrapbook.com
 0.0.0.0 zds.net.anwalt.de
 0.0.0.0 zdx5.destinia.pe
-0.0.0.0 ze.mahonetranvia.com
 0.0.0.0 zebra.gareth.sh
 0.0.0.0 zebra.helpspot.com
 0.0.0.0 zel-zel-fie.com
