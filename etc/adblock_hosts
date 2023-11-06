@@ -621,6 +621,7 @@
 0.0.0.0 1254021819.rsc.cdn77.org
 0.0.0.0 1259.jumronews.com
 0.0.0.0 1263063334.rsc.cdn77.org
+0.0.0.0 1267779480.rsc.cdn77.org
 0.0.0.0 1268.bealanews.com
 0.0.0.0 1270.bealanews.com
 0.0.0.0 1272341218.rsc.cdn77.org
@@ -630,6 +631,7 @@
 0.0.0.0 1276665960.rsc.cdn77.org
 0.0.0.0 1278725189.pub.ezanga.com
 0.0.0.0 1282.bealanews.com
+0.0.0.0 1284647416.rsc.cdn77.org
 0.0.0.0 12915784.care.sanvello.com
 0.0.0.0 12915784.help.sanvello.com
 0.0.0.0 1299.jumronews.com
@@ -643,6 +645,7 @@
 0.0.0.0 131.shockynews.com
 0.0.0.0 1310.bealanews.com
 0.0.0.0 13123123.groovinews.com
+0.0.0.0 1319273195.rsc.cdn77.org
 0.0.0.0 132.shockynews.com
 0.0.0.0 13205d007b.e83706dbfd.com
 0.0.0.0 13232.jumronews.com
@@ -756,6 +759,7 @@
 0.0.0.0 16.shockynews.com
 0.0.0.0 1604.bealanews.com
 0.0.0.0 16066bf4a6.1c7154dd67.com
+0.0.0.0 1607947743.rsc.cdn77.org
 0.0.0.0 1609.jumronews.com
 0.0.0.0 1613.groovinews.com
 0.0.0.0 16134024.artcollection.io
@@ -891,6 +895,7 @@
 0.0.0.0 1969082237.rsc.cdn77.org
 0.0.0.0 196af26667.9072b44d3e.com
 0.0.0.0 1970.jumronews.com
+0.0.0.0 1972163923.rsc.cdn77.org
 0.0.0.0 1976.hallswindowcenter.com
 0.0.0.0 198.groovinews.com
 0.0.0.0 1991482557.rsc.cdn77.org
@@ -6135,6 +6140,7 @@
 0.0.0.0 adinc.co.kr
 0.0.0.0 adinfo.tango.me
 0.0.0.0 adingo.jp.eimg.jp
+0.0.0.0 adinplay-venatus.workers.dev
 0.0.0.0 adinplay.workers.dev
 0.0.0.0 adinsight.co.kr
 0.0.0.0 adit-media.com
@@ -12774,6 +12780,7 @@
 0.0.0.0 brwerental.eccocar.com
 0.0.0.0 brynh-gru.com
 0.0.0.0 bryurent.eccocar.com
+0.0.0.0 bs-adserver.b-cdn.net
 0.0.0.0 bs-dante.ru
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs-offers.konicaminolta.jp
@@ -13158,7 +13165,6 @@
 0.0.0.0 c6s.bionestraff.pro
 0.0.0.0 c75b53b604.25d83d2f3d.com
 0.0.0.0 c76100e6f6.bb17f09ee7.com
-0.0.0.0 c7cebcaa23.bddc935c97.com
 0.0.0.0 c8.net.ua
 0.0.0.0 c82443ac61.699a7d1376.com
 0.0.0.0 c83c29be12.2a17f5b615.com
@@ -15028,7 +15034,6 @@
 0.0.0.0 commercialemails.halifax.co.uk
 0.0.0.0 commercialprop.oneadv.co.uk
 0.0.0.0 commercialrealestate.nibc.com
-0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commint.groupe.chapsvision.com
 0.0.0.0 commission-junction.com
 0.0.0.0 commissionfactory.com.au
@@ -17304,6 +17309,7 @@
 0.0.0.0 d1tbj6eaenapdy.cloudfront.net
 0.0.0.0 d1tizxwina1bjc.cloudfront.net
 0.0.0.0 d1tt3ye7u0e0ql.cloudfront.net
+0.0.0.0 d1tttug1538qv1.cloudfront.net
 0.0.0.0 d1twn22x8kvw17.cloudfront.net
 0.0.0.0 d1u1byonn4po0b.cloudfront.net
 0.0.0.0 d1uae3ok0byyqw.cloudfront.net
@@ -17427,6 +17433,7 @@
 0.0.0.0 d28u86vqawvw52.cloudfront.net
 0.0.0.0 d28uhswspmvrhb.cloudfront.net
 0.0.0.0 d28xpw6kh69p7p.cloudfront.net
+0.0.0.0 d2906506rwyvg2.cloudfront.net
 0.0.0.0 d29bsjuqfmjd63.cloudfront.net
 0.0.0.0 d29dbajta0the9.cloudfront.net
 0.0.0.0 d29dzo8owxlzou.cloudfront.net
@@ -31830,6 +31837,7 @@
 0.0.0.0 go.mktgcampaigns.com
 0.0.0.0 go.mlexmarketinsight.com
 0.0.0.0 go.mlivemediagroup.com
+0.0.0.0 go.mnaspm.com
 0.0.0.0 go.mnrubber.com
 0.0.0.0 go.mntech.org
 0.0.0.0 go.mnx.com
@@ -58473,6 +58481,8 @@
 0.0.0.0 sent.petdesk.com
 0.0.0.0 sentiment.icis.com
 0.0.0.0 sentinel.smartsoftint.com
+0.0.0.0 sentry.alaatv.com
+0.0.0.0 sentry.bale.sh
 0.0.0.0 sentry.basalam.com
 0.0.0.0 sentry.cafebazaar.org
 0.0.0.0 sentry.divar.cloud
@@ -70768,7 +70778,6 @@
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.parte.com
 0.0.0.0 tracking.particuliers.engie.fr
-0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
 0.0.0.0 tracking.patientengagementhit.com
 0.0.0.0 tracking.pbmagency.com
 0.0.0.0 tracking.pdc.wisc.edu
