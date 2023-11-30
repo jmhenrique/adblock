@@ -1,6 +1,5 @@
  ssl.google-analytics.com
 0.0.0.0 *.exaapi.com
-0.0.0.0 0-000.store
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.net.easyjet.com
@@ -501,7 +500,6 @@
 0.0.0.0 1017.bealanews.com
 0.0.0.0 101vearcruz.trekkww.space
 0.0.0.0 101vilnius.trekkww.space
-0.0.0.0 1023131818.rsc.cdn77.org
 0.0.0.0 10298198.arch.sofi.org
 0.0.0.0 10298198.m.sofi.org
 0.0.0.0 10298198.o.sofi.org
@@ -535,6 +533,7 @@
 0.0.0.0 1072.jumronews.com
 0.0.0.0 1077.bealanews.com
 0.0.0.0 107a0e458a.93bc17bf29.com
+0.0.0.0 1080161847.rsc.cdn77.org
 0.0.0.0 1080872514.rsc.cdn77.org
 0.0.0.0 1082.groovinews.com
 0.0.0.0 1088.groovinews.com
@@ -549,8 +548,6 @@
 0.0.0.0 11.yiqig.cn
 0.0.0.0 11.yiqig.com
 0.0.0.0 1100.bealanews.com
-0.0.0.0 1100058268.rsc.cdn77.org
-0.0.0.0 1102734998.rsc.cdn77.org
 0.0.0.0 1109.jumronews.com
 0.0.0.0 111.jumronews.com
 0.0.0.0 1115.bealanews.com
@@ -570,7 +567,6 @@
 0.0.0.0 1163.shockynews.com
 0.0.0.0 1165.bealanews.com
 0.0.0.0 117.jumronews.com
-0.0.0.0 1176528718.rsc.cdn77.org
 0.0.0.0 1178.jumronews.com
 0.0.0.0 1179.groovinews.com
 0.0.0.0 118.jumronews.com
@@ -578,6 +574,7 @@
 0.0.0.0 1187531871.rsc.cdn77.org
 0.0.0.0 1189.groovinews.com
 0.0.0.0 1192.shockynews.com
+0.0.0.0 1194047269.rsc.cdn77.org
 0.0.0.0 1195.bealanews.com
 0.0.0.0 11959579.fun.joyrun.com
 0.0.0.0 1199.shockynews.com
@@ -608,16 +605,13 @@
 0.0.0.0 123top.jumronews.com
 0.0.0.0 1244.jumronews.com
 0.0.0.0 1259.jumronews.com
-0.0.0.0 1267779480.rsc.cdn77.org
 0.0.0.0 1268.bealanews.com
 0.0.0.0 1270.bealanews.com
 0.0.0.0 1273ddea5a.5a114f2436.com
 0.0.0.0 1275.bealanews.com
 0.0.0.0 1275.jumronews.com
-0.0.0.0 1276665960.rsc.cdn77.org
 0.0.0.0 1278725189.pub.ezanga.com
 0.0.0.0 1282.bealanews.com
-0.0.0.0 1284647416.rsc.cdn77.org
 0.0.0.0 12915784.care.sanvello.com
 0.0.0.0 12915784.help.sanvello.com
 0.0.0.0 1299.jumronews.com
@@ -632,7 +626,6 @@
 0.0.0.0 131.shockynews.com
 0.0.0.0 1310.bealanews.com
 0.0.0.0 13123123.groovinews.com
-0.0.0.0 1319273195.rsc.cdn77.org
 0.0.0.0 132.shockynews.com
 0.0.0.0 13205d007b.e83706dbfd.com
 0.0.0.0 13232.jumronews.com
@@ -689,8 +682,6 @@
 0.0.0.0 1477.shockynews.com
 0.0.0.0 1480.jumronews.com
 0.0.0.0 1481.bealanews.com
-0.0.0.0 1483167401.rsc.cdn77.org
-0.0.0.0 1489231108.rsc.cdn77.org
 0.0.0.0 149.groovinews.com
 0.0.0.0 1490.bealanews.com
 0.0.0.0 1491.groovinews.com
@@ -711,6 +702,7 @@
 0.0.0.0 1535.jumronews.com
 0.0.0.0 1537.bealanews.com
 0.0.0.0 154.groovinews.com
+0.0.0.0 1540685764.rsc.cdn77.org
 0.0.0.0 1545.bealanews.com
 0.0.0.0 1547.bealanews.com
 0.0.0.0 1547.groovinews.com
@@ -730,13 +722,11 @@
 0.0.0.0 1588b03038.97da4337b5.com
 0.0.0.0 159.jumronews.com
 0.0.0.0 1590.groovinews.com
-0.0.0.0 1590742428.rsc.cdn77.org
 0.0.0.0 15fe98159d.760ead33eb.com
 0.0.0.0 16-merchant-s.com
 0.0.0.0 16.groovinews.com
 0.0.0.0 16.shockynews.com
 0.0.0.0 1604.bealanews.com
-0.0.0.0 1607947743.rsc.cdn77.org
 0.0.0.0 1609.jumronews.com
 0.0.0.0 1613.groovinews.com
 0.0.0.0 16134024.artcollection.io
@@ -762,11 +752,8 @@
 0.0.0.0 166.shockynews.com
 0.0.0.0 1670.bealanews.com
 0.0.0.0 1675450967.rsc.cdn77.org
-0.0.0.0 1678970469.rsc.cdn77.org
 0.0.0.0 1679.groovinews.com
 0.0.0.0 1690.jumronews.com
-0.0.0.0 1691730330.rsc.cdn77.org
-0.0.0.0 1693478152.rsc.cdn77.org
 0.0.0.0 16ao.mathon.fr
 0.0.0.0 16c8bb8066.1315a5151b.com
 0.0.0.0 16i6nuuc2ej.koelewijn.nl
@@ -783,7 +770,6 @@
 0.0.0.0 1740.groovinews.com
 0.0.0.0 175.jumronews.com
 0.0.0.0 1754.shockynews.com
-0.0.0.0 1754457440.rsc.cdn77.org
 0.0.0.0 176.groovinews.com
 0.0.0.0 176.net.jumia.ma
 0.0.0.0 1762.jumronews.com
@@ -804,7 +790,6 @@
 0.0.0.0 18.groovinews.com
 0.0.0.0 18.jumronews.com
 0.0.0.0 1800.stats.misstrends.com
-0.0.0.0 1800549549.rsc.cdn77.org
 0.0.0.0 18052925.im.intermiles.com
 0.0.0.0 1807.jumronews.com
 0.0.0.0 1817.groovinews.com
@@ -815,7 +800,6 @@
 0.0.0.0 183.groovinews.com
 0.0.0.0 1842.bealanews.com
 0.0.0.0 1846.bealanews.com
-0.0.0.0 1848845070.rsc.cdn77.org
 0.0.0.0 184d6c5595.dff2c5fc33.com
 0.0.0.0 1850.bealanews.com
 0.0.0.0 1851.jumronews.com
@@ -826,13 +810,11 @@
 0.0.0.0 1870.bealanews.com
 0.0.0.0 1877.bealanews.com
 0.0.0.0 188.groovinews.com
-0.0.0.0 1881195794.rsc.cdn77.org
 0.0.0.0 1882.bealanews.com
 0.0.0.0 1883.bealanews.com
 0.0.0.0 1883.jumronews.com
 0.0.0.0 18871ebf69.c796b67474.com
 0.0.0.0 1894.jumronews.com
-0.0.0.0 1894157651.rsc.cdn77.org
 0.0.0.0 1896.bealanews.com
 0.0.0.0 1896.shockynews.com
 0.0.0.0 1898.jumronews.com
@@ -861,7 +843,6 @@
 0.0.0.0 1960.jumronews.com
 0.0.0.0 196af26667.9072b44d3e.com
 0.0.0.0 1970.jumronews.com
-0.0.0.0 1972163923.rsc.cdn77.org
 0.0.0.0 1976.hallswindowcenter.com
 0.0.0.0 198.groovinews.com
 0.0.0.0 1991482557.rsc.cdn77.org
@@ -2169,7 +2150,6 @@
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.viralnewsbd.xyz
 0.0.0.0 a.vonage.com
-0.0.0.0 a.voxar.xyz
 0.0.0.0 a.vtvdigital.vn
 0.0.0.0 a.wanzhuang.com
 0.0.0.0 a.warddogs.com
@@ -5820,7 +5800,6 @@
 0.0.0.0 ad.vkoolzzz.net
 0.0.0.0 ad.vo-media.ru
 0.0.0.0 ad.vrvm.com
-0.0.0.0 ad.vvtadblk.online
 0.0.0.0 ad.walkgame.com
 0.0.0.0 ad.wanderlist.com
 0.0.0.0 ad.wavu.hu
@@ -6580,6 +6559,7 @@
 0.0.0.0 ads.dfiles.ru
 0.0.0.0 ads.dgabcsolutions.com.br
 0.0.0.0 ads.digital-digest.com
+0.0.0.0 ads.digital.disneyadvertising.com
 0.0.0.0 ads.digitalalchemy.tv
 0.0.0.0 ads.digitalcaramel.com
 0.0.0.0 ads.digitalmedianet.com
@@ -8074,7 +8054,6 @@
 0.0.0.0 afiles.webengage.com
 0.0.0.0 afilio.com.br
 0.0.0.0 afill.e-potisk.cz
-0.0.0.0 afk-i.com
 0.0.0.0 afl-static-cdn.newbiz-prod.stroeerws.de
 0.0.0.0 afl.rakuten.co.jp
 0.0.0.0 afp.chinanews.com
@@ -9073,7 +9052,6 @@
 0.0.0.0 analytics.sixtcarsales.de
 0.0.0.0 analytics.sixtmiddleeast.com
 0.0.0.0 analytics.skinit.com
-0.0.0.0 analytics.skroutz.gr
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.slidesai.io
@@ -11449,7 +11427,6 @@
 0.0.0.0 b1.trickyrock.com
 0.0.0.0 b1.xiao84.com
 0.0.0.0 b13.penzainform.ru
-0.0.0.0 b16.nakanohito.jp
 0.0.0.0 b17.8794.cn
 0.0.0.0 b177.kabbage.com
 0.0.0.0 b1n.carabins.umontreal.ca
@@ -12096,7 +12073,6 @@
 0.0.0.0 bf167d777d.f7e3877fe7.com
 0.0.0.0 bf20578xco.bf.dynatrace.com
 0.0.0.0 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
-0.0.0.0 bfd2d865a7.9e1852531b.com
 0.0.0.0 bfg.loanzify.app
 0.0.0.0 bfjoyp.plus.nl
 0.0.0.0 bfjpbw.herrenausstatter.de
@@ -12275,6 +12251,7 @@
 0.0.0.0 blinkstest.mindoktor.se
 0.0.0.0 blizzard.blueoxtech.com
 0.0.0.0 blob.core.windows.net
+0.0.0.0 block.s2block.com
 0.0.0.0 block.scroll.com
 0.0.0.0 blockchain-ads.com
 0.0.0.0 blockchain.actonservice.com
@@ -12665,7 +12642,6 @@
 0.0.0.0 bridgetrack.speedera.r3h.net
 0.0.0.0 briefing.actonservice.com
 0.0.0.0 brigant.trekkeeee.space
-0.0.0.0 brigi-jar.com
 0.0.0.0 brilliant-raise.pro
 0.0.0.0 brilliant.babble.cloud
 0.0.0.0 bringg.actonservice.com
@@ -12735,7 +12711,6 @@
 0.0.0.0 bs-offers.konicaminolta.jp
 0.0.0.0 bs.commontools.net
 0.0.0.0 bs.hydro.com
-0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bs.orsk.ru
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bsbe.uncg.edu
@@ -12745,7 +12720,6 @@
 0.0.0.0 bsna.inno.be
 0.0.0.0 bsscustomersuccess.canon.ca
 0.0.0.0 bsswkv.kirmizibeyazz.com
-0.0.0.0 bst-offers.com
 0.0.0.0 bst31.boriomangiarotti.eu
 0.0.0.0 bstn-14-ma.com
 0.0.0.0 bsxmuny.wp.pl
@@ -12989,7 +12963,6 @@
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 c.msn.com
 0.0.0.0 c.mtro.co
-0.0.0.0 c.nakanohito.jp
 0.0.0.0 c.newsinc.com
 0.0.0.0 c.no.msn.com
 0.0.0.0 c.nuhcpf.com
@@ -13137,6 +13110,7 @@
 0.0.0.0 ca.macheq.com
 0.0.0.0 ca.mattamyhomes.com
 0.0.0.0 ca.ssl.holdmybeerconsulting.com
+0.0.0.0 ca.upboostarmaria.com
 0.0.0.0 ca.video-cdn.net
 0.0.0.0 ca.yangshengtv.com
 0.0.0.0 ca149d02d1.ac14b9b34e.com
@@ -13328,6 +13302,7 @@
 0.0.0.0 capybara.civicsoftwarefoundation.org
 0.0.0.0 capybara.randyhamiltonelectric.com
 0.0.0.0 car-a8.tabirai.net
+0.0.0.0 car-bidpush.net
 0.0.0.0 car.corefinds.store
 0.0.0.0 car.qcmrjx.com
 0.0.0.0 caradonna.actonservice.com
@@ -13548,7 +13523,6 @@
 0.0.0.0 cdn-east.purchase.goto.com
 0.0.0.0 cdn-engagement.inmarket.com
 0.0.0.0 cdn-eu.dynamicyield.com
-0.0.0.0 cdn-fastcounter.de
 0.0.0.0 cdn-go.net
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-inner-active.edgekey.net
@@ -15070,6 +15044,7 @@
 0.0.0.0 compass-allbids.deliverimp.com
 0.0.0.0 compass-errors.deliverimp.com
 0.0.0.0 compass-events.deliverimp.com
+0.0.0.0 compass-fit.jp
 0.0.0.0 compass-v2.deliverimp.com
 0.0.0.0 complexcom.skimlinks.com
 0.0.0.0 compliance.coniferhealth.com
@@ -16378,7 +16353,6 @@
 0.0.0.0 cs.coopeservidores.fi.cr
 0.0.0.0 cs.hot.net.il
 0.0.0.0 cs.montrealplus.ca
-0.0.0.0 cs.nakanohito.jp
 0.0.0.0 cs.nexttv.co.il
 0.0.0.0 cs.ogis-ri.co.jp
 0.0.0.0 cs.sunbit.co.jp
@@ -16490,7 +16464,6 @@
 0.0.0.0 cuckoo.jerandky.com
 0.0.0.0 cuckoo.minaexplorer.com
 0.0.0.0 cuckoo.peoplefirstjobs.com
-0.0.0.0 cuddly-membership.pro
 0.0.0.0 cueohf.actieforum.com
 0.0.0.0 cueohf.bazzart.org
 0.0.0.0 cueohf.forumactif.fr
@@ -16902,6 +16875,7 @@
 0.0.0.0 d1i11ea1m0er9t.cloudfront.net
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
 0.0.0.0 d1i3h541wbnrfi.cloudfront.net
+0.0.0.0 d1i64ia3gj0ol1.cloudfront.net
 0.0.0.0 d1igvjcl1gjs62.cloudfront.net
 0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1izuvv2qy7hel.cloudfront.net
@@ -17089,6 +17063,7 @@
 0.0.0.0 d227cncaprzd7y.cloudfront.net
 0.0.0.0 d227n6rw2vv5cw.cloudfront.net
 0.0.0.0 d22ffr6srkd9zx.cloudfront.net
+0.0.0.0 d22lbkjf2jpzr9.cloudfront.net
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d22rmxeq48r37j.cloudfront.net
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
@@ -17297,6 +17272,7 @@
 0.0.0.0 d2taktuuo4oqx.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2tkdzior84vck.cloudfront.net
+0.0.0.0 d2trpg4l6gqit0.cloudfront.net
 0.0.0.0 d2tvgfsghnrkwb.cloudfront.net
 0.0.0.0 d2u.dauphinquebec.com
 0.0.0.0 d2u1npnnqecmpq.cloudfront.net
@@ -20435,6 +20411,7 @@
 0.0.0.0 ddd.contoseroticoscnn.com
 0.0.0.0 ddd.sexstories69.com
 0.0.0.0 ddioce.wolverine.com
+0.0.0.0 ddl.alma.iltalehti.fi
 0.0.0.0 ddlbr.timesclub.co
 0.0.0.0 ddlh1467paih3.cloudfront.net
 0.0.0.0 ddmuiijrdvv0s.cloudfront.net
@@ -20815,6 +20792,7 @@
 0.0.0.0 diagram-shape.com
 0.0.0.0 dialer.leads360.com
 0.0.0.0 dialer.velocify.com
+0.0.0.0 dialling-abutory.com
 0.0.0.0 dialog.dqs.de
 0.0.0.0 dialogue.de.mazda.ch
 0.0.0.0 dialogue.fr.mazda.be
@@ -21308,6 +21286,7 @@
 0.0.0.0 dl5ft52dtazxd.cloudfront.net
 0.0.0.0 dlabiznesu.pracuj.pl
 0.0.0.0 dldev.wooribank.com.kh
+0.0.0.0 dle-news.xyz
 0.0.0.0 dlem1deojpcg7.cloudfront.net
 0.0.0.0 dlesjf.jutarnji.hr
 0.0.0.0 dlh1.hilton.com
@@ -22164,7 +22143,6 @@
 0.0.0.0 eastrk-lg.com
 0.0.0.0 easwaran.bmcm.org
 0.0.0.0 easy-ads.com
-0.0.0.0 easy-bars.com
 0.0.0.0 easy-dating.org
 0.0.0.0 easy-hit-counter.com
 0.0.0.0 easy-hit-counters.com
@@ -25163,7 +25141,6 @@
 0.0.0.0 gamefowl.karlsutt.com
 0.0.0.0 gamefowl.nonprofit.foundation
 0.0.0.0 gameplanfinancial.actonservice.com
-0.0.0.0 games-tuz.site
 0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gaming-adult.com
 0.0.0.0 gaming-at-my.best
@@ -39608,6 +39585,7 @@
 0.0.0.0 lfn.lfg.com
 0.0.0.0 lfpfpl.andar.co.kr
 0.0.0.0 lfuzec.bglen.net
+0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 lg.feoffortapetis.com
 0.0.0.0 lg.lotus.vn
 0.0.0.0 lg.smardroid.com
@@ -41425,7 +41403,6 @@
 0.0.0.0 lujaqg.e-blooming.com
 0.0.0.0 lumatag.co.uk
 0.0.0.0 lumenera.actonservice.com
-0.0.0.0 luminous-iron.pro
 0.0.0.0 lumpy-skirt.pro
 0.0.0.0 lumtjt.plumbingonline.ca
 0.0.0.0 luna.r.lafamo.com
@@ -46277,7 +46254,6 @@
 0.0.0.0 mp-https.info
 0.0.0.0 mp-pop.barryto.one
 0.0.0.0 mp.able-group.de
-0.0.0.0 mp.arianatainos.com
 0.0.0.0 mp.digital.wilhelmsen.com
 0.0.0.0 mp.felix.net
 0.0.0.0 mp.maropost.com
@@ -46910,7 +46886,6 @@
 0.0.0.0 news-headlines.co
 0.0.0.0 news-host.net
 0.0.0.0 news-info.gcgfinancial.com
-0.0.0.0 news-mars.com
 0.0.0.0 news-molixo.cc
 0.0.0.0 news-muheji.com
 0.0.0.0 news-network.ru
@@ -46921,7 +46896,6 @@
 0.0.0.0 news-site1.xyz
 0.0.0.0 news-tqr.bureauveritas.com
 0.0.0.0 news-universe1.xyz
-0.0.0.0 news-venere.com
 0.0.0.0 news-view-api.varzesh3.com
 0.0.0.0 news-weekend1.xyz
 0.0.0.0 news-xehola.com
@@ -48156,7 +48130,6 @@
 0.0.0.0 optout.info.nordea.no
 0.0.0.0 optumcoding.optum.com
 0.0.0.0 opulent-reply.pro
-0.0.0.0 opus-whisky.com
 0.0.0.0 opus.sexyxxx.biz
 0.0.0.0 oqbimz.aviasales.ru
 0.0.0.0 oqebsk.voipo.com
@@ -49600,7 +49573,6 @@
 0.0.0.0 pbvnwd.moongori.com
 0.0.0.0 pc-ads.com
 0.0.0.0 pc-agency24.de
-0.0.0.0 pc-my-protection.xyz
 0.0.0.0 pc-tc.s3-eu-west-1.amazonaws.com
 0.0.0.0 pc-views.net
 0.0.0.0 pc.peoplescompany.com
@@ -51036,7 +51008,6 @@
 0.0.0.0 push.userwave.com
 0.0.0.0 push.webmedxml.com
 0.0.0.0 push.zhanzhang.baidu.com
-0.0.0.0 push77-sdk.com
 0.0.0.0 pushad.metajoy.services
 0.0.0.0 pushid-noneu.truecaller.com
 0.0.0.0 pushmaster-cdn.xyz
@@ -52533,7 +52504,6 @@
 0.0.0.0 reuniondepadres.unisabana.edu.co
 0.0.0.0 rev-stripe.com
 0.0.0.0 rev.avsforum.com
-0.0.0.0 revboostprocdnadsprod.azureedge.net
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 reverb.digitalviscosity.com
 0.0.0.0 revgroup.actonservice.com
@@ -52659,7 +52629,6 @@
 0.0.0.0 romanus.trekkeeee.space
 0.0.0.0 romotur.actonservice.com
 0.0.0.0 romwrp.nordicnest.no
-0.0.0.0 rontent.powvibeo.me
 0.0.0.0 roo.sponsor.com
 0.0.0.0 rook.behmann.at
 0.0.0.0 rook.clarify.io
@@ -53108,7 +53077,6 @@
 0.0.0.0 s.cambridgetimes.ca
 0.0.0.0 s.cameratico.com
 0.0.0.0 s.clickability.com
-0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.clicktex.ru
 0.0.0.0 s.clientes.construrama.com
 0.0.0.0 s.cntqk.com
@@ -58494,6 +58462,7 @@
 0.0.0.0 smuengage.smu.edu.sg
 0.0.0.0 smwvlc.intermixonline.com
 0.0.0.0 smy.iheart.com
+0.0.0.0 sn.weirmelamin.com
 0.0.0.0 snack-media.com
 0.0.0.0 snake.kiramclean.com
 0.0.0.0 snalytics.accidenthero.at
@@ -59535,7 +59504,6 @@
 0.0.0.0 sso.tracesmart.co.uk
 0.0.0.0 ssp-ad.momento.dev
 0.0.0.0 ssp-api.mobadvent.com
-0.0.0.0 ssp-heartbidnet.monster
 0.0.0.0 ssp.21ic.com
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.igaw.io
@@ -67784,7 +67752,6 @@
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trust.zebra.com
 0.0.0.0 trustclick.ne.jp
-0.0.0.0 trusted-click-host.com
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 trustid.actonservice.com
@@ -68088,7 +68055,6 @@
 0.0.0.0 ugowai.baito.mynavi.jp
 0.0.0.0 ugsgo.aegion.com
 0.0.0.0 ugzbsu.klimaworld.com
-0.0.0.0 uh.nakanohito.jp
 0.0.0.0 uhd5nn09mgml.fort-shop.kiev.ua
 0.0.0.0 uhenqb.manning.com
 0.0.0.0 uhlagm.rakurakuseisan.jp
@@ -68180,7 +68146,6 @@
 0.0.0.0 unified-ter-na.hismarttv.com
 0.0.0.0 unifiedwfo.verintsystemsinc.com
 0.0.0.0 unifilabs.actonservice.com
-0.0.0.0 unimportant-vehicle.pro
 0.0.0.0 union-wifi.com
 0.0.0.0 union.china.com.cn
 0.0.0.0 union.yihaodian.com
@@ -68695,6 +68660,7 @@
 0.0.0.0 videostats.kakao.com
 0.0.0.0 videosvc.ezoic.com
 0.0.0.0 vider-image.com
+0.0.0.0 vids-branch.online
 0.0.0.0 vids-fun.online
 0.0.0.0 vie-en-islam.com
 0.0.0.0 vieon-tracking.vieon.vn
@@ -69627,6 +69593,7 @@
 0.0.0.0 whqkyq.leasingmarkt.de
 0.0.0.0 why.hdvest.com
 0.0.0.0 why3.inseec.education
+0.0.0.0 whyl-laz-i-264.site
 0.0.0.0 wi-fi.wi-fi.ekahau.com
 0.0.0.0 wi.cohereseugene.com
 0.0.0.0 wiar9wff0ma9.ping.t3.gg
