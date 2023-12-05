@@ -66,7 +66,6 @@
 0.0.0.0 0042.groovinews.com
 0.0.0.0 0043.groovinews.com
 0.0.0.0 0043.jumronews.com
-0.0.0.0 0043b78de9.a31711123d.com
 0.0.0.0 0044.groovinews.com
 0.0.0.0 0045.groovinews.com
 0.0.0.0 0045.jumronews.com
@@ -143,7 +142,6 @@
 0.0.0.0 0092.groovinews.com
 0.0.0.0 0093.jumronews.com
 0.0.0.0 0093.shockynews.com
-0.0.0.0 009974a7d5.c991aea613.com
 0.0.0.0 00c0a62f0c.de65e1286b.com
 0.0.0.0 00f62a6f1c.8f0f3b8464.com
 0.0.0.0 0100.bealanews.com
@@ -183,9 +181,7 @@
 0.0.0.0 0186141170.apps.iocnt.de
 0.0.0.0 0197.groovinews.com
 0.0.0.0 0197.shockynews.com
-0.0.0.0 01ac38b0b9.4a623a5a49.com
 0.0.0.0 01b8624b69.d821929e2d.com
-0.0.0.0 01e2d9b3b4.d95d5c2239.com
 0.0.0.0 0200.shockynews.com
 0.0.0.0 0202.bealanews.com
 0.0.0.0 0207.shockynews.com
@@ -221,16 +217,10 @@
 0.0.0.0 0282.bealanews.com
 0.0.0.0 0288.bealanews.com
 0.0.0.0 0295.shockynews.com
-0.0.0.0 02957e4c5f.aeb92e4b9d.com
 0.0.0.0 0296.bealanews.com
 0.0.0.0 02acc7c99a.0a40c2b172.com
-0.0.0.0 02adb42b94.935cfb1d3b.com
-0.0.0.0 02b478683d.1f7eece503.com
-0.0.0.0 02c7e95a1a.d65a1fbe58.com
-0.0.0.0 02e4789b9e.7e67f4ccad.com
 0.0.0.0 0302.bealanews.com
 0.0.0.0 0309.shockynews.com
-0.0.0.0 030e9b0efb.47aead8f05.com
 0.0.0.0 0315.bealanews.com
 0.0.0.0 0317.bealanews.com
 0.0.0.0 0319.jumronews.com
@@ -242,9 +232,7 @@
 0.0.0.0 0341.bealanews.com
 0.0.0.0 0342.bealanews.com
 0.0.0.0 0345.groovinews.com
-0.0.0.0 0348649925.e36e2058e8.com
 0.0.0.0 0349.groovinews.com
-0.0.0.0 034fa98754.ca548318cc.com
 0.0.0.0 0351.bealanews.com
 0.0.0.0 0357.jumronews.com
 0.0.0.0 0363.groovinews.com
@@ -259,8 +247,6 @@
 0.0.0.0 0388.bealanews.com
 0.0.0.0 0394.jumronews.com
 0.0.0.0 0398.shockynews.com
-0.0.0.0 03bb9396b0.e739c4d82b.com
-0.0.0.0 03f59cc470.46243b6252.com
 0.0.0.0 04-f-bmf.com
 0.0.0.0 0402.shockynews.com
 0.0.0.0 0406.shockynews.com
@@ -276,7 +262,6 @@
 0.0.0.0 0439.bealanews.com
 0.0.0.0 0446.jumronews.com
 0.0.0.0 0448.jumronews.com
-0.0.0.0 044f8ad3e9.3482f0c95a.com
 0.0.0.0 0452.shockynews.com
 0.0.0.0 0459.jumronews.com
 0.0.0.0 0462.groovinews.com
@@ -306,12 +291,10 @@
 0.0.0.0 0567.shockynews.com
 0.0.0.0 0571.bealanews.com
 0.0.0.0 0575.jumronews.com
-0.0.0.0 05855e53f1.14f72e5e3d.com
 0.0.0.0 0595.bealanews.com
 0.0.0.0 0595.jumronews.com
 0.0.0.0 0597.groovinews.com
 0.0.0.0 0599.jumronews.com
-0.0.0.0 05a7c5918d.e0a79821ec.com
 0.0.0.0 0602.bealanews.com
 0.0.0.0 060ec415b9.15d3c0325b.com
 0.0.0.0 0610.jumronews.com
@@ -339,7 +322,6 @@
 0.0.0.0 0752.bealanews.com
 0.0.0.0 0754.jumronews.com
 0.0.0.0 0757.jumronews.com
-0.0.0.0 075db98322.65bfba9ad0.com
 0.0.0.0 0762.groovinews.com
 0.0.0.0 0767.groovinews.com
 0.0.0.0 0777.bealanews.com
@@ -367,7 +349,6 @@
 0.0.0.0 0872.bealanews.com
 0.0.0.0 0875.groovinews.com
 0.0.0.0 0876.bealanews.com
-0.0.0.0 08793fcc09.bf9c674cc0.com
 0.0.0.0 0883.bealanews.com
 0.0.0.0 0885.jumronews.com
 0.0.0.0 088d98f687.7a3b147921.com
@@ -573,6 +554,7 @@
 0.0.0.0 1179.groovinews.com
 0.0.0.0 118.jumronews.com
 0.0.0.0 1186.shockynews.com
+0.0.0.0 1186656647.rsc.cdn77.org
 0.0.0.0 1187531871.rsc.cdn77.org
 0.0.0.0 1189.groovinews.com
 0.0.0.0 1192.shockynews.com
@@ -1730,7 +1712,6 @@
 0.0.0.0 8147563.thekingdom.bk.com
 0.0.0.0 8147563.your-way.bk.com
 0.0.0.0 81584ff74e.aed5586e71.com
-0.0.0.0 823d58dda1.3edcc83467.com
 0.0.0.0 8251cabcf2.e1bf37eb3f.com
 0.0.0.0 8280a03e71.247946fbbe.com
 0.0.0.0 82aef0449e.8ff41d1efd.com
@@ -8199,7 +8180,6 @@
 0.0.0.0 ajostg.cfs.com.au
 0.0.0.0 ajostg.colonialfirststate.com.au
 0.0.0.0 ajotest.cbussuper.com.au
-0.0.0.0 ajs.selecttopoff.com
 0.0.0.0 ajvzis.triumph.com
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ak-tracker.com
@@ -8831,6 +8811,7 @@
 0.0.0.0 analytics.ica.se
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.id.amazongames.com
+0.0.0.0 analytics.idfnet.net
 0.0.0.0 analytics.ifanrusercontent.com
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.ihg.com
@@ -8872,6 +8853,7 @@
 0.0.0.0 analytics.lasegunda.ecn.cl
 0.0.0.0 analytics.lb.mobileapphelper.com
 0.0.0.0 analytics.lekumo.jp
+0.0.0.0 analytics.lemoolah.com
 0.0.0.0 analytics.lendio.com
 0.0.0.0 analytics.lifestyledemocracy.com
 0.0.0.0 analytics.littlekingdesigns.com
@@ -8991,6 +8973,7 @@
 0.0.0.0 analytics.pagefly.io
 0.0.0.0 analytics.pancake.vn
 0.0.0.0 analytics.partcommunity.com
+0.0.0.0 analytics.peraichi.com
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.phn.com
@@ -13699,7 +13682,6 @@
 0.0.0.0 cdn.gusto.com
 0.0.0.0 cdn.haocaa.com
 0.0.0.0 cdn.hiperadverts.com
-0.0.0.0 cdn.htkcm.com
 0.0.0.0 cdn.hunteryvely.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.iople.com
@@ -16429,6 +16411,7 @@
 0.0.0.0 crmjapan.terumo.co.jp
 0.0.0.0 crmmarketing.fostplus.be
 0.0.0.0 crmonline.actonservice.com
+0.0.0.0 crmpt.livejasmin.com
 0.0.0.0 crmsf.commonwealth.com
 0.0.0.0 crmx.eqvn.net
 0.0.0.0 cro.fi-tsunagu.com
@@ -17220,6 +17203,7 @@
 0.0.0.0 d24yj1kykxwq2x.cloudfront.net
 0.0.0.0 d25dfknw9ghxs6.cloudfront.net
 0.0.0.0 d25m254rjp3rii.cloudfront.net
+0.0.0.0 d25sca3heoa1so.cloudfront.net
 0.0.0.0 d25xkbr68qqtcn.cloudfront.net
 0.0.0.0 d261u4g5nqprix.cloudfront.net
 0.0.0.0 d26adrx9c3n0mq.cloudfront.net
@@ -17699,6 +17683,7 @@
 0.0.0.0 d3u43fn5cywbyv.cloudfront.net
 0.0.0.0 d3u598arehftfk.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
+0.0.0.0 d3u8vuldqjolr7.cloudfront.net
 0.0.0.0 d3ubdcv1nz4dub.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ugwbjwrb0qbd.cloudfront.net
@@ -22489,6 +22474,7 @@
 0.0.0.0 ecmk.mac-kaitori.net
 0.0.0.0 ecmk.ouchiseirishi.com
 0.0.0.0 ecn-analytics.emc.com
+0.0.0.0 ecn-ldr.de
 0.0.0.0 eco-tag.jp
 0.0.0.0 eco.2t4fe.xyz
 0.0.0.0 eco.anchor-net.co.jp
@@ -26113,6 +26099,7 @@
 0.0.0.0 go.actionliftinc.com
 0.0.0.0 go.actiontec-info.com
 0.0.0.0 go.activeadstracking.com
+0.0.0.0 go.activengage.com
 0.0.0.0 go.acto.com
 0.0.0.0 go.acton.org
 0.0.0.0 go.acts29.com
@@ -35179,7 +35166,6 @@
 0.0.0.0 ijaabm.telemundo.com
 0.0.0.0 ijhlca.lulus.com
 0.0.0.0 ijogkae.churchserviceplanner.co.uk
-0.0.0.0 ijs.selecttopoff.com
 0.0.0.0 ijspro-code.com
 0.0.0.0 ijucr.justbokep.com
 0.0.0.0 ikaclk.ikarialeanbellyjuicesite.online
@@ -42422,6 +42408,7 @@
 0.0.0.0 mag.isover.co.jp
 0.0.0.0 mag.link-academy.co.jp
 0.0.0.0 magazine.buysell-technologies.com
+0.0.0.0 magento-recs-sdk.adobe.net
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magic.freetrade.io
 0.0.0.0 magic.trekkeeee.fun
@@ -55152,6 +55139,7 @@
 0.0.0.0 secure-processingcenter.com
 0.0.0.0 secure-service.id.dbsdigibank.com
 0.0.0.0 secure-stat.canal-plus.com
+0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 secure-wa-na.unileversolutions.com
 0.0.0.0 secure.1-internetmarketing.net
 0.0.0.0 secure.24-information-acute.com
@@ -69312,6 +69300,7 @@
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
 0.0.0.0 usageanalytics.coveo.com
+0.0.0.0 usaoptimizedby.increasingly.co
 0.0.0.0 usb-vna.coppermountaintech.com
 0.0.0.0 use.blockdaemon.com
 0.0.0.0 use.fvr.to
@@ -69354,7 +69343,6 @@
 0.0.0.0 usuarios-online.com
 0.0.0.0 usyyzz.winparts.nl
 0.0.0.0 usztct.gang.com.br
-0.0.0.0 ut.ammannests.com
 0.0.0.0 ut.dailyfx.com
 0.0.0.0 ut.econnect.utexas.edu
 0.0.0.0 ut.gamersyde.com
@@ -71588,6 +71576,8 @@
 0.0.0.0 xn--2qux23confgml.club
 0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--521-x72fh66s.cn
+0.0.0.0 xn--9kq29i0tjy6b044actm.com
+0.0.0.0 xn--gmq238c5fy.com
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--jvrp4x1zyfta.net
 0.0.0.0 xn--mtso8sj6menhyil.online
