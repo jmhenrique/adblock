@@ -663,7 +663,6 @@
 0.0.0.0 1472.jumronews.com
 0.0.0.0 1472f9a583.12f01e3591.com
 0.0.0.0 1477.shockynews.com
-0.0.0.0 147cd49082.05e11c9f6f.com
 0.0.0.0 1480.jumronews.com
 0.0.0.0 1481.bealanews.com
 0.0.0.0 149.groovinews.com
@@ -798,6 +797,7 @@
 0.0.0.0 1877.bealanews.com
 0.0.0.0 188.groovinews.com
 0.0.0.0 1882.bealanews.com
+0.0.0.0 1882116630.rsc.cdn77.org
 0.0.0.0 1883.bealanews.com
 0.0.0.0 1883.jumronews.com
 0.0.0.0 18871ebf69.c796b67474.com
@@ -822,6 +822,7 @@
 0.0.0.0 192.groovinews.com
 0.0.0.0 1922.jumronews.com
 0.0.0.0 1925.jumronews.com
+0.0.0.0 1926886515.rsc.cdn77.org
 0.0.0.0 193.groovinews.com
 0.0.0.0 1932.jumronews.com
 0.0.0.0 193523aee9.122f794d0c.com
@@ -1585,7 +1586,6 @@
 0.0.0.0 699.stats.misstrends.com
 0.0.0.0 69974ab39e.90918f9451.com
 0.0.0.0 69bd7e11c0.21f926d5ab.com
-0.0.0.0 6a1d032c40.b65415fde6.com
 0.0.0.0 6aca58cba6.106cdb2259.com
 0.0.0.0 6b4f801684.22ecbd33ca.com
 0.0.0.0 6b617ecc3b.877faa781e.com
@@ -9555,6 +9555,7 @@
 0.0.0.0 api.bugsee.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.bunzlaucastle.com
+0.0.0.0 api.bytebrew.io
 0.0.0.0 api.cazamba.com
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 api.circularhub.com
@@ -10035,6 +10036,9 @@
 0.0.0.0 app.handlemoa.com
 0.0.0.0 app.hapicolibri.fr
 0.0.0.0 app.happyar.world
+0.0.0.0 app.harafunnel.com
+0.0.0.0 app.haraloyalty.com
+0.0.0.0 app.harasocial.com
 0.0.0.0 app.hauskey.com
 0.0.0.0 app.hawaiiathletics.com
 0.0.0.0 app.hawkeyesports.com
@@ -10623,6 +10627,7 @@
 0.0.0.0 apps.ding.jobs
 0.0.0.0 apps.e-butler.com
 0.0.0.0 apps.go.hobsons.com
+0.0.0.0 apps.haraads.com
 0.0.0.0 apps.imaginecommunications.com
 0.0.0.0 apps.info.convio.com
 0.0.0.0 apps.jeffgalloway.com
@@ -10918,6 +10923,7 @@
 0.0.0.0 assets.estudioseconomicos.co
 0.0.0.0 assets.garron.blog
 0.0.0.0 assets.garron.me
+0.0.0.0 assets.harafunnel.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.mikeroulston.com
 0.0.0.0 assets.minutemediacdn.com
@@ -16065,6 +16071,7 @@
 0.0.0.0 core-cen-54.com
 0.0.0.0 core.airbridge.io
 0.0.0.0 core.centotag.io
+0.0.0.0 core.dimatter.ai
 0.0.0.0 core.manatee.io
 0.0.0.0 core.unit-sense.net
 0.0.0.0 core.vchat.vn
@@ -17249,6 +17256,7 @@
 0.0.0.0 d2camyomzxmxme.cloudfront.net
 0.0.0.0 d2cdfdd2bf.913d3aa571.com
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
+0.0.0.0 d2cli4kgl5uxre.cloudfront.net
 0.0.0.0 d2cmh8xu3ncrj2.cloudfront.net
 0.0.0.0 d2cmqkwo8rxlr9.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
@@ -17276,6 +17284,7 @@
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2fhrdu08h12cc.cloudfront.net
 0.0.0.0 d2fmtc7u4dp7b2.cloudfront.net
+0.0.0.0 d2fnnovf9qvlf2.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2foi16y3n0s3e.cloudfront.net
 0.0.0.0 d2fsfacjuqds81.cloudfront.net
@@ -24296,6 +24305,7 @@
 0.0.0.0 face-image.com
 0.0.0.0 face2.ishoppingapp.com
 0.0.0.0 facebook-accounts.com.mx
+0.0.0.0 facebook-ads.hara.vn
 0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 faceinfo.dpsk12.org
 0.0.0.0 facey.psjhealth.org
@@ -33925,6 +33935,7 @@
 0.0.0.0 good-games.org
 0.0.0.0 good-traf.ru
 0.0.0.0 good-traff.ru
+0.0.0.0 google-ads.hara.vn
 0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
@@ -34054,6 +34065,7 @@
 0.0.0.0 grc2.secureforms.mcafee.com
 0.0.0.0 grcm.securityweaver.com
 0.0.0.0 grease.harrisonmanufacturing.com.au
+0.0.0.0 great-spring.pro
 0.0.0.0 green-ads.net
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 green-red.com
@@ -34786,6 +34798,7 @@
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 housing-update.com
 0.0.0.0 houston-content.cresa.com
+0.0.0.0 houston.advgo.net
 0.0.0.0 hoverfly.1pageimpact.com.au
 0.0.0.0 hoverfly.cdengine.co.uk
 0.0.0.0 hoverfly.dailyblocks.tv
@@ -35832,6 +35845,7 @@
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
 0.0.0.0 incoming-telemetry.thunderbird.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 incompatible-singer.pro
 0.0.0.0 inconsequential-skin.pro
 0.0.0.0 incs.get-go.com
 0.0.0.0 incs.marketdistrict.com
@@ -41397,6 +41411,7 @@
 0.0.0.0 lodlww.carcon.co.jp
 0.0.0.0 loewe.com.se
 0.0.0.0 lofi.kylnk.com
+0.0.0.0 log-api.cli.im
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee.vn
@@ -41598,8 +41613,8 @@
 0.0.0.0 log.zdnet.co.kr
 0.0.0.0 log.zepeto.io
 0.0.0.0 log.zingmp3.vn
-0.0.0.0 log.zingnews.com.vn
 0.0.0.0 log.zingnews.vn
+0.0.0.0 log.znews.vn
 0.0.0.0 log000.goo.ne.jp
 0.0.0.0 log002.commutil.kr
 0.0.0.0 log1.24liveplus.com
@@ -47857,6 +47872,7 @@
 0.0.0.0 nidays.switzerland.ni.com
 0.0.0.0 nieuws.nibc.nl
 0.0.0.0 nifty-drive.pro
+0.0.0.0 nifty-transportation.com
 0.0.0.0 nightswatch-go-collector-y2.yieldify-production.com
 0.0.0.0 nikitas.openapp.link
 0.0.0.0 nil.naver.com
@@ -50641,6 +50657,7 @@
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 piddme.buyma.com
 0.0.0.0 pie.wirelessregistry.com
+0.0.0.0 piercing-employment.pro
 0.0.0.0 pig.civicplatform.org
 0.0.0.0 pig.curtisherbert.com
 0.0.0.0 pig.nigano.com
@@ -53420,7 +53437,6 @@
 0.0.0.0 rm.aarki.net
 0.0.0.0 rm.bauderylysines.com
 0.0.0.0 rm.heartcore.co.jp
-0.0.0.0 rm.wegastroky.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.adonnetwork.com
@@ -53714,6 +53730,7 @@
 0.0.0.0 rtb.com.ru
 0.0.0.0 rtb.metrigo.com
 0.0.0.0 rtb.mts.ru
+0.0.0.0 rtb.pixad.com.tr
 0.0.0.0 rtb.vokut.com
 0.0.0.0 rtb.wedeo.ru
 0.0.0.0 rtb2-apac.catapultx.com
@@ -55737,7 +55754,6 @@
 0.0.0.0 sf.ac-svc.com
 0.0.0.0 sf.anest-iwata.co.jp
 0.0.0.0 sf.aviahealth.com
-0.0.0.0 sf.eschelbolts.com
 0.0.0.0 sf.groc.press
 0.0.0.0 sf.mobiledumps.com
 0.0.0.0 sf.pentaxmedical.net
@@ -61467,6 +61483,7 @@
 0.0.0.0 stats.handyvertrag.de
 0.0.0.0 stats.hanmaker.com
 0.0.0.0 stats.hannaandersson.com
+0.0.0.0 stats.hara.vn
 0.0.0.0 stats.harpercollins.com
 0.0.0.0 stats.harrods.com
 0.0.0.0 stats.hauke.me
@@ -63393,6 +63410,7 @@
 0.0.0.0 tagman.waitrose.com
 0.0.0.0 tagman.waitrosecellar.com
 0.0.0.0 tagmanager.toast.com
+0.0.0.0 tagmanager.yodobashi.com
 0.0.0.0 tagmanager1.citi.com
 0.0.0.0 tagmanager1.citibank.com
 0.0.0.0 tagmanager1.citibankonline.com
@@ -64193,6 +64211,7 @@
 0.0.0.0 tiglck.technopolis.bg
 0.0.0.0 tiglon.beyondco.de
 0.0.0.0 tiglon.davidroessli.com
+0.0.0.0 tiktok-ads.hara.vn
 0.0.0.0 tileswan.cmcm.com
 0.0.0.0 tillertag-a.akamaihd.net
 0.0.0.0 tim.nextinpact.com
@@ -71956,7 +71975,6 @@
 0.0.0.0 za.zalo.me
 0.0.0.0 za.zapps.vn
 0.0.0.0 za.zingmp3.vn
-0.0.0.0 za.zingnews.com.vn
 0.0.0.0 za.zingnews.vn
 0.0.0.0 zabmia.trekkeeee.space
 0.0.0.0 zacchaeus.logos.com
