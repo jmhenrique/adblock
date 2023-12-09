@@ -569,6 +569,7 @@
 0.0.0.0 12.groovinews.com
 0.0.0.0 12.jumronews.com
 0.0.0.0 120.groovinews.com
+0.0.0.0 1203782659.rsc.cdn77.org
 0.0.0.0 1209.bealanews.com
 0.0.0.0 1209.shockynews.com
 0.0.0.0 12112336.pix-cdn.org
@@ -1781,7 +1782,6 @@
 0.0.0.0 8stream-ai.com
 0.0.0.0 9028b77447.a5acd46254.com
 0.0.0.0 9035.bealanews.com
-0.0.0.0 904f5ddbe2.78387c2566.com
 0.0.0.0 914ceb3906.7d4a41c596.com
 0.0.0.0 9150.shockynews.com
 0.0.0.0 9167.bealanews.com
@@ -5670,7 +5670,6 @@
 0.0.0.0 ad.hepsiburada.com
 0.0.0.0 ad.hi5.com
 0.0.0.0 ad.hodomobile.com
-0.0.0.0 ad.holmesmind.com
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.hyena.cz
 0.0.0.0 ad.icheck.com.vn
@@ -6673,7 +6672,6 @@
 0.0.0.0 ads.gaming1.com
 0.0.0.0 ads.gamned.com
 0.0.0.0 ads.garga.biz
-0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.gazetaesportiva.net
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.gencgazete.net
@@ -8698,6 +8696,7 @@
 0.0.0.0 analytics.data.visenze.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
+0.0.0.0 analytics.dealmoon.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -8803,6 +8802,7 @@
 0.0.0.0 analytics.hollywoodlife.com
 0.0.0.0 analytics.homebank.ro
 0.0.0.0 analytics.homes.com
+0.0.0.0 analytics.hostiran.net
 0.0.0.0 analytics.hottopic.com
 0.0.0.0 analytics.hpscloud.se
 0.0.0.0 analytics.htmedia.in
@@ -12158,7 +12158,6 @@
 0.0.0.0 bi.medscape.com
 0.0.0.0 bi.vhost.vn
 0.0.0.0 bi.yeshen.com
-0.0.0.0 bia.brightinfo.com
 0.0.0.0 bibglj.timberland.fr
 0.0.0.0 bid-engine.com
 0.0.0.0 bid.adview.cn
@@ -13016,7 +13015,6 @@
 0.0.0.0 c.gmtrack.com
 0.0.0.0 c.gotoxxxtube.com
 0.0.0.0 c.grimuar.ru
-0.0.0.0 c.holmesmind.com
 0.0.0.0 c.imedia.cz
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.isdspeed.qq.com
@@ -13663,7 +13661,6 @@
 0.0.0.0 cdn.brid.tv
 0.0.0.0 cdn.buram.xyz
 0.0.0.0 cdn.c-i.as
-0.0.0.0 cdn.clbaf.com
 0.0.0.0 cdn.clic2pub.com
 0.0.0.0 cdn.clinch.co
 0.0.0.0 cdn.coastcapitalsavings.com
@@ -13889,6 +13886,7 @@
 0.0.0.0 celigo.actonservice.com
 0.0.0.0 cell-abonnes.com
 0.0.0.0 cell-mcel.info
+0.0.0.0 cellar-analytics.mapion.co.jp
 0.0.0.0 cellphone-inside.org
 0.0.0.0 cellular-updates.com
 0.0.0.0 cellular-updates.online
@@ -17225,6 +17223,7 @@
 0.0.0.0 d27gtglsu4f4y2.cloudfront.net
 0.0.0.0 d27pxpvfn42pgj.cloudfront.net
 0.0.0.0 d27qffx6rqb3qm.cloudfront.net
+0.0.0.0 d27tzcmp091qxd.cloudfront.net
 0.0.0.0 d27x580xb9ao1l.cloudfront.net
 0.0.0.0 d27x9po2cfinm5.cloudfront.net
 0.0.0.0 d28exbmwuav7xa.cloudfront.net
@@ -21528,6 +21527,7 @@
 0.0.0.0 dmm.aizhan.com
 0.0.0.0 dmmzkfd82wayn.cloudfront.net
 0.0.0.0 dmp.citiservi.es
+0.0.0.0 dmp.eland-tech.com
 0.0.0.0 dmp.mall.tv
 0.0.0.0 dmp.rtbsrv.com
 0.0.0.0 dmp.sbermarketing.ru
@@ -23822,6 +23822,7 @@
 0.0.0.0 event-tracking.deliverr.com
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.allspiceinstitute.com
+0.0.0.0 event.api.drift.com
 0.0.0.0 event.boozallen.com
 0.0.0.0 event.cambi.com
 0.0.0.0 event.chitai-gorod.ru
@@ -44452,7 +44453,6 @@
 0.0.0.0 marmot.hippiemodernism.com
 0.0.0.0 marmot.jfontana.fr
 0.0.0.0 marmot.theshootingcentre.com
-0.0.0.0 marmotsverige.com.se
 0.0.0.0 marrow.roundsapp.org
 0.0.0.0 marsh.actonservice.com
 0.0.0.0 marshinsurance.actonservice.com
@@ -45198,6 +45198,7 @@
 0.0.0.0 metrics.anthem.com
 0.0.0.0 metrics.apartmentfinder.com
 0.0.0.0 metrics.apartments.com
+0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.api.yle.fi
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.argenta.eu
@@ -51440,6 +51441,7 @@
 0.0.0.0 prod-jfcudc.chaperone.lumindigitalhosting.com
 0.0.0.0 prod-lafcuca.chaperone.lumindigitalhosting.com
 0.0.0.0 prod-lfcuva.chaperone.lumindigitalhosting.com
+0.0.0.0 prod-mhaa.mhtr.be
 0.0.0.0 prod-mscuct.chaperone.lumindigitalhosting.com
 0.0.0.0 prod-navigator.chaperone.lumindigitalhosting.com
 0.0.0.0 prod-njfcunj.chaperone.lumindigitalhosting.com
@@ -52153,6 +52155,7 @@
 0.0.0.0 r-tb.com
 0.0.0.0 r.4at1.com
 0.0.0.0 r.99waiyu.com
+0.0.0.0 r.aachener-zeitung.de
 0.0.0.0 r.ad1.ru
 0.0.0.0 r.akipam.com
 0.0.0.0 r.apkpure.net
@@ -54489,7 +54492,6 @@
 0.0.0.0 saletrack.co.uk
 0.0.0.0 salmon.literallife.church
 0.0.0.0 salmon.thespiritualpsychologist.co.uk
-0.0.0.0 salsify-ecdn.com
 0.0.0.0 salto.freeto.jp
 0.0.0.0 saltsabar.openapp.link
 0.0.0.0 salvador.trekkeeee.space
@@ -63708,6 +63710,7 @@
 0.0.0.0 target.zinia.com
 0.0.0.0 targetab.metrobyt-mobile.com
 0.0.0.0 targeted-banners.com
+0.0.0.0 targeting.api.drift.com
 0.0.0.0 targeting.influencemobile.com
 0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targeting.tbt.arcpublishing.com
@@ -66057,6 +66060,7 @@
 0.0.0.0 track.brightpromedicine.com
 0.0.0.0 track.brilliantchoicehelp.com
 0.0.0.0 track.briskfile.com
+0.0.0.0 track.btdmp.com
 0.0.0.0 track.bumper-offer.com
 0.0.0.0 track.buybox.click
 0.0.0.0 track.buybrushly.com
@@ -66067,6 +66071,7 @@
 0.0.0.0 track.calljanedoe.com
 0.0.0.0 track.canadapolicyexperts.com
 0.0.0.0 track.canalonesreparar.com
+0.0.0.0 track.canva.com
 0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.carescoverage.org
 0.0.0.0 track.caresforamericans.com
@@ -68667,7 +68672,6 @@
 0.0.0.0 trk.underarmour.com
 0.0.0.0 trk.updates.juilliard.edu
 0.0.0.0 trk.urgentcomm.com
-0.0.0.0 trk.us-learn-teacher-poetry.xyz
 0.0.0.0 trk.us.underarmour.com
 0.0.0.0 trk.us.vacasa.com
 0.0.0.0 trk.usconsumersecretsnow.com
@@ -69506,7 +69510,6 @@
 0.0.0.0 vasia.bluentated.racing
 0.0.0.0 vast.bazonserver.site
 0.0.0.0 vast.filmnet.ir
-0.0.0.0 vast.holmesmind.com
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 vast4.kinogo.by
 0.0.0.0 vast4.kinogo.la
