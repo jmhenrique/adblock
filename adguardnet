@@ -1,8 +1,10 @@
 /^.*(?!(?:127\.0\.0\.1|::1|0\.0\.0\.0))(?![0-9.]*:(?:80|143|443|587|993|1250|1251|5222|5228|8080|8443|9999|18883)\b)(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|(?:[0-9a-fA-F]{0,4}:){2,7}[0-9a-fA-F]{0,4}/$network
 @@||c.go-mpulse.net^$important
 @@||bradesco.us-4-evergage.com^$important
-@@||w8xmyn-launches.appflyersdk.com^$important
-@@||w8xmyn-inapps.appflyersdk.com^$important
+@@||17de4c1c.akstat.io^$important
+@@||c.go-mpulse.net^$important
+@@||w8xmyn-inapps.appsflyersdk.com^$important
+@@||w8xmyn-launches.appsflyersdk.com^$important
 ||123tramites.com^
 ||14-tracking.com^
 ||1minto-start.com^
