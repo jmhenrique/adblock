@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /^.*(?!(?:127\.0\.0\.1|::1|0\.0\.0\.0))(?![0-9.]*:(?:80|123|143|443|587|993|1250|1251|5222|5228|6502|6503|6610|6611|7601|7605|7999|8080|8186|8443|8765|8777|9999|10001|18883)\b)(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|(?:[0-9a-fA-F]{0,4}:){2,7}[0-9a-fA-F]{0,4}/$network
 @@||c.go-mpulse.net^$important
 @@||bradesco.us-4-evergage.com^$important
@@ -5,6 +6,15 @@
 @@||c.go-mpulse.net^$important
 @@||w8xmyn-inapps.appsflyersdk.com^$important
 @@||w8xmyn-launches.appsflyersdk.com^$important
+=======
+/^.*(?!(?:127\.0\.0\.1|::1|0\.0\.0\.0))(?![0-9.]*:(?:80|123|143|443|587|993|1250|1251|5222|5228|6502|6503|6610|6611|7601|7605|7999|8080|8186|8443|8765|8777|9999|10001|18883)\b)(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|(?:[0-9a-fA-F]{0,4}:){2,7}[0-9a-fA-F]{0,4}/
+@@||c.go-mpulse.net^
+@@||bradesco.us-4-evergage.com^
+@@||17de4c1c.akstat.io^
+@@||c.go-mpulse.net^
+@@||w8xmyn-inapps.appsflyersdk.com^
+@@||w8xmyn-launches.appsflyersdk.com^
+>>>>>>> 1e239ee (2024021021)
 ||123tramites.com^
 ||14-tracking.com^
 ||1minto-start.com^
@@ -218,7 +228,6 @@
 ||appleleaveit.co^
 ||applepps.com^
 ||applicationcreation.net^
-||app-measurement.com^
 ||appmetrica.yandex.ru^
 ||appointments-online.com^
 ||approvalrocking.org^
@@ -1422,7 +1431,6 @@
 ||glittercases.net^
 ||glitzymusty.link^
 ||gloaterchallenge.com^
-||globalapi.ad.xiaomi.com^
 ||globalcartons.com^
 ||globalcoverage.co^
 ||globalnews247.net^
@@ -2057,7 +2065,6 @@
 ||mergeandcenter.com^
 ||methodslocal.com^
 ||metrics2.data.hicloud.com^
-||metrics.apple.com^
 ||metrics.data.hicloud.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
@@ -3598,7 +3605,6 @@
 ||tremblingroundness.net^
 ||trenchcheek.com^
 ||trendsymbol.net^
-||tr.iadsdk.apple.com^
 ||trialvariable.net^
 ||trianglerank.net^
 ||tribune-mg.xyz^
