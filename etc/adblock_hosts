@@ -661,7 +661,6 @@
 0.0.0.0 3esm.consubebe.es
 0.0.0.0 3f0b044b3e.ae9e2e4778.com
 0.0.0.0 3f2c49ab2d.265641f673.com
-0.0.0.0 3f85d85a52.699bfcf9d9.com
 0.0.0.0 3fb4026cec.ffbd26c481.com
 0.0.0.0 3fcce9277a.5029bb74f2.com
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -8110,6 +8109,7 @@
 0.0.0.0 api.abcxs.org
 0.0.0.0 api.acquirewithus.com
 0.0.0.0 api.ad-locus.com
+0.0.0.0 api.ad-platform.jmty.jp
 0.0.0.0 api.addnow.com
 0.0.0.0 api.adfenix.com
 0.0.0.0 api.adnation.com
@@ -8146,7 +8146,6 @@
 0.0.0.0 api.bugsee.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.bytebrew.io
-0.0.0.0 api.cazamba.com
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.cleverpush.com
@@ -9459,7 +9458,6 @@
 0.0.0.0 as.bild.de
 0.0.0.0 as.businessinsider.de
 0.0.0.0 as.bz-berlin.de
-0.0.0.0 as.cazamba.com
 0.0.0.0 as.computerbild.de
 0.0.0.0 as.ebacdn.com
 0.0.0.0 as.ebalovo.adult
@@ -10582,7 +10580,6 @@
 0.0.0.0 baxter.olx.org
 0.0.0.0 bazlny.homepal.it
 0.0.0.0 bb.blackberry.com
-0.0.0.0 bb.churchkhela.site
 0.0.0.0 bb.lekumo.jp
 0.0.0.0 bb.onjoyri.de
 0.0.0.0 bb.whaupburgeon.com
@@ -13904,7 +13901,6 @@
 0.0.0.0 collector-prod.myboardservices.com
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
-0.0.0.0 collector-pxfqtaw5et.px-client.net
 0.0.0.0 collector-pxrf8vapwa.px-cdn.net
 0.0.0.0 collector-pxrf8vapwa.px-cloud.net
 0.0.0.0 collector-pxrf8vapwa.pxchk.net
@@ -16093,7 +16089,6 @@
 0.0.0.0 d1aa9f6zukqylf.cloudfront.net
 0.0.0.0 d1ac2du043ydir.cloudfront.net
 0.0.0.0 d1aezk8tun0dhm.cloudfront.net
-0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1af165twk0zgn.cloudfront.net
 0.0.0.0 d1aiciyg0qwvvr.cloudfront.net
 0.0.0.0 d1ap9gbbf77h85.cloudfront.net
@@ -23103,7 +23098,6 @@
 0.0.0.0 epcdko.forevernew.com.au
 0.0.0.0 epezqy.plaisio.gr
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
-0.0.0.0 ephemeralcounters.api.roblox.com
 0.0.0.0 epicgolive.rainresources.com
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epixkf.dentrodahistoria.com.br
@@ -29907,10 +29901,12 @@
 0.0.0.0 gonow.threatconnect.com
 0.0.0.0 goo-access-analytics.appspot.com
 0.0.0.0 good-games.org
+0.0.0.0 googie-anaiytics.com
 0.0.0.0 google-ads.hara.vn
 0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-js-01.xyz
+0.0.0.0 google-js-02.xyz
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
@@ -35788,7 +35784,6 @@
 0.0.0.0 lexvek.gap.ae
 0.0.0.0 leynqj.newport.se
 0.0.0.0 lezntf.heydudeshoesusa.com
-0.0.0.0 lf.taxwaxgrego.com
 0.0.0.0 lfapbe.quiksilver.co.jp
 0.0.0.0 lfbowp.talisa.com
 0.0.0.0 lfercl.tcb-beauty.net
@@ -40150,6 +40145,7 @@
 0.0.0.0 matomo.mindbite.cloud
 0.0.0.0 matomo.motorpresse.de
 0.0.0.0 matomo.nrwlokalradios.de
+0.0.0.0 matomo.promobil.de
 0.0.0.0 matomo.quan.hoabinh.vn
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io
@@ -47580,7 +47576,6 @@
 0.0.0.0 pwr-ads.com
 0.0.0.0 pwtftm.shingaku.mynavi.jp
 0.0.0.0 px.britepool.com
-0.0.0.0 px.cazamba.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
@@ -65288,6 +65283,7 @@
 0.0.0.0 ttn.totalwelltd.com
 0.0.0.0 ttnnuo.racing-planet.de
 0.0.0.0 ttplugins.ttpsdk.info
+0.0.0.0 ttse.b-cdn.net
 0.0.0.0 tttppp.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0 ttus.tructiepbongda.me
 0.0.0.0 tu.zx110.org
