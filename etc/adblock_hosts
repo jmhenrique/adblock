@@ -612,7 +612,6 @@
 0.0.0.0 45b32c7eb1.5c4eab29e3.com
 0.0.0.0 45cf2c258c.a272118d17.com
 0.0.0.0 468.vologdainfo.ru
-0.0.0.0 46d24c436e.4a9517991d.com
 0.0.0.0 4706d93949.144e93bbf0.com
 0.0.0.0 474df84441.e034108851.com
 0.0.0.0 47dff461d7.5afd9ec0ab.com
@@ -5830,6 +5829,7 @@
 0.0.0.0 aem-kakao-collector.onkakao.net
 0.0.0.0 aemk.uniadex.co.jp
 0.0.0.0 aeon-vn-staging.e.spresso.com
+0.0.0.0 aeonmedia.matomo.cloud
 0.0.0.0 aeotgu.asi-reisen.de
 0.0.0.0 aep-target.credit-suisse.com
 0.0.0.0 aep.kewpie.co.jp
@@ -7498,6 +7498,7 @@
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
 0.0.0.0 analytics.qoqa.ninja
+0.0.0.0 analytics.qs-apps.com
 0.0.0.0 analytics.qualcomm.com
 0.0.0.0 analytics.qualityquestions.co
 0.0.0.0 analytics.qualityunit.com
@@ -9831,6 +9832,7 @@
 0.0.0.0 aus.intersystems.com
 0.0.0.0 aus.schroders.com
 0.0.0.0 ausclh.castlery.com
+0.0.0.0 austere-familiar.com
 0.0.0.0 austinwww1-backup.host.b2bmktg.com
 0.0.0.0 auth-ar.b2bmktg.com
 0.0.0.0 auth-ns.b2bmktg.com
@@ -10722,6 +10724,7 @@
 0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
+0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.9165619.com
 0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.affil.walmart.com
@@ -12619,7 +12622,6 @@
 0.0.0.0 cdn.matomo.cloud
 0.0.0.0 cdn.mcnn.pl
 0.0.0.0 cdn.mdigital.co.il
-0.0.0.0 cdn.mediatradecraft.com
 0.0.0.0 cdn.medicaidannuity.com
 0.0.0.0 cdn.memo.co
 0.0.0.0 cdn.mequoda.com
@@ -12814,6 +12816,7 @@
 0.0.0.0 cdntm.rodanandfields.com
 0.0.0.0 cdntm.us.hsbc.com
 0.0.0.0 cdnweb3.pages.dev
+0.0.0.0 cdp-eu.customer.io
 0.0.0.0 cdp.cifinancial.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdp.mrmcommerce.com
@@ -13859,6 +13862,7 @@
 0.0.0.0 cnt.sup.com
 0.0.0.0 cnt.trvdp.com
 0.0.0.0 cnt.vivatube.com
+0.0.0.0 cnt.web-apps-prod.wo-cloud.com
 0.0.0.0 cnt.xhamster.com
 0.0.0.0 cnt2.bank.za.group
 0.0.0.0 cntccc.publicrec.com
@@ -16220,6 +16224,7 @@
 0.0.0.0 d15kuuu3jqrln7.cloudfront.net
 0.0.0.0 d15mt77nzagpnx.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
+0.0.0.0 d162h6x3rxav67.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
@@ -16981,6 +16986,7 @@
 0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
 0.0.0.0 d3gi6isrskhoq.cloudfront.net
+0.0.0.0 d3hb14vkzrxvla.cloudfront.net
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d3hfiiy55cbi5t.cloudfront.net
 0.0.0.0 d3hib26r77jdus.cloudfront.net
@@ -25443,7 +25449,6 @@
 0.0.0.0 gdyn.cnn.com
 0.0.0.0 gdyn.nba.com
 0.0.0.0 gdyn.veryfunnyads.com
-0.0.0.0 ge.chassnincom.com
 0.0.0.0 ge6.getfto.com
 0.0.0.0 ge8.getfto.com
 0.0.0.0 gea-exchange-03.net.jumia.ug
@@ -31684,6 +31689,7 @@
 0.0.0.0 hvac.goodcoinc.com
 0.0.0.0 hvac.solutions.jci.com
 0.0.0.0 hvctfv.bibloo.si
+0.0.0.0 hvdt8.chimeratool.com
 0.0.0.0 hvesuc.fitwinkel.nl
 0.0.0.0 hvpeme.petedge.com
 0.0.0.0 hvrhgt.the-sun.com
@@ -52790,6 +52796,7 @@
 0.0.0.0 sec.plala.or.jp
 0.0.0.0 sec.umeng.com
 0.0.0.0 sec.vmware.com
+0.0.0.0 sec.webeyez.com
 0.0.0.0 sec.wolterskluwerfs.com
 0.0.0.0 secmetrics.friendscout24.it
 0.0.0.0 secmetrics.friendscout24.nl
@@ -59643,6 +59650,7 @@
 0.0.0.0 stats.guidingwallet.app
 0.0.0.0 stats.guycarp.com
 0.0.0.0 stats.gynsprechstunde.de
+0.0.0.0 stats.habr.com
 0.0.0.0 stats.hackershare.dev
 0.0.0.0 stats.hager.com
 0.0.0.0 stats.halcyon.hr
@@ -61334,6 +61342,7 @@
 0.0.0.0 t.missioncap.com
 0.0.0.0 t.mjec.ca
 0.0.0.0 t.mktg.genesys.com
+0.0.0.0 t.mm-uxrv.com
 0.0.0.0 t.mma-adl.com
 0.0.0.0 t.mmaeast.com
 0.0.0.0 t.mmtrkr.com
@@ -67508,6 +67517,7 @@
 0.0.0.0 udc.msn.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udcm.yahoo.com
+0.0.0.0 udd1i5.zhihu.com
 0.0.0.0 udgrbq.malwarebytes.com
 0.0.0.0 udiab1.jianshu.com
 0.0.0.0 udicje.perrys.co.uk
@@ -68327,6 +68337,7 @@
 0.0.0.0 vietinbank-online.com
 0.0.0.0 vietjetair.net.vn
 0.0.0.0 vietnam-airline.org
+0.0.0.0 vietnamdaily-log.trithuccuocsong.vn
 0.0.0.0 viettel-store.com
 0.0.0.0 view-apple.com
 0.0.0.0 view-flix.com
@@ -68891,6 +68902,7 @@
 0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wbcygu.wardow.com
 0.0.0.0 wbiphu.johnbeerens.com
+0.0.0.0 wbk9sohp.jdpz.link
 0.0.0.0 wbkval.ecco.com
 0.0.0.0 wboeot.shop2gether.com.br
 0.0.0.0 wbswtr.decathlon.com.tr
