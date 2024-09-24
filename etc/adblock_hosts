@@ -451,7 +451,6 @@
 0.0.0.0 2b.persol-diverse.co.jp
 0.0.0.0 2b2a5aa2e8.580a3132d3.com
 0.0.0.0 2b6b88fc7b.a1bbcd100e.com
-0.0.0.0 2bd8de8e62.4164d5b6eb.com
 0.0.0.0 2bdfa5663a.14cf88c422.com
 0.0.0.0 2beon.co.kr
 0.0.0.0 2bvdb8pqst7sxin-p.leadkom.fr
@@ -966,7 +965,6 @@
 0.0.0.0 8863ee5a75.fe70a4ad4b.com
 0.0.0.0 8869bc0716.e9522e84dc.com
 0.0.0.0 88a4ea2203.2080db6d61.com
-0.0.0.0 88ae72dc45.5ed55e7208.com
 0.0.0.0 89532bb63a.5075971fc6.com
 0.0.0.0 8961.jianbihua.com
 0.0.0.0 89d9c155c8.a8bd627b41.com
@@ -6589,7 +6587,6 @@
 0.0.0.0 alitui.weibo.com
 0.0.0.0 alkemi.com.se
 0.0.0.0 alkutbay.starbolt.io
-0.0.0.0 all-about-tech.com
 0.0.0.0 all-audio.pro
 0.0.0.0 all-cod.com
 0.0.0.0 all-reform.polus.co.jp
@@ -7555,6 +7552,7 @@
 0.0.0.0 analytics.southwestvacations.com
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.spark.co.nz
+0.0.0.0 analytics.spearly.com
 0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.springboardvideo.com
 0.0.0.0 analytics.spun.com.br
@@ -13629,6 +13627,7 @@
 0.0.0.0 client-analytics.mts.ru
 0.0.0.0 client-comms.nedbank.co.za
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-log.karte.io
 0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-metrics.chess.com
@@ -38334,6 +38333,7 @@
 0.0.0.0 lgvgtl.terrashop.de
 0.0.0.0 lgylib.dg-home.ru
 0.0.0.0 lgzkzp.bauhaus.at
+0.0.0.0 lh.bigcrunch.com
 0.0.0.0 lhbzzibfixj7mwg-p.clead.xyz
 0.0.0.0 lhcivu.dekbed-discounter.nl
 0.0.0.0 lhdidz.successories.com
@@ -44534,6 +44534,7 @@
 0.0.0.0 msimkpups.michaels.com
 0.0.0.0 msioay.backcountry.com
 0.0.0.0 msioi.steeelm.xyz
+0.0.0.0 msite.baidu.com
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msnads-wm9.fplive.net
 0.0.0.0 msr.p-antiaging.com
@@ -46712,7 +46713,6 @@
 0.0.0.0 p.gerdasetmay.site
 0.0.0.0 p.gm99.com
 0.0.0.0 p.groceryoutlet.com
-0.0.0.0 p.haltowe.info
 0.0.0.0 p.hhmop.cloud
 0.0.0.0 p.htdjylhttfm0424.space
 0.0.0.0 p.ianmjones.com
@@ -46981,7 +46981,6 @@
 0.0.0.0 pageviews.tray.com.br
 0.0.0.0 paginaseloqua-unisabana-edu-co-1207474081.p04.elqsandbox.com
 0.0.0.0 paginaseloqua.unisabana.edu.co
-0.0.0.0 paid-to-promote.net
 0.0.0.0 paiement.cb4x.fr
 0.0.0.0 paiement.securise.matiprice.com
 0.0.0.0 painting-walls.com
@@ -52729,6 +52728,7 @@
 0.0.0.0 sdkapicdn.applanga.com
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkconf.msstatic.com
+0.0.0.0 sdkconfig.pulse.m10s.io
 0.0.0.0 sdkconfig.pulse.schibsted.io
 0.0.0.0 sdkconfig.vrvm.com
 0.0.0.0 sdkgw.us1.twilio.com
@@ -69421,6 +69421,7 @@
 0.0.0.0 xn--telegrm-qbd.com
 0.0.0.0 xn--w9q675dm1p7em.net
 0.0.0.0 xn--wgvp78a61swpe6zdozj.cn
+0.0.0.0 xn--xhq326aj6yqpw.com
 0.0.0.0 xn--xhq326apqhcx0d.cn
 0.0.0.0 xne1ocient87zxz.360doc.cn
 0.0.0.0 xnkcgu.bussgeldkatalog.de
