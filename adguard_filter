@@ -4,8 +4,8 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 188 
-! Updated On: 08 Apr 2025 10:54 UTC
+! Entries : 194 
+! Updated On: 08 Apr 2025 11:26 UTC
 ! Created by: JM
 ||adc3-launch.adcolony.com^$important
 ||ad.doubleclick.net^$important
@@ -36,7 +36,10 @@
 ||adtago.s3.amazonaws.com^$important
 ||adtech.yahooinc.com^$important
 ||advertising-api-eu.amazon.com^$important
+||advertising.apple.com^$important
 ||advertising.twitter.com^$important
+||advertising.yahoo.com^$important
+||advertising.yandex.ru^$important
 ||advice-ads.s3.amazonaws.com^$important
 ||adx.ads.oppomobile.com^$important
 ||affiliationjs.s3.amazonaws.com^$important
@@ -98,6 +101,7 @@
 ||data.mistat.rus.xiaomi.com^$important
 ||data.mistat.xiaomi.com^$important
 ||doubleclick.net^$important
+||Doubleclick.net^$important
 ||d.reddit.com^$important
 ||events3alt.adcolony.com^$important
 ||events.hotjar.io^$important
@@ -133,6 +137,7 @@
 ||m.doubleclick.net^$important
 ||media.fastclick.net^$important
 ||media.net^$important
+||Media.net^$important
 ||mediavisor.doubleclick.net^$important
 ||metrics1.data.hicloud.com^$important
 ||metrics2.data.hicloud.com^$important
@@ -150,6 +155,7 @@
 ||notes-analytics-events.apple.com^$important
 ||notify.bugsnag.com^$important
 ||o2.mouseflow.com^$important
+||o7.net^$important
 ||offerwall.yandex.net^$important
 ||open.oneplus.net^$important
 ||pagead2.googleadservices.com^$important
