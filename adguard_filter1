@@ -4,8 +4,8 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 194 
-! Updated On: 07 Jun 2025 13:16 UTC
+! Entries : 195 
+! Updated On: 07 Jun 2025 13:53 UTC
 ! Created by: JM
 ||adc3-launch.adcolony.com^$important
 ||ad.doubleclick.net^$important
@@ -199,5 +199,6 @@
 ||webview.unityads.unity3d.com^$important
 ||widgets.pinterest.com^$important
 ||www.cdn.ad.xiaomi.com^$important
+||xandr-g-geo.trafficmanager.net^$important
 ||yandexadexchange.net^$important
 ||youtube.cleverads.vn^$important
