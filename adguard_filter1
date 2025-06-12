@@ -5,7 +5,7 @@
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
 ! Entries : 195 
-! Updated On: 11 Jun 2025 22:31 UTC
+! Updated On: 12 Jun 2025 11:04 UTC
 ! Created by: JM
 ||adc3-launch.adcolony.com^$important
 ||ad.doubleclick.net^$important
