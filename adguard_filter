@@ -4,8 +4,8 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 453 
-! Updated On: 18 Sep 2025 20:46 UTC
+! Entries : 452 
+! Updated On: 19 Sep 2025 11:30 UTC
 ! Created by: JM
 ||aan.amazon.com^$important
 ||abtest.mistat.xiaomi.com^$important
@@ -90,7 +90,6 @@
 ||analytics.s3.amazonaws.com^$important
 ||analytics.samsungknox.com^$important
 ||analytics-sg.tiktok.com^$important
-||analytics-stg.samsungknox.com^$important
 ||analytics.tiktok.com^$important
 ||analytics.us.tiktok.com^$important
 ||analytics.yahoo.com^$important
