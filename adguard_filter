@@ -4,14 +4,13 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 452 
-! Updated On: 26 out 2025 16:48 UTC
+! Entries : 409 
+! Updated On: 27 out 2025 11:55 UTC
 ! Created by: JM
 ||aan.amazon.com^$important
 ||abtest.mistat.xiaomi.com^$important
 ||abt.s3.yandex.net^$important
 ||activity.browser.intl.miui.com^$important
-||adc3-launch.adcolony.com^$important
 ||adcolony.com^$important
 ||ad.doubleclick.net^$important
 ||ade.googlesyndication.com^$important
@@ -20,17 +19,13 @@
 ||ad.intl.xiaomi.com^$important
 ||admarketing.yahoo.net^$important
 ||admarvel.s3.amazonaws.com^$important
-||adm.hotjar.com^$important
 ||adpublisher.s3.amazonaws.com^$important
-||ads30.adcolony.com^$important
 ||ad.samsungadhub.com^$important
-||ads-api.tiktok.com^$important
 ||ads-api.twitter.com^$important
 ||ads-bidder-api.twitter.com^$important
 ||ads-dev.pinterest.com^$important
 ||adsdk.yandex.ru^$important
 ||adserver-2084671375.us-east-1.elb.amazonaws.com^$important
-||adserver.unityads.unity3d.com^$important
 ||adserver.yahoo.com^$important
 ||adservetx.media.net^$important
 ||adservice.google.com^$important
@@ -53,18 +48,15 @@
 ||ads.youtube.com^$important
 ||adtago.s3.amazonaws.com^$important
 ||adtechvideo.s3.amazonaws.com^$important
-||adtech.yahooinc.com^$important
 ||advertising-api-eu.amazon.com^$important
 ||advertising.twitter.com^$important
 ||advice-ads.s3.amazonaws.com^$important
 ||adv.sec.intl.miui.com^$important
 ||adv.sec.miui.com^$important
 ||adx1js.s3.amazonaws.com^$important
-||adx.ads.oppomobile.com^$important
 ||adx-dre.op.hicloud.com^$important
 ||ad.xiaomi.com^$important
 ||affiliationjs.s3.amazonaws.com^$important
-||afs.googlesyndication.com^$important
 ||alb.reddit.com^$important
 ||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^$important
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^$important
@@ -80,7 +72,6 @@
 ||analytics.cloud.unity3d.com^$important
 ||analyticsengine.s3.amazonaws.com^$important
 ||analytics.facebook.com^$important
-||analytics.google.com^$important
 ||analytics.mobile.yandex.net^$important
 ||analytics.oneplus.cn^$important
 ||analytics.pinterest.com^$important
@@ -101,9 +92,7 @@
 ||api.brs.intl.miui.com^$important
 ||api.bugsnag.com^$important
 ||api-hotjar.com^$important
-||api.luckyorange.com^$important
 ||api.miui.security.xiaomi.com^$important
-||api.mouseflow.com^$important
 ||api.newsfeed.intl.miui.com^$important
 ||api.sec.miui.com^$important
 ||api.setting.intl.miui.com^$important
@@ -114,10 +103,8 @@
 ||app.getsentry.com^$important
 ||appmetrica.yandex.com^$important
 ||appmetrica.yandex.net^$important
-||appmetrica.yandex.ru^$important
 ||app.ssp.yahoo.com^$important
 ||assoc-amazon.com^$important
-||auction.unityads.unity3d.com^$important
 ||authbe.sec.intl.miui.com^$important
 ||auth.be.sec.miui.com^$important
 ||awaps.yandex.net^$important
@@ -145,22 +132,15 @@
 ||browser.sentry-cdn.com^$important
 ||browser-updater.yandex.net^$important
 ||bs.yandex.ru^$important
-||business-api.tiktok.com^$important
 ||business.samsungusa.com^$important
 ||c2shb.pubgw.yahoo.com^$important
-||careers.hotjar.com^$important
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^$important
 ||cdn.fastclick.net^$important
 ||cdn.luckyorange.com^$important
-||cdn.mouseflow.com^$important
-||cdn-test.mouseflow.com^$important
 ||cdp.cloud.unity3d.com^$important
 ||channelusa.samsung.com^$important
-||ck.ads.oppomobile.com^$important
-||claritybt.freshmarketer.com^$important
 ||clb.yahoo.co.jp^$important
 ||clck.yandex.com^$important
-||click.googleanalytics.com^$important
 ||click.oneplus.cn^$important
 ||click.oneplus.com^$important
 ||cloudfront-labs.amazonaws.com^$important
@@ -169,7 +149,6 @@
 ||conff.dc.oppomobile.com^$important
 ||config.samsungads.com^$important
 ||config.uca.cloud.unity3d.com^$important
-||config.unityads.unity3d.com^$important
 ||connectio.s3.amazonaws.com^$important
 ||contextual.media.net^$important
 ||cookiex.ngd.yahoo.com^$important
@@ -177,7 +156,6 @@
 ||csp.yandex.net^$important
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^$important
 ||dackpartner-web.s3.amazonaws.com^$important
-||data.ads.oppomobile.com^$important
 ||datacollector-dra.dt.hicloud.com^$important
 ||data.hicloud.com^$important
 ||data.mistat.india.xiaomi.com^$important
@@ -206,8 +184,6 @@
 ||entrecard.s3.amazonaws.com^$important
 ||error-tracking.reddit.com^$important
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^$important
-||events3alt.adcolony.com^$important
-||events.hotjar.io^$important
 ||events.iap.unity3d.com^$important
 ||events.mz.unity3d.com^$important
 ||events.plus.yandex.net^$important
@@ -222,9 +198,7 @@
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^$important
 ||flash.sec.intl.miui.com^$important
 ||freshmarketer.com^$important
-||fwtracks.freshmarketer.com^$important
 ||ganon.yahoo.com^$important
-||gemini.yahoo.com^$important
 ||geo.yahoo.com^$important
 ||global.adserver.yahoo.com^$important
 ||globalapi.ad.xiaomi.com^$important
@@ -234,7 +208,6 @@
 ||gpm-mon-sg.byteoversea.com^$important
 ||gpm-mon-va.byteoversea.com^$important
 ||grs.hicloud.com^$important
-||gtm.mouseflow.com^$important
 ||gtrk.s3.amazonaws.com^$important
 ||hb.yahoo.net^$important
 ||hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com^$important
@@ -245,7 +218,6 @@
 ||hwstats.unity3d.com^$important
 ||iadsdk.apple.com^$important
 ||iads.unity3d.com^$important
-||identify.hotjar.com^$important
 ||images.b2bindia.samsung.com^$important
 ||images.b2bmkt.samsung.com^$important
 ||images.chbusiness.samsung.com^$important
@@ -255,7 +227,6 @@
 ||images.ssbusiness.samsung.com^$important
 ||inf.miui.com^$important
 ||informer.yandex.ru^$important
-||insights.hotjar.com^$important
 ||iot-eu-logser.realme.com^$important
 ||iot-in-logser.realme.com^$important
 ||iot-logser.realme.com^$important
@@ -264,8 +235,6 @@
 ||lg3.media.net^$important
 ||log.avlyun.sec.intl.miui.com^$important
 ||logbak.hicloud.com^$important
-||log.byteoversea.com^$important
-||log.fc.yahoo.com^$important
 ||log.pinterest.com^$important
 ||logql.yahoo.co.jp^$important
 ||logservice1.hicloud.com^$important
@@ -309,7 +278,6 @@
 ||metrics.icloud.com^$important
 ||metrics.mzstatic.com^$important
 ||metrics.samsunglife.com^$important
-||metrika.yandex.ru^$important
 ||mj-snowplow-static-js.s3.amazonaws.com^$important
 ||mon.byteoversea.com^$important
 ||mon.tiktokv.com^$important
@@ -328,7 +296,6 @@
 ||nol.yahoo.com^$important
 ||notes-analytics-events.apple.com^$important
 ||notify.bugsnag.com^$important
-||o2.mouseflow.com^$important
 ||o2o.api.xiaomi.com^$important
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^$important
 ||offerwall.yandex.net^$important
@@ -338,7 +305,6 @@
 ||pacontainer.s3.amazonaws.com^$important
 ||pagead2.googleadservices.com^$important
 ||pagead2.googlesyndication.com^$important
-||partnerads.ysm.yahoo.com^$important
 ||perf-events.cloud.unity3d.com^$important
 ||p-geo.yahoo.com^$important
 ||pixel-config.reddit.com^$important
@@ -353,7 +319,6 @@
 ||publisher-event.ads.prd.ie.internal.unity3d.com^$important
 ||p-udc.yahoo.com^$important
 ||r.browser.miui.com^$important
-||realtime.luckyorange.com^$important
 ||regi.di.atlas.samsung.com^$important
 ||rereddit.com^$important
 ||rtc-logger-va.tiktokv.com^$important
@@ -365,7 +330,6 @@
 ||samsungadhub.com^$important
 ||samsungads.com^$important
 ||samsung-com.112.2o7.net^$important
-||script.hotjar.com^$important
 ||sdkconfig.ad.intl.xiaomi.com^$important
 ||sdkconfig.ad.xiaomi.com^$important
 ||seao.business.samsung.com^$important
@@ -391,7 +355,6 @@
 ||static.hotjar.com^$important
 ||static.media.net^$important
 ||stat-in.dc.oppomobile.com^$important
-||stats.g.doubleclick.net^$important
 ||stats.redditmedia.com^$important
 ||stats.video.search.yahoo.com^$important
 ||stats.wp.com^$important
@@ -399,12 +362,10 @@
 ||stocks-analytics-events.apple.com^$important
 ||storeconfig.mistat.intl.xiaomi.com^$important
 ||supportmetrics.apple.com^$important
-||surveys.hotjar.com^$important
 ||target-us.samsung.com^$important
 ||tempo-client-metric-prod.s3.amazonaws.com^$important
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^$important
 ||thind-gke-euw.prd.data.corp.unity3d.com^$important
-||tools.mouseflow.com^$important
 ||tpc.googlesyndication.com^$important
 ||tracker.ai.xiaomi.com^$important
 ||tracker.redditmedia.com^$important
@@ -421,8 +382,6 @@
 ||trk2.pinterest.com^$important
 ||trk.pinterest.com^$important
 ||uaas.yandex.ru^$important
-||udcm.yahoo.com^$important
-||udc.yahoo.com^$important
 ||ug-sg.byteoversea.com^$important
 ||um-public-panel-prod.s3.amazonaws.com^$important
 ||unityads.unity3d.com^$important
@@ -437,11 +396,9 @@
 ||w3-reporting-nel.reddit.com^$important
 ||w3-reporting.reddit.com^$important
 ||warp.media.net^$important
-||wd.adcolony.com^$important
 ||weather-analytics-events.apple.com^$important
 ||webc2s.pubgw.yahoo.com^$important
 ||web-ivcbrasil-tag.s3.us-west-2.amazonaws.com^$important
-||webview.unityads.unity3d.com^$important
 ||widgets.pinterest.com^$important
 ||wphlvzycf5.execute-api.eu-west-2.amazonaws.com^$important
 ||www.cdn.ad.xiaomi.com^$important
