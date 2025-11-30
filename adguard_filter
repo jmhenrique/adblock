@@ -4,9 +4,10 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 722 
-! Updated On: 30 Nov 2025 00:40 UTC
+! Entries : 721 
+! Updated On: 30 Nov 2025 00:44 UTC
 ! Created by: JM
+||2giga.link^$important
 ||Doubleclick.net^$important
 ||Media.net^$important
 ||a.lenovo.com^$important
@@ -301,6 +302,7 @@
 ||dragate.dc.oppomobile.com^$important
 ||drupalmetrics.ppg.apple.com^$important
 ||dsb.yahoo.co.jp^$important
+||eb2.3lift.com^$important
 ||ec2-44-233-143-239.us-west-2.compute.amazonaws.com^$important
 ||ecommstats.s3.amazonaws.com^$important
 ||eloqua-tracking.unity3d.com^$important
@@ -336,7 +338,6 @@
 ||gemini.yahoo.com^$important
 ||geo.yahoo.com^$important
 ||geolocation.onetrust.com^$important
-||giga.link^$important
 ||global.adserver.yahoo.com^$important
 ||globalapi.ad.xiaomi.com^$important
 ||go.skimresources.com^$important
@@ -402,7 +403,6 @@
 ||juicyads.com^$important
 ||kochava.com^$important
 ||lg3.media.net^$important
-||lift.com^$important
 ||liftoff.io^$important
 ||list-manage.com^$important
 ||live.chartboost.com^$important
@@ -487,7 +487,6 @@
 ||nr.taboola.com^$important
 ||o2.mouseflow.com^$important
 ||o2o.api.xiaomi.com^$important
-||o7.net^$important
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^$important
 ||odb.outbrain.com^$important
 ||offerwall.yandex.net^$important
@@ -636,6 +635,7 @@
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^$important
 ||thetradedesk.com^$important
 ||thind-gke-euw.prd.data.corp.unity3d.com^$important
+||tlx.3lift.com^$important
 ||tools.mouseflow.com^$important
 ||top-fwz1.mail.ru^$important
 ||tpc.googlesyndication.com^$important
@@ -681,7 +681,6 @@
 ||vid.connatix.com^$important
 ||video-ad-stats.googlesyndication.com^$important
 ||visit.webhosting.yahoo.com^$important
-||vk.com^$important
 ||vortex-win.data.microsoft.com^$important
 ||vortex.data.microsoft.com^$important
 ||vungle.com^$important
