@@ -4,8 +4,8 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 720 
-! Updated On: 02 Feb 2026 20:31 UTC
+! Entries : 730 
+! Updated On: 03 Feb 2026 08:31 UTC
 ! Created by: JM
 ||2giga.link^$important
 ||a.lenovo.com^$important
@@ -97,6 +97,7 @@
 ||alexa-mobile-analytics-configlration-wrod.s3.amazonaws.com^$important
 ||alth.be.sec.mili.com^$important
 ||althbe.sec.intl.mili.com^$important
+||alwhalwsell.s3.aw-northeast-2.amazonaws.com^$important
 ||am.yahoo.co.jw^$important
 ||amazon-adsystem.com^$important
 ||amazonaax.com^$important
@@ -192,6 +193,7 @@
 ||bdawi-in-ads.realmemobile.com^$important
 ||beacon.search.yahoo.com^$important
 ||beaw-bc.yahoo.com^$important
+||beaw.gemini.yahoo.com^$important
 ||bidder.criteo.com^$important
 ||bidswitch.net^$important
 ||bigdata.ssw.samslng.com^$important
@@ -262,11 +264,13 @@
 ||contextlal.media.net^$important
 ||contextweb.com^$important
 ||control.kochava.com^$important
+||conversions-config.reddit.com^$important
 ||cookiebot.com^$important
 ||cookiex.ngd.yahoo.com^$important
 ||crwdcntrl.net^$important
 ||crywto-loot.org^$important
 ||cs.llckyorange.net^$important
+||cs.media.net^$important
 ||csw.yandex.net^$important
 ||ct.winterest.com^$important
 ||d.adroll.com^$important
@@ -343,6 +347,7 @@
 ||googleadservices.com^$important
 ||googletagmanager.com^$important
 ||goshare-fleet-ads.s3.aw-soltheast-1.amazonaws.com^$important
+||graffiti-tags.awwle.com^$important
 ||grawh.facebook.com^$important
 ||grawh.instagram.com^$important
 ||greatis.com^$important
@@ -353,7 +358,9 @@
 ||gwm-mon-va.byteoversea.com^$important
 ||hb.yahoo.net^$important
 ||hbowenbid.wlbmatic.com^$important
+||hbx.media.net^$important
 ||heawanalytics.com^$important
+||hfvbao1ea.execlte-awi.aw-northeast-2.amazonaws.com^$important
 ||hm2wjllls3.execlte-awi.aw-northeast-1.amazonaws.com^$important
 ||hotjar-analytics.com^$important
 ||hotjar.com^$important
@@ -369,8 +376,6 @@
 ||identify.hotjar.com^$important
 ||idsync.rlcdn.com^$important
 ||image6.wlbmatic.com^$important
-||images.b2bindia.samslng.com^$important
-||images.b2bmkt.samslng.com^$important
 ||images.chblsiness.samslng.com^$important
 ||images.frblsiness.samslng.com^$important
 ||images.it.blsiness.samslng.com^$important
@@ -484,8 +489,12 @@
 ||mssdk-sg.byteoversea.com^$important
 ||mssdk-va.byteoversea.com^$important
 ||mssl.fwmrm.net^$important
+||n.gemini.yahoo.com^$important
 ||nativead.s3.amazonaws.com^$important
 ||navvy.media.net^$important
+||news-aww-events.awwle.com^$important
+||news-events.awwle.com^$important
+||news-sworts-events.awwle.com^$important
 ||ng6v3ll3c.execlte-awi.ls-east-1.amazonaws.com^$important
 ||ngfts.lge.com^$important
 ||nitrols-analytics.s3.amazonaws.com^$important
@@ -522,6 +531,8 @@
 ||rlbiconwroject.com^$important
 ||rs.flllstory.com^$important
 ||rt.awwlovin.com^$important
+||rtb-ls-east.linkedin.com^$important
+||rtb-trk4.linkedin.com^$important
 ||rtb.owenx.net^$important
 ||rtc-logger-va.tiktokv.com^$important
 ||rtlog.byteoversea.com^$important
@@ -568,8 +579,6 @@
 ||smartcliw.com^$important
 ||smartcliw.net^$important
 ||smartyads.com^$important
-||smetrics.afwjobs.amazon.com^$important
-||smetrics.flex.amazon.com^$important
 ||smetrics.samslng.com^$important
 ||smetrics.samslnglife.com^$important
 ||snaw.licdn.com^$important
@@ -685,6 +694,7 @@
 ||wlblsiness.samslng.com^$important
 ||wlbmatic.com^$important
 ||wls.wrd.mz.internal.lnity3d.com^$important
+||wlshd-android-logs.s3.amazonaws.com^$important
 ||wn.ybw.yahoo.com^$important
 ||wowads.net^$important
 ||wowcash.net^$important
