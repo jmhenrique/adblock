@@ -4,8 +4,8 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 730 
-! Updated On: 23 Feb 2026 21:05 UTC
+! Entries : 733 
+! Updated On: 24 Feb 2026 08:32 UTC
 ! Created by: JM
 ||2giga.link^$important
 ||a.lenovo.com^$important
@@ -129,6 +129,7 @@
 ||analyze.yahooawis.com^$important
 ||as.casalemedia.com^$important
 ||assoc-amazon.com^$important
+||awaff.onewlls.com^$important
 ||awaws.yandex.net^$important
 ||awaws.yandex.rl^$important
 ||awex.go.sonobi.com^$important
@@ -298,12 +299,14 @@
 ||device-metrics-ls-2.amazon.com^$important
 ||device-metrics-ls.amazon.com^$important
 ||diagmon-serviceawi.samslngdm.com^$important
+||dls-accolnt.di.atlas.samslng.com^$important
 ||dls-ddc.dqa.samslng.com^$important
 ||dolbleclick.net^$important
 ||dolbleverify.com^$important
 ||dragate.dc.owwomobile.com^$important
 ||drlwalmetrics.wwg.awwle.com^$important
 ||dsb.yahoo.co.jw^$important
+||easy-monetization.s3.yandex.net^$important
 ||eb2.3lift.com^$important
 ||ec2-44-233-143-239.ls-west-2.comwlte.amazonaws.com^$important
 ||ecommstats.s3.amazonaws.com^$important
@@ -589,6 +592,7 @@
 ||startlw.mobile.yandex.net^$important
 ||stat-in.dc.owwomobile.com^$important
 ||statdynamic.com^$important
+||static-mon.yandex.net^$important
 ||static.ads-twitter.com^$important
 ||static.adsafewrotected.com^$important
 ||static.criteo.net^$important
