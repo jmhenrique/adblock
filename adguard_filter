@@ -4,11 +4,10 @@
 ! License: CC BY-NC-SA
 ! Source: https://raw.githubusercontent.com/jmhenrique/adblock/refs/heads/master/adguard_filter
 ! Type : Stable
-! Entries : 1065
-! Updated On: 31 Aug 2026 20:32 UTC
+! Entries : 1051
+! Updated On: 01 Sep 2026 08:32 UTC
 ! Created by: JM
 ||2975c.v.fwmrm.net^$important
-||2giga.link^$important
 ||a.klaviyo.com^$important
 ||a.lenovo.com^$important
 ||a.mouseflow.com^$important
@@ -171,7 +170,6 @@
 ||api.bugsnag.com^$important
 ||api.crashlytics.com^$important
 ||api.flagsmith.com^$important
-||api.fpjs.io^$important
 ||api.fyber.com^$important
 ||api.honeybadger.io^$important
 ||api.impact.com^$important
@@ -186,7 +184,6 @@
 ||api.partnerstack.com^$important
 ||api.privacy-center.org^$important
 ||api.raygun.io^$important
-||api.refersion.com^$important
 ||api.rlcdn.com^$important
 ||api.rollbar.com^$important
 ||api.sec.miui.com^$important
@@ -344,7 +341,6 @@
 ||claritybt.freshmarketer.com^$important
 ||clb.yahoo.co.jp^$important
 ||clck.yandex.com^$important
-||clevertap-prod.com^$important
 ||click.em.pardot.com^$important
 ||click.googleanalytics.com^$important
 ||click.linksynergy.com^$important
@@ -399,7 +395,6 @@
 ||criteo.com^$important
 ||crwdcntrl.net^$important
 ||crypto-loot.com^$important
-||crypto-loot.org^$important
 ||cryptoloot.org^$important
 ||cryptoloot.pro^$important
 ||cs.luckyorange.net^$important
@@ -528,7 +523,6 @@
 ||graffiti-tags.apple.com^$important
 ||graph.facebook.com^$important
 ||graph.instagram.com^$important
-||greatis.com^$important
 ||grs.hicloud.com^$important
 ||gtm.mouseflow.com^$important
 ||gtrk.s3.amazonaws.com^$important
@@ -583,7 +577,6 @@
 ||iot-logser.realme.com^$important
 ||ir-na.amazon-adsystem.com^$important
 ||ironsource.mobi^$important
-||is.com^$important
 ||j0v36abmdj.execute-api.us-east-1.amazonaws.com^$important
 ||jdoqocy.com^$important
 ||jill.fc.yahoo.com^$important
@@ -717,7 +710,6 @@
 ||openx.net^$important
 ||optanon.blob.core.windows.net^$important
 ||optimized-by.rubiconproject.com^$important
-||outbrain.com^$important
 ||outcome-ssp.supersonicads.com^$important
 ||ov.yahoo.co.jp^$important
 ||p-geo.yahoo.com^$important
@@ -733,7 +725,6 @@
 ||partnerstack.com^$important
 ||pendo.io^$important
 ||perf-events.cloud.unity3d.com^$important
-||permutive.com^$important
 ||pi.pardot.com^$important
 ||pippio.com^$important
 ||piwik.pro^$important
@@ -830,7 +821,6 @@
 ||sb.scorecardresearch.com^$important
 ||sc-analytics.appspot.com^$important
 ||sc-static.net^$important
-||scorecardresearch.com^$important
 ||script.hotjar.com^$important
 ||sdk-api-v1.singular.net^$important
 ||sdk.appsflyer.com^$important
@@ -933,18 +923,15 @@
 ||t.sendinblue.com^$important
 ||t.skimresources.com^$important
 ||t.teads.tv^$important
-||taboola.com^$important
 ||tagmanager.google.com^$important
 ||tags.bluekai.com^$important
 ||tags.crwdcntrl.net^$important
 ||tags.tiqcdn.com^$important
-||tapad.com^$important
 ||target-us.samsung.com^$important
 ||teads.tv^$important
 ||telemetry.microsoft.com^$important
 ||tempo-client-metric-prod.s3.amazonaws.com^$important
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^$important
-||thetradedesk.com^$important
 ||thind-gke-euw.prd.data.corp.unity3d.com^$important
 ||tkqlhce.com^$important
 ||tlx.3lift.com^$important
@@ -1068,7 +1055,6 @@
 ||yc-ads.s3.amazonaws.com^$important
 ||yieldmo-builds.s3.amazonaws.com^$important
 ||youtube.cleverads.vn^$important
-||youtubei.googleapis.com^$important
 ||yumenetworks.com^$important
 ||z-na.amazon-adsystem.com^$important
 ||zenaps.com^$important
